@@ -928,6 +928,9 @@ return [
 	'huseyinfiliz-guest' => [
 		'tag' => 'https://raw.githubusercontent.com/huseyinfiliz/guest/v2.1/locale/en.yml',
 	],
+	'huseyinfiliz-leaderboard' => [
+		'tag' => 'https://raw.githubusercontent.com/huseyinfiliz/leaderboard/1.0.0/locale/en.yml',
+	],
 	'huseyinfiliz-modern-footer' => [
 		'tag' => 'https://raw.githubusercontent.com/huseyinfiliz/modern-footer/v1.1/resources/locale/en.yml',
 	],
