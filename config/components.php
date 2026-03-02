@@ -1050,6 +1050,9 @@ return [
 	],
 	'mattoid-operate-log' => [
 		'tag' => 'https://raw.githubusercontent.com/Mattoids/flarum-ext-operate-log/v1.0.2/locale/en.yml',
+		'__builtInLanguages' => [
+			'zh_Hans',
+		],
 	],
 	'michaelbelgium-discussion-views' => [
 		'tag' => 'https://raw.githubusercontent.com/MichaelBelgium/flarum-discussion-views/v7.2.1/locale/en.yml',
