@@ -7,9 +7,9 @@
         },
         "forum": {
             "notifications": {
-                "user_suspended_text": "{username} заблокировал Вас на {timeReadable}",
+                "user_suspended_text": "Вы были заблокированы на {timeReadable}",
                 "user_suspended_indefinite_text": "Вы заблокированы на неопределённый срок",
-                "user_unsuspended_text": "{username} разблокировал Вас"
+                "user_unsuspended_text": "Вас разблокировали"
             },
             "suspension_info": {
                 "dismiss_button": "Закрыть",

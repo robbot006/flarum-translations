@@ -168,7 +168,7 @@
                     "title": "7638203591a5ee0b0f5773ae124b708b 7638203591a5ee0b0f5773ae124b708b"
                 },
                 "extension": {
-                    "abandoned_no_replacement": "be20f8ce678c9b3f7dad4c13f23ca4b3 be20f8ce678c9b3f7dad4c13f23ca4b3",
+                    "abandoned_no_replacement": "462efe7065a8c060164d0d86297af079 462efe7065a8c060164d0d86297af079",
                     "abandoned_with_replacement": "5e480a83d93cfdca682423eacd0b2671 5e480a83d93cfdca682423eacd0b2671",
                     "configure_scopes": "e96b42633fe4713b6a0ddadb85ba65c7 e96b42633fe4713b6a0ddadb85ba65c7",
                     "confirm_purge": "dba91257ddfdbdd6f080f98a42ba4bdf dba91257ddfdbdd6f080f98a42ba4bdf",
@@ -478,7 +478,7 @@
                 },
                 "post_stream": {
                     "discussion_renamed_old_tooltip": "87a503f98f560ed394e484ba22a11527 87a503f98f560ed394e484ba22a11527",
-                    "discussion_renamed_text": "3381a96b7e1ce8d03f8c2cdb58b547b3 3381a96b7e1ce8d03f8c2cdb58b547b3",
+                    "discussion_renamed_text": "6e948f755c8978fd986adb9d3c8ae096 6e948f755c8978fd986adb9d3c8ae096",
                     "load_more_button": "aace03f843f7ad259fe0d79dc2e07f43 aace03f843f7ad259fe0d79dc2e07f43",
                     "reply_placeholder": "61ef38160b0cd74ac4602d9ee34d12df 61ef38160b0cd74ac4602d9ee34d12df",
                     "time_lapsed_text": "8ae2baef131f02c875059882d4b8cc5e 8ae2baef131f02c875059882d4b8cc5e"
@@ -1197,7 +1197,7 @@
                 "updater": {
                     "check_for_updates": "ab456ba2305d7425f4b2c86f607eb912 ab456ba2305d7425f4b2c86f607eb912",
                     "flarum": "2e49ee9fe783d2cd1db51b31a8394042 2e49ee9fe783d2cd1db51b31a8394042",
-                    "global_update_successful": "01ee705fd30119528dd1e161b46e3c66 01ee705fd30119528dd1e161b46e3c66",
+                    "global_update_successful": "68742824ad4146e95f376ea2b049a289 68742824ad4146e95f376ea2b049a289",
                     "last_update_checked_at": "2d28453e2f246889a0800d37ca34604d 2d28453e2f246889a0800d37ca34604d",
                     "run_global_update": "a434276a6e01742daa326ed5b342b67a a434276a6e01742daa326ed5b342b67a",
                     "updater_help": "ecefa2139eb0a48e7eb69c5e8cce4656 ecefa2139eb0a48e7eb69c5e8cce4656",
@@ -1638,8 +1638,8 @@
             "forum": {
                 "notifications": {
                     "user_suspended_indefinite_text": "78e7097d9610ab36eb234cc1a4487009 78e7097d9610ab36eb234cc1a4487009",
-                    "user_suspended_text": "f57cabe6bb0c4f73eff766c824705586 f57cabe6bb0c4f73eff766c824705586",
-                    "user_unsuspended_text": "c57cbcfd05711907a572ea1a4af33bcd c57cbcfd05711907a572ea1a4af33bcd"
+                    "user_suspended_text": "40361de1a727f29e1bc739a6c41fa0fe 40361de1a727f29e1bc739a6c41fa0fe",
+                    "user_unsuspended_text": "7185397d9fabbcaec4e4cd35cf886fec 7185397d9fabbcaec4e4cd35cf886fec"
                 },
                 "suspend_user": {
                     "display_message": "118dd584794314c9344f73a2fa89ca2b 118dd584794314c9344f73a2fa89ca2b",
@@ -2737,7 +2737,7 @@
                     "login": "0c9877bd955b8660057023cef09d870e 0c9877bd955b8660057023cef09d870e"
                 },
                 "settings": {
-                    "no_settings_available": "6b226461482295f4dcb105661d95da89 6b226461482295f4dcb105661d95da89",
+                    "no_settings_available": "0d7c783fe1c2a748b2f9f998b3acbddf 0d7c783fe1c2a748b2f9f998b3acbddf",
                     "require_reason": "fc5ab9bbda6cb45c12cba53eeb6996ef fc5ab9bbda6cb45c12cba53eeb6996ef",
                     "title": "df152cf840873a64dd6957e1012246f9 df152cf840873a64dd6957e1012246f9"
                 }
