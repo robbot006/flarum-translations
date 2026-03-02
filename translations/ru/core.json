@@ -450,7 +450,7 @@
             },
             "post_stream": {
                 "discussion_renamed_old_tooltip": "Старое название: \"{old}\"",
-                "discussion_renamed_text": "{username} изменил(а) название на \"{new}\".",
+                "discussion_renamed_text": "{username} изменил(а) название на \"{new}\" {time}.",
                 "load_more_button": "=> core.ref.load_more",
                 "reply_placeholder": "=> core.ref.write_a_reply",
                 "time_lapsed_text": "{period} спустя"
