@@ -52,7 +52,7 @@
                 "multi-lang-search": "Mehrsprachige Suche",
                 "multi-lang-search-help": "Wenn aktiviert, wird die Suche alle Inhaltsübersetzungen einbeziehen.",
                 "short-content-length": "Kurze Inhalte",
-                "short-content-length-help": "",
+                "short-content-length-help": "Wenn aktiviert, werden Inhalte übersetzt, die kürzer als die angegebene Länge sind, und als in der aktuellen Sprache der Benutzeroberfläche verfasst angesehen. 0 deaktiviert diese Funktion.",
                 "deepl": {
                     "api_key": {
                         "help": "Registrieren Sie sich unter {link}. Der Treiber erkennt den Free-/Pro-Schlüsseltyp automatisch.",
@@ -105,7 +105,7 @@
                         "label": "=> ianm-translate.lib.settings.api-key"
                     },
                     "translation_model": {
-                        "help": "",
+                        "help": "Wähle aus, welches OpenAI-Modell für Übersetzungen verwendet werden soll. GPT-4o bietet die höchste Qualität, GPT-4o-mini bietet ein gutes Gleichgewicht und GPT-3.5-turbo ist am kostengünstigsten.",
                         "label": "Übersetzungsmodell",
                         "options": {
                             "gpt-4o": "GPT-4o (Premium)",
@@ -117,7 +117,7 @@
                         }
                     },
                     "detection_model": {
-                        "help": "",
+                        "help": "Wähle aus, welches OpenAI-Modell für die Spracherkennung verwendet werden soll. GPT-3.5-turbo wird empfohlen, da die Spracherkennung eine einfache Aufgabe ist, für die kein besonders leistungsstarkes Modell erforderlich ist.",
                         "label": "Spracherkennungsmodell",
                         "options": {
                             "gpt-4o": "GPT-4o (Premium)",
@@ -156,20 +156,20 @@
                         }
                     },
                     "timeout": {
-                        "help": "",
+                        "help": "Zeitüberschreitung bei Anfragen in Sekunden. Erhöhe diesen Wert, wenn Zeitüberschreitungsfehler auftreten.",
                         "label": "Zeitüberschreitung (Sekunden)"
                     }
                 },
                 "translate-all-enabled": "Alle Übersetzungssprachen aktivieren",
-                "translate-all-help": "",
+                "translate-all-help": "Wenn aktiviert, können Administratoren und andere Benutzer mit der Berechtigung Inhalte in jede installierte Forensprache übersetzen.",
                 "bind-browser-language": "Browsersprache hinzufügen",
                 "bind-browser-language-help": "Wenn aktiviert, werden die Browsersprache(n) des Benutzers zur Liste der für die Übersetzung verfügbaren Sprachen hinzugefügt.",
                 "use-native-locale-names": "Spracheigennamen verwenden",
-                "use-native-locale-names-help": "",
+                "use-native-locale-names-help": "Wenn aktiviert, wird der Eigenname der Sprache anstelle der aktuellen Sprachversion des Namens verwendet.",
                 "translate-polls": "Umfragen übersetzen",
                 "translate-polls-help": "Wenn aktiviert, werden Umfragetitel, Untertitel, Alternativtexte von Bildern und Antwortoptionen beim Erstellen oder Bearbeiten einer Umfrage automatisch übersetzt.",
-                "translate-quiz": "",
-                "translate-quiz-help": "",
+                "translate-quiz": "Quiz übersetzen",
+                "translate-quiz-help": "Wenn aktiviert, werden der Titel, der Untertitel, die Erklärung der richtigen Antwort und die Antwortoptionen des Quiz automatisch übersetzt, wenn ein Quiz erstellt oder bearbeitet wird.",
                 "provider": "Übersetzungsanbieter",
                 "readme-info": "Ausführlichere Informationen finden Sie in der LIESMICH-Dokumentation.",
                 "readme-none": "Für diesen Treiber sind keine weiteren Einstellungen erforderlich.",
@@ -185,7 +185,7 @@
         },
         "forum": {
             "post": {
-                "translation-error": ""
+                "translation-error": "Es trat ein Problem bei der Anzeige der Übersetzung dieses Beitrags auf. Der Fehler wurde mit der ID {uuid} protokolliert. Bitte melde dies, wenn das Problem weiterhin besteht."
             },
             "unknown-language": "[Nicht erkannt]",
             "detected-language": "Dieser Beitrag ist in {postLang}",
@@ -203,7 +203,7 @@
                     "title": "Übersetzungen von Diskussionstiteln verwalten"
                 },
                 "post": {
-                    "title": ""
+                    "title": "Beitragsübersetzungen verwalten"
                 },
                 "poll": {
                     "image-alt": "Alternative Bildbeschreibung (sofern vorhanden)",
@@ -214,7 +214,7 @@
                     "question-language": "Frage einer Umfrage ({language})"
                 },
                 "poll-group": {
-                    "title": "",
+                    "title": "Übersetzungen der Umfragegruppe verwalten",
                     "name": "Gruppenname"
                 },
                 "save-changes": "=> core.ref.save_changes",
@@ -223,7 +223,7 @@
                     "question": "Frage",
                     "subtitle": "Untertitel",
                     "option": "Antwort {number}",
-                    "answer-additional": ""
+                    "answer-additional": "Erläuterung der richtigen Antwort"
                 }
             },
             "discussion": {
@@ -240,7 +240,7 @@
                 "settings": {
                     "heading": "Übersetzung",
                     "source-language": {
-                        "help": "",
+                        "help": "Wenn deaktiviert, werden nur übersetzbare Inhalte gekennzeichnet, die in einer anderen Sprache als der aktuellen Forensprache verfasst sind. Um alle Inhalte mit der erkannten Sprache zu kennzeichnen, aktiviere diese Einstellung.",
                         "label": "Sprache immer anzeigen"
                     }
                 }
