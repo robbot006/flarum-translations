@@ -720,6 +720,11 @@ return [
 	],
 	'hamcq-auth-wechat' => [
 		'tag' => 'https://raw.githubusercontent.com/HamCQ/flarum-ext-auth-wechat/1.2/resources/locale/en.yml',
+		'__builtInLanguages' => [
+			'cs',
+			'ja',
+			'zh_Hans',
+		],
 	],
 	'hehongyuanlove-auth-qq' => [
 		'tag' => 'https://raw.githubusercontent.com/Hehongyuanlove/flarum-auth-qq/2.5.1/resources/locale/en.yml',
