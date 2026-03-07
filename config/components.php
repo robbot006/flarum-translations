@@ -39,7 +39,7 @@ return [
 		'beta' => 'https://raw.githubusercontent.com/flarum/bbcode/v2.0.0-beta.7/locale/en.yml',
 	],
 	'flarum-discuss' => [
-		'tag' => 'https://raw.githubusercontent.com/flarum/discuss/0.1.0/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/flarum/discuss/0.1.1/locale/en.yml',
 	],
 	'flarum-emoji' => [
 		'beta' => 'https://raw.githubusercontent.com/flarum/emoji/v2.0.0-beta.7/locale/en.yml',
