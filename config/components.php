@@ -1810,7 +1810,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/Yippy/flarum-tag-with-themes/v1.0.16/locale/en.yml',
 	],
 	'zerosonesfun-log' => [
-		'tag' => 'https://raw.githubusercontent.com/zerosonesfun/flarum-log/1.3.4/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/zerosonesfun/flarum-log/1.4.2/locale/en.yml',
 	],
 	'zhihe-primary-posts' => [
 		'tag' => 'https://raw.githubusercontent.com/echolocked/zhihe-primary-posts/v1.0.4/locale/en.yml',
