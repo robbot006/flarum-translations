@@ -1697,7 +1697,6 @@ return [
 		],
 	],
 	'tohsakarat-table-of-content' => [
-		'tag' => 'https://raw.githubusercontent.com/tohsakrat/flarum-table-of-content/v1.1.1/locale/en.yml',
 		'__builtInLanguages' => [
 			'zh_Hans',
 		],
