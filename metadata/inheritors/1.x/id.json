@@ -5853,6 +5853,32 @@
             }
         }
     },
+    "quasimo-llms-txt.json": {
+        "quasimo-llms-txt": {
+            "admin": {
+                "settings": {
+                    "custom_intro_help": "0c4ad500b70b954d7928e8b8fc2340f5 0c4ad500b70b954d7928e8b8fc2340f5",
+                    "custom_intro_label": "e94a49c44a227fe4cecdba96cd791102 e94a49c44a227fe4cecdba96cd791102",
+                    "custom_intro_placeholder": "b4a4d233645627ea272f5c1a4947617b b4a4d233645627ea272f5c1a4947617b",
+                    "enabled_help": "9b961c04249cef429ad7c7bb6361101e 9b961c04249cef429ad7c7bb6361101e",
+                    "enabled_label": "f748860e634d4c6817ea442bffaceca5 f748860e634d4c6817ea442bffaceca5",
+                    "full_enabled_help": "d5d6bd41292ddd311f86389a8b3eacb3 d5d6bd41292ddd311f86389a8b3eacb3",
+                    "full_enabled_label": "ee205a76289436ccef055b12fb7126ce ee205a76289436ccef055b12fb7126ce",
+                    "max_discussions_help": "a52152c9a02cda66f14afe372b25ebfa a52152c9a02cda66f14afe372b25ebfa",
+                    "max_discussions_label": "bcdadcf6a08c7347f23df74479f95de1 bcdadcf6a08c7347f23df74479f95de1",
+                    "max_posts_help": "095cd4e8f78ad7e42d343399df384e77 095cd4e8f78ad7e42d343399df384e77",
+                    "max_posts_label": "edfd403106854804e67c61919dc81925 edfd403106854804e67c61919dc81925",
+                    "open_label": "72a5495dc7d9dcd147d1aba6da8edd9e 72a5495dc7d9dcd147d1aba6da8edd9e",
+                    "sort_help": "f3d158fc24e443e3833136b155e197b4 f3d158fc24e443e3833136b155e197b4",
+                    "sort_label": "10d1f8ac2a8a1a7a111d4e6ba3b39039 10d1f8ac2a8a1a7a111d4e6ba3b39039",
+                    "sort_latest": "3f16b29c5c9ed56e0a6420f05bd53fa2 3f16b29c5c9ed56e0a6420f05bd53fa2",
+                    "sort_top": "9df3a098ce8f93e13df45b905921a2fb 9df3a098ce8f93e13df45b905921a2fb",
+                    "urls_help": "93720f0315f0b9657accdec84b362b4d 93720f0315f0b9657accdec84b362b4d",
+                    "urls_label": "ce68ad6689ff909d87faf1eceffd9880 ce68ad6689ff909d87faf1eceffd9880"
+                }
+            }
+        }
+    },
     "ralkage-account-lockout.json": {
         "ralkage-account-lockout": {
             "admin": {
