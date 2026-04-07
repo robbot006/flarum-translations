@@ -69,7 +69,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/ekumanov/flarum-ext-forum-stats-widget/v1.1.1/locale/en.yml',
 	],
 	'ekumanov-inline-audio' => [
-		'tag' => 'https://raw.githubusercontent.com/ekumanov/flarum-ext-inline-audio/v2.7.1/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/ekumanov/flarum-ext-inline-audio/v2.8.0/locale/en.yml',
 	],
 	'ekumanov-new-posts-notice' => [
 		'tag' => 'https://raw.githubusercontent.com/ekumanov/flarum-ext-new-posts-notice/v2.2.1/locale/en.yml',
@@ -153,7 +153,7 @@ return [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/best-answer/2.0.0-beta.5/resources/locale/en.yml',
 	],
 	'fof-byobu' => [
-		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/byobu/2.0.0-beta.9/resources/locale/en.yml',
+		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/byobu/2.0.0-beta.10/resources/locale/en.yml',
 	],
 	'fof-categories' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/categories/2.0.0-beta.2/resources/locale/en.yml',
@@ -363,6 +363,15 @@ return [
 	'migratetoflarum-fake-data' => [
 		'beta' => 'https://raw.githubusercontent.com/migratetoflarum/fake-data/2.0.0-beta.1/resources/locale/en.yml',
 	],
+	'quasimo-carousel-grids' => [
+		'tag' => 'https://raw.githubusercontent.com/Quasimo/flarum-ext-carousel-grids/v2.0.6/resources/locale/en.yml',
+		'__builtInLanguages' => [
+			'zh_Hans',
+		],
+	],
+	'quasimo-llms-txt' => [
+		'tag' => 'https://raw.githubusercontent.com/Quasimo/flarum-ext-llms-txt/v2.0.6/resources/locale/en.yml',
+	],
 	'quasimo-tag-sidebar' => [
 		'tag' => 'https://raw.githubusercontent.com/Quasimo/flarum-ext-tag-sidebar/v2.0.21/resources/locale/en.yml',
 		'__builtInLanguages' => [
@@ -397,7 +406,7 @@ return [
 		'beta' => 'https://raw.githubusercontent.com/Ralkage/flarum-ext-word-counter/v2.0.0-beta.8/locale/en.yml',
 	],
 	'ramon-avocado' => [
-		'beta' => 'https://raw.githubusercontent.com/ram0ng1/avocado/2.0.11-beta/locale/en.yml',
+		'beta' => 'https://raw.githubusercontent.com/ram0ng1/avocado/2.0.24-beta/locale/en.yml',
 		'__builtInLanguages' => [
 			'pt_BR',
 		],
@@ -406,7 +415,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/ResofireV2/blog-cards/v2.0.5/locale/en.yml',
 	],
 	'resofire-digest-mail' => [
-		'tag' => 'https://raw.githubusercontent.com/ResofireV2/digest-mail/v2.1.8/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/ResofireV2/digest-mail/v2.2.1/locale/en.yml',
 	],
 	'resofire-discussion-participants' => [
 		'tag' => 'https://raw.githubusercontent.com/ResofireV2/discussion-participants/v2.0.7/locale/en.yml',
