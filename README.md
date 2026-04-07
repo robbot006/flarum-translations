@@ -1283,6 +1283,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`tohsakarat-table-of-content`](https://weblate.rob006.net/projects/flarum/tohsakarat-table-of-content) | [`tohsakarat/table-of-content`](https://github.com/tohsakrat/flarum-table-of-content) |
 | [`tokenjenny-web3`](https://weblate.rob006.net/projects/flarum/tokenjenny-web3) | [`tokenjenny/flarum-ext-web3`](https://github.com/tokenjenny/flarum-ext-web3) |
 | [`tpokorra-post-notification`](https://weblate.rob006.net/projects/flarum/tpokorra-post-notification) | [`tpokorra/flarum-ext-post-notification`](https://github.com/tpokorra/flarum-ext-post-notification) |
+| [`tryhackx-advanced-pages`](https://weblate.rob006.net/projects/flarum/tryhackx-advanced-pages) | [`tryhackx/flarum-advanced-pages`](https://github.com/TryHackX/flarum-advanced-pages) |
 | [`umhelper-oauth-clerk`](https://weblate.rob006.net/projects/flarum/umhelper-oauth-clerk) | [`umhelper/oauth-clerk`](https://github.com/UMHelper/flarum-ext-oauth-clerk) |
 | [`v17development-blog`](https://weblate.rob006.net/projects/flarum/v17development-blog) | [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog) |
 | [`v17development-seo`](https://weblate.rob006.net/projects/flarum/v17development-seo) | [`v17development/flarum-seo`](https://github.com/v17development/flarum-seo) |
