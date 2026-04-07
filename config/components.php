@@ -29,6 +29,9 @@ return [
 	'acpl-my-tags' => [
 		'beta' => 'https://raw.githubusercontent.com/android-com-pl/my-tags/2.0.0-beta.3/locale/en.yml',
 	],
+	'dashzeveg-custom-head' => [
+		'tag' => 'https://raw.githubusercontent.com/dashzeveg/flarum-custom-head/v1.0/locale/en.yml',
+	],
 	'datitisev-backup' => [
 		'tag' => 'https://raw.githubusercontent.com/flarum-com/premium-translations/main/datitisev-backup.yml',
 	],
