@@ -372,6 +372,12 @@ return [
 	'quasimo-llms-txt' => [
 		'tag' => 'https://raw.githubusercontent.com/Quasimo/flarum-ext-llms-txt/v2.0.6/resources/locale/en.yml',
 	],
+	'quasimo-tag-sidebar' => [
+		'tag' => 'https://raw.githubusercontent.com/Quasimo/flarum-ext-tag-sidebar/v2.0.21/resources/locale/en.yml',
+		'__builtInLanguages' => [
+			'zh_Hans',
+		],
+	],
 	'ralkage-account-lockout' => [
 		'beta' => 'https://raw.githubusercontent.com/Ralkage/flarum-ext-account-lockout/v2.0.0-beta.8/resources/locale/en.yml',
 	],
