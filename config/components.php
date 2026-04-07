@@ -441,6 +441,12 @@ return [
 	'sycho-profile-cover' => [
 		'tag' => 'https://raw.githubusercontent.com/SychO9/flarum-profile-cover/v2.0.0/resources/locale/en.yml',
 	],
+	'tryhackx-advanced-pages' => [
+		'tag' => 'https://raw.githubusercontent.com/TryHackX/flarum-advanced-pages/2.0.1/resources/locale/en.yml',
+		'__builtInLanguages' => [
+			'pl',
+		],
+	],
 	'vlssu-cravatar' => [
 		'tag' => 'https://raw.githubusercontent.com/vlssu/flarum-cravatar/v0.3.0/resources/locale/en.yml',
 		'__builtInLanguages' => [
