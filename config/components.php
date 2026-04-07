@@ -29,6 +29,9 @@ return [
 	'acpl-my-tags' => [
 		'beta' => 'https://raw.githubusercontent.com/android-com-pl/my-tags/2.0.0-beta.3/locale/en.yml',
 	],
+	'dashzeveg-custom-head' => [
+		'tag' => 'https://raw.githubusercontent.com/dashzeveg/flarum-custom-head/v1.0/locale/en.yml',
+	],
 	'datitisev-backup' => [
 		'tag' => 'https://raw.githubusercontent.com/flarum-com/premium-translations/main/datitisev-backup.yml',
 	],
@@ -369,6 +372,15 @@ return [
 			'zh_Hans',
 		],
 	],
+	'quasimo-llms-txt' => [
+		'tag' => 'https://raw.githubusercontent.com/Quasimo/flarum-ext-llms-txt/v2.0.6/resources/locale/en.yml',
+	],
+	'quasimo-tag-sidebar' => [
+		'tag' => 'https://raw.githubusercontent.com/Quasimo/flarum-ext-tag-sidebar/v2.0.21/resources/locale/en.yml',
+		'__builtInLanguages' => [
+			'zh_Hans',
+		],
+	],
 	'ralkage-account-lockout' => [
 		'beta' => 'https://raw.githubusercontent.com/Ralkage/flarum-ext-account-lockout/v2.0.0-beta.8/resources/locale/en.yml',
 	],
@@ -431,6 +443,12 @@ return [
 	],
 	'sycho-profile-cover' => [
 		'tag' => 'https://raw.githubusercontent.com/SychO9/flarum-profile-cover/v2.0.0/resources/locale/en.yml',
+	],
+	'tryhackx-advanced-pages' => [
+		'tag' => 'https://raw.githubusercontent.com/TryHackX/flarum-advanced-pages/2.0.1/resources/locale/en.yml',
+		'__builtInLanguages' => [
+			'pl',
+		],
 	],
 	'vlssu-cravatar' => [
 		'tag' => 'https://raw.githubusercontent.com/vlssu/flarum-cravatar/v0.3.0/resources/locale/en.yml',
