@@ -217,7 +217,7 @@
                 "attribute": {
                     "key": "Ключ",
                     "fillPermission": "Дозвіл на заповнення",
-                    "translationKey": ""
+                    "translationKey": "Ключ перекладу"
                 }
             },
             "auto-discussion-options-modal": {
@@ -256,12 +256,12 @@
             "template-editor": {
                 "add-field": "Додати поле",
                 "title": "Заголовок",
-                "titleTranslationKey": "",
+                "titleTranslationKey": "(Експерт) Ключ перекладу заголовка",
                 "description": "Опис",
-                "descriptionTranslationKey": "",
+                "descriptionTranslationKey": "(Експерт) Ключ перекладу опису",
                 "key": "(Експерт) JSON-ключ у корисному навантаженні відправлення",
                 "fill-permission": "(Експерт) Заповнити дозволи",
-                "contentTranslationKey": "",
+                "contentTranslationKey": "(Експерт) Ключ перекладу вмісту",
                 "required": "Обов'язково",
                 "rich": "Розширений текст (TextFormatter)",
                 "min": "Мінімум",
@@ -271,7 +271,7 @@
                 "regex": "Регулярний вираз",
                 "mime": "MIME-тип (через кому, приймає символ підстановки як другу частину)",
                 "other": "Дозволити «інше» значення користувача",
-                "defaultValue": "",
+                "defaultValue": "Значення за налаштуванням",
                 "duplicate": "Дублікат поля",
                 "delete": "Видалити поле",
                 "missing-title": "Поле без заголовка",
@@ -292,9 +292,9 @@
             "options-editor": {
                 "columns": {
                     "title": "Заголовок",
-                    "titleTranslationKey": "",
+                    "titleTranslationKey": "(Експерт) Ключ перекладу",
                     "key": "(Експерт) Унікальний ключ",
-                    "defaultValue": ""
+                    "defaultValue": "За налаштуванням"
                 },
                 "remove": "Видалити опцію",
                 "new-placeholder": "Нова опція..."
@@ -318,8 +318,8 @@
                 "other-placeholder": "Тип..."
             },
             "translate": {
-                "switch-tab-to-edit": "",
-                "option-heading": ""
+                "switch-tab-to-edit": "Перейдіть на вкладку «Шаблон», щоб змінити налаштування полів",
+                "option-heading": "Параметр #{number}"
             },
             "submission": {
                 "form-closed": "Ця форма закрита.",
@@ -486,8 +486,8 @@
                 "user_displayname": "Відображене ім'я користувача",
                 "user_email": "Електронна пошта користувача",
                 "user_activated": "Активований обліковий запис",
-                "user_joined_at": "",
-                "user_groups": "",
+                "user_joined_at": "Дата реєстрації користувача",
+                "user_groups": "Групи користувачів",
                 "link_id": "Ідентифікатор пов'язаного ресурсу",
                 "locked_at": "Дата блокування",
                 "created_at": "Дата створення",
