@@ -5493,6 +5493,17 @@
 		<td align="center"><a href="https://packagist.org/packages/ralkage/flarum-ext-civility-filter/stats">0<br /><img src="https://img.shields.io/badge/-%7E-lightgrey" alt="~" title="Change from last week"></a></td>
 		<td><a href="https://weblate.rob006.net/projects/flarum/ralkage-civility-filter/tt/"><img src="https://weblate.rob006.net/widgets/flarum/tt/ralkage-civility-filter/svg-badge.svg" alt="Translation status"></a></td>
 	</tr>
+	<tr>
+		<td>
+			<span title="Compatible with recent Flarum">🟢</span>
+			<a href="https://github.com/TryHackX/flarum-advanced-pages" title="tryhackx/flarum-advanced-pages"><code>tryhackx/flarum-advanced-pages</code></a>
+		</td>
+		<td align="center">498</td>
+		<td align="center"><a href="https://packagist.org/packages/tryhackx/flarum-advanced-pages/stats">0</a></td>
+		<td align="center"><a href="https://packagist.org/packages/tryhackx/flarum-advanced-pages/stats">0</a></td>
+		<td align="center"><a href="https://packagist.org/packages/tryhackx/flarum-advanced-pages/stats">0</a></td>
+		<td><a href="https://weblate.rob006.net/projects/flarum/tryhackx-advanced-pages/tt/"><img src="https://weblate.rob006.net/widgets/flarum/tt/tryhackx-advanced-pages/svg-badge.svg" alt="Translation status"></a></td>
+	</tr>
 </tbody>
 </table>
 
