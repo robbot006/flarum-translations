@@ -2,10 +2,10 @@
     "resofire-mobile-search": {
         "admin": {
             "settings": {
-                "mobile_search_style_label": "",
-                "mobile_search_style_help": "",
-                "mobile_search_style_option_bar": "",
-                "mobile_search_style_option_icon": ""
+                "mobile_search_style_label": "移动端搜索样式",
+                "mobile_search_style_help": "在移动设备上显示搜索的方式。",
+                "mobile_search_style_option_bar": "顶部栏",
+                "mobile_search_style_option_icon": "图标按钮"
             }
         }
     }
