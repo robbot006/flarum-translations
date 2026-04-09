@@ -2,64 +2,64 @@
     "fof-masquerade": {
         "forum": {
             "alerts": {
-                "profile-completion-required": "",
-                "profile-completed": ""
+                "profile-completion-required": "Zəhmət olmasa aşağıdakı profil sahələrini doldurun.\n",
+                "profile-completed": "Profil tamamlandı! <a>Əsas səhifəyə keçin</a>"
             },
             "buttons": {
-                "view-profile": "",
-                "edit-profile": "",
-                "save-profile": ""
+                "view-profile": "Profili görüntülə",
+                "edit-profile": "Profili redaktə et",
+                "save-profile": "Yadda saxla"
             },
             "fields": {
                 "select": {
-                    "none-optional": "",
-                    "none-required": ""
+                    "none-optional": "Seçim edilmədi",
+                    "none-required": "Zəhmət olmasa, seçim edin"
                 },
                 "boolean": {
-                    "yes": "",
-                    "no": ""
+                    "yes": "Bəli",
+                    "no": "Xeyr"
                 }
             }
         },
         "admin": {
-            "general-options": "",
+            "general-options": "Ümumi seçimlər",
             "buttons": {
-                "add-field": "",
-                "edit-field": "",
-                "delete-field": ""
+                "add-field": "Sahəni yarat",
+                "edit-field": "Dəyişiklikləri yadda saxla",
+                "delete-field": "Sahəni sil"
             },
             "permissions": {
-                "edit-others-profile": "",
-                "have-profile": "",
-                "view-profile": ""
+                "edit-others-profile": "Digər istifadəçilərin profilini redaktə et",
+                "have-profile": "Masquerade profilə sahib ol",
+                "view-profile": "Masquerade profilini görüntülə"
             },
             "fields": {
-                "title": "",
-                "add": "",
-                "edit": "",
+                "title": "Sahələr",
+                "add": "Sahə əlavə et {field}",
+                "edit": "{field} sahəsini redaktə et",
                 "delete-confirmation": "",
-                "name": "",
-                "name-help": "",
-                "description": "",
-                "description-help": "",
-                "required": "",
-                "on_bio": "",
-                "type": "",
-                "validation": "",
-                "validation-help": "",
-                "icon": "",
-                "icon-help": "",
-                "force-user-to-completion": "",
-                "options": "",
-                "option-new": "",
-                "option-comma-warning": ""
+                "name": "Sahənin adı",
+                "name-help": "İctimai görünən (tərcümə olunmayan) sahə başlığı.\n",
+                "description": "Sahənin açıqlaması",
+                "description-help": "Bu sahənin istifadəsini/ehtiyacını izah etmək üçün əlavə təsvir.\n",
+                "required": "Sahəni \"Məcburi\" olaraq işarələ",
+                "on_bio": "İstifadəçinin biosunda bu sahənin cavabını göstər",
+                "type": "Növ",
+                "validation": "Doğrulama",
+                "validation-help": "Dəstəklənən <a>Laravel doğrulama qaydalarına</a> baxın. Məsələn: \"string|min:5\" və ya \"url\".\n",
+                "icon": "İkon",
+                "icon-help": "İstifadəçi tərəfindən daxil edilmiş dəyərlərin qarşısında göstərilən işarə. Əlçatan ikonalara istinad üçün <a>FontAwesome veb saytına</a> baxın. \"fas fa-info\" kimi \"fa-\" prefiksi olan ikon adlarından istifadə edin.\n",
+                "force-user-to-completion": "İstifadəçini profili tamamlamağa məcbur et",
+                "options": "Seçimlər",
+                "option-new": "Yeni seçim",
+                "option-comma-warning": "Seçim başlığında vergül (\",\") ola bilməz."
             },
             "types": {
-                "advanced": "",
-                "boolean": "",
-                "email": "",
-                "select": "",
-                "url": ""
+                "advanced": "İnkişaf etmiş",
+                "boolean": "Qeyd xanası (Checkbox)",
+                "email": "E-poçt",
+                "select": "Açılan siyahı",
+                "url": "URL"
             }
         },
         "lib": {

@@ -1707,6 +1707,15 @@
             }
         }
     },
+    "fof-masquerade.json": {
+        "fof-masquerade": {
+            "forum": {
+                "alerts": {
+                    "profile-completion-required": "8515584dad16b75a732734b0b9fc9963 8515584dad16b75a732734b0b9fc9963"
+                }
+            }
+        }
+    },
     "fof-merge-discussions.json": {
         "fof-merge-discussions": {
             "forum": {

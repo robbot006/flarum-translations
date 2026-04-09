@@ -2199,6 +2199,71 @@
             }
         }
     },
+    "fof-masquerade.json": {
+        "fof-masquerade": {
+            "admin": {
+                "buttons": {
+                    "add-field": "2661387d164d670a56eeff4a5eec9b0a 2661387d164d670a56eeff4a5eec9b0a",
+                    "delete-field": "dc8e9d91ac462fa2c49f7251e23aceb6 dc8e9d91ac462fa2c49f7251e23aceb6",
+                    "edit-field": "7d8ea649aab655065a5d7ff51d961171 7d8ea649aab655065a5d7ff51d961171"
+                },
+                "fields": {
+                    "add": "01c18f4348826d41fb7f142c9c51bc2c 01c18f4348826d41fb7f142c9c51bc2c",
+                    "description": "ef918abfb53ea5bc4fde3764e4c199de ef918abfb53ea5bc4fde3764e4c199de",
+                    "description-help": "d1560278a1da030af31c41ed467fdee9 d1560278a1da030af31c41ed467fdee9",
+                    "edit": "37d015812d61cd77708cdea97b608529 37d015812d61cd77708cdea97b608529",
+                    "force-user-to-completion": "906355243f7eeab551bab0e94471d198 906355243f7eeab551bab0e94471d198",
+                    "icon": "7d55304203871c4bada9510417c2e302 7d55304203871c4bada9510417c2e302",
+                    "icon-help": "16db9a4149642cd317f6d1aca17191e0 16db9a4149642cd317f6d1aca17191e0",
+                    "name": "4777bbaaa0aebe104606b77947d0e22d 4777bbaaa0aebe104606b77947d0e22d",
+                    "name-help": "b3c8e4d05b2b388a265ec0b8ef20c171 b3c8e4d05b2b388a265ec0b8ef20c171",
+                    "on_bio": "7331c6e555fac44126c7d66b12db57da 7331c6e555fac44126c7d66b12db57da",
+                    "option-comma-warning": "1dfeb9143236203881fcdd3d5981a9b6 1dfeb9143236203881fcdd3d5981a9b6",
+                    "option-new": "b704c956f2feaa94376e2ff64c68f150 b704c956f2feaa94376e2ff64c68f150",
+                    "options": "8877f3a2a22a9ecaa6549cb059123947 8877f3a2a22a9ecaa6549cb059123947",
+                    "required": "78ec65ae566f04424164c686de5880d0 78ec65ae566f04424164c686de5880d0",
+                    "title": "82736099f18f7f75e817c9f2b7252412 82736099f18f7f75e817c9f2b7252412",
+                    "type": "4f427c1457e02bce80e83252111fd27d 4f427c1457e02bce80e83252111fd27d",
+                    "validation": "8433de560440a505437b308354247bf9 8433de560440a505437b308354247bf9",
+                    "validation-help": "3835a4596feeebb3769987426040abd7 3835a4596feeebb3769987426040abd7"
+                },
+                "general-options": "1a0150117e807caf279cde8bdf66f406 1a0150117e807caf279cde8bdf66f406",
+                "permissions": {
+                    "edit-others-profile": "00fa46f4a10dd3a90868223465aa00ee 00fa46f4a10dd3a90868223465aa00ee",
+                    "have-profile": "f8da22f1ab085def5280d5cb89549ec6 f8da22f1ab085def5280d5cb89549ec6",
+                    "view-profile": "9e22afa42b57c7ead38428cf96aa1a28 9e22afa42b57c7ead38428cf96aa1a28"
+                },
+                "types": {
+                    "advanced": "fcc7db3b9600eb58dd019aac2b73d964 fcc7db3b9600eb58dd019aac2b73d964",
+                    "boolean": "4f8222964f9a317cef99dddc23a121bd 4f8222964f9a317cef99dddc23a121bd",
+                    "email": "ce8ae9da5b7cd6c3df2929543a9af92d ce8ae9da5b7cd6c3df2929543a9af92d",
+                    "select": "c3c057e5dbb58946681253e63bd4dfc7 c3c057e5dbb58946681253e63bd4dfc7",
+                    "url": "e6b391a8d2c4d45902a23a8b6585703d e6b391a8d2c4d45902a23a8b6585703d"
+                }
+            },
+            "forum": {
+                "alerts": {
+                    "profile-completed": "e30f35e13eb028b22156c8ba77390f42 e30f35e13eb028b22156c8ba77390f42",
+                    "profile-completion-required": "43058536a8b7dd9ba373e5a5689a77bc 43058536a8b7dd9ba373e5a5689a77bc"
+                },
+                "buttons": {
+                    "edit-profile": "46690d8342b780c4636ed0d1f2287b15 46690d8342b780c4636ed0d1f2287b15",
+                    "save-profile": "d3270bdb8d2c1caaca4178dbe19be03a d3270bdb8d2c1caaca4178dbe19be03a",
+                    "view-profile": "d615f49d27c1135a89c075770ce37c83 d615f49d27c1135a89c075770ce37c83"
+                },
+                "fields": {
+                    "boolean": {
+                        "no": "bafd7322c6e97d25b6299b5d6fe8920b bafd7322c6e97d25b6299b5d6fe8920b",
+                        "yes": "29bf7a323f1088692c1ad29f08f4f573 29bf7a323f1088692c1ad29f08f4f573"
+                    },
+                    "select": {
+                        "none-optional": "ef336d17be8a2a68bd1d503345962cf3 ef336d17be8a2a68bd1d503345962cf3",
+                        "none-required": "89b7767319d9d3846f37a8e4d69d451d 89b7767319d9d3846f37a8e4d69d451d"
+                    }
+                }
+            }
+        }
+    },
     "fof-moderator-notes.json": {
         "fof-moderator-notes": {
             "admin": {

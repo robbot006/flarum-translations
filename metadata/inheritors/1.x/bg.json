@@ -2428,6 +2428,27 @@
             }
         }
     },
+    "fof-masquerade.json": {
+        "fof-masquerade": {
+            "forum": {
+                "alerts": {
+                    "profile-completed": "b5b15fec0af000b9f21dffebfac20aec b5b15fec0af000b9f21dffebfac20aec",
+                    "profile-completion-required": "764f037c37fd21cee9e2f813d8a2a66f 764f037c37fd21cee9e2f813d8a2a66f"
+                },
+                "buttons": {
+                    "edit-profile": "58d3060d9eb57d2fe414ab60a276cad5 58d3060d9eb57d2fe414ab60a276cad5",
+                    "save-profile": "6405a9add2a5194c96ecba56d04fcf61 6405a9add2a5194c96ecba56d04fcf61",
+                    "view-profile": "156c9892a10c4bf5040981dec0a09672 156c9892a10c4bf5040981dec0a09672"
+                },
+                "fields": {
+                    "select": {
+                        "none-optional": "087c77537ff7b389aa7637035c51b28a 087c77537ff7b389aa7637035c51b28a",
+                        "none-required": "dec70d1d59641bd5bfc8a31423ffe58f dec70d1d59641bd5bfc8a31423ffe58f"
+                    }
+                }
+            }
+        }
+    },
     "fof-merge-discussions.json": {
         "fof-merge-discussions": {
             "admin": {

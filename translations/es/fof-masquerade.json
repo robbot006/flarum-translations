@@ -2,64 +2,64 @@
     "fof-masquerade": {
         "forum": {
             "alerts": {
-                "profile-completion-required": "",
-                "profile-completed": ""
+                "profile-completion-required": "Por favor completa los campos del perfil de usuario.\n",
+                "profile-completed": "¡Perfil completo! <a>Volver a la página principal</a>"
             },
             "buttons": {
-                "view-profile": "",
-                "edit-profile": "",
-                "save-profile": ""
+                "view-profile": "Ver perfil",
+                "edit-profile": "Editar perfil",
+                "save-profile": "Guardar"
             },
             "fields": {
                 "select": {
-                    "none-optional": "",
-                    "none-required": ""
+                    "none-optional": "Ninguna (opcional)",
+                    "none-required": "Elija una opción (requerido)"
                 },
                 "boolean": {
-                    "yes": "",
-                    "no": ""
+                    "yes": "Si",
+                    "no": "No"
                 }
             }
         },
         "admin": {
-            "general-options": "",
+            "general-options": "Configuración",
             "buttons": {
-                "add-field": "",
-                "edit-field": "",
-                "delete-field": ""
+                "add-field": "Crear campo",
+                "edit-field": "Guardar cambios",
+                "delete-field": "Eliminar campo"
             },
             "permissions": {
-                "edit-others-profile": "",
-                "have-profile": "",
-                "view-profile": ""
+                "edit-others-profile": "Editar el perfil de otros usuarios",
+                "have-profile": "Tener perfil masquerade",
+                "view-profile": "Ver perfil masquerade"
             },
             "fields": {
-                "title": "",
-                "add": "",
-                "edit": "",
+                "title": "Campos",
+                "add": "Añadir campo {field}",
+                "edit": "Editar campo {field}",
                 "delete-confirmation": "",
-                "name": "",
-                "name-help": "",
-                "description": "",
-                "description-help": "",
-                "required": "",
-                "on_bio": "",
-                "type": "",
-                "validation": "",
-                "validation-help": "",
-                "icon": "",
-                "icon-help": "",
-                "force-user-to-completion": "",
-                "options": "",
-                "option-new": "",
-                "option-comma-warning": ""
+                "name": "Nombre",
+                "name-help": "Nombre visible del campo.\n",
+                "description": "Descripción",
+                "description-help": "Descripción opcional para explicar el uso del campo.\n",
+                "required": "Marcar como requerido",
+                "on_bio": "Mostrar campo en la descripción de usuario",
+                "type": "Tipo",
+                "validation": "Validación",
+                "validation-help": "Consulta las <a>reglas de validación de Laravel</a>. Ej: \"string|min:5\" o \"url\".\n",
+                "icon": "Icono",
+                "icon-help": "Introduce el nombre de alguna clase de <a>FontAwesome</a>, <em>incluyendo</em> el prefijo <code>fas fa-</code>.\n",
+                "force-user-to-completion": "Obligar al usuario a completar el perfil",
+                "options": "Opciones",
+                "option-new": "Nueva opción",
+                "option-comma-warning": "La etiqueta de cualquier opción no puede contener comas (\",\")."
             },
             "types": {
-                "advanced": "",
-                "boolean": "",
-                "email": "",
-                "select": "",
-                "url": ""
+                "advanced": "Avanzado",
+                "boolean": "Checkbox",
+                "email": "Email",
+                "select": "Desplegable",
+                "url": "URL"
             }
         },
         "lib": {
