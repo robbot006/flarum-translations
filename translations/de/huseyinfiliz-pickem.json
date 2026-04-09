@@ -28,7 +28,7 @@
                 "weeks": "Wochen"
             },
             "status": {
-                "scheduled": "",
+                "scheduled": "Geplant",
                 "closed": "",
                 "finished": "",
                 "pending": "",
