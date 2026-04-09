@@ -3940,7 +3940,14 @@
         "fof-clockwork": {
             "admin": {
                 "dashboard": {
-                    "button_label": "53afee7b4ba0bf57decac26c90c9ec13 53afee7b4ba0bf57decac26c90c9ec13"
+                    "button_label": "53afee7b4ba0bf57decac26c90c9ec13 53afee7b4ba0bf57decac26c90c9ec13",
+                    "section_label": "e350a55fd905d2c929be81d398988fff e350a55fd905d2c929be81d398988fff"
+                },
+                "settings": {
+                    "disable_auth_help": "096c0af9d1c4645611d719ce5c5833f8 096c0af9d1c4645611d719ce5c5833f8",
+                    "disable_auth_label": "1158850d229f7cae6ecf8f38e79f0f69 1158850d229f7cae6ecf8f38e79f0f69",
+                    "disable_auth_warning": "ec2722daf140612bb185b45d3e2e9af6 ec2722daf140612bb185b45d3e2e9af6",
+                    "section_label": "27014dd1bf5fe7e41ced3bedfc4cd2aa 27014dd1bf5fe7e41ced3bedfc4cd2aa"
                 }
             }
         }
