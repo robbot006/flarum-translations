@@ -224,6 +224,9 @@ return [
 	'fof-links' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/links/2.0.0-beta.2/locale/en.yml',
 	],
+	'fof-masquerade' => [
+		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/masquerade/3.0.0-beta.1/resources/locale/en.yml',
+	],
 	'fof-merge-discussions' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/merge-discussions/2.0.0-beta.2/resources/locale/en.yml',
 	],
