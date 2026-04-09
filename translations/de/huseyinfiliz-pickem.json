@@ -46,15 +46,15 @@
                 "cutoff_date": "Anmeldeschluss",
                 "slug": "Slug",
                 "name": "Name",
-                "week_number": ""
+                "week_number": "Wochennummer"
             },
             "form": {
-                "name": "",
-                "slug": "",
-                "logo_url": "",
-                "start_date": "",
-                "end_date": "",
-                "week_number": "",
+                "name": "Name",
+                "slug": "Slug",
+                "logo_url": "Logo-URL",
+                "start_date": "Startdatum",
+                "end_date": "Enddatum",
+                "week_number": "Wochennummer",
                 "home_team": "",
                 "away_team": "",
                 "select_team": "",
