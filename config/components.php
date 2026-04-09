@@ -95,6 +95,12 @@ return [
 	'askvortsov-saml' => [
 		'tag' => 'https://raw.githubusercontent.com/askvortsov1/flarum-saml/v2.4.0/resources/locale/en.yml',
 	],
+	'bendary-admin-audit' => [
+		'tag' => 'https://raw.githubusercontent.com/Amr-Bendary/Admin-Audit/v1.0.8/locale/en.yml',
+		'__builtInLanguages' => [
+			'ar',
+		],
+	],
 	'blessing-oauth-client' => [
 		'tag' => 'https://raw.githubusercontent.com/bs-community/flarum-oauth-client/v2.0.2/locale/en.yml',
 	],
