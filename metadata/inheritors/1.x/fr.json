@@ -3808,6 +3808,7 @@
                 },
                 "fields": {
                     "add": "6bfba47f4c372efb9b2ce36da5b87805 6bfba47f4c372efb9b2ce36da5b87805",
+                    "delete-confirmation": "d41d8cd98f00b204e9800998ecf8427e 2bfc7c7c1f49cb491b9c7767a28fc263",
                     "description": "3c725b810ad0176259ac356f9e011e66 3c725b810ad0176259ac356f9e011e66",
                     "description-help": "84a109f19eec08b6a8d1e4c830806b5a 84a109f19eec08b6a8d1e4c830806b5a",
                     "edit": "6f623002bd90a44b96c1d62bfd31b6af 6f623002bd90a44b96c1d62bfd31b6af",
