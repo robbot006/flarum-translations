@@ -55,36 +55,36 @@
                 "start_date": "Startdatum",
                 "end_date": "Enddatum",
                 "week_number": "Wochennummer",
-                "home_team": "",
-                "away_team": "",
-                "select_team": "",
-                "select_season": "",
+                "home_team": "Heimmannschaft",
+                "away_team": "Gästemannschaft",
+                "select_team": "Mannschaft wählen",
+                "select_season": "Saison wählen",
                 "no_week": "",
                 "allow_draw": "",
                 "home_score": "",
                 "away_score": "",
                 "search_team": "",
-                "select_week": ""
+                "select_week": "Woche wählen"
             },
             "filters": {
                 "sort": "",
                 "newest": "",
                 "oldest": "",
                 "reset": "",
-                "all": ""
+                "all": "Alle"
             },
             "buttons": {
-                "save": "",
-                "edit": "",
-                "delete": "",
-                "create": "",
-                "cancel": "",
-                "load_more": ""
+                "save": "Speichern",
+                "edit": "Bearbeiten",
+                "delete": "Löschen",
+                "create": "Erstellen",
+                "cancel": "Abbrechen",
+                "load_more": "Mehr laden"
             },
             "actions": {
-                "create": "",
-                "edit": "",
-                "enter_result": ""
+                "create": "Erstellen",
+                "edit": "Bearbeiten",
+                "enter_result": "Ergebnis eingeben"
             },
             "messages": {
                 "delete_confirm": "",
