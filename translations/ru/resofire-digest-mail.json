@@ -95,6 +95,118 @@
                 "frequency_label": "",
                 "frequency_help": ""
             }
+        },
+        "email": {
+            "subject": "",
+            "heading": "",
+            "stats": {
+                "posts": "",
+                "discussions": "",
+                "new_members": "",
+                "active_users": ""
+            },
+            "featured": {
+                "author_label": "",
+                "badge": "",
+                "cta": ""
+            },
+            "sections": {
+                "new_discussions": "",
+                "active_discussions": "",
+                "unread": "",
+                "new_members": "",
+                "leaderboard": "",
+                "badges": "",
+                "pickem": "",
+                "gamepedia": "",
+                "favorites": ""
+            },
+            "members": {
+                "joined": ""
+            },
+            "leaderboard": {
+                "rankings_note": "",
+                "col_rank": "",
+                "col_member": "",
+                "col_move": "",
+                "col_score": "",
+                "new_badge": "",
+                "biggest_mover": "",
+                "spot_singular": "",
+                "spot_plural": ""
+            },
+            "badges": {
+                "intro": "",
+                "most_earned": "",
+                "earned_count_singular": "",
+                "earned_count_plural": "",
+                "rarest": "",
+                "rarest_count_singular": "",
+                "rarest_count_plural": ""
+            },
+            "pickem": {
+                "upcoming_heading": "",
+                "upcoming_note": "",
+                "cta": "",
+                "results_heading": "",
+                "draw": "",
+                "leaderboard_heading": "",
+                "col_rank": "",
+                "col_player": "",
+                "col_pts": "",
+                "col_accuracy": ""
+            },
+            "gamepedia": {
+                "most_discussed": "",
+                "newly_added": "",
+                "cta": ""
+            },
+            "resofire_gamepedia": {
+                "most_discussed": "",
+                "newly_added": "",
+                "top_genres": "",
+                "cta": ""
+            },
+            "awards": {
+                "coming_soon": "",
+                "categories": "",
+                "front_runners": "",
+                "voting_closed": "",
+                "tallying": "",
+                "cta_vote": "",
+                "cta_nominees": "",
+                "cta_view": "",
+                "cta_results": ""
+            },
+            "footer": {
+                "unsubscribe": ""
+            }
+        },
+        "unsubscribe": {
+            "page_title": "",
+            "heading": "",
+            "greeting": "",
+            "click_hint": "",
+            "daily_title": "",
+            "daily_desc": "",
+            "weekly_title": "",
+            "weekly_desc": "",
+            "monthly_title": "",
+            "monthly_desc": "",
+            "off_title": "",
+            "off_desc": ""
+        },
+        "unsubscribe_saved": {
+            "page_title": "",
+            "heading": "",
+            "body": "",
+            "return_link": ""
+        },
+        "unsubscribe_invalid": {
+            "page_title": "",
+            "heading": "",
+            "body_expired": "",
+            "body_signin": ""
         }
     }
 }
