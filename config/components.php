@@ -335,6 +335,9 @@ return [
 	'huseyinfiliz-modern-footer' => [
 		'beta' => 'https://raw.githubusercontent.com/huseyinfiliz/modern-footer/v2.0.0-beta.1/resources/locale/en.yml',
 	],
+	'huseyinfiliz-rewind' => [
+		'tag' => 'https://raw.githubusercontent.com/huseyinfiliz/rewind/2.0.0/locale/en.yml',
+	],
 	'huseyinfiliz-stickiest' => [
 		'tag' => 'https://raw.githubusercontent.com/huseyinfiliz/stickiest/1.0.2/locale/en.yml',
 		'beta' => 'https://raw.githubusercontent.com/huseyinfiliz/stickiest/2.0.0-beta.2/locale/en.yml',
