@@ -70,8 +70,4 @@
 
 ## Dead branches
 
-| Extension | Pull request |
-| --- | --- |
-| `resofire-aurora` | [![#1594 (open)](https://img.shields.io/badge/PR-%231594-brightgreen)](https://github.com/rob006-software/flarum-translations/pull/1594) |
-| `resofire-avatars` | [![#1598 (open)](https://img.shields.io/badge/PR-%231598-brightgreen)](https://github.com/rob006-software/flarum-translations/pull/1598) |
-| `resofire-user-cards` | [![#1607 (open)](https://img.shields.io/badge/PR-%231607-brightgreen)](https://github.com/rob006-software/flarum-translations/pull/1607) |
+There are no dead branches.
