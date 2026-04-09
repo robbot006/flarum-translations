@@ -10889,6 +10889,18 @@
                     "vs": "f033703ab5bc4bd4d1c3a85830786d2f f033703ab5bc4bd4d1c3a85830786d2f",
                     "week": "14098f9512325d19b99b3b99417aed1f 14098f9512325d19b99b3b99417aed1f"
                 },
+                "headers": {
+                    "accuracy": "154ee766dcb74aed9a9a578ee850b686 154ee766dcb74aed9a9a578ee850b686",
+                    "correct": "62024776921d03fba81992c66cc57897 62024776921d03fba81992c66cc57897",
+                    "cutoff_date": "4c913d92a3de3b70fdbb62ff31f984ea 4c913d92a3de3b70fdbb62ff31f984ea",
+                    "logo": "8c2857a9ad1d8f31659e35e904e20fa6 8c2857a9ad1d8f31659e35e904e20fa6",
+                    "match_date": "c3e31fe1c19ddbde209f6c91a209de7f c3e31fe1c19ddbde209f6c91a209de7f",
+                    "name": "49ee3087348e8d44e1feda1917443987 49ee3087348e8d44e1feda1917443987",
+                    "player": "aef9002f83a929f86907aae175dca658 aef9002f83a929f86907aae175dca658",
+                    "rank": "206d09ea128d3b833439e7cf920fb1c4 206d09ea128d3b833439e7cf920fb1c4",
+                    "slug": "0c908588520b3ef787bce443fc2b507c 0c908588520b3ef787bce443fc2b507c",
+                    "total": "aef861567249aa92cb5810887bdd3808 aef861567249aa92cb5810887bdd3808"
+                },
                 "nav": {
                     "leaderboard": "3800214dda3839e23e8d96b79069da82 3800214dda3839e23e8d96b79069da82",
                     "matches": "4dbd6bf38858b519ac080da88da20042 4dbd6bf38858b519ac080da88da20042",
@@ -10900,6 +10912,11 @@
                     "weeks": "1cc332396aa4925d4b7038bc37ee3bdd 1cc332396aa4925d4b7038bc37ee3bdd"
                 },
                 "status": {
+                    "closed": "3146ef88d34c499e3644508b5f904c72 3146ef88d34c499e3644508b5f904c72",
+                    "correct": "62024776921d03fba81992c66cc57897 62024776921d03fba81992c66cc57897",
+                    "finished": "e5a557e11c5934e2ed68ef8e4501ba72 e5a557e11c5934e2ed68ef8e4501ba72",
+                    "incorrect": "1a64b568d9f94a04ae50faaebf6b5544 1a64b568d9f94a04ae50faaebf6b5544",
+                    "pending": "785dd3dc38ecc4290d644a7c141e8e99 785dd3dc38ecc4290d644a7c141e8e99",
                     "scheduled": "942313bd3e7044f94de76dd6dc53f9f5 942313bd3e7044f94de76dd6dc53f9f5"
                 }
             }
