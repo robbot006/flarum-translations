@@ -7967,6 +7967,7 @@
                 },
                 "fields": {
                     "add": "2f1179b324ee3cf1b4af9793419266ba 2f1179b324ee3cf1b4af9793419266ba",
+                    "delete-confirmation": "22f4e3eed04619a137d1c76f37644967 22f4e3eed04619a137d1c76f37644967",
                     "description": "72f7c76d9eaa47372a0de17f8228b637 72f7c76d9eaa47372a0de17f8228b637",
                     "description-help": "3c358b89351187ff0390f9fcdb0be049 3c358b89351187ff0390f9fcdb0be049",
                     "edit": "de942a9763daf5e723dd9f864665fa24 de942a9763daf5e723dd9f864665fa24",
@@ -9733,6 +9734,16 @@
             }
         }
     },
+    "fof-usercard-stats.json": {
+        "fof-usercard-stats": {
+            "forum": {
+                "user": {
+                    "discussion-count": "dfabf74071a987e7715f9ab370e596e3 dfabf74071a987e7715f9ab370e596e3",
+                    "post-count": "e46c3b1e50c9daa475550337a0c619ef e46c3b1e50c9daa475550337a0c619ef"
+                }
+            }
+        }
+    },
     "fof-username-request.json": {
         "fof-username-request": {
             "admin": {
@@ -10855,6 +10866,41 @@
                 "recipient_kinds": {
                     "group": "3b77a53bb0cbab20a1d684f05c5cf8d6 3b77a53bb0cbab20a1d684f05c5cf8d6",
                     "user": "b15b7b0340f52d448dc6191fc9317f3a b15b7b0340f52d448dc6191fc9317f3a"
+                }
+            }
+        }
+    },
+    "huseyinfiliz-pickem.json": {
+        "huseyinfiliz-pickem": {
+            "lib": {
+                "common": {
+                    "away": "854f363a3a64497e38c7a93444325287 854f363a3a64497e38c7a93444325287",
+                    "date": "9ba51734ced032fd8ec25acfb387a23f 9ba51734ced032fd8ec25acfb387a23f",
+                    "draw": "44db54b9e29973f6df648e1657ec1e90 44db54b9e29973f6df648e1657ec1e90",
+                    "home": "41ec272c9ce7b19a1ba2e6dfd2c38b39 41ec272c9ce7b19a1ba2e6dfd2c38b39",
+                    "match": "4bd00b67454fe223db3815ec8994d372 4bd00b67454fe223db3815ec8994d372",
+                    "pick": "c750f9f8d5deaecc9162be3abdb7c95f c750f9f8d5deaecc9162be3abdb7c95f",
+                    "points": "41dd6f3f2dc1328049caa0597ae346d0 41dd6f3f2dc1328049caa0597ae346d0",
+                    "result": "cbdbdb72014d1074733ebb6e458c3eb8 cbdbdb72014d1074733ebb6e458c3eb8",
+                    "score": "766dcd7b0be8fe5f3eec1bb6ab15ccbc 766dcd7b0be8fe5f3eec1bb6ab15ccbc",
+                    "season": "ef844630e43838e2ca5ac8d82ad26990 ef844630e43838e2ca5ac8d82ad26990",
+                    "status": "ec53a8c4f07baed5d8825072c89799be ec53a8c4f07baed5d8825072c89799be",
+                    "team": "ac848fa228f49ba2b8a5fbd76596817d ac848fa228f49ba2b8a5fbd76596817d",
+                    "vs": "f033703ab5bc4bd4d1c3a85830786d2f f033703ab5bc4bd4d1c3a85830786d2f",
+                    "week": "14098f9512325d19b99b3b99417aed1f 14098f9512325d19b99b3b99417aed1f"
+                },
+                "nav": {
+                    "leaderboard": "3800214dda3839e23e8d96b79069da82 3800214dda3839e23e8d96b79069da82",
+                    "matches": "4dbd6bf38858b519ac080da88da20042 4dbd6bf38858b519ac080da88da20042",
+                    "my_picks": "eb8c9417e106f23aca5fa3157c5b6489 eb8c9417e106f23aca5fa3157c5b6489",
+                    "pickem": "e3d698da1f0458dc3febd98203c56683 e3d698da1f0458dc3febd98203c56683",
+                    "seasons": "d9e2f8a88b4524ad50d3f5ee1ba312f0 d9e2f8a88b4524ad50d3f5ee1ba312f0",
+                    "settings": "27014dd1bf5fe7e41ced3bedfc4cd2aa 27014dd1bf5fe7e41ced3bedfc4cd2aa",
+                    "teams": "1fe1b6cf4f52930c301b03e5a69c42c2 1fe1b6cf4f52930c301b03e5a69c42c2",
+                    "weeks": "1cc332396aa4925d4b7038bc37ee3bdd 1cc332396aa4925d4b7038bc37ee3bdd"
+                },
+                "status": {
+                    "scheduled": "942313bd3e7044f94de76dd6dc53f9f5 942313bd3e7044f94de76dd6dc53f9f5"
                 }
             }
         }
@@ -15918,6 +15964,10 @@
         "vlssu-flarum-cravatar": {
             "admin": {
                 "settings": {
+                    "allow-user-toggle": {
+                        "helptext": "a3182d469269396be685ba12e353882f a3182d469269396be685ba12e353882f",
+                        "title": "e012b00b0a09d568b2fb6656398fabb5 e012b00b0a09d568b2fb6656398fabb5"
+                    },
                     "defaults": {
                         "helptext": "bf8e6f2dbd0cf5b4c0c1f240b3ca9a11 bf8e6f2dbd0cf5b4c0c1f240b3ca9a11",
                         "identicon_label": "2facbe0e561e833f3915452f493275e2 2facbe0e561e833f3915452f493275e2",
@@ -15925,10 +15975,16 @@
                         "mp_label": "118b34309157b7425a2326baa2f6ac09 118b34309157b7425a2326baa2f6ac09",
                         "retro_label": "c90b4c6d54ae1c0285518d1a9cbc514a c90b4c6d54ae1c0285518d1a9cbc514a",
                         "robohash_label": "53f059c7fefbb192f96bc59e7c12046f 53f059c7fefbb192f96bc59e7c12046f",
+                        "title": "83882ba3f7e17e5d43968faaf31647b5 83882ba3f7e17e5d43968faaf31647b5",
                         "wavatar_label": "cb56bc4ad6a34184518cf3256060e878 cb56bc4ad6a34184518cf3256060e878"
                     },
                     "force-default": {
+                        "helptext": "dcdb933896cc9a6ac8a92b81a454d2bf dcdb933896cc9a6ac8a92b81a454d2bf",
                         "title": "e88b4eb8d7644a32fa47cd69cf4aed39 e88b4eb8d7644a32fa47cd69cf4aed39"
+                    },
+                    "proxy": {
+                        "helptext": "664e1060e946d43d538329ab34d610b6 664e1060e946d43d538329ab34d610b6",
+                        "title": "3e007833fcae1b23e880106f53293257 3e007833fcae1b23e880106f53293257"
                     },
                     "rating": {
                         "g_label": "13c7118fea63d89bae49d036859cb90b 13c7118fea63d89bae49d036859cb90b",
@@ -15937,7 +15993,18 @@
                         "r_label": "4f4e2e43b6f9bcf25fc9c2fbf6f04e47 4f4e2e43b6f9bcf25fc9c2fbf6f04e47",
                         "title": "3f2221f8f4af389f9856daa7f74e9916 3f2221f8f4af389f9856daa7f74e9916",
                         "x_label": "6a2850de2bc8f21a0ec66ab5df0da6d4 6a2850de2bc8f21a0ec66ab5df0da6d4"
+                    },
+                    "replace-flarum-custom": {
+                        "helptext": "fc58f42d3e2f2d20fdac857a5268f507 fc58f42d3e2f2d20fdac857a5268f507",
+                        "title": "5b125b6706d9fd1ab8000193d3e363e1 5b125b6706d9fd1ab8000193d3e363e1"
                     }
+                }
+            },
+            "forum": {
+                "settings": {
+                    "edit-cravatar": "a8c7b14bc3cb01f53c06b1501a60db0e a8c7b14bc3cb01f53c06b1501a60db0e",
+                    "use-cravatar": "5990b71477a4313d8f73a06844c1f9b3 5990b71477a4313d8f73a06844c1f9b3",
+                    "use-uploaded": "bb0f4222ff90ec6b009a693543918a86 bb0f4222ff90ec6b009a693543918a86"
                 }
             }
         }
