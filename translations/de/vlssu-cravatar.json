@@ -16,7 +16,7 @@
                 },
                 "defaults": {
                     "title": "",
-                    "helptext": "",
+                    "helptext": "Was passiert, wenn für eine E-Mail-Adresse kein passendes Cravatar-Bild vorhanden ist? Cravatar verfügt über eine Reihe integrierter Optionen, die als Standardwerte verwenden können. Die meisten davon funktionieren so, dass sie den Hash der angeforderten E-Mail-Adresse verwenden, um ein themenbezogenes Bild zu generieren, das für diese E-Mail-Adresse einzigartig ist.",
                     "mp_label": "",
                     "identicon_label": "",
                     "monsterid_label": "",
