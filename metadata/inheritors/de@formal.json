@@ -3745,8 +3745,8 @@
                         "heading": "02be9999832d9b4f68c22d725bc04789 02be9999832d9b4f68c22d725bc04789",
                         "help": "510f0e4b94e739cf8ea00a4a003ff582 510f0e4b94e739cf8ea00a4a003ff582"
                     },
-                    "hide_from_all_discussions_page": "78db35b555cd4cef7153d66743536f60 78db35b555cd4cef7153d66743536f60",
-                    "hide_from_all_discussions_page_help": "96e320d487ea8880dc8af57d7486df3c 96e320d487ea8880dc8af57d7486df3c",
+                    "hide_from_all_discussions_page": "c4b17c9a54a20c342223091d5b4bf4a5 c4b17c9a54a20c342223091d5b4bf4a5",
+                    "hide_from_all_discussions_page_help": "7e4e3ef52057e2cd5fcd13307acf84c2 7e4e3ef52057e2cd5fcd13307acf84c2",
                     "icon": {
                         "heading": "34205439dcbc0517186f28ddaf40bdda 34205439dcbc0517186f28ddaf40bdda",
                         "help": "beb97671d302b230bf3c1e1dcde8b2a9 beb97671d302b230bf3c1e1dcde8b2a9"
@@ -3919,6 +3919,20 @@
             },
             "ref": {
                 "categories": "2d707e301392c9ecf968755f45a08273 2d707e301392c9ecf968755f45a08273"
+            }
+        }
+    },
+    "fof-checklist.json": {
+        "fof-checklist": {
+            "admin": {
+                "settings": {
+                    "cross_out_completed_items": "66555458f1124319cf3709d7c837f553 66555458f1124319cf3709d7c837f553"
+                }
+            },
+            "lib": {
+                "composer": {
+                    "checklist_tooltip": "2824efeafb25b03ec4c1886b4d0509f8 2824efeafb25b03ec4c1886b4d0509f8"
+                }
             }
         }
     },
@@ -8576,6 +8590,34 @@
             "uppercase": "a50d6ac58bbc7f7797780c5d9d2906c6 a50d6ac58bbc7f7797780c5d9d2906c6",
             "url": "8cfdebb1518054c52fb86211bcbb6fef d41d8cd98f00b204e9800998ecf8427e",
             "uuid": "47dbea628940ce4fe4aad03c220e05a2 d41d8cd98f00b204e9800998ecf8427e"
+        }
+    },
+    "vlssu-cravatar.json": {
+        "vlssu-flarum-cravatar": {
+            "admin": {
+                "settings": {
+                    "defaults": {
+                        "helptext": "bf8e6f2dbd0cf5b4c0c1f240b3ca9a11 bf8e6f2dbd0cf5b4c0c1f240b3ca9a11",
+                        "identicon_label": "2facbe0e561e833f3915452f493275e2 2facbe0e561e833f3915452f493275e2",
+                        "monsterid_label": "e1e8a2ce7ac3fa80a10e13d42414ad40 e1e8a2ce7ac3fa80a10e13d42414ad40",
+                        "mp_label": "118b34309157b7425a2326baa2f6ac09 118b34309157b7425a2326baa2f6ac09",
+                        "retro_label": "c90b4c6d54ae1c0285518d1a9cbc514a c90b4c6d54ae1c0285518d1a9cbc514a",
+                        "robohash_label": "53f059c7fefbb192f96bc59e7c12046f 53f059c7fefbb192f96bc59e7c12046f",
+                        "wavatar_label": "cb56bc4ad6a34184518cf3256060e878 cb56bc4ad6a34184518cf3256060e878"
+                    },
+                    "force-default": {
+                        "title": "e88b4eb8d7644a32fa47cd69cf4aed39 e88b4eb8d7644a32fa47cd69cf4aed39"
+                    },
+                    "rating": {
+                        "g_label": "13c7118fea63d89bae49d036859cb90b 13c7118fea63d89bae49d036859cb90b",
+                        "helptext": "4df85615efcc424dfde532041e6230d9 4df85615efcc424dfde532041e6230d9",
+                        "pg_label": "1ff4cdb59949541d89d69e4230576005 1ff4cdb59949541d89d69e4230576005",
+                        "r_label": "4f4e2e43b6f9bcf25fc9c2fbf6f04e47 4f4e2e43b6f9bcf25fc9c2fbf6f04e47",
+                        "title": "3f2221f8f4af389f9856daa7f74e9916 3f2221f8f4af389f9856daa7f74e9916",
+                        "x_label": "6a2850de2bc8f21a0ec66ab5df0da6d4 6a2850de2bc8f21a0ec66ab5df0da6d4"
+                    }
+                }
+            }
         }
     },
     "walsgit-recycle-bin.json": {
