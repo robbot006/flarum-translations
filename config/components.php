@@ -156,7 +156,7 @@ return [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/best-answer/2.0.0-beta.5/resources/locale/en.yml',
 	],
 	'fof-byobu' => [
-		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/byobu/2.0.0-beta.10/resources/locale/en.yml',
+		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/byobu/2.0.0-beta.11/resources/locale/en.yml',
 	],
 	'fof-categories' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/categories/2.0.0-beta.2/resources/locale/en.yml',
