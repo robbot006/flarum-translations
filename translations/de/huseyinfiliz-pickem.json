@@ -29,23 +29,23 @@
             },
             "status": {
                 "scheduled": "Geplant",
-                "closed": "",
-                "finished": "",
-                "pending": "",
-                "correct": "",
-                "incorrect": ""
+                "closed": "Geschlossen",
+                "finished": "Abgeschlossen",
+                "pending": "Ausstehend",
+                "correct": "Korrekt",
+                "incorrect": "Falsch"
             },
             "headers": {
-                "rank": "",
-                "player": "",
-                "correct": "",
-                "total": "",
-                "accuracy": "",
-                "logo": "",
-                "match_date": "",
-                "cutoff_date": "",
-                "slug": "",
-                "name": "",
+                "rank": "Rang",
+                "player": "Spieler",
+                "correct": "Korrekt",
+                "total": "Insgesamt",
+                "accuracy": "Genauigkeit",
+                "logo": "Logo",
+                "match_date": "Spieldatum",
+                "cutoff_date": "Anmeldeschluss",
+                "slug": "Slug",
+                "name": "Name",
                 "week_number": ""
             },
             "form": {
