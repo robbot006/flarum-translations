@@ -10873,6 +10873,19 @@
     "huseyinfiliz-pickem.json": {
         "huseyinfiliz-pickem": {
             "lib": {
+                "actions": {
+                    "create": "9a08cb504f9ba9dc0a3075fee8aafca0 9a08cb504f9ba9dc0a3075fee8aafca0",
+                    "edit": "5ad05dd4fa8fe82c3a85570683c368ad 5ad05dd4fa8fe82c3a85570683c368ad",
+                    "enter_result": "a49aafd9f75cbee25b5d23395e89fa21 a49aafd9f75cbee25b5d23395e89fa21"
+                },
+                "buttons": {
+                    "cancel": "4b97278b444c0203fc17d7b93a39f5c7 4b97278b444c0203fc17d7b93a39f5c7",
+                    "create": "9a08cb504f9ba9dc0a3075fee8aafca0 9a08cb504f9ba9dc0a3075fee8aafca0",
+                    "delete": "1010b01ca33474b21dfca7411a13552c 1010b01ca33474b21dfca7411a13552c",
+                    "edit": "5ad05dd4fa8fe82c3a85570683c368ad 5ad05dd4fa8fe82c3a85570683c368ad",
+                    "load_more": "5cc9dddd6270544a19301d3227a40a18 5cc9dddd6270544a19301d3227a40a18",
+                    "save": "b97d23bf800ff592f7afe97a29921271 b97d23bf800ff592f7afe97a29921271"
+                },
                 "common": {
                     "away": "854f363a3a64497e38c7a93444325287 854f363a3a64497e38c7a93444325287",
                     "date": "9ba51734ced032fd8ec25acfb387a23f 9ba51734ced032fd8ec25acfb387a23f",
@@ -10889,10 +10902,18 @@
                     "vs": "f033703ab5bc4bd4d1c3a85830786d2f f033703ab5bc4bd4d1c3a85830786d2f",
                     "week": "14098f9512325d19b99b3b99417aed1f 14098f9512325d19b99b3b99417aed1f"
                 },
+                "filters": {
+                    "all": "2bca61615ad4e3e8c668c33b238a99c8 2bca61615ad4e3e8c668c33b238a99c8"
+                },
                 "form": {
+                    "away_team": "4c71f78bf59e41cb8dcb88e17fa791c9 4c71f78bf59e41cb8dcb88e17fa791c9",
                     "end_date": "fe77731bfc60054966a315d6eea6f9a9 fe77731bfc60054966a315d6eea6f9a9",
+                    "home_team": "d0d2bff8de6ac407447cbe43afc69a0a d0d2bff8de6ac407447cbe43afc69a0a",
                     "logo_url": "33eff27a68dd70ce8dc82e651c820771 33eff27a68dd70ce8dc82e651c820771",
                     "name": "49ee3087348e8d44e1feda1917443987 49ee3087348e8d44e1feda1917443987",
+                    "select_season": "44ea7616b8e9b902a83346576d129249 44ea7616b8e9b902a83346576d129249",
+                    "select_team": "0fa0979f14ed40f964d5c8d1a4331c79 0fa0979f14ed40f964d5c8d1a4331c79",
+                    "select_week": "0a327b0eb04ee18fe60fb27f65343eda 0a327b0eb04ee18fe60fb27f65343eda",
                     "slug": "0c908588520b3ef787bce443fc2b507c 0c908588520b3ef787bce443fc2b507c",
                     "start_date": "8791ab835d0a1d1d39c18ee8f04f6142 8791ab835d0a1d1d39c18ee8f04f6142",
                     "week_number": "e5c33b0b182b953c8148d374dbbfa07f e5c33b0b182b953c8148d374dbbfa07f"
