@@ -2,17 +2,17 @@
     "quasimo-llms-txt": {
         "admin": {
             "settings": {
-                "urls_label": "",
+                "urls_label": "Endpunkt-URLs",
                 "urls_help": "",
                 "open_label": "",
-                "enabled_label": "",
+                "enabled_label": "llms.txt aktivieren",
                 "enabled_help": "",
                 "full_enabled_label": "",
                 "full_enabled_help": "",
                 "sort_label": "",
-                "sort_latest": "",
-                "sort_top": "",
-                "sort_help": "",
+                "sort_latest": "Letzte Aktivität",
+                "sort_top": "Meiste Antworten",
+                "sort_help": "Wie die Diskussionen in beiden generierten Dateien sortiert sind.",
                 "max_discussions_label": "",
                 "max_discussions_help": "",
                 "max_posts_label": "",
