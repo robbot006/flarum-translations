@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "Champs",
-                "create": "",
+                "create": "Créer un champ",
                 "edit": "Modifier le champ {field}",
                 "delete-confirmation": "Êtes-vous sûr de vouloir supprimer le champ {field} ? Cette action est irréversible.",
                 "name": "Nom du champ",
