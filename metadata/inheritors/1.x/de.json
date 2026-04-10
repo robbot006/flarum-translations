@@ -6395,6 +6395,19 @@
             }
         }
     },
+    "quasimo-llms-txt.json": {
+        "quasimo-llms-txt": {
+            "admin": {
+                "settings": {
+                    "enabled_label": "d41d8cd98f00b204e9800998ecf8427e 84066c175b894a16368c43afe6d27624",
+                    "sort_help": "d41d8cd98f00b204e9800998ecf8427e a7c5bf0b09bb51f5bf6d9aba4c2b8da7",
+                    "sort_latest": "d41d8cd98f00b204e9800998ecf8427e 817d38f7aa7e0bdd089ccf5beec136d1",
+                    "sort_top": "d41d8cd98f00b204e9800998ecf8427e a0d6722b74a1c491c6f80f9698991776",
+                    "urls_label": "d41d8cd98f00b204e9800998ecf8427e ca5bec4ad44b8a8d4a477c9e9193c53a"
+                }
+            }
+        }
+    },
     "ralkage-account-lockout.json": {
         "ralkage-account-lockout": {
             "admin": {
