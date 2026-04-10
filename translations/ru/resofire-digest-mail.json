@@ -12,9 +12,9 @@
                 "save_error": "Не удалось сохранить настройки. Попробуйте снова."
             },
             "onboarding": {
-                "modal_title": "",
-                "modal_body": "",
-                "modal_dismiss": ""
+                "modal_title": "Оставайтесь в курсе",
+                "modal_body": "Получайте регулярный дайджест с лучшими дискуссиями, новыми участниками и всем, что происходит на форуме — прямо на вашу почту.",
+                "modal_dismiss": "Нет, спасибо"
             }
         },
         "admin": {
@@ -33,8 +33,8 @@
                 "limit_pickem_help": "Максимальное количество предстоящих матчей, последних результатов и записей таблицы лидеров — по умолчанию 5, минимум 3. Требуется husseinfiliz/pickem.",
                 "limit_gamepedia_label": "Gamepedia",
                 "limit_gamepedia_help": "Максимальное количество игр в разделах «Самые обсуждаемые» и «Недавно добавленные» — по умолчанию 5, минимум 3. Требуется husseinfiliz/gamepedia.",
-                "limit_resofire_gamepedia_label": "",
-                "limit_resofire_gamepedia_help": "",
+                "limit_resofire_gamepedia_label": "Gamepedia — максимум игр в разделе",
+                "limit_resofire_gamepedia_help": "Максимальное количество игр в разделах «Самые обсуждаемые», «Недавно добавленные» и «Популярные жанры». По умолчанию — 5, минимум — 3. Требуется resofire/gamepedia.",
                 "limit_favorites_label": "Избранные дискуссии",
                 "limit_favorites_help": "Максимальное количество избранных дискуссий для отображения, отсортированных по лайкам/реакциям за период — по умолчанию 6, минимум 3. Установите 0, чтобы отключить. Использует fof/reactions, если включено, или flarum/likes.",
                 "enable_awards_label": "Награды",
@@ -86,12 +86,12 @@
                 "theme_light_only": "Только светлая тема — установите и включите fof/nightmode, чтобы разблокировать тёмную тему писем"
             },
             "onboarding": {
-                "section_heading": "",
-                "mode_label": "",
-                "mode_help": "",
-                "mode_none": "",
-                "mode_auto_enroll": "",
-                "mode_opt_in_modal": "",
+                "section_heading": "Новые пользователи",
+                "mode_label": "Тип подписки",
+                "mode_help": "Определяет, как новые пользователи подписываются на дайджест при активации аккаунта.",
+                "mode_none": "Пользователи выбирают сами",
+                "mode_auto_enroll": "Автоматически подписывать новых пользователей",
+                "mode_opt_in_modal": "Показывать окно с предложением подписки",
                 "frequency_label": "",
                 "frequency_help": ""
             }
