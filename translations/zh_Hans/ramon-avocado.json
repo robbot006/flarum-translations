@@ -89,8 +89,8 @@
                 "sort_top": "热门",
                 "sort_newest": "最新发布",
                 "sort_oldest": "最早发布",
-                "no_posts_found": "未找到相关帖子",
-                "no_posts_match": "没有与搜索条件匹配的帖子",
+                "no_posts_found": "未找到与“{q}”匹配的帖子。",
+                "no_posts_match": "没有符合筛选条件的帖子。",
                 "no_users_found": "未找到相关用户",
                 "enter_search_term": "请输入搜索关键词"
             },
