@@ -149,7 +149,8 @@
                 "post_plural": "{count} 个帖子",
                 "discussion_singular_card": "个讨论",
                 "discussion_plural_card": "{count} 个讨论",
-                "yesterday_time": "昨天 ，{time}"
+                "yesterday_time": "昨天 ，{time}",
+                "showcase_heading": ""
             },
             "discussions": {
                 "title": "所有讨论",

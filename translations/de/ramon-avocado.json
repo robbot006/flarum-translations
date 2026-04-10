@@ -149,7 +149,8 @@
                 "post_plural": "",
                 "discussion_singular_card": "",
                 "discussion_plural_card": "",
-                "yesterday_time": ""
+                "yesterday_time": "",
+                "showcase_heading": ""
             },
             "discussions": {
                 "title": "",

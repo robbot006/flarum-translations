@@ -149,7 +149,8 @@
                 "post_plural": "",
                 "discussion_singular_card": "",
                 "discussion_plural_card": "",
-                "yesterday_time": "Вчера, {time}"
+                "yesterday_time": "Вчера, {time}",
+                "showcase_heading": ""
             },
             "discussions": {
                 "title": "Все дискуссии",

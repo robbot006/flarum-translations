@@ -149,7 +149,8 @@
                 "post_plural": "{count} posts",
                 "discussion_singular_card": "1 discussion",
                 "discussion_plural_card": "{count} discussions",
-                "yesterday_time": "Yesterday, {time}"
+                "yesterday_time": "Yesterday, {time}",
+                "showcase_heading": "Showcase"
             },
             "discussions": {
                 "title": "All discussions",
