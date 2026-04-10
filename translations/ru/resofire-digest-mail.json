@@ -27,7 +27,7 @@
                 "limit_unread_help": "Максимальное количество непрочитанных дискуссий.",
                 "limit_leaderboard_label": "Записи таблицы лидеров",
                 "limit_leaderboard_help": "Количество записей таблицы лидеров в дайджесте — по умолчанию 10, минимум 3. Требуется husseinfiliz-leaderboard.",
-                "limit_badges_label": "Награды — последние получатели",
+                "limit_badges_label": "Значки — последние получатели",
                 "limit_badges_help": "Максимальное количество пользователей, недавно получивших награды — по умолчанию 5, минимум 3. Требуется fof/badges.",
                 "limit_pickem_label": "Прогнозы",
                 "limit_pickem_help": "Максимальное количество предстоящих матчей, последних результатов и записей таблицы лидеров — по умолчанию 5, минимум 3. Требуется husseinfiliz/pickem.",
@@ -92,121 +92,121 @@
                 "mode_none": "Пользователи выбирают сами",
                 "mode_auto_enroll": "Автоматически подписывать новых пользователей",
                 "mode_opt_in_modal": "Показывать окно с предложением подписки",
-                "frequency_label": "",
-                "frequency_help": ""
+                "frequency_label": "Периодичность автоподписки",
+                "frequency_help": "Частота дайджеста, на которую новые пользователи подписываются автоматически. Доступны только включённые выше варианты."
             }
         },
         "email": {
-            "subject": "",
-            "heading": "",
+            "subject": "{forum} — ваш дайджест ({frequency})",
+            "heading": "Что происходило за {period}",
             "stats": {
-                "posts": "",
-                "discussions": "",
-                "new_members": "",
-                "active_users": ""
+                "posts": "Сообщения",
+                "discussions": "Дискуссии",
+                "new_members": "Новые участники",
+                "active_users": "Активные пользователи"
             },
             "featured": {
-                "author_label": "",
-                "badge": "",
-                "cta": ""
+                "author_label": "Автор дискуссии",
+                "badge": "Рекомендуемое",
+                "cta": "Присоединиться к обсуждению"
             },
             "sections": {
-                "new_discussions": "",
-                "active_discussions": "",
-                "unread": "",
-                "new_members": "",
-                "leaderboard": "",
-                "badges": "",
-                "pickem": "",
-                "gamepedia": "",
-                "favorites": ""
+                "new_discussions": "Новые дискуссии",
+                "active_discussions": "Активные дискуссии",
+                "unread": "Это вы ещё не видели",
+                "new_members": "Новые участники",
+                "leaderboard": "Таблица лидеров",
+                "badges": "Значки",
+                "pickem": "Прогнозы",
+                "gamepedia": "Gamepedia",
+                "favorites": "Избранные дискуссии"
             },
             "members": {
-                "joined": ""
+                "joined": "На форуме {time_ago}"
             },
             "leaderboard": {
-                "rankings_note": "",
-                "col_rank": "",
-                "col_member": "",
-                "col_move": "",
-                "col_score": "",
-                "new_badge": "",
-                "biggest_mover": "",
-                "spot_singular": "",
-                "spot_plural": ""
+                "rankings_note": "Рейтинг на основе общего количества очков за сообщения, дискуссии, лайки, значки и ежедневные входы.",
+                "col_rank": "#",
+                "col_member": "Участник",
+                "col_move": "Изменение",
+                "col_score": "Очки",
+                "new_badge": "НОВЫЙ",
+                "biggest_mover": "Самый большой рост за {period}",
+                "spot_singular": "позиция",
+                "spot_plural": "позиции"
             },
             "badges": {
-                "intro": "",
-                "most_earned": "",
-                "earned_count_singular": "",
-                "earned_count_plural": "",
-                "rarest": "",
-                "rarest_count_singular": "",
-                "rarest_count_plural": ""
+                "intro": "Участники, получившие значки за {period}.",
+                "most_earned": "Больше всего значков за {period}",
+                "earned_count_singular": "Получено {count} за {period}",
+                "earned_count_plural": "Получено {count} за {period}",
+                "rarest": "Самый редкий полученный значок",
+                "rarest_count_singular": "Только у {count} участника есть этот значок",
+                "rarest_count_plural": "Только у {count} участников есть этот значок"
             },
             "pickem": {
-                "upcoming_heading": "",
-                "upcoming_note": "",
-                "cta": "",
-                "results_heading": "",
-                "draw": "",
-                "leaderboard_heading": "",
-                "col_rank": "",
-                "col_player": "",
-                "col_pts": "",
-                "col_accuracy": ""
+                "upcoming_heading": "Предстоящие матчи",
+                "upcoming_note": "Не упустите шанс сделать прогноз.",
+                "cta": "Сделать прогнозы",
+                "results_heading": "Последние результаты",
+                "draw": "Ничья",
+                "leaderboard_heading": "Лидеры прогнозов",
+                "col_rank": "#",
+                "col_player": "Игрок",
+                "col_pts": "Очки",
+                "col_accuracy": "Точность"
             },
             "gamepedia": {
-                "most_discussed": "",
-                "newly_added": "",
-                "cta": ""
+                "most_discussed": "Самые обсуждаемые за {period}",
+                "newly_added": "Недавно добавленные",
+                "cta": "Перейти в Gamepedia"
             },
             "resofire_gamepedia": {
-                "most_discussed": "",
-                "newly_added": "",
-                "top_genres": "",
-                "cta": ""
+                "most_discussed": "Самые обсуждаемые за {period}",
+                "newly_added": "Недавно добавленные",
+                "top_genres": "Популярные жанры за {period}",
+                "cta": "Перейти в Gamepedia"
             },
             "awards": {
-                "coming_soon": "",
-                "categories": "",
-                "front_runners": "",
-                "voting_closed": "",
-                "tallying": "",
-                "cta_vote": "",
-                "cta_nominees": "",
-                "cta_view": "",
-                "cta_results": ""
+                "coming_soon": "Скоро",
+                "categories": "Категории",
+                "front_runners": "Текущие лидеры",
+                "voting_closed": "Голосование завершено",
+                "tallying": "Результаты подсчитываются. Следите за новостями!",
+                "cta_vote": "Проголосовать",
+                "cta_nominees": "Посмотреть номинантов",
+                "cta_view": "Посмотреть награды",
+                "cta_results": "Смотреть полные результаты"
             },
             "footer": {
-                "unsubscribe": ""
+                "unsubscribe": "Изменить периодичность или отписаться"
             }
         },
         "unsubscribe": {
-            "page_title": "",
-            "heading": "",
-            "greeting": "",
-            "click_hint": "",
-            "daily_title": "",
-            "daily_desc": "",
-            "weekly_title": "",
-            "weekly_desc": "",
-            "monthly_title": "",
-            "monthly_desc": "",
-            "off_title": "",
-            "off_desc": ""
+            "page_title": "Настройки дайджеста",
+            "heading": "Настройки дайджеста",
+            "greeting": "Здравствуйте, {name}. Выберите, как часто вы хотите получать дайджест о происходящем на {forum}.",
+            "click_hint": "Нажмите на вариант, чтобы сохранить выбор.",
+            "daily_title": "Ежедневно",
+            "daily_desc": "Одно письмо в день с последними обновлениями.",
+            "weekly_title": "Еженедельно",
+            "weekly_desc": "Еженедельная сводка по {day}.",
+            "monthly_title": "Ежемесячно",
+            "monthly_desc": "Ежемесячная сводка {day} числа.",
+            "off_title": "Отключено",
+            "off_desc": "Не отправлять дайджесты."
         },
         "unsubscribe_saved": {
-            "page_title": "",
-            "heading": "",
-            "body": "",
-            "return_link": ""
+            "page_title": "Настройки сохранены",
+            "heading": "Настройки сохранены",
+            "body": "Настройки дайджеста обновлены.",
+            "return_link": "Вернуться на {forum}"
         },
         "unsubscribe_invalid": {
-            "page_title": "",
-            "heading": "",
-            "body_expired": "",
-            "body_signin": ""
+            "page_title": "Недействительная или устаревшая ссылка",
+            "heading": "Эта ссылка устарела",
+            "body_expired": "Ссылка для отписки истекла или уже была использована. Новая ссылка есть в каждом письме с дайджестом.",
+            "body_signin": "Для изменения периодичности отправки дайджеста войдите на {forum} и откройте настройки уведомлений."
         }
     }
 }
