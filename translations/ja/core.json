@@ -54,6 +54,20 @@
                 "use_random_password": "ランダムなパスワードを生成",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "キャッシュのクリア",
                 "description": "フォーラムの概況を確認します。",

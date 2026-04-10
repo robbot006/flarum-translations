@@ -57,6 +57,20 @@
                 "use_random_password": "Generar contraseña aleatoria",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "Limpiar cache",
                 "description": "Su foro de un vistazo.",

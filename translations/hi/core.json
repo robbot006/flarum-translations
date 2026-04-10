@@ -54,6 +54,20 @@
                 "use_random_password": "यादृच्छिक पासवर्ड जनरेट करें",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "कैश को साफ़ करें",
                 "description": "आपका मंच एक नजर में।",

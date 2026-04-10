@@ -57,6 +57,20 @@
                 "use_random_password": "임의의 비밀번호 생성",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "캐시 삭제",
                 "description": "한눈에 보이는 당신의 포럼.",

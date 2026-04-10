@@ -54,6 +54,20 @@
                 "use_random_password": "Ustvari naključno geslo",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "Počisti predpomnilnik",
                 "description": "Vaš forum na prvi pogled.",

@@ -54,6 +54,20 @@
                 "use_random_password": "Genereeri parool",
                 "username_placeholder": "Kasutajanimi"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "Puhasta vahemälu",
                 "description": "Foorumi ülevaade.",

@@ -54,6 +54,20 @@
                 "use_random_password": "",
                 "username_placeholder": ""
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "ქეშის გასუფთავება",
                 "description": "თქვენი ფორუმი ერთი შეხედვით.",
