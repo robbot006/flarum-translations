@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "Champs",
-                "add": "Ajouter le champ {field}",
+                "create": "",
                 "edit": "Modifier le champ {field}",
                 "delete-confirmation": "Êtes-vous sûr de vouloir supprimer le champ {field} ? Cette action est irréversible.",
                 "name": "Nom du champ",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "Obliger l'utilisateur à compléter son profil",
                 "options": "Options",
                 "option-new": "Nouvelle option",
-                "option-comma-warning": "Le libellé d'une option ne peut pas contenir de virgule (« , »)."
+                "option-comma-warning": "Le libellé d'une option ne peut pas contenir de virgule (« , »).",
+                "add": "Ajouter le champ {field}"
             },
             "types": {
                 "advanced": "Avancé",

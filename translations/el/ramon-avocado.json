@@ -1,6 +1,7 @@
 {
     "ramon-avocado": {
         "admin": {
+            "loading": "",
             "settings": {
                 "section_homepage": "",
                 "featured_tags_label": "",
@@ -72,8 +73,36 @@
             "link_cta": {
                 "placeholder": ""
             },
+            "search": {
+                "title": "",
+                "placeholder": "",
+                "placeholder_hero": "",
+                "hero_title": "",
+                "hero_sub": "",
+                "tab_discussions": "",
+                "tab_posts": "",
+                "tab_users": "",
+                "search_button": "",
+                "clear": "",
+                "sort_relevance": "",
+                "sort_latest": "",
+                "sort_top": "",
+                "sort_newest": "",
+                "sort_oldest": "",
+                "no_posts_found": "",
+                "no_posts_match": "",
+                "no_users_found": "",
+                "enter_search_term": ""
+            },
             "header": {
-                "back_home": ""
+                "back_home": "",
+                "search": ""
+            },
+            "discussion": {
+                "post_singular": "",
+                "post_plural": "",
+                "participant_singular": "",
+                "participant_plural": ""
             },
             "home": {
                 "all_categories": "",
@@ -88,6 +117,7 @@
                 "composer_post": "",
                 "composer_submitting": "",
                 "composer_title_placeholder": "",
+                "discussion_singular": "",
                 "discussions": "",
                 "filter_tags": "",
                 "following_heading": "",
@@ -103,25 +133,39 @@
                 "reply_count_plural": "",
                 "reply_count_singular": "",
                 "reply_label": "",
+                "reply_singular": "",
+                "reply_plural": "",
                 "see_all": "",
                 "see_other_replies": "",
                 "see_other_reply_singular": "",
                 "sign_up": "",
+                "sort_trending": "",
                 "start_discussion": "",
                 "today_time": "",
                 "untitled": "",
+                "view": "",
+                "view_post": "",
+                "post_singular": "",
+                "post_plural": "",
+                "discussion_singular_card": "",
+                "discussion_plural_card": "",
                 "yesterday_time": ""
             },
             "discussions": {
                 "title": "",
-                "home": ""
+                "home": "",
+                "load_more": ""
+            },
+            "post": {
+                "op_badge": ""
             },
             "tags": {
                 "title": "",
                 "discussion_singular": "",
                 "discussion_plural": "",
                 "other_tags_label": "",
-                "featured": ""
+                "featured": "",
+                "all_discussions": ""
             }
         }
     }

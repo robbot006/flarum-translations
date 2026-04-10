@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "Alanlar",
-                "add": "Alan ekle {field}",
+                "create": "",
                 "edit": "Alan düzenle {field}",
                 "delete-confirmation": "",
                 "name": "Alan adı",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "Kullanıcıyı profilini tamamlamaya zorla",
                 "options": "Seçenekler",
                 "option-new": "Yeni seçenek",
-                "option-comma-warning": "Bir seçeneğin etiketi herhangi bir virgül (\",\") içeremez."
+                "option-comma-warning": "Bir seçeneğin etiketi herhangi bir virgül (\",\") içeremez.",
+                "add": "Alan ekle {field}"
             },
             "types": {
                 "advanced": "Gelişmiş",

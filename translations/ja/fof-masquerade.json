@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "フィールド",
-                "add": "フィールド {field} を追加",
+                "create": "",
                 "edit": "編集フィールド {field}",
                 "delete-confirmation": "",
                 "name": "フィールド名",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "ユーザーにプロファイルの完了を強制する",
                 "options": "オプション",
                 "option-new": "新しいオプション",
-                "option-comma-warning": "オプションのラベルにコンマ（ \",\"）を含めることはできません。"
+                "option-comma-warning": "オプションのラベルにコンマ（ \",\"）を含めることはできません。",
+                "add": "フィールド {field} を追加"
             },
             "types": {
                 "advanced": "高度な",

@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "Sahələr",
-                "add": "Sahə əlavə et {field}",
+                "create": "",
                 "edit": "{field} sahəsini redaktə et",
                 "delete-confirmation": "",
                 "name": "Sahənin adı",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "İstifadəçini profili tamamlamağa məcbur et",
                 "options": "Seçimlər",
                 "option-new": "Yeni seçim",
-                "option-comma-warning": "Seçim başlığında vergül (\",\") ola bilməz."
+                "option-comma-warning": "Seçim başlığında vergül (\",\") ola bilməz.",
+                "add": "Sahə əlavə et {field}"
             },
             "types": {
                 "advanced": "İnkişaf etmiş",

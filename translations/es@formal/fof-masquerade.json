@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "Campos",
-                "add": "Añadir campo {field}",
+                "create": "",
                 "edit": "Editar campo {field}",
                 "delete-confirmation": "",
                 "name": "Nombre",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "Obligar al usuario a completar el perfil",
                 "options": "Opciones",
                 "option-new": "Nueva opción",
-                "option-comma-warning": "La etiqueta de cualquier opción no puede contener comas (\",\")."
+                "option-comma-warning": "La etiqueta de cualquier opción no puede contener comas (\",\").",
+                "add": "Añadir campo {field}"
             },
             "types": {
                 "advanced": "Avanzado",

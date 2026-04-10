@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "",
-                "add": "",
+                "create": "",
                 "edit": "",
                 "delete-confirmation": "",
                 "name": "",

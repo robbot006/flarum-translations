@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "항목들",
-                "add": "{field} 항목 추가",
+                "create": "",
                 "edit": "{field} 항목 편집",
                 "delete-confirmation": "",
                 "name": "항목 이름",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "사용자가 프로필을 무조건 완성하게 하기",
                 "options": "설정들",
                 "option-new": "새로운 설정",
-                "option-comma-warning": "설정의 이름에는 쉼표(\",\")가 있을 수 없습니다."
+                "option-comma-warning": "설정의 이름에는 쉼표(\",\")가 있을 수 없습니다.",
+                "add": "{field} 항목 추가"
             },
             "types": {
                 "advanced": "고급",

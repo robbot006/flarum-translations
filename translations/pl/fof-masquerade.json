@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "Pola",
-                "add": "Dodaj pole {field}",
+                "create": "",
                 "edit": "Edytuj pole {field}",
                 "delete-confirmation": "Czy jesteś pewien, że chcesz usunąć pole {field}? Ta operacje nie może zostać cofnięta.",
                 "name": "Nazwa pola",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "Wymuś uzupełnienie tego pola przez użytkownika",
                 "options": "Opcje",
                 "option-new": "Nowa opcja",
-                "option-comma-warning": "Etykieta opcji nie może zawierać przecinka (\",\")."
+                "option-comma-warning": "Etykieta opcji nie może zawierać przecinka (\",\").",
+                "add": "Dodaj pole {field}"
             },
             "types": {
                 "advanced": "Zaawansowane",

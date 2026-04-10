@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "Kentät",
-                "add": "Lisää kenttä {field}",
+                "create": "",
                 "edit": "Muokkaa kenttää {field}",
                 "delete-confirmation": "",
                 "name": "Kentän nimi",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "Pakota käyttäjä täyttämään profiili",
                 "options": "Vaihtoehdot",
                 "option-new": "Uusi vaihtoehto",
-                "option-comma-warning": "Vaihtoehdon tunniste ei voi sisältää pilkkuja (\",\")."
+                "option-comma-warning": "Vaihtoehdon tunniste ei voi sisältää pilkkuja (\",\").",
+                "add": "Lisää kenttä {field}"
             },
             "types": {
                 "advanced": "Lisäasetukset",

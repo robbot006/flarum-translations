@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "Kolom",
-                "add": "Tambahkan kolom {field}",
+                "create": "",
                 "edit": "Edit kolom {field}",
                 "delete-confirmation": "",
                 "name": "Nama kolom",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "Paksa pengguna untuk melengkapi profil",
                 "options": "Pilihan",
                 "option-new": "Pilihan baru",
-                "option-comma-warning": "Label opsi tidak boleh mengandung koma (\",\")."
+                "option-comma-warning": "Label opsi tidak boleh mengandung koma (\",\").",
+                "add": "Tambahkan kolom {field}"
             },
             "types": {
                 "advanced": "Tingkat lanjut",

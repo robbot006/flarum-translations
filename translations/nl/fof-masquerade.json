@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "Velden",
-                "add": "Veld {field} toevoegen",
+                "create": "",
                 "edit": "Veld {field} bewerken",
                 "delete-confirmation": "",
                 "name": "Veld naam",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "Verplicht de gebruiker om het profiel volledig in te vullen",
                 "options": "Opties",
                 "option-new": "Nieuwe optie",
-                "option-comma-warning": "Het label van een optie mag geen komma (\",\") bevatten."
+                "option-comma-warning": "Het label van een optie mag geen komma (\",\") bevatten.",
+                "add": "Veld {field} toevoegen"
             },
             "types": {
                 "advanced": "Geavanceerd",

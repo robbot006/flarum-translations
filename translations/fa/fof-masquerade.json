@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "فیلدها",
-                "add": "اضافه کردن فیلد {field}",
+                "create": "",
                 "edit": "ویرایش فیلد {field}",
                 "delete-confirmation": "",
                 "name": "نام فیلد",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "کاربر را مجبور کن فرم را پر کند",
                 "options": "گزینه‌ها",
                 "option-new": "گزینه جدید",
-                "option-comma-warning": "برچسب یک گزینه نمی‌تواند شامل کاما (,) باشد."
+                "option-comma-warning": "برچسب یک گزینه نمی‌تواند شامل کاما (,) باشد.",
+                "add": "اضافه کردن فیلد {field}"
             },
             "types": {
                 "advanced": "پیشرفته",

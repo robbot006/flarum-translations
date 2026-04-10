@@ -1,6 +1,7 @@
 {
     "ramon-avocado": {
         "admin": {
+            "loading": "",
             "settings": {
                 "section_homepage": "Главная страница",
                 "featured_tags_label": "Рекомендуемые категории",
@@ -72,8 +73,36 @@
             "link_cta": {
                 "placeholder": ""
             },
+            "search": {
+                "title": "",
+                "placeholder": "",
+                "placeholder_hero": "",
+                "hero_title": "",
+                "hero_sub": "",
+                "tab_discussions": "",
+                "tab_posts": "",
+                "tab_users": "",
+                "search_button": "",
+                "clear": "",
+                "sort_relevance": "",
+                "sort_latest": "",
+                "sort_top": "",
+                "sort_newest": "",
+                "sort_oldest": "",
+                "no_posts_found": "",
+                "no_posts_match": "",
+                "no_users_found": "",
+                "enter_search_term": ""
+            },
             "header": {
-                "back_home": ""
+                "back_home": "",
+                "search": ""
+            },
+            "discussion": {
+                "post_singular": "",
+                "post_plural": "",
+                "participant_singular": "",
+                "participant_plural": ""
             },
             "home": {
                 "all_categories": "Все категории",
@@ -88,6 +117,7 @@
                 "composer_post": "Создать дискуссию",
                 "composer_submitting": "Публикация…",
                 "composer_title_placeholder": "Заголовок дискуссии…",
+                "discussion_singular": "",
                 "discussions": "дискуссии",
                 "filter_tags": "Фильтр тегов",
                 "following_heading": "Отслеживаемые",
@@ -103,25 +133,39 @@
                 "reply_count_plural": "{count} ответов",
                 "reply_count_singular": "1 ответ",
                 "reply_label": "Ответить",
+                "reply_singular": "",
+                "reply_plural": "",
                 "see_all": "Показать все",
                 "see_other_replies": "Показать ещё {count} ответов",
                 "see_other_reply_singular": "Показать ещё {count} ответов",
                 "sign_up": "Зарегистрироваться",
+                "sort_trending": "",
                 "start_discussion": "Расскажите, над чем вы сейчас работаете…",
                 "today_time": "Сегодня, {time}",
                 "untitled": "Без названия",
+                "view": "",
+                "view_post": "",
+                "post_singular": "",
+                "post_plural": "",
+                "discussion_singular_card": "",
+                "discussion_plural_card": "",
                 "yesterday_time": "Вчера, {time}"
             },
             "discussions": {
                 "title": "Все дискуссии",
-                "home": "Вернуться на главную"
+                "home": "Вернуться на главную",
+                "load_more": ""
+            },
+            "post": {
+                "op_badge": ""
             },
             "tags": {
                 "title": "Категории",
                 "discussion_singular": "дискуссия",
                 "discussion_plural": "дискуссии",
                 "other_tags_label": "Другие теги",
-                "featured": "Избранные"
+                "featured": "Избранные",
+                "all_discussions": ""
             }
         }
     }

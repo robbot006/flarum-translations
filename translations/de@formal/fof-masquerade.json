@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "Felder",
-                "add": "Feld {field} hinzufügen",
+                "create": "",
                 "edit": "Feld „{field}“ bearbeiten",
                 "delete-confirmation": "Möchtest du das Feld {field} wirklich löschen? Dieser Vorgang kann nicht rückgängig gemacht werden.",
                 "name": "Name des Feldes",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "Ausfüllen des Profils verpflichtend machen",
                 "options": "Optionen",
                 "option-new": "Neue Option",
-                "option-comma-warning": "Die Bezeichnung einer Option darf kein Komma enthalten (\",\")."
+                "option-comma-warning": "Die Bezeichnung einer Option darf kein Komma enthalten (\",\").",
+                "add": "Feld {field} hinzufügen"
             },
             "types": {
                 "advanced": "Erweitert",

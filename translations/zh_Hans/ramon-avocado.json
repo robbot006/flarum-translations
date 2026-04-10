@@ -1,6 +1,7 @@
 {
     "ramon-avocado": {
         "admin": {
+            "loading": "",
             "settings": {
                 "section_homepage": "首页",
                 "featured_tags_label": "精选分类",
@@ -72,8 +73,36 @@
             "link_cta": {
                 "placeholder": "登录以查看链接"
             },
+            "search": {
+                "title": "",
+                "placeholder": "",
+                "placeholder_hero": "",
+                "hero_title": "",
+                "hero_sub": "",
+                "tab_discussions": "",
+                "tab_posts": "",
+                "tab_users": "",
+                "search_button": "",
+                "clear": "",
+                "sort_relevance": "",
+                "sort_latest": "",
+                "sort_top": "",
+                "sort_newest": "",
+                "sort_oldest": "",
+                "no_posts_found": "",
+                "no_posts_match": "",
+                "no_users_found": "",
+                "enter_search_term": ""
+            },
             "header": {
-                "back_home": "返回首页"
+                "back_home": "返回首页",
+                "search": ""
+            },
+            "discussion": {
+                "post_singular": "",
+                "post_plural": "",
+                "participant_singular": "",
+                "participant_plural": ""
             },
             "home": {
                 "all_categories": "所有分类",
@@ -88,6 +117,7 @@
                 "composer_post": "发布讨论",
                 "composer_submitting": "发布中…",
                 "composer_title_placeholder": "讨论标题…",
+                "discussion_singular": "",
                 "discussions": "讨论",
                 "filter_tags": "筛选标签",
                 "following_heading": "我的关注",
@@ -103,25 +133,39 @@
                 "reply_count_plural": "{count} 条回复",
                 "reply_count_singular": "1 条回复",
                 "reply_label": "回复",
+                "reply_singular": "",
+                "reply_plural": "",
                 "see_all": "查看全部",
                 "see_other_replies": "查看另外 {count} 条回复",
                 "see_other_reply_singular": "查看另外 {count} 条回复",
                 "sign_up": "注册",
+                "sort_trending": "",
                 "start_discussion": "分享一下你正在做的事情...",
                 "today_time": "今天 {time}",
                 "untitled": "无标题",
+                "view": "",
+                "view_post": "",
+                "post_singular": "",
+                "post_plural": "",
+                "discussion_singular_card": "",
+                "discussion_plural_card": "",
                 "yesterday_time": "昨天 {time}"
             },
             "discussions": {
                 "title": "所有讨论",
-                "home": "返回首页"
+                "home": "返回首页",
+                "load_more": ""
+            },
+            "post": {
+                "op_badge": ""
             },
             "tags": {
                 "title": "分类",
                 "discussion_singular": "讨论",
                 "discussion_plural": "讨论",
                 "other_tags_label": "其他标签",
-                "featured": "精选"
+                "featured": "精选",
+                "all_discussions": ""
             }
         }
     }

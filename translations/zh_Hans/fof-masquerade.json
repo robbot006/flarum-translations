@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "字段",
-                "add": "添加字段 {field}",
+                "create": "",
                 "edit": "编辑字段 {field}",
                 "delete-confirmation": "确定要删除此字段吗？所有关联数据将被永久删除。",
                 "name": "字段名",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "强制用户填写资料",
                 "options": "选项",
                 "option-new": "添加选项",
-                "option-comma-warning": "选项名称不能包含半角逗号（,）。"
+                "option-comma-warning": "选项名称不能包含半角逗号（,）。",
+                "add": "添加字段 {field}"
             },
             "types": {
                 "advanced": "高级",

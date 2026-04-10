@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "Mezők",
-                "add": "{field} mező hozzáadása",
+                "create": "",
                 "edit": "{field} mező szerkesztése",
                 "delete-confirmation": "",
                 "name": "Mező neve",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "Felhasználó kötelezése hogy kitöltse a profil adatokat",
                 "options": "Lehetőségek",
                 "option-new": "Új lehetőség",
-                "option-comma-warning": "A lehetőség címkéje nem tartalmazhat vesszőt („,”)."
+                "option-comma-warning": "A lehetőség címkéje nem tartalmazhat vesszőt („,”).",
+                "add": "{field} mező hozzáadása"
             },
             "types": {
                 "advanced": "Speciális",

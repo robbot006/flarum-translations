@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "Trường",
-                "add": "Thêm trường {field}",
+                "create": "",
                 "edit": "Sửa trường {field}",
                 "delete-confirmation": "",
                 "name": "Tên trường",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "Buộc người dùng hoàn thành hồ sơ",
                 "options": "Tùy chọn",
                 "option-new": "Tùy chọn mới",
-                "option-comma-warning": "Nhãn của một tùy chọn không được chứa bất kỳ dấu phẩy nào (\",\")."
+                "option-comma-warning": "Nhãn của một tùy chọn không được chứa bất kỳ dấu phẩy nào (\",\").",
+                "add": "Thêm trường {field}"
             },
             "types": {
                 "advanced": "Nâng cao",

@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "欄位",
-                "add": "新增欄位 {field}",
+                "create": "",
                 "edit": "編輯欄位 {field}",
                 "delete-confirmation": "",
                 "name": "欄位名稱",
@@ -52,7 +52,8 @@
                 "force-user-to-completion": "強制使用者必須完成資料卡",
                 "options": "選項",
                 "option-new": "新增選項",
-                "option-comma-warning": "選項名不能包含任何半角逗號 (\",\")。"
+                "option-comma-warning": "選項名不能包含任何半角逗號 (\",\")。",
+                "add": "新增欄位 {field}"
             },
             "types": {
                 "advanced": "高階",
