@@ -55,6 +55,20 @@
     "core.json": {
         "core": {
             "admin": {
+                "announcements": {
+                    "about": "d41d8cd98f00b204e9800998ecf8427e c12bce9212c385120fa9671731bf0dbc",
+                    "comments_label": "d41d8cd98f00b204e9800998ecf8427e f23d0bdb40a3620aae64facd8603ac94",
+                    "description": "d41d8cd98f00b204e9800998ecf8427e 4ce5fe5e77dba2a06b9839718d0d6d8c",
+                    "empty": "d41d8cd98f00b204e9800998ecf8427e 661ff7fe3c370b4803b0966cbedc783f",
+                    "hide": "d41d8cd98f00b204e9800998ecf8427e a7d9138cb340258ec04f34f28541f9f6",
+                    "load_error": "d41d8cd98f00b204e9800998ecf8427e 60776c0e08065678de4090ff23efec97",
+                    "read_more": "d41d8cd98f00b204e9800998ecf8427e c81922536db43263d574098c5f7c1283",
+                    "refresh": "d41d8cd98f00b204e9800998ecf8427e 2e5bf93a60a223542716dda3dc6b9e87",
+                    "retry": "d41d8cd98f00b204e9800998ecf8427e b1679143a137e2252d060a4d5f47cb98",
+                    "show": "d41d8cd98f00b204e9800998ecf8427e 838765c203c3ae3dc6cc5456374e26ae",
+                    "title": "d41d8cd98f00b204e9800998ecf8427e eeee5e49167bd2f5ac32aaa26eff5585",
+                    "view_all": "d41d8cd98f00b204e9800998ecf8427e 91e3961a36064901a29aa7014c1df69d"
+                },
                 "appearance": {
                     "colored_header_label": "84a0d149edc1f62a65b2eee6ae1fe40c 84a0d149edc1f62a65b2eee6ae1fe40c",
                     "colors_heading": "339255dffc94731849cba5d68b0a9ce3 339255dffc94731849cba5d68b0a9ce3",
