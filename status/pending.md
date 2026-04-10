@@ -246,10 +246,4 @@
 
 ## Dead branches
 
-| Extension | Pull request |
-| --- | --- |
-| `resofire-avatars` | [![#1563 (open)](https://img.shields.io/badge/PR-%231563-brightgreen)](https://github.com/rob006-software/flarum-translations/pull/1563) |
-| `resofire-cosmos-theme` | [![#1561 (open)](https://img.shields.io/badge/PR-%231561-brightgreen)](https://github.com/rob006-software/flarum-translations/pull/1561) |
-| `resofire-dicebear` | [![#1544 (open)](https://img.shields.io/badge/PR-%231544-brightgreen)](https://github.com/rob006-software/flarum-translations/pull/1544) |
-| `resofire-labels` | [![#1554 (open)](https://img.shields.io/badge/PR-%231554-brightgreen)](https://github.com/rob006-software/flarum-translations/pull/1554) |
-| `resofire-theme-switcher` | [![#1574 (open)](https://img.shields.io/badge/PR-%231574-brightgreen)](https://github.com/rob006-software/flarum-translations/pull/1574) |
+There are no dead branches.
