@@ -35,7 +35,7 @@
             },
             "fields": {
                 "title": "Pola",
-                "create": "",
+                "create": "Utwórz pole",
                 "edit": "Edytuj pole {field}",
                 "delete-confirmation": "Czy jesteś pewien, że chcesz usunąć pole {field}? Ta operacje nie może zostać cofnięta.",
                 "name": "Nazwa pola",
