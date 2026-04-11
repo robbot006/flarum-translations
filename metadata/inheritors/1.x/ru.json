@@ -56,18 +56,18 @@
         "core": {
             "admin": {
                 "announcements": {
-                    "about": "d41d8cd98f00b204e9800998ecf8427e 690f177f128d6416d65b1a1d215a315f",
-                    "comments_label": "d41d8cd98f00b204e9800998ecf8427e 593de1d53732cf40d3b9dedc3df3a385",
-                    "description": "d41d8cd98f00b204e9800998ecf8427e 00892645f780321641d350e80359e8c4",
-                    "empty": "d41d8cd98f00b204e9800998ecf8427e 65231b954892d5a8ed4f70e8c2bb544c",
-                    "hide": "d41d8cd98f00b204e9800998ecf8427e 793c881b639206710d584fca6fdea471",
-                    "load_error": "d41d8cd98f00b204e9800998ecf8427e be0cbc4a1a35f87f4a4bc941327974fb",
-                    "read_more": "d41d8cd98f00b204e9800998ecf8427e d43d0e93f43e43bd140744b052fa5d61",
-                    "refresh": "d41d8cd98f00b204e9800998ecf8427e dbe5444a9a2c431188f3f130d668c274",
-                    "retry": "d41d8cd98f00b204e9800998ecf8427e 60a52bbe9c89a430b1a0a772c20c861d",
-                    "show": "d41d8cd98f00b204e9800998ecf8427e 8baa80928ddebd3ee95f19032f573360",
-                    "title": "d41d8cd98f00b204e9800998ecf8427e 57995e20235ea271aad441d847850da5",
-                    "view_all": "d41d8cd98f00b204e9800998ecf8427e 37a48d146e5655d5c387dfade6ce915f"
+                    "about": "690f177f128d6416d65b1a1d215a315f 690f177f128d6416d65b1a1d215a315f",
+                    "comments_label": "e168d971acd24948082ce3658540d26b e168d971acd24948082ce3658540d26b",
+                    "description": "00892645f780321641d350e80359e8c4 00892645f780321641d350e80359e8c4",
+                    "empty": "65231b954892d5a8ed4f70e8c2bb544c 65231b954892d5a8ed4f70e8c2bb544c",
+                    "hide": "793c881b639206710d584fca6fdea471 793c881b639206710d584fca6fdea471",
+                    "load_error": "be0cbc4a1a35f87f4a4bc941327974fb be0cbc4a1a35f87f4a4bc941327974fb",
+                    "read_more": "d43d0e93f43e43bd140744b052fa5d61 d43d0e93f43e43bd140744b052fa5d61",
+                    "refresh": "dbe5444a9a2c431188f3f130d668c274 dbe5444a9a2c431188f3f130d668c274",
+                    "retry": "60a52bbe9c89a430b1a0a772c20c861d 60a52bbe9c89a430b1a0a772c20c861d",
+                    "show": "8baa80928ddebd3ee95f19032f573360 8baa80928ddebd3ee95f19032f573360",
+                    "title": "57995e20235ea271aad441d847850da5 57995e20235ea271aad441d847850da5",
+                    "view_all": "37a48d146e5655d5c387dfade6ce915f 37a48d146e5655d5c387dfade6ce915f"
                 },
                 "appearance": {
                     "colored_header_label": "cc0efae4ed3e3ae4c2ce5661ec7df522 cc0efae4ed3e3ae4c2ce5661ec7df522",
