@@ -55,18 +55,18 @@
                 "username_placeholder": "=> core.ref.username"
             },
             "announcements": {
-                "comments_label": "",
-                "description": "",
-                "empty": "",
-                "load_error": "",
-                "about": "",
-                "hide": "",
-                "read_more": "",
-                "refresh": "",
-                "retry": "",
-                "show": "",
-                "title": "",
-                "view_all": ""
+                "comments_label": "{count, plural, one {# комментарий} few {# комментария} many {# комментариев} other {# комментариев}}",
+                "description": "Последние новости и анонсы от команды Flarum.",
+                "empty": "Анонсы не найдены.",
+                "load_error": "Не удалось загрузить анонсы. Попробуйте позже.",
+                "about": "Последние новости и анонсы из официального сообщества Flarum на discuss.flarum.org.",
+                "hide": "Скрыть анонсы",
+                "read_more": "Прочитать больше",
+                "refresh": "Обновить",
+                "retry": "Попробовать снова",
+                "show": "Показать анонсы",
+                "title": "Анонсы",
+                "view_all": "Все анонсы на discuss.flarum.org"
             },
             "dashboard": {
                 "clear_cache_button": "Очистить кэш",
