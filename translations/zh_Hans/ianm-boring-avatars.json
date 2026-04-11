@@ -12,6 +12,8 @@
                 "identifier_id": "用户 ID",
                 "identifier_display_name": "外显昵称",
                 "identifier_email": "电子邮箱",
+                "driver_not_active_warning": "",
+                "driver_not_active_warning_link": "",
                 "theme": "风格",
                 "theme_help": "选择要生成的头像风格。\n"
             }

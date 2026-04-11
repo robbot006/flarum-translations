@@ -12,6 +12,8 @@
                 "identifier_id": "ID пользователя",
                 "identifier_display_name": "Показывать имя",
                 "identifier_email": "Эл.почта",
+                "driver_not_active_warning": "",
+                "driver_not_active_warning_link": "",
                 "theme": "Тема",
                 "theme_help": "Тема аватарок\n"
             }
