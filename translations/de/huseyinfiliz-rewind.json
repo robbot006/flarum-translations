@@ -117,28 +117,28 @@
                 "top_discussion": "",
                 "most_active_user": "",
                 "top_tag": "",
-                "post_count_label": ""
+                "post_count_label": "{count} Beiträge"
             },
             "profile": {
-                "tab": "",
-                "year_card": "",
-                "generate_for_year": "",
-                "tap_to_watch": "",
-                "not_yet_available": "",
-                "no_activity": "",
-                "public_badge": "",
-                "private_badge": "",
+                "tab": "Rewind",
+                "year_card": "{year} Rewind",
+                "generate_for_year": "{year} Rewind erstellen",
+                "tap_to_watch": "Zum Anschauen antippen",
+                "not_yet_available": "Noch nicht verfügbar",
+                "no_activity": "Zu wenig Aktivität",
+                "public_badge": "Öffentlich",
+                "private_badge": "Privat",
                 "controls": {
                     "make_public": "",
                     "make_private": "",
-                    "regenerate": "",
-                    "delete": "",
-                    "confirm_delete": ""
+                    "regenerate": "Neu erstellen",
+                    "delete": "Löschen",
+                    "confirm_delete": "Möchtest du diesen Rewind wirklich löschen?"
                 }
             },
             "metrics": {
                 "post_count": {
-                    "title": "",
+                    "title": "Beiträge",
                     "description": "",
                     "messages": {
                         "tier_1": "",
@@ -149,8 +149,8 @@
                     }
                 },
                 "discussion_count": {
-                    "title": "",
-                    "description": "",
+                    "title": "Diskussionen",
+                    "description": "{count} neue Konversationen begonnen",
                     "messages": {
                         "tier_1": "",
                         "tier_2": "",
@@ -158,40 +158,40 @@
                     }
                 },
                 "active_days": {
-                    "title": "",
-                    "description": "",
+                    "title": "Aktive Tage",
+                    "description": "An {count} verschiedenen Tagen beigetragen",
                     "messages": {
-                        "tier_1": "",
-                        "tier_2": "",
-                        "tier_3": "",
-                        "tier_4": "",
-                        "tier_5": ""
+                        "tier_1": "Wenige bedeutungsvolle Besuche",
+                        "tier_2": "Ständige Anwesenheit",
+                        "tier_3": "War an den meisten Tagen anwesend",
+                        "tier_4": "Praktisch schon Teil der Einrichtung",
+                        "tier_5": "Jede Woche, ohne Ausnahme"
                     }
                 },
                 "top_tag": {
-                    "title": "",
-                    "description": "",
-                    "no_data": ""
+                    "title": "Topthema",
+                    "description": "Das aktivste Thema mit {count} Beiträgen",
+                    "no_data": "Keine Themendaten verfügbar"
                 },
                 "most_active_month": {
-                    "title": "",
-                    "description": ""
+                    "title": "Geschäftigster Monat",
+                    "description": "Spitzenmonat mit {count} Beiträgen"
                 },
                 "word_count": {
-                    "title": "",
-                    "description": "",
+                    "title": "Wörter",
+                    "description": "Hat ungefähr {count} Wörter geschrieben",
                     "messages": {
-                        "tier_1": "",
-                        "tier_2": "",
-                        "tier_3": "",
-                        "tier_4": "",
-                        "tier_5": ""
+                        "tier_1": "Kurz und bündig",
+                        "tier_2": "Hatte etwas zu sagen",
+                        "tier_3": "Der Umfang eines Kurzromans",
+                        "tier_4": "„Krieg und Frieden“ zittert vor Angst",
+                        "tier_5": "Thomas Mann wäre stolz"
                     }
                 },
                 "best_post": {
-                    "title": "",
-                    "description_likes": "",
-                    "description_replies": "",
+                    "title": "Bester Beitrag",
+                    "description_likes": "{count} Likes in „{discussion_title}“",
+                    "description_replies": "{count} Antworten in „{discussion_title}“",
                     "no_data": ""
                 },
                 "likes_given": {
@@ -204,8 +204,8 @@
                     }
                 },
                 "likes_received": {
-                    "title": "",
-                    "description": "",
+                    "title": "Likes empfangen",
+                    "description": "In diesem Jahr {count} Likes erhalten",
                     "messages": {
                         "tier_1": "",
                         "tier_2": "",
