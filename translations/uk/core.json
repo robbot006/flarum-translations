@@ -176,18 +176,18 @@
                 "username_placeholder": "=> core.ref.username"
             },
             "announcements": {
-                "comments_label": "",
-                "description": "",
-                "empty": "",
-                "load_error": "",
-                "about": "",
-                "hide": "",
-                "read_more": "",
-                "refresh": "",
-                "retry": "",
-                "show": "",
-                "title": "",
-                "view_all": ""
+                "comments_label": "{count, plural, one {# коментар} other {# коментарі}}",
+                "description": "Останні новини та оголошення від команди Flarum.",
+                "empty": "Оголошень не знайдено.",
+                "load_error": "Не вдалося завантажити оголошення. Спробуйте ще раз пізніше.",
+                "about": "Останні новини та оголошення, взяті з офіційного форуму спільноти Flarum на discuss.flarum.org.",
+                "hide": "Сховати оголошення",
+                "read_more": "Детальніше",
+                "refresh": "Оновити оголошення",
+                "retry": "Спробуйте ще раз",
+                "show": "Показати оголошення",
+                "title": "Оголошення",
+                "view_all": "Переглянути більше на discuss.flarum.org"
             },
             "dashboard": {
                 "clear_cache_button": "Очистити кеш",

@@ -55,6 +55,20 @@
     "core.json": {
         "core": {
             "admin": {
+                "announcements": {
+                    "about": "f598b5e41ef83b8e6b4884df724e7607 f598b5e41ef83b8e6b4884df724e7607",
+                    "comments_label": "3ba35ec55fb998e44774433aea05d9fc 3ba35ec55fb998e44774433aea05d9fc",
+                    "description": "7b00603a41f5986fb2cc62b48839d6e3 7b00603a41f5986fb2cc62b48839d6e3",
+                    "empty": "2ff1a7fdd1db536049203f9e13e83ea3 2ff1a7fdd1db536049203f9e13e83ea3",
+                    "hide": "ab690157a9a5d4942615eedb4e1b06f3 ab690157a9a5d4942615eedb4e1b06f3",
+                    "load_error": "b1a4c3954b7357489f653a36dfd94609 b1a4c3954b7357489f653a36dfd94609",
+                    "read_more": "24efc51c2bb13885cbc667e120baf3cd 24efc51c2bb13885cbc667e120baf3cd",
+                    "refresh": "e22ee8f9fd01871db70933a11733e11e e22ee8f9fd01871db70933a11733e11e",
+                    "retry": "4d2829f24449c4b007681deeaa4935d9 4d2829f24449c4b007681deeaa4935d9",
+                    "show": "1ab9dd780442d40e9298efe5a3190619 1ab9dd780442d40e9298efe5a3190619",
+                    "title": "1b38c11e6563b347eaaad33562a152af 1b38c11e6563b347eaaad33562a152af",
+                    "view_all": "5db123ff17c2e849c7146221f0bc1886 5db123ff17c2e849c7146221f0bc1886"
+                },
                 "appearance": {
                     "colored_header_label": "df4b949693d406334f685fb1f2846a30 df4b949693d406334f685fb1f2846a30",
                     "colors_heading": "8c3ea69113329104e86a3c0ce5d92417 8c3ea69113329104e86a3c0ce5d92417",
@@ -3786,9 +3800,15 @@
         "fof-open-collective": {
             "admin": {
                 "settings": {
+                    "api_key_help": "c7196f86ee0bbc21a2d82f246e7c955a c7196f86ee0bbc21a2d82f246e7c955a",
                     "api_key_label": "45464115b3f008da95776e4972791032 45464115b3f008da95776e4972791032",
-                    "group_label": "cda39898fc144908e9b00e34848b693e cda39898fc144908e9b00e34848b693e",
+                    "group_help": "1cf92871538c359bbdf869304ce1d50d 1cf92871538c359bbdf869304ce1d50d",
+                    "group_label": "cf2e748393a10a7de5aeab2ed10feceb cf2e748393a10a7de5aeab2ed10feceb",
+                    "onetime_group_help": "900841d71ed06f0943697ce7ac5d4764 900841d71ed06f0943697ce7ac5d4764",
+                    "onetime_group_label": "148564abb2cd7c9437bfc716a21bae06 148564abb2cd7c9437bfc716a21bae06",
+                    "personal_token_help": "28d6d452c21a5a7209b3783fd82a58e9 28d6d452c21a5a7209b3783fd82a58e9",
                     "personal_token_label": "f424e90305123127212cef83b55f1085 f424e90305123127212cef83b55f1085",
+                    "slug_help": "dbf7cb5f8f916e55c43d639dc6c850b0 dbf7cb5f8f916e55c43d639dc6c850b0",
                     "slug_label": "273b8aa3c9440df1e4d9f151d0efab85 273b8aa3c9440df1e4d9f151d0efab85",
                     "title": "3a8ed7d19b8b9d930bc6d407f47ecf4a 3a8ed7d19b8b9d930bc6d407f47ecf4a",
                     "use_legacy_api_key_help": "45999e2d039df291ede7b175d1459d9d 45999e2d039df291ede7b175d1459d9d",
