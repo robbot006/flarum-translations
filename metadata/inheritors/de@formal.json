@@ -7233,6 +7233,75 @@
                     "general": "0a6892b9c620daf64f6cac8931ecef06 0a6892b9c620daf64f6cac8931ecef06",
                     "slides": "a8d90ed8f17c347c8d46e0ef22c85ecb a8d90ed8f17c347c8d46e0ef22c85ecb"
                 }
+            },
+            "forum": {
+                "community": {
+                    "post_count_label": "a3a4301617c9322f69d07454a162d313 a3a4301617c9322f69d07454a162d313"
+                },
+                "metrics": {
+                    "active_days": {
+                        "description": "b7f682e7637e0c43632c901e65815307 b7f682e7637e0c43632c901e65815307",
+                        "messages": {
+                            "tier_1": "7ce10f89e53e367dd109d3009313d97d 7ce10f89e53e367dd109d3009313d97d",
+                            "tier_2": "2c2f302bbd12658b5fda78a703c9c5e9 2c2f302bbd12658b5fda78a703c9c5e9",
+                            "tier_3": "b2b4111ee15920985cabbab3bb90c8db b2b4111ee15920985cabbab3bb90c8db",
+                            "tier_4": "817bcf11385c73eb955366b7c189c659 817bcf11385c73eb955366b7c189c659",
+                            "tier_5": "b935579dd17cdc500d0593ca3338a82e b935579dd17cdc500d0593ca3338a82e"
+                        },
+                        "title": "5833c970dc9ad37ed9ec173de3650d12 5833c970dc9ad37ed9ec173de3650d12"
+                    },
+                    "best_post": {
+                        "description_likes": "b673b1a5ed22ababb30c703da54c666d b673b1a5ed22ababb30c703da54c666d",
+                        "description_replies": "f2b44476d8b1257cab1a65c8660e8967 f2b44476d8b1257cab1a65c8660e8967",
+                        "title": "2c2768f34b119d7001c51daa0bf8b7b2 2c2768f34b119d7001c51daa0bf8b7b2"
+                    },
+                    "discussion_count": {
+                        "description": "928b1d7f3128b1dad10160bdc3c929e6 928b1d7f3128b1dad10160bdc3c929e6",
+                        "title": "b2cf2ebddfb37e6d1a41978a05531dcd b2cf2ebddfb37e6d1a41978a05531dcd"
+                    },
+                    "likes_received": {
+                        "description": "8d18c09c09c313f3aaa0fa8cd2fae91d 8d18c09c09c313f3aaa0fa8cd2fae91d",
+                        "title": "03dd973b96ff27e1061175de9ad2f211 03dd973b96ff27e1061175de9ad2f211"
+                    },
+                    "most_active_month": {
+                        "description": "e04d72921fb9525290826318927b4240 e04d72921fb9525290826318927b4240",
+                        "title": "0d1afa8248fd81e9c18a39895e338cfe 0d1afa8248fd81e9c18a39895e338cfe"
+                    },
+                    "post_count": {
+                        "title": "483d032d9f7f165d86c62eff7de0e2de 483d032d9f7f165d86c62eff7de0e2de"
+                    },
+                    "top_tag": {
+                        "description": "30bc22b45ba2180517f802bbe2e81d8a 30bc22b45ba2180517f802bbe2e81d8a",
+                        "no_data": "f159716ca8bdd7042d07954e5da818da f159716ca8bdd7042d07954e5da818da",
+                        "title": "69b8e7265d1cfc5acb6f3b6923ddc1a2 69b8e7265d1cfc5acb6f3b6923ddc1a2"
+                    },
+                    "word_count": {
+                        "description": "b6d808f6428ef9a0fd99056b19ed0e9c b6d808f6428ef9a0fd99056b19ed0e9c",
+                        "messages": {
+                            "tier_1": "8eb539d0a3275b2bc65206d0cf9927a8 8eb539d0a3275b2bc65206d0cf9927a8",
+                            "tier_2": "0cbb5d0fca5a7a483857afe2bb02fa1f 0cbb5d0fca5a7a483857afe2bb02fa1f",
+                            "tier_3": "d9d810aa261ee91eb7ac6c0e1aae0ded d9d810aa261ee91eb7ac6c0e1aae0ded",
+                            "tier_4": "2d76ffa59f94159662ab4c0136aa0b2d 2d76ffa59f94159662ab4c0136aa0b2d",
+                            "tier_5": "6d679a5149e6241f9f8b570e402f3114 6d679a5149e6241f9f8b570e402f3114"
+                        },
+                        "title": "5ce738e50d03211bf240624b9da7880b 5ce738e50d03211bf240624b9da7880b"
+                    }
+                },
+                "profile": {
+                    "controls": {
+                        "confirm_delete": "2e32b782c2f64e9e7c71e8cbd5f4b5a7 2e32b782c2f64e9e7c71e8cbd5f4b5a7",
+                        "delete": "1010b01ca33474b21dfca7411a13552c 1010b01ca33474b21dfca7411a13552c",
+                        "regenerate": "02e14d8e9af0cc2623c8425e7104bcdb 02e14d8e9af0cc2623c8425e7104bcdb"
+                    },
+                    "generate_for_year": "2d66c9a1b3ac2041cf0a42bdab2116b4 2d66c9a1b3ac2041cf0a42bdab2116b4",
+                    "no_activity": "8c86794d77c6b75e124fb8c3eb0b9e6d 8c86794d77c6b75e124fb8c3eb0b9e6d",
+                    "not_yet_available": "2eaf81d99a56bd0a05bc3f2b3860cd50 2eaf81d99a56bd0a05bc3f2b3860cd50",
+                    "private_badge": "ed3738b8722481803b336374f3b17dbf ed3738b8722481803b336374f3b17dbf",
+                    "public_badge": "afd96a7544d3d674aa1cff220036440b afd96a7544d3d674aa1cff220036440b",
+                    "tab": "3c19d17036af08b1b0d6540bc12cee98 3c19d17036af08b1b0d6540bc12cee98",
+                    "tap_to_watch": "d3629cec34c55546db096562a361f92e d3629cec34c55546db096562a361f92e",
+                    "year_card": "aadcc131c87281ee5be033e81584f507 aadcc131c87281ee5be033e81584f507"
+                }
             }
         }
     },
