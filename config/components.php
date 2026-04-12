@@ -96,7 +96,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/askvortsov1/flarum-saml/v2.4.0/resources/locale/en.yml',
 	],
 	'bendary-admin-audit' => [
-		'tag' => 'https://raw.githubusercontent.com/Amr-Bendary/Admin-Audit/v1.0.8/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/Amr-Bendary/Admin-Audit/v2.0.0/locale/en.yml',
 		'__builtInLanguages' => [
 			'ar',
 		],
