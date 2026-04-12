@@ -424,7 +424,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/ResofireV2/blog-cards/v2.0.5/locale/en.yml',
 	],
 	'resofire-digest-mail' => [
-		'tag' => 'https://raw.githubusercontent.com/ResofireV2/digest-mail/v2.2.3/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/ResofireV2/digest-mail/v2.2.4/locale/en.yml',
 	],
 	'resofire-discussion-participants' => [
 		'tag' => 'https://raw.githubusercontent.com/ResofireV2/discussion-participants/v2.0.7/locale/en.yml',
