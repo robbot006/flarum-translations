@@ -1,10 +1,10 @@
 {
     "ramon-avocado": {
         "admin": {
-            "loading": "",
+            "loading": "Загрузка…",
             "settings": {
-                "section_homepage": "Главная страница",
-                "featured_tags_label": "Рекомендуемые категории",
+                "section_homepage": "Главная",
+                "featured_tags_label": "Выделенные категории",
                 "featured_tags_help": "Выбранные категории будут выделены значком звезды на главной странице и странице категорий.",
                 "featured_tags_empty": "Теги не найдены.",
                 "section_auth": "Вход и регистрация",
@@ -24,12 +24,12 @@
                 "show_share_help": "Добавить кнопку «Поделиться» к каждому сообщению.",
                 "show_action_icons_label": "Показывать иконки в кнопках «Нравится» и «Ответить»",
                 "show_action_icons_help": "Отображать иконки Font Awesome в кнопках «Нравится» и «Ответить».",
-                "fixed_avatar_effect_label": "Включить эффект фиксированного аватара",
+                "fixed_avatar_effect_label": "Включить закрепление аватара",
                 "fixed_avatar_effect_help": "Закреплять аватар сообщения при чтении длинных комментариев на компьютере.",
-                "hero_decoration_icon_label": "",
-                "hero_decoration_icon_help": "",
-                "hero_decoration_icon_opacity_label": "",
-                "hero_decoration_icon_opacity_help": "",
+                "hero_decoration_icon_label": "Показывать иконку вторичного тега в шапке дискуссии",
+                "hero_decoration_icon_help": "Отображать иконку вторичного тега как крупный декоративный элемент справа в заголовке дискуссии.",
+                "hero_decoration_icon_opacity_label": "Прозрачность иконки (0–100)",
+                "hero_decoration_icon_opacity_help": "Задаёт прозрачность декоративной иконки в процентах. 100 — полностью непрозрачная, 0 — невидимая.",
                 "section_logo": "Логотип",
                 "logo_svg_label": "SVG-логотип",
                 "logo_svg_help": "Загрузите собственный SVG-логотип для форума.",
@@ -39,10 +39,10 @@
                 "show_online_users_help": "Отображать количество пользователей в сети.",
                 "show_guest_cta_label": "Показывать призыв к действию для гостей",
                 "show_guest_cta_help": "Отображать сообщение с призывом к действию для гостей.",
-                "show_post_cta_label": "",
-                "show_post_cta_help": "",
-                "hide_links_for_guests_label": "",
-                "hide_links_for_guests_help": "",
+                "show_post_cta_label": "Показывать приглашение присоединиться после первого сообщения для гостей",
+                "show_post_cta_help": "Показывать карточку входа / регистрации после первого сообщения в дискуссии. Видна только гостям.",
+                "hide_links_for_guests_label": "Скрывать ссылки для гостей",
+                "hide_links_for_guests_help": "Запрещает гостям переходить по ссылкам в сообщениях. При нажатии вместо этого показывается предложение войти или зарегистрироваться.",
                 "custom_default_avatar_label": "Пользовательский аватар по умолчанию",
                 "custom_default_avatar_help": "Загрузите пользовательский аватар по умолчанию для пользователей без аватара.",
                 "section_footer": "Подвал"
@@ -68,43 +68,43 @@
                 "share": "Поделиться"
             },
             "post_cta": {
-                "text": "",
-                "or": ""
+                "text": "Понравилось обсуждение? Присоединяйтесь к дискуссии!",
+                "or": "или"
             },
             "link_cta": {
-                "placeholder": ""
+                "placeholder": "Войдите, чтобы открыть ссылку"
             },
             "search": {
-                "title": "",
-                "placeholder": "",
-                "placeholder_hero": "",
-                "hero_title": "",
-                "hero_sub": "",
-                "tab_discussions": "",
-                "tab_posts": "",
-                "tab_users": "",
-                "search_button": "",
-                "clear": "",
-                "sort_relevance": "",
-                "sort_latest": "",
-                "sort_top": "",
-                "sort_newest": "",
-                "sort_oldest": "",
-                "no_posts_found": "",
-                "no_posts_match": "",
-                "no_users_found": "",
-                "enter_search_term": ""
+                "title": "Поиск",
+                "placeholder": "Поиск…",
+                "placeholder_hero": "Искать на форуме…",
+                "hero_title": "Что вы ищете?",
+                "hero_sub": "Поиск по дискуссиям, сообщениям и участникам",
+                "tab_discussions": "Дискуссии",
+                "tab_posts": "Сообщения",
+                "tab_users": "Пользователи",
+                "search_button": "Найти",
+                "clear": "Очистить",
+                "sort_relevance": "По релевантности",
+                "sort_latest": "Сначала новые",
+                "sort_top": "Топ",
+                "sort_newest": "Сначала самые новые",
+                "sort_oldest": "Сначала старые",
+                "no_posts_found": "По запросу «{q}» ничего не найдено.",
+                "no_posts_match": "Нет сообщений, соответствующих этим фильтрам.",
+                "no_users_found": "По запросу «{q}» пользователи не найдены.",
+                "enter_search_term": "Введите поисковый запрос, чтобы найти пользователей."
             },
             "header": {
-                "back_home": "",
-                "search": "",
-                "or": ""
+                "back_home": "Вернуться на главную",
+                "search": "Поиск",
+                "or": "или"
             },
             "discussion": {
-                "post_singular": "",
-                "post_plural": "",
-                "participant_singular": "",
-                "participant_plural": ""
+                "post_singular": "сообщение",
+                "post_plural": "сообщения",
+                "participant_singular": "участник",
+                "participant_plural": "участники"
             },
             "home": {
                 "all_categories": "Все категории",
@@ -119,7 +119,7 @@
                 "composer_post": "Создать дискуссию",
                 "composer_submitting": "Публикация…",
                 "composer_title_placeholder": "Заголовок дискуссии…",
-                "discussion_singular": "",
+                "discussion_singular": "дискуссия",
                 "discussions": "дискуссии",
                 "filter_tags": "Фильтр тегов",
                 "following_heading": "Отслеживаемые",
@@ -130,39 +130,39 @@
                 "more": "ещё",
                 "new_discussion": "Новая дискуссия",
                 "no_tags_found": "Теги не найдены",
-                "or": "",
+                "or": "или",
                 "popular_heading": "Популярные дискуссии",
-                "popular_no_discussions": "",
+                "popular_no_discussions": "Дискуссий пока нет.",
                 "replies": "Ответы",
                 "reply_count_plural": "{count} ответов",
                 "reply_count_singular": "1 ответ",
                 "reply_label": "Ответить",
-                "reply_singular": "",
-                "reply_plural": "",
+                "reply_singular": "1 ответ",
+                "reply_plural": "{count} ответов",
                 "see_all": "Показать все",
                 "see_other_replies": "Показать ещё {count} ответов",
                 "see_other_reply_singular": "Показать ещё {count} ответов",
                 "sign_up": "Зарегистрироваться",
-                "sort_trending": "",
+                "sort_trending": "В тренде",
                 "start_discussion": "Расскажите, над чем вы сейчас работаете…",
                 "today_time": "Сегодня, {time}",
                 "untitled": "Без названия",
-                "view": "",
-                "view_post": "",
-                "post_singular": "",
-                "post_plural": "",
-                "discussion_singular_card": "",
-                "discussion_plural_card": "",
+                "view": "Просмотр",
+                "view_post": "Открыть сообщение",
+                "post_singular": "1 сообщение",
+                "post_plural": "{count} сообщений",
+                "discussion_singular_card": "1 дискуссия",
+                "discussion_plural_card": "{count} дискуссий",
                 "yesterday_time": "Вчера, {time}",
-                "showcase_heading": ""
+                "showcase_heading": "Витрина"
             },
             "discussions": {
                 "title": "Все дискуссии",
                 "home": "Вернуться на главную",
-                "load_more": ""
+                "load_more": "Загрузить ещё"
             },
             "post": {
-                "op_badge": ""
+                "op_badge": "Автор темы"
             },
             "tags": {
                 "title": "Категории",
@@ -170,8 +170,8 @@
                 "discussion_plural": "дискуссии",
                 "other_tags_label": "Другие теги",
                 "featured": "Избранные",
-                "all_discussions": "",
-                "login_to_view": ""
+                "all_discussions": "Все дискуссии:",
+                "login_to_view": "Войдите, чтобы открыть ссылку"
             }
         }
     }
