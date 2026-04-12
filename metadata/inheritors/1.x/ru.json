@@ -6021,7 +6021,7 @@
                 "data": {
                     "boringavatar": {
                         "anonymize_description": "f3c22fa92ad76199cca477bf48f0d4ef f3c22fa92ad76199cca477bf48f0d4ef",
-                        "delete_description": "1d3b7ef6d42225e0fc1134ec0d38b3c2 d4e02f43b8f44555ef9d75c178e21017",
+                        "delete_description": "1d3b7ef6d42225e0fc1134ec0d38b3c2 1d3b7ef6d42225e0fc1134ec0d38b3c2",
                         "export_description": "bb65075865d96891522dc899722dd78d bb65075865d96891522dc899722dd78d"
                     }
                 }
@@ -6181,7 +6181,7 @@
                 "viewer": {
                     "available_logs_heading": "7b692dd09d0426a61f13005d2664d7b5 7b692dd09d0426a61f13005d2664d7b5",
                     "confirm_delete": "c7917da0d5c6b7ee3cdb34dd9f7448da c7917da0d5c6b7ee3cdb34dd9f7448da",
-                    "delete_log": "b014601a9d5057f29889decc76c3e236 61a55f3f5c284289e5926382b22d1378",
+                    "delete_log": "b014601a9d5057f29889decc76c3e236 b014601a9d5057f29889decc76c3e236",
                     "download_log": "932b6126c01872c0e3057cad46a0e6d6 932b6126c01872c0e3057cad46a0e6d6",
                     "file_contents_heading": "9afae4c482378e35f4cd0f3480d6fd72 9afae4c482378e35f4cd0f3480d6fd72",
                     "file_size": "6e06844ffbba72445b38d73397478491 6e06844ffbba72445b38d73397478491",
