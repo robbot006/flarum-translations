@@ -1529,7 +1529,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/nyu8/flarum-email-filter/v1.0.7/locale/en.yml',
 	],
 	'olleksi-uk-slug' => [
-		'tag' => 'https://raw.githubusercontent.com/olleksi/uk-slug/0.0.2/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/olleksi/uk-slug/0.0.3/locale/en.yml',
 		'__builtInLanguages' => [
 			'uk',
 		],
