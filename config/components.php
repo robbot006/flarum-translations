@@ -1463,7 +1463,7 @@ return [
 		],
 	],
 	'muhammedsaidckr-chatgpt' => [
-		'tag' => 'https://raw.githubusercontent.com/muhammedsaidckr/flarum-chatgpt/v1.3.3/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/muhammedsaidckr/flarum-chatgpt/v1.3.5/locale/en.yml',
 		'__builtInLanguages' => [
 			'tr',
 		],
