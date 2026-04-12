@@ -349,7 +349,7 @@ return [
 		'beta' => 'https://raw.githubusercontent.com/imorland/follow-users/2.0.0-beta.6/resources/locale/en.yml',
 	],
 	'ianm-html-head' => [
-		'beta' => 'https://raw.githubusercontent.com/imorland/html-head/2.0.0-beta.1/resources/locale/en.yml',
+		'beta' => 'https://raw.githubusercontent.com/imorland/html-head/2.0.0-beta.2/resources/locale/en.yml',
 	],
 	'ianm-log-viewer' => [
 		'beta' => 'https://raw.githubusercontent.com/imorland/flarum-ext-log-viewer/2.0.0-beta.2/locale/en.yml',
