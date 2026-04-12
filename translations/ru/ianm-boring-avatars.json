@@ -12,8 +12,8 @@
                 "identifier_id": "ID пользователя",
                 "identifier_display_name": "Показывать имя",
                 "identifier_email": "Эл.почта",
-                "driver_not_active_warning": "",
-                "driver_not_active_warning_link": "",
+                "driver_not_active_warning": "Скучные аватары не выбраны в качестве драйвера аватаров.",
+                "driver_not_active_warning_link": "Перейдите в «Основные» настройки, чтобы выбрать его.",
                 "theme": "Тема",
                 "theme_help": "Тема аватарок\n"
             }
@@ -25,7 +25,7 @@
                 "boringavatar": {
                     "export_description": "Включает аватар в архив экспорта.",
                     "anonymize_description": "Удаляет текущий аватар и генерирует новый случайный.",
-                    "delete_description": "Удаляет аватар."
+                    "delete_description": "Удаляет скучный аватар."
                 }
             }
         }
