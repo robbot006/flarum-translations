@@ -653,7 +653,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/drafts/1.2.14/resources/locale/en.yml',
 	],
 	'fof-filter' => [
-		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/filter/1.2.2/resources/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/filter/1.2.3/resources/locale/en.yml',
 	],
 	'fof-follow-tags' => [
 		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/follow-tags/1.2.9/resources/locale/en.yml',
