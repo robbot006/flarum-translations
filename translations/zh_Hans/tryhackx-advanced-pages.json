@@ -27,7 +27,10 @@
                 "bbcode_table": "[table] [tr] [th] [td] — 用于创建表格的 BBCode 标签",
                 "bbcode_spoiler": "[spoiler] — 剧透 / 可折叠详情",
                 "bbcode_center": "[center] 居中",
-                "bbcode_url": "[url] — 增强链接解析（支持 Flarum 默认不支持的部分网址格式）"
+                "bbcode_url": "[url] — 增强链接解析（支持 Flarum 默认不支持的部分网址格式）",
+                "forum_title": "",
+                "forum_help": "",
+                "replace_forum_spoiler": ""
             },
             "edit_page": {
                 "create_title": "创建页面",
