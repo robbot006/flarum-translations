@@ -6424,6 +6424,37 @@
             }
         }
     },
+    "quasimo-tag-sidebar.json": {
+        "quasimo-tag-sidebar": {
+            "admin": {
+                "content_type_html": "d41d8cd98f00b204e9800998ecf8427e 4c4ad5fca2e7a3f74dbb1ced00381aa4",
+                "content_type_markdown": "d41d8cd98f00b204e9800998ecf8427e 2182a74bab7188d959e795d9301e87ff",
+                "instruction_1": "d41d8cd98f00b204e9800998ecf8427e 3987c44a69a2383a41481350c11bb5f4",
+                "instruction_2": "d41d8cd98f00b204e9800998ecf8427e c22c110e9311a823ffc3e1974bd01361",
+                "instruction_3": "d41d8cd98f00b204e9800998ecf8427e 4c90b18281fab7fb9c8d272d27103879",
+                "instruction_4": "d41d8cd98f00b204e9800998ecf8427e a27d0b5a43a6e6f12a630c37148ba221",
+                "instructions_title": "d41d8cd98f00b204e9800998ecf8427e 219bfd768631c67fc46b9c39799ad7b2",
+                "permission_edit_sidebar": "d41d8cd98f00b204e9800998ecf8427e 723e309687809cd3589cb9e40eb12985",
+                "position_left": "d41d8cd98f00b204e9800998ecf8427e d6b96519e763b73f7c94d47157f77d07",
+                "position_right": "d41d8cd98f00b204e9800998ecf8427e c860c4a84bce542b777aac76b991411c",
+                "setting_content_type": "d41d8cd98f00b204e9800998ecf8427e 5c0c3dec3a172baf8795d565dc77eba8",
+                "setting_content_type_help": "d41d8cd98f00b204e9800998ecf8427e 526b1523db8c694f180aa11561611acc",
+                "setting_position": "d41d8cd98f00b204e9800998ecf8427e 0f95b4e4e7a7efeb9798d6b65371ba2a",
+                "setting_position_help": "d41d8cd98f00b204e9800998ecf8427e 00ec47e2d017f4edd47d2d05f9f5afd7"
+            },
+            "forum": {
+                "cancel_button": "d41d8cd98f00b204e9800998ecf8427e ecdbdc8b4c68acdb3b84d57d23d884f9",
+                "edit_button": "d41d8cd98f00b204e9800998ecf8427e f034424b6f656821f71bcb000c2507ec",
+                "modal_title": "d41d8cd98f00b204e9800998ecf8427e decf4df5fe77c49ecca4f46d557508b4",
+                "save_button": "d41d8cd98f00b204e9800998ecf8427e 74ea58b6a801f0dce4e5d34dbca034dc",
+                "sidebar_empty": "d41d8cd98f00b204e9800998ecf8427e 2957132a1daf2f16cbbc82b9d1fdf477",
+                "sidebar_label": "d41d8cd98f00b204e9800998ecf8427e 3dcdfd7d2b9b06ca8896dad68ae62c75",
+                "sidebar_label_html": "d41d8cd98f00b204e9800998ecf8427e 8792f9f7a93b7b449626c4a0bf1679cf",
+                "sidebar_placeholder": "d41d8cd98f00b204e9800998ecf8427e c2edb526a6c40b9d7b7612447f65bb79",
+                "sidebar_placeholder_html": "d41d8cd98f00b204e9800998ecf8427e 88f947a75a0b5390509c0ae6ebe8d4a9"
+            }
+        }
+    },
     "ralkage-account-lockout.json": {
         "ralkage-account-lockout": {
             "admin": {
