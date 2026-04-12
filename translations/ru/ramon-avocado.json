@@ -68,7 +68,8 @@
                 "share": "Поделиться"
             },
             "post_cta": {
-                "text": ""
+                "text": "",
+                "or": ""
             },
             "link_cta": {
                 "placeholder": ""
@@ -96,7 +97,8 @@
             },
             "header": {
                 "back_home": "",
-                "search": ""
+                "search": "",
+                "or": ""
             },
             "discussion": {
                 "post_singular": "",
@@ -128,7 +130,9 @@
                 "more": "ещё",
                 "new_discussion": "Новая дискуссия",
                 "no_tags_found": "Теги не найдены",
+                "or": "",
                 "popular_heading": "Популярные дискуссии",
+                "popular_no_discussions": "",
                 "replies": "Ответы",
                 "reply_count_plural": "{count} ответов",
                 "reply_count_singular": "1 ответ",
@@ -166,7 +170,8 @@
                 "discussion_plural": "дискуссии",
                 "other_tags_label": "Другие теги",
                 "featured": "Избранные",
-                "all_discussions": ""
+                "all_discussions": "",
+                "login_to_view": ""
             }
         }
     }
