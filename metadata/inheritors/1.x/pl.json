@@ -55,6 +55,20 @@
     "core.json": {
         "core": {
             "admin": {
+                "announcements": {
+                    "about": "0cea4f3b633e77c87bac45d9bfce743e 0cea4f3b633e77c87bac45d9bfce743e",
+                    "comments_label": "e75259d7685036679622ff5a5f9a76e2 e75259d7685036679622ff5a5f9a76e2",
+                    "description": "b1d55cbe2dda08a385565423b59dbd7e b1d55cbe2dda08a385565423b59dbd7e",
+                    "empty": "0551c9092a540558e1cc58c293fbeefa 0551c9092a540558e1cc58c293fbeefa",
+                    "hide": "b0832aed0cd45dde1406b0b8e2ee8481 b0832aed0cd45dde1406b0b8e2ee8481",
+                    "load_error": "ad0d80d36d90f55cb849ef4b88ea34a6 ad0d80d36d90f55cb849ef4b88ea34a6",
+                    "read_more": "e21faeedca777dbe00f7a227076749d0 e21faeedca777dbe00f7a227076749d0",
+                    "refresh": "dea02971fab0469055a7a9d277a126ca dea02971fab0469055a7a9d277a126ca",
+                    "retry": "19fc7e9ce4f57fbb7eb06d0da60572f2 19fc7e9ce4f57fbb7eb06d0da60572f2",
+                    "show": "7126dc051c05944e2943364282ff6f8b 7126dc051c05944e2943364282ff6f8b",
+                    "title": "a6f64a85352dcec43994a0c3da3ffc13 a6f64a85352dcec43994a0c3da3ffc13",
+                    "view_all": "94bc1c126ab7c3c0b9bc2220cbd865f0 94bc1c126ab7c3c0b9bc2220cbd865f0"
+                },
                 "appearance": {
                     "colored_header_label": "ccbf08c73d77cebb03203b2d0e399d92 ccbf08c73d77cebb03203b2d0e399d92",
                     "colors_heading": "60c620db3e34af6b44f11ea50f7831bc 60c620db3e34af6b44f11ea50f7831bc",
