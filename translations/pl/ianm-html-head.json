@@ -16,7 +16,7 @@
                 "location_label": "",
                 "pages_label": "",
                 "active_label": "Aktywny",
-                "empty_text": "Brak wpisów",
+                "empty_text": "",
                 "delete_button": "Usuń",
                 "edit_button": "Edytuj",
                 "delete_confirm": "",
