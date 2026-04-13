@@ -55,18 +55,18 @@
                 "username_placeholder": "=> core.ref.username"
             },
             "announcements": {
-                "comments_label": "",
-                "description": "",
-                "empty": "",
-                "load_error": "",
-                "about": "",
-                "hide": "",
-                "read_more": "",
-                "refresh": "",
-                "retry": "",
-                "show": "",
-                "title": "",
-                "view_all": ""
+                "comments_label": "{count, plural, one {# commentaire} other {# commentaires}}",
+                "description": "Dernières actualités et annonces de l'équipe de Flarum.",
+                "empty": "Aucune annonce trouvée.",
+                "load_error": "Impossible de charger les annonces. Veuillez réessayer plus tard.",
+                "about": "Dernières actualités et annonces issues de la communauté officielle de Flarum sur discuss.flarum.org.",
+                "hide": "Masquer les annonces",
+                "read_more": "En savoir plus",
+                "refresh": "Actualiser les annonces",
+                "retry": "Réessayer",
+                "show": "Afficher les annonces",
+                "title": "Annonces",
+                "view_all": "Tout afficher sur discuss.flarum.org"
             },
             "dashboard": {
                 "clear_cache_button": "Effacer le cache",
