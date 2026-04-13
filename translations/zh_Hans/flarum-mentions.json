@@ -81,7 +81,7 @@
             "gambits": {
                 "posts": {
                     "mentioned": {
-                        "key": "mentioned",
+                        "key": "提及",
                         "hint": "被提及用户的 ID 或用户名"
                     }
                 }
