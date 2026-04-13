@@ -3242,6 +3242,20 @@
             }
         }
     },
+    "fof-forum-stats-widget.json": {
+        "fof-forum-stats-widget": {
+            "forum": {
+                "widget": {
+                    "stats": {
+                        "comment_post_count": "41de6d6cfb8953c021bbe4ba0701c8a1 41de6d6cfb8953c021bbe4ba0701c8a1",
+                        "discussion_count": "560f23c77d499c21038c0b4487f03cb2 560f23c77d499c21038c0b4487f03cb2",
+                        "user_count": "04f8d66e28ca99785b2ee930631fa318 04f8d66e28ca99785b2ee930631fa318"
+                    },
+                    "title": "bddaa8f0642c45898301beded80c7110 bddaa8f0642c45898301beded80c7110"
+                }
+            }
+        }
+    },
     "fof-forum-widgets-core.json": {
         "fof-forum-widgets-core": {
             "admin": {

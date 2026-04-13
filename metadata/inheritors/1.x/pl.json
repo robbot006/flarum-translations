@@ -2430,6 +2430,20 @@
             }
         }
     },
+    "fof-forum-stats-widget.json": {
+        "fof-forum-stats-widget": {
+            "forum": {
+                "widget": {
+                    "stats": {
+                        "comment_post_count": "73032e01d9f30945e61814dce79db3bd 73032e01d9f30945e61814dce79db3bd",
+                        "discussion_count": "86b543b4369db03e828d4b17d4007d76 86b543b4369db03e828d4b17d4007d76",
+                        "user_count": "c47bbe64b180d4757270fec03bc72d0a c47bbe64b180d4757270fec03bc72d0a"
+                    },
+                    "title": "5944ab8fbaa24f3a1a82e2d01f3465a7 5944ab8fbaa24f3a1a82e2d01f3465a7"
+                }
+            }
+        }
+    },
     "fof-forum-widgets-core.json": {
         "fof-forum-widgets-core": {
             "admin": {
