@@ -245,6 +245,9 @@ return [
 	'fof-move-posts' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/move-posts/v2.0.0-beta.4/locale/en.yml',
 	],
+	'fof-news-widget' => [
+		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/news-widget/2.0.0-beta.1/locale/en.yml',
+	],
 	'fof-oauth' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/oauth/2.0.0-beta.2/resources/locale/en.yml',
 	],
