@@ -59,8 +59,8 @@
                 "keep_editing_button": "Weiter bearbeiten",
                 "newline_mode_label": "Zeilenumbruch-Modus",
                 "newline_flarum": "Flarum (Standardversion – mehrere Zeilenumbrüche = ein Zeilenumbruch)",
-                "newline_preserve": "",
-                "php_warning": ""
+                "newline_preserve": "Beibehalten (alle Zeilenumbrüche beibehalten)",
+                "php_warning": "PHP-Seiten führen serverseitigen Code aus. Erstelle PHP-Seiten nur, wenn du dir der damit verbundenen Sicherheitsrisiken bewusst bist. Fehler werden protokolliert, aber den Besuchern niemals angezeigt."
             },
             "support": {
                 "button": "",
