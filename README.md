@@ -850,6 +850,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-drafts`](https://weblate.rob006.net/projects/flarum2/fof-drafts) | [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts) |
 | [`fof-follow-tags`](https://weblate.rob006.net/projects/flarum2/fof-follow-tags) | [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags) |
 | [`fof-formatting`](https://weblate.rob006.net/projects/flarum2/fof-formatting) | [`fof/formatting`](https://github.com/FriendsOfFlarum/formatting) |
+| [`fof-forum-widgets-core`](https://weblate.rob006.net/projects/flarum2/fof-forum-widgets-core) | [`fof/forum-widgets-core`](https://github.com/FriendsOfFlarum/forum-widgets-core) |
 | [`fof-frontpage`](https://weblate.rob006.net/projects/flarum2/fof-frontpage) | [`fof/frontpage`](https://github.com/FriendsOfFlarum/frontpage) |
 | [`fof-gamification`](https://weblate.rob006.net/projects/flarum2/fof-gamification) | [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification) |
 | [`fof-geoip`](https://weblate.rob006.net/projects/flarum2/fof-geoip) | [`fof/geoip`](https://github.com/FriendsOfFlarum/geoip) |
