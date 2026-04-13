@@ -45,23 +45,23 @@
             "owner_weekly_quota_help": "Nombre maximal de relances autorisées par semaine pour les auteurs de discussion. Définissez cette valeur sur -1 pour désactiver les relances, sur 0 pour les autoriser sans limite, ou sur un nombre positif pour fixer une limite hebdomadaire.",
             "group_overrides": {
                 "description": "Personnalisez les paramètres de bump et d'amortisseur pour des groupes d'utilisateurs spécifiques.",
-                "help": "Laissez les champs vides pour utiliser les paramètres globaux des onglets Bump et Absorber. Définir les valeurs sur 0 signifie illimité ou contournement.",
+                "help": "Laissez les champs vides pour utiliser les paramètres généraux des onglets « Bump » et « Absorbeur ». Une valeur de 0 correspond à un nombre illimité ou au contournement.",
                 "add_override": "Ajouter une dérogation de groupe",
                 "no_overrides": "Aucune dérogation de groupe n'a encore été configurée",
                 "get_started": "Cliquez sur « Ajouter une dérogation de groupe » pour créer des paramètres personnalisés pour des groupes d'utilisateurs spécifiques",
-                "edit": "Éditer",
-                "remove": "Enlever",
+                "edit": "Modifier",
+                "remove": "Supprimer",
                 "confirm_remove": "Êtes-vous sûr de vouloir supprimer cette dérogation de groupe ?",
                 "unlimited": "Illimité",
-                "using_global": "( utilisation globale )"
+                "using_global": "(utilisation globale)"
             },
             "group_override_modal": {
                 "add_title": "Ajouter une dérogation de groupe",
-                "edit_title": "Modifier dérogation de groupe",
-                "select_group": "Choisir un groupe",
-                "manual_section": "Paramètres manuels de bump",
-                "absorber_section": "Paramètres Absorbeur",
-                "use_global": "Utiliser ({value}) globalement",
+                "edit_title": "Modifier la dérogation de groupe",
+                "select_group": "Sélectionner un groupe",
+                "manual_section": "Paramètres de bumps manuels",
+                "absorber_section": "Paramètres de l'absorbeur",
+                "use_global": "Utiliser globalement ({value})",
                 "custom_value": "Valeur personnalisée :",
                 "minus_one_disabled_zero_unlimited": "Définissez la valeur sur -1 pour désactiver, 0 pour illimité ou un nombre positif pour limiter",
                 "zero_means_bypass": "Réglez sur 0 pour contourner l'absorbeur (autorise les bumps immédiats)",
@@ -69,18 +69,18 @@
                 "cancel": "Annuler"
             },
             "select_groups_modal": {
-                "title": "Choisir les groupes",
-                "select_button": "Choisir les groupes",
+                "title": "Sélectionner les groupes",
+                "select_button": "Sélectionner les groupes",
                 "no_groups": "Aucun groupe disponible",
-                "no_groups_selected": "Aucun groupe choisi",
-                "save": "Sauver",
+                "no_groups_selected": "Aucun groupe sélectionné",
+                "save": "Enregistrer",
                 "cancel": "Annuler"
             },
             "recent_bumps": {
-                "title": "Activité récente des Bumps",
+                "title": "Activité récente des bumps",
                 "loading": "Chargement...",
                 "no_bumps": "Aucune activité de bump",
-                "showing": "Montrer {count} activités",
+                "showing": "Afficher les {count} activités",
                 "untitled": "Discussion sans titre",
                 "system": "Système",
                 "view_discussion": "Voir la discussion",
@@ -91,21 +91,21 @@
         },
         "forum": {
             "bump_button": "Bump",
-            "bump_button_cooldown": "({time}) Bump",
+            "bump_button_cooldown": "({time}) bump",
             "bump_button_quota": "Bump ({count} restant)",
             "bump_disabled": "Désactivé",
             "bump_success": "Discussion relancée avec succès !",
             "bump_error": "Échec de la relance de la discussion.",
             "bump_cooldown": "Disponible {time}",
-            "bump_quota_exceeded_daily": "Limite quotidienne atteinte",
-            "bump_quota_exceeded_weekly": "Limite hebdomadaire atteinte",
+            "bump_quota_exceeded_daily": "Limite quotidienne de bumps atteinte",
+            "bump_quota_exceeded_weekly": "Limite hebdomadaire de bumps atteinte",
             "bump_disabled_for_group": "La fonction de bump manuel est désactivée pour votre groupe d'utilisateurs"
         },
         "api": {
-            "cooldown_error": "Tu pourras relancer cette discussion dans {hours} heures",
-            "daily_quota_error": "Limite quotidienne atteinte ({limit})",
-            "weekly_quota_error": "Limite hebdomadaire atteinte ({limit})",
-            "bump_disabled": "La fonction de bump manuel est désactivée pour ton groupe d'utilisateurs"
+            "cooldown_error": "Vous pourrez relancer cette discussion dans {hours} heures",
+            "daily_quota_error": "Limite quotidienne de bumps atteinte ({limit})",
+            "weekly_quota_error": "Limite hebdomadaire de bumps atteinte ({limit})",
+            "bump_disabled": "La fonction de bump manuel est désactivée pour votre groupe d'utilisateurs"
         }
     }
 }
