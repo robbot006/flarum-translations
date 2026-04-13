@@ -1718,7 +1718,7 @@ return [
 		],
 	],
 	'tryhackx-advanced-pages' => [
-		'tag' => 'https://raw.githubusercontent.com/TryHackX/flarum-advanced-pages/1.0.1/resources/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/TryHackX/flarum-advanced-pages/1.0.2/resources/locale/en.yml',
 		'__builtInLanguages' => [
 			'pl',
 		],
