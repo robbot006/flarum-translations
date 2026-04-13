@@ -164,6 +164,7 @@
                 "imageMigrationServiceCleanupSuccess": "",
                 "imageMigrationServiceUnknownError": "",
                 "imageMigrationServiceCleanupFail": "",
+                "imageMigrationServiceNoCleanup": "",
                 "purgeImagesAlreadyRunning": "",
                 "purgeImagesDirectoryNotFound": "",
                 "purgeImagesStart": "",

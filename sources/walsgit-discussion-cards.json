@@ -164,6 +164,7 @@
                 "imageMigrationServiceCleanupSuccess": "️✅ Cleanup: found and deleted {filename}",
                 "imageMigrationServiceUnknownError": "Unknown error",
                 "imageMigrationServiceCleanupFail": "❌ Cleanup failed! {filename} found but couldn't be deleted : {error}",
+                "imageMigrationServiceNoCleanup": "⏭️ Due to {failedMigrations} failed migrations, cleanup was skipped",
                 "purgeImagesAlreadyRunning": "Purge Images is already running.",
                 "purgeImagesDirectoryNotFound": "Directory {directory} not found.",
                 "purgeImagesStart": "➡ Purging discussion cards images...",
