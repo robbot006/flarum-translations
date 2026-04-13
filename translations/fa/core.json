@@ -15,14 +15,14 @@
                         "end_button": "",
                         "issue_question": "",
                         "issue_question_help": "",
-                        "no_button": "",
+                        "no_button": "خیر",
                         "result_description": "",
                         "start_button": "",
                         "stop_button": "",
                         "steps_left": "",
                         "total_steps": "",
                         "title": "",
-                        "yes_button": ""
+                        "yes_button": "بله"
                     },
                     "config_override": {
                         "label": "",
