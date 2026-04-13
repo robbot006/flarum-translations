@@ -66,8 +66,8 @@
         "lib": {
             "data": {
                 "drafts": {
-                    "export_description": "",
-                    "delete_description": ""
+                    "export_description": "Все черновики пользователя.",
+                    "delete_description": "Удалить все черновики пользователя."
                 }
             }
         }
