@@ -867,6 +867,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-moderator-notes`](https://weblate.rob006.net/projects/flarum2/fof-moderator-notes) | [`fof/moderator-notes`](https://github.com/FriendsOfFlarum/moderator-notes) |
 | [`fof-moderator-warnings`](https://weblate.rob006.net/projects/flarum2/fof-moderator-warnings) | [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings) |
 | [`fof-move-posts`](https://weblate.rob006.net/projects/flarum2/fof-move-posts) | [`fof/move-posts`](https://github.com/FriendsOfFlarum/move-posts) |
+| [`fof-news-widget`](https://weblate.rob006.net/projects/flarum2/fof-news-widget) | [`fof/news-widget`](https://github.com/FriendsOfFlarum/news-widget) |
 | [`fof-oauth`](https://weblate.rob006.net/projects/flarum2/fof-oauth) | [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) |
 | [`fof-online-users-widget`](https://weblate.rob006.net/projects/flarum2/fof-online-users-widget) | [`fof/online-users-widget`](https://github.com/FriendsOfFlarum/online-users-widget) |
 | [`fof-open-collective`](https://weblate.rob006.net/projects/flarum2/fof-open-collective) | [`fof/open-collective`](https://github.com/FriendsOfFlarum/open-collective) |
@@ -883,6 +884,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-subscribed`](https://weblate.rob006.net/projects/flarum2/fof-subscribed) | [`fof/subscribed`](https://github.com/FriendsOfFlarum/subscribed) |
 | [`fof-synopsis`](https://weblate.rob006.net/projects/flarum2/fof-synopsis) | [`fof/synopsis`](https://github.com/FriendsOfFlarum/synopsis) |
 | [`fof-terms`](https://weblate.rob006.net/projects/flarum2/fof-terms) | [`fof/terms`](https://github.com/FriendsOfFlarum/terms) |
+| [`fof-top-posters-widget`](https://weblate.rob006.net/projects/flarum2/fof-top-posters-widget) | [`fof/top-posters-widget`](https://github.com/FriendsOfFlarum/top-posters-widget) |
 | [`fof-upload`](https://weblate.rob006.net/projects/flarum2/fof-upload) | [`fof/upload`](https://github.com/FriendsOfFlarum/upload) |
 | [`fof-user-bio`](https://weblate.rob006.net/projects/flarum2/fof-user-bio) | [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio) |
 | [`fof-user-directory`](https://weblate.rob006.net/projects/flarum2/fof-user-directory) | [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory) |
