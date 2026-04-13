@@ -293,6 +293,9 @@ return [
 	'fof-terms' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/terms/2.0.0-beta.5/resources/locale/en.yml',
 	],
+	'fof-top-posters-widget' => [
+		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/top-posters-widget/2.0.0-beta.1/locale/en.yml',
+	],
 	'fof-upload' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/upload/2.0.0-beta.4/resources/locale/en.yml',
 	],
