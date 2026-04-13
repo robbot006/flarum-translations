@@ -2,10 +2,10 @@
     "fof-news-widget": {
         "admin": {
             "settings": {
-                "add_line": "",
+                "add_line": "Dodaj ogłoszenie",
                 "remove_line": "",
-                "lines": "",
-                "html_warning": ""
+                "lines": "Ogłoszenie",
+                "html_warning": "Bądź ostrożny, treść ogłoszenia będzie potraktowana jako HTML i błędnie zagnieżdżone tagi mogą zaburzyć layout forum."
             }
         }
     }

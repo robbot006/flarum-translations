@@ -3154,6 +3154,17 @@
             }
         }
     },
+    "fof-news-widget.json": {
+        "fof-news-widget": {
+            "admin": {
+                "settings": {
+                    "add_line": "6aff9fd025848a5743973063eca59ac3 6aff9fd025848a5743973063eca59ac3",
+                    "html_warning": "98fbb4950076a26f82e602726955f0f8 98fbb4950076a26f82e602726955f0f8",
+                    "lines": "a8c350ba25089b04162f2bf04cdbffa2 a8c350ba25089b04162f2bf04cdbffa2"
+                }
+            }
+        }
+    },
     "fof-oauth.json": {
         "fof-oauth": {
             "admin": {
@@ -3777,6 +3788,15 @@
                 },
                 "user_settings": {
                     "optional_policies_label": "e7180983c95bf4e47d6a4a0bb3c7de22 e7180983c95bf4e47d6a4a0bb3c7de22"
+                }
+            }
+        }
+    },
+    "fof-top-posters-widget.json": {
+        "fof-top-posters-widget": {
+            "forum": {
+                "widget": {
+                    "title": "843ad4f63ca25fe7b02c1146bf0e116e 843ad4f63ca25fe7b02c1146bf0e116e"
                 }
             }
         }

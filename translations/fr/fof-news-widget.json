@@ -2,10 +2,10 @@
     "fof-news-widget": {
         "admin": {
             "settings": {
-                "add_line": "",
+                "add_line": "Ajouter une ligne d'actualité",
                 "remove_line": "",
-                "lines": "",
-                "html_warning": ""
+                "lines": "Ligne d'actualité",
+                "html_warning": "Veuillez noter que tout code HTML sera affiché tel quel."
             }
         }
     }

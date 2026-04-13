@@ -2,10 +2,10 @@
     "fof-news-widget": {
         "admin": {
             "settings": {
-                "add_line": "",
+                "add_line": "Nachrichtenzeile hinzufügen",
                 "remove_line": "",
-                "lines": "",
-                "html_warning": ""
+                "lines": "Nachrichtenzeilen",
+                "html_warning": "Bitte sei vorsichtig, da jeglicher HTML-Code gerendert wird."
             }
         }
     }
