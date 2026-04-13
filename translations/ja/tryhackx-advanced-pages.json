@@ -27,7 +27,10 @@
                 "bbcode_table": "",
                 "bbcode_spoiler": "",
                 "bbcode_center": "",
-                "bbcode_url": ""
+                "bbcode_url": "",
+                "forum_title": "",
+                "forum_help": "",
+                "replace_forum_spoiler": ""
             },
             "edit_page": {
                 "create_title": "",

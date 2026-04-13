@@ -27,7 +27,10 @@
                 "bbcode_table": "[table] [tr] [th] [td] — Tables",
                 "bbcode_spoiler": "[spoiler] — Spoiler/Details",
                 "bbcode_center": "[center] — Center text",
-                "bbcode_url": "[url] — Extended URL parser (accepts URLs rejected by Flarum)"
+                "bbcode_url": "[url] — Extended URL parser (accepts URLs rejected by Flarum)",
+                "forum_title": "Forum Integration",
+                "forum_help": "Override how spoilers are displayed in regular forum posts. Requires clearing the formatter cache (php flarum cache:clear).",
+                "replace_forum_spoiler": "Replace Flarum's default spoiler with Advanced Pages spoiler style (details/summary)"
             },
             "edit_page": {
                 "create_title": "Create Page",
