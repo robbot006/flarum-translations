@@ -10181,6 +10181,30 @@
             }
         }
     },
+    "gbcl-userip.json": {
+        "gbcl-userip": {
+            "admin": {
+                "permissions": {
+                    "view_ip_info_label": "e1ac3947af284c6e6c92efc8c3a9d427 e1ac3947af284c6e6c92efc8c3a9d427"
+                },
+                "service": {
+                    "ipinfo": {
+                        "description": "84b2c8b91fff7d001653189c98886b0c 84b2c8b91fff7d001653189c98886b0c",
+                        "key": "6a1500ac08c516218691df1a03829085 6a1500ac08c516218691df1a03829085",
+                        "label": "2a4d3f896735e9e7a865c96f3acdc42d 2a4d3f896735e9e7a865c96f3acdc42d"
+                    },
+                    "ipsb": {
+                        "description": "507d887c076232d09dc48addfa9330c2 507d887c076232d09dc48addfa9330c2",
+                        "label": "947871dbc04ee7d5db1fa4cf2b91a2c0 947871dbc04ee7d5db1fa4cf2b91a2c0"
+                    },
+                    "label": "d5d9a3bfd257e7f30c5e1be550c14b28 d5d9a3bfd257e7f30c5e1be550c14b28"
+                }
+            },
+            "forum": {
+                "unknownNotice": "f9a26283d7a8988b63a8f9f5f681ab76 f9a26283d7a8988b63a8f9f5f681ab76"
+            }
+        }
+    },
     "glowingblue-author-filter.json": {
         "glowingblue-author-filter": {
             "admin": {
