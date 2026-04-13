@@ -856,6 +856,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-follow-tags`](https://weblate.rob006.net/projects/flarum/fof-follow-tags) | [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags) |
 | [`fof-formatting`](https://weblate.rob006.net/projects/flarum/fof-formatting) | [`fof/formatting`](https://github.com/FriendsOfFlarum/formatting) |
 | [`fof-forum-statistics-widget`](https://weblate.rob006.net/projects/flarum/fof-forum-statistics-widget) | [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget) |
+| [`fof-forum-widgets-core`](https://weblate.rob006.net/projects/flarum/fof-forum-widgets-core) | [`fof/forum-widgets-core`](https://github.com/FriendsOfFlarum/forum-widgets-core) |
 | [`fof-frontpage`](https://weblate.rob006.net/projects/flarum/fof-frontpage) | [`fof/frontpage`](https://github.com/FriendsOfFlarum/frontpage) |
 | [`fof-gamification`](https://weblate.rob006.net/projects/flarum/fof-gamification) | [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification) |
 | [`fof-geoip`](https://weblate.rob006.net/projects/flarum/fof-geoip) | [`fof/geoip`](https://github.com/FriendsOfFlarum/geoip) |
@@ -874,6 +875,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-move-posts`](https://weblate.rob006.net/projects/flarum/fof-move-posts) | [`fof/move-posts`](https://github.com/FriendsOfFlarum/move-posts) |
 | [`fof-nightmode`](https://weblate.rob006.net/projects/flarum/fof-nightmode) | [`fof/nightmode`](https://github.com/FriendsOfFlarum/nightmode) |
 | [`fof-oauth`](https://weblate.rob006.net/projects/flarum/fof-oauth) | [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) |
+| [`fof-online-users-widget`](https://weblate.rob006.net/projects/flarum/fof-online-users-widget) | [`fof/online-users-widget`](https://github.com/FriendsOfFlarum/online-users-widget) |
 | [`fof-open-collective`](https://weblate.rob006.net/projects/flarum/fof-open-collective) | [`fof/open-collective`](https://github.com/FriendsOfFlarum/open-collective) |
 | [`fof-pages`](https://weblate.rob006.net/projects/flarum/fof-pages) | [`fof/pages`](https://github.com/FriendsOfFlarum/pages) |
 | [`fof-passport`](https://weblate.rob006.net/projects/flarum/fof-passport) | [`fof/passport`](https://github.com/FriendsOfFlarum/passport) |
