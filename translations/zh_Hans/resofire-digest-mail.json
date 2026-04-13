@@ -188,7 +188,7 @@
             "greeting": "",
             "click_hint": "",
             "daily_title": "",
-            "daily_desc": "",
+            "daily_desc": "每天发送一封包含最新动态的邮件。",
             "weekly_title": "",
             "weekly_desc": "",
             "monthly_title": "",
