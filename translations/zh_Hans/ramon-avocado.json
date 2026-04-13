@@ -69,7 +69,7 @@
             },
             "post_cta": {
                 "text": "喜欢正在看的内容？加入讨论吧！",
-                "or": ""
+                "or": "或"
             },
             "link_cta": {
                 "placeholder": "登录以查看链接"
@@ -98,7 +98,7 @@
             "header": {
                 "back_home": "返回首页",
                 "search": "搜索",
-                "or": ""
+                "or": "或"
             },
             "discussion": {
                 "post_singular": "条回复",
@@ -130,9 +130,9 @@
                 "more": "更多",
                 "new_discussion": "发起讨论",
                 "no_tags_found": "未找到标签",
-                "or": "",
+                "or": "或",
                 "popular_heading": "热门讨论",
-                "popular_no_discussions": "",
+                "popular_no_discussions": "暂无讨论。",
                 "replies": "回复",
                 "reply_count_plural": "{count} 条回复",
                 "reply_count_singular": "1 条回复",
@@ -154,7 +154,7 @@
                 "discussion_singular_card": "个讨论",
                 "discussion_plural_card": "{count} 个讨论",
                 "yesterday_time": "昨天 ，{time}",
-                "showcase_heading": ""
+                "showcase_heading": "展示"
             },
             "discussions": {
                 "title": "所有讨论",
@@ -170,8 +170,8 @@
                 "discussion_plural": "个讨论",
                 "other_tags_label": "其他标签",
                 "featured": "精选",
-                "all_discussions": "所有讨论",
-                "login_to_view": ""
+                "all_discussions": "所以话题    链接：",
+                "login_to_view": "登录以查看链接"
             }
         }
     }
