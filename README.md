@@ -867,6 +867,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-moderator-warnings`](https://weblate.rob006.net/projects/flarum2/fof-moderator-warnings) | [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings) |
 | [`fof-move-posts`](https://weblate.rob006.net/projects/flarum2/fof-move-posts) | [`fof/move-posts`](https://github.com/FriendsOfFlarum/move-posts) |
 | [`fof-oauth`](https://weblate.rob006.net/projects/flarum2/fof-oauth) | [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) |
+| [`fof-online-users-widget`](https://weblate.rob006.net/projects/flarum2/fof-online-users-widget) | [`fof/online-users-widget`](https://github.com/FriendsOfFlarum/online-users-widget) |
 | [`fof-open-collective`](https://weblate.rob006.net/projects/flarum2/fof-open-collective) | [`fof/open-collective`](https://github.com/FriendsOfFlarum/open-collective) |
 | [`fof-pages`](https://weblate.rob006.net/projects/flarum2/fof-pages) | [`fof/pages`](https://github.com/FriendsOfFlarum/pages) |
 | [`fof-prevent-necrobumping`](https://weblate.rob006.net/projects/flarum2/fof-prevent-necrobumping) | [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping) |
