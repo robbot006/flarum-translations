@@ -133,7 +133,7 @@ return [
 		'beta' => 'https://raw.githubusercontent.com/blomstra/flarum-ext-s3-assets/0.1.3-beta.3/locale/en.yml',
 	],
 	'blomstra-search' => [
-		'tag' => 'https://raw.githubusercontent.com/blomstra/flarum-ext-search/0.1.19/resources/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/blomstra/flarum-ext-search/0.2.0/resources/locale/en.yml',
 	],
 	'blomstra-secondary-tags-toggler' => [
 		'tag' => 'https://raw.githubusercontent.com/blomstra/flarum-ext-secondary-tags-toggler/0.2.3/locale/en.yml',
