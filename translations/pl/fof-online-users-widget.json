@@ -4,7 +4,7 @@
             "settings": {
                 "cache_ttl": "",
                 "last_seen_interval": "",
-                "max_users": ""
+                "max_users": "Maksymalna liczba użytkowników do pokazania"
             },
             "permissions": {
                 "view_online_users_widget": ""
@@ -12,8 +12,8 @@
         },
         "forum": {
             "widget": {
-                "title": "",
-                "empty": ""
+                "title": "Kto jest online?",
+                "empty": "Żaden użytkownik nie jest online."
             }
         }
     }
