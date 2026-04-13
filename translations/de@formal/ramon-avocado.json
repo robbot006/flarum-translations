@@ -1,7 +1,7 @@
 {
     "ramon-avocado": {
         "admin": {
-            "loading": "",
+            "loading": "Wird geladen…",
             "settings": {
                 "section_homepage": "Homepage",
                 "featured_tags_label": "Hervorgehobene Kategorien",
@@ -28,8 +28,8 @@
                 "fixed_avatar_effect_help": "Avatar des Beitragsautors beim Scrollen bei längeren Beiträgen auf Desktop am oberen Rand fixieren.",
                 "hero_decoration_icon_label": "",
                 "hero_decoration_icon_help": "",
-                "hero_decoration_icon_opacity_label": "",
-                "hero_decoration_icon_opacity_help": "",
+                "hero_decoration_icon_opacity_label": "Deckkraft des Symbols (0–100)",
+                "hero_decoration_icon_opacity_help": "Stelle die Deckkraft des Dekorationssymbols als Prozentsatz ein. 100 = vollständig deckend, 0 = durchsichtig.",
                 "section_logo": "Logo",
                 "logo_svg_label": "SVG-Logo",
                 "logo_svg_help": "Lade ein benutzerdefiniertes SVG-Logo für dein Forum hoch.",
@@ -41,8 +41,8 @@
                 "show_guest_cta_help": "Zeige Gästen einen Call-to-Action an.",
                 "show_post_cta_label": "",
                 "show_post_cta_help": "",
-                "hide_links_for_guests_label": "",
-                "hide_links_for_guests_help": "",
+                "hide_links_for_guests_label": "Links für Gäste verbergen",
+                "hide_links_for_guests_help": "Verhindert, dass Gäste Links in Beiträgen anklicken können. Beim Anklicken eines Links wird stattdessen eine Aufforderung zum Anmelden oder Registrieren angezeigt.",
                 "custom_default_avatar_label": "Benutzerdefinierter Standard-Avatar",
                 "custom_default_avatar_help": "Lade ein benutzerdefiniertes Standard-Avatarbild für Benutzer hoch, die keinen Avatar haben.",
                 "section_footer": "Fußzeile"
@@ -69,42 +69,42 @@
             },
             "post_cta": {
                 "text": "",
-                "or": ""
+                "or": "oder"
             },
             "link_cta": {
                 "placeholder": ""
             },
             "search": {
-                "title": "",
-                "placeholder": "",
-                "placeholder_hero": "",
-                "hero_title": "",
-                "hero_sub": "",
-                "tab_discussions": "",
-                "tab_posts": "",
-                "tab_users": "",
-                "search_button": "",
-                "clear": "",
+                "title": "Suche",
+                "placeholder": "Suche…",
+                "placeholder_hero": "Im Forum suchen…",
+                "hero_title": "Wonach suchst du?",
+                "hero_sub": "Diskussionen, Beiträge und Mitglieder suchen",
+                "tab_discussions": "Diskussionen",
+                "tab_posts": "Beiträge",
+                "tab_users": "Benutzer",
+                "search_button": "Suchen",
+                "clear": "Löschen",
                 "sort_relevance": "",
-                "sort_latest": "",
+                "sort_latest": "Aktuellste",
                 "sort_top": "",
-                "sort_newest": "",
-                "sort_oldest": "",
+                "sort_newest": "Neueste",
+                "sort_oldest": "Älteste",
                 "no_posts_found": "",
                 "no_posts_match": "",
                 "no_users_found": "",
                 "enter_search_term": ""
             },
             "header": {
-                "back_home": "",
-                "search": "",
-                "or": ""
+                "back_home": "Zurück zur Startseite",
+                "search": "Suche",
+                "or": "oder"
             },
             "discussion": {
-                "post_singular": "",
-                "post_plural": "",
-                "participant_singular": "",
-                "participant_plural": ""
+                "post_singular": "Beitrag",
+                "post_plural": "Beiträge",
+                "participant_singular": "Teilnehmer",
+                "participant_plural": "Teilnehmer"
             },
             "home": {
                 "all_categories": "Alle Kategorien",
@@ -115,7 +115,7 @@
                 "categories_heading": "Kategorien",
                 "choose_tags": "Themen wählen",
                 "composer_body_placeholder": "",
-                "composer_close": "",
+                "composer_close": "Schließen",
                 "composer_post": "",
                 "composer_submitting": "",
                 "composer_title_placeholder": "",

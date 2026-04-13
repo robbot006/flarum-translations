@@ -2,28 +2,28 @@
     "resofire-digest-mail": {
         "forum": {
             "settings": {
-                "digest_label": "",
-                "digest_help": "",
-                "frequency_off": "",
-                "frequency_daily": "",
-                "frequency_weekly": "",
-                "frequency_monthly": "",
-                "saved": "",
-                "save_error": ""
+                "digest_label": "E-Mail-Zusammenfassung",
+                "digest_help": "Erhalte regelmäßig eine Zusammenfassung über neue Diskussionen, aktive Themen und neue Mitglieder.",
+                "frequency_off": "Aus – bitte keine Zusammenfassungen senden",
+                "frequency_daily": "Täglich",
+                "frequency_weekly": "Wöchentlich",
+                "frequency_monthly": "Monatlich",
+                "saved": "Gespeichert",
+                "save_error": "Deine Einstellung konnte nicht gespeichert werden. Bitte versuche es erneut."
             },
             "onboarding": {
-                "modal_title": "",
-                "modal_body": "",
-                "modal_dismiss": ""
+                "modal_title": "Bleib auf dem Laufenden",
+                "modal_body": "Erhalte regelmäßig eine Zusammenfassung der besten Diskussionen, neuer Mitglieder und der aktuellen Ereignisse im Forum – direkt in deinem Posteingang.",
+                "modal_dismiss": "Nein, danke"
             }
         },
         "admin": {
             "settings": {
-                "limit_new_label": "",
-                "limit_new_help": "",
-                "limit_hot_label": "",
-                "limit_hot_help": "",
-                "limit_unread_label": "",
+                "limit_new_label": "Neue Diskussionen — maximale Anzahl",
+                "limit_new_help": "Maximale Anzahl neuer Diskussionen, die in jeder Zusammenfassung aufgenommen werden sollen.",
+                "limit_hot_label": "Aktive Diskussionen — maximale Anzahl",
+                "limit_hot_help": "Maximale Anzahl aktiver Diskussionen, die in jeder Zusammenfassung aufgenommen werden sollen.",
+                "limit_unread_label": "Ungelesene Diskussionen — maximale Anzahl",
                 "limit_unread_help": "",
                 "limit_leaderboard_label": "",
                 "limit_leaderboard_help": "",

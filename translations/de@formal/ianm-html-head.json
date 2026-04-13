@@ -16,7 +16,7 @@
                 "location_label": "Standort",
                 "pages_label": "Seiten",
                 "active_label": "Aktiv",
-                "empty_text": "Noch keine Einträge. Klicke auf „Erstellen“, um deinen ersten Eintrag hinzuzufügen.",
+                "empty_text": "Noch keine Einträge. Klicke auf „Hinzufügen“, um deinen ersten Eintrag hinzuzufügen.",
                 "delete_button": "Entfernen",
                 "edit_button": "Bearbeiten",
                 "delete_confirm": "Möchtest du diesen Eintrag wirklich löschen?",
