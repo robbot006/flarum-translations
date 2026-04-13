@@ -55,18 +55,18 @@
                 "username_placeholder": "=> core.ref.username"
             },
             "announcements": {
-                "comments_label": "",
-                "description": "",
-                "empty": "",
-                "load_error": "",
-                "about": "",
-                "hide": "",
-                "read_more": "",
-                "refresh": "",
-                "retry": "",
-                "show": "",
-                "title": "",
-                "view_all": ""
+                "comments_label": "{count, plural, one {# Kommentar} other {# Kommentare}}",
+                "description": "Aktuelle Neuigkeiten und Ankündigungen des Flarum-Teams.",
+                "empty": "Keine Ankündigungen gefunden.",
+                "load_error": "Die Ankündigungen konnten nicht geladen werden. Bitte versuche es später erneut.",
+                "about": "Aktuelle Nachrichten und Ankündigungen aus der offiziellen Flarum-Community unter discuss.flarum.org.",
+                "hide": "Ankündigungen ausblenden",
+                "read_more": "Weiterlesen",
+                "refresh": "Ankündigungen aktualisieren",
+                "retry": "Erneut versuchen",
+                "show": "Ankündigungen anzeigen",
+                "title": "Ankündigungen",
+                "view_all": "Alle auf discuss.flarum.org anzeigen"
             },
             "dashboard": {
                 "clear_cache_button": "Cache leeren",
