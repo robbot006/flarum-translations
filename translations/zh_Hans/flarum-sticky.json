@@ -12,7 +12,7 @@
         },
         "forum": {
             "badge": {
-                "sticky_tooltip": "=> flarum-sticky.ref.sticky"
+                "sticky_tooltip": "置顶"
             },
             "discussion_controls": {
                 "sticky_button": "置顶讨论",
