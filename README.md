@@ -856,6 +856,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-follow-tags`](https://weblate.rob006.net/projects/flarum/fof-follow-tags) | [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags) |
 | [`fof-formatting`](https://weblate.rob006.net/projects/flarum/fof-formatting) | [`fof/formatting`](https://github.com/FriendsOfFlarum/formatting) |
 | [`fof-forum-statistics-widget`](https://weblate.rob006.net/projects/flarum/fof-forum-statistics-widget) | [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget) |
+| [`fof-forum-stats-widget`](https://weblate.rob006.net/projects/flarum/fof-forum-stats-widget) | [`fof/forum-stats-widget`](https://github.com/FriendsOfFlarum/forum-stats-widget) |
 | [`fof-forum-widgets-core`](https://weblate.rob006.net/projects/flarum/fof-forum-widgets-core) | [`fof/forum-widgets-core`](https://github.com/FriendsOfFlarum/forum-widgets-core) |
 | [`fof-frontpage`](https://weblate.rob006.net/projects/flarum/fof-frontpage) | [`fof/frontpage`](https://github.com/FriendsOfFlarum/frontpage) |
 | [`fof-gamification`](https://weblate.rob006.net/projects/flarum/fof-gamification) | [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification) |
@@ -873,6 +874,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-moderator-notes`](https://weblate.rob006.net/projects/flarum/fof-moderator-notes) | [`fof/moderator-notes`](https://github.com/FriendsOfFlarum/moderator-notes) |
 | [`fof-moderator-warnings`](https://weblate.rob006.net/projects/flarum/fof-moderator-warnings) | [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings) |
 | [`fof-move-posts`](https://weblate.rob006.net/projects/flarum/fof-move-posts) | [`fof/move-posts`](https://github.com/FriendsOfFlarum/move-posts) |
+| [`fof-news-widget`](https://weblate.rob006.net/projects/flarum/fof-news-widget) | [`fof/news-widget`](https://github.com/FriendsOfFlarum/news-widget) |
 | [`fof-nightmode`](https://weblate.rob006.net/projects/flarum/fof-nightmode) | [`fof/nightmode`](https://github.com/FriendsOfFlarum/nightmode) |
 | [`fof-oauth`](https://weblate.rob006.net/projects/flarum/fof-oauth) | [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) |
 | [`fof-online-users-widget`](https://weblate.rob006.net/projects/flarum/fof-online-users-widget) | [`fof/online-users-widget`](https://github.com/FriendsOfFlarum/online-users-widget) |
@@ -896,6 +898,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-subscribed`](https://weblate.rob006.net/projects/flarum/fof-subscribed) | [`fof/subscribed`](https://github.com/FriendsOfFlarum/subscribed) |
 | [`fof-synopsis`](https://weblate.rob006.net/projects/flarum/fof-synopsis) | [`fof/synopsis`](https://github.com/FriendsOfFlarum/synopsis) |
 | [`fof-terms`](https://weblate.rob006.net/projects/flarum/fof-terms) | [`fof/terms`](https://github.com/FriendsOfFlarum/terms) |
+| [`fof-top-posters-widget`](https://weblate.rob006.net/projects/flarum/fof-top-posters-widget) | [`fof/top-posters-widget`](https://github.com/FriendsOfFlarum/top-posters-widget) |
 | [`fof-upload`](https://weblate.rob006.net/projects/flarum/fof-upload) | [`fof/upload`](https://github.com/FriendsOfFlarum/upload) |
 | [`fof-user-bio`](https://weblate.rob006.net/projects/flarum/fof-user-bio) | [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio) |
 | [`fof-user-directory`](https://weblate.rob006.net/projects/flarum/fof-user-directory) | [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory) |
