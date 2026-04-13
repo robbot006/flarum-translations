@@ -3242,6 +3242,17 @@
             }
         }
     },
+    "fof-forum-widgets-core.json": {
+        "fof-forum-widgets-core": {
+            "admin": {
+                "cache_not_writable_warning": "d41d8cd98f00b204e9800998ecf8427e 4ddb486d75e313e36c8f465321de3e89",
+                "settings": {
+                    "prefer_data_with_initial_load": "d41d8cd98f00b204e9800998ecf8427e 38e19f3ff49bb675d9adb68ec1ea5eeb",
+                    "prefer_data_with_initial_load_help": "d41d8cd98f00b204e9800998ecf8427e 3ce51369e2d3a4ae69551864de62dd4c"
+                }
+            }
+        }
+    },
     "fof-frontpage.json": {
         "core": {
             "forum": {
@@ -4230,6 +4241,26 @@
                     "app_secret": "61be046f95cb2ba09bf173f0cbba80d9 20fd904ca6b3fff24dae4c9a987940dc",
                     "client_id": "76525f0f34b48475e5ca33f71d296f3b 76525f0f34b48475e5ca33f71d296f3b",
                     "client_secret": "734082edf44417dd19cc65943aa65c36 9df5edb40f1affbb1dc0eb646ab7a4fa"
+                }
+            }
+        }
+    },
+    "fof-online-users-widget.json": {
+        "fof-online-users-widget": {
+            "admin": {
+                "permissions": {
+                    "view_online_users_widget": "d41d8cd98f00b204e9800998ecf8427e 431b689828f63114e54ad2764806a5ee"
+                },
+                "settings": {
+                    "cache_ttl": "d41d8cd98f00b204e9800998ecf8427e 10bf3a28f218287ada4cfb932fb8a70d",
+                    "last_seen_interval": "d41d8cd98f00b204e9800998ecf8427e 6b882fe92d4cc570ae23d1b405d3aa1f",
+                    "max_users": "d41d8cd98f00b204e9800998ecf8427e d1eff5b2bf6305068476a319790ddeeb"
+                }
+            },
+            "forum": {
+                "widget": {
+                    "empty": "d41d8cd98f00b204e9800998ecf8427e 59a04ed6d3b89efc43f82e452ba97f77",
+                    "title": "d41d8cd98f00b204e9800998ecf8427e 5a7e60c35d35e7d342b50739f45bcc78"
                 }
             }
         }
@@ -6442,10 +6473,23 @@
         "quasimo-llms-txt": {
             "admin": {
                 "settings": {
+                    "custom_intro_help": "d41d8cd98f00b204e9800998ecf8427e c94d15a92d3902e98cbc088f71479b4e",
+                    "custom_intro_label": "d41d8cd98f00b204e9800998ecf8427e 8f3d73fcd361c695bc2fb9906de17099",
+                    "custom_intro_placeholder": "d41d8cd98f00b204e9800998ecf8427e 705ef0309efe7f9a7c3f2d33e32aa457",
+                    "enabled_help": "d41d8cd98f00b204e9800998ecf8427e cc821909b2458c91cddb09a1db3bf3e1",
                     "enabled_label": "d41d8cd98f00b204e9800998ecf8427e 84066c175b894a16368c43afe6d27624",
+                    "full_enabled_help": "d41d8cd98f00b204e9800998ecf8427e 860fd39916f3895c0a36785a03c4b1db",
+                    "full_enabled_label": "d41d8cd98f00b204e9800998ecf8427e 499d3546cd86f84787104ca17389a76f",
+                    "max_discussions_help": "d41d8cd98f00b204e9800998ecf8427e a959dad5ff8e7427004d7d516de9f69d",
+                    "max_discussions_label": "d41d8cd98f00b204e9800998ecf8427e 9225ade69ed5b2c21117b62b2df950dd",
+                    "max_posts_help": "d41d8cd98f00b204e9800998ecf8427e b842b5d3b264bc911219d558ead68cc6",
+                    "max_posts_label": "d41d8cd98f00b204e9800998ecf8427e 2261e391ff999a55f769f90e862e9238",
+                    "open_label": "d41d8cd98f00b204e9800998ecf8427e f51f32264bd77fe83539e79a6689f629",
                     "sort_help": "d41d8cd98f00b204e9800998ecf8427e a7c5bf0b09bb51f5bf6d9aba4c2b8da7",
+                    "sort_label": "d41d8cd98f00b204e9800998ecf8427e b338dbde08adfbababffc5b68b2e3826",
                     "sort_latest": "d41d8cd98f00b204e9800998ecf8427e 817d38f7aa7e0bdd089ccf5beec136d1",
                     "sort_top": "d41d8cd98f00b204e9800998ecf8427e a0d6722b74a1c491c6f80f9698991776",
+                    "urls_help": "d41d8cd98f00b204e9800998ecf8427e 32af70874e35e0c9151abbc1fea9ad2b",
                     "urls_label": "d41d8cd98f00b204e9800998ecf8427e ca5bec4ad44b8a8d4a477c9e9193c53a"
                 }
             }
