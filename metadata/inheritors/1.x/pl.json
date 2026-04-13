@@ -58,7 +58,7 @@
                 "announcements": {
                     "about": "0cea4f3b633e77c87bac45d9bfce743e 0cea4f3b633e77c87bac45d9bfce743e",
                     "comments_label": "e75259d7685036679622ff5a5f9a76e2 e75259d7685036679622ff5a5f9a76e2",
-                    "description": "b1d55cbe2dda08a385565423b59dbd7e b1d55cbe2dda08a385565423b59dbd7e",
+                    "description": "6bb4d83d2adb81ade1e5f338e9791d56 6bb4d83d2adb81ade1e5f338e9791d56",
                     "empty": "0551c9092a540558e1cc58c293fbeefa 0551c9092a540558e1cc58c293fbeefa",
                     "hide": "b0832aed0cd45dde1406b0b8e2ee8481 b0832aed0cd45dde1406b0b8e2ee8481",
                     "load_error": "ad0d80d36d90f55cb849ef4b88ea34a6 ad0d80d36d90f55cb849ef4b88ea34a6",
@@ -2433,10 +2433,10 @@
     "fof-forum-widgets-core.json": {
         "fof-forum-widgets-core": {
             "admin": {
-                "cache_not_writable_warning": "d41d8cd98f00b204e9800998ecf8427e e50b1bf84d7cc7cb57fdb0fc37aac7e1",
+                "cache_not_writable_warning": "e50b1bf84d7cc7cb57fdb0fc37aac7e1 e50b1bf84d7cc7cb57fdb0fc37aac7e1",
                 "settings": {
-                    "prefer_data_with_initial_load": "d41d8cd98f00b204e9800998ecf8427e 7fd12bf28db08789ce9ea664e3246490",
-                    "prefer_data_with_initial_load_help": "d41d8cd98f00b204e9800998ecf8427e 127469eac26ce08c56932fecac50de3a"
+                    "prefer_data_with_initial_load": "7fd12bf28db08789ce9ea664e3246490 7fd12bf28db08789ce9ea664e3246490",
+                    "prefer_data_with_initial_load_help": "127469eac26ce08c56932fecac50de3a 127469eac26ce08c56932fecac50de3a"
                 }
             }
         }
@@ -3254,6 +3254,21 @@
                     "app_secret": "61be046f95cb2ba09bf173f0cbba80d9 61be046f95cb2ba09bf173f0cbba80d9",
                     "client_id": "76525f0f34b48475e5ca33f71d296f3b 76525f0f34b48475e5ca33f71d296f3b",
                     "client_secret": "734082edf44417dd19cc65943aa65c36 734082edf44417dd19cc65943aa65c36"
+                }
+            }
+        }
+    },
+    "fof-online-users-widget.json": {
+        "fof-online-users-widget": {
+            "admin": {
+                "settings": {
+                    "max_users": "ba6ff9c9d4bc0044ada08828a1ecb9a5 ba6ff9c9d4bc0044ada08828a1ecb9a5"
+                }
+            },
+            "forum": {
+                "widget": {
+                    "empty": "268dcba71efc62dc7f47916362e19d65 268dcba71efc62dc7f47916362e19d65",
+                    "title": "2ccb8be8c79522832d21633657951b1d 2ccb8be8c79522832d21633657951b1d"
                 }
             }
         }
