@@ -2430,6 +2430,17 @@
             }
         }
     },
+    "fof-forum-widgets-core.json": {
+        "fof-forum-widgets-core": {
+            "admin": {
+                "cache_not_writable_warning": "d41d8cd98f00b204e9800998ecf8427e e50b1bf84d7cc7cb57fdb0fc37aac7e1",
+                "settings": {
+                    "prefer_data_with_initial_load": "d41d8cd98f00b204e9800998ecf8427e 7fd12bf28db08789ce9ea664e3246490",
+                    "prefer_data_with_initial_load_help": "d41d8cd98f00b204e9800998ecf8427e 127469eac26ce08c56932fecac50de3a"
+                }
+            }
+        }
+    },
     "fof-frontpage.json": {
         "core": {
             "forum": {
