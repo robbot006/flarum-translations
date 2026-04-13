@@ -790,6 +790,9 @@ return [
 	'fof-terms' => [
 		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/terms/1.5.0/resources/locale/en.yml',
 	],
+	'fof-top-posters-widget' => [
+		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/top-posters-widget/1.0.0/locale/en.yml',
+	],
 	'fof-upload' => [
 		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/upload/1.8.11/resources/locale/en.yml',
 	],
