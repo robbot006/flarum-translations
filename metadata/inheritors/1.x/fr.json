@@ -3245,10 +3245,10 @@
     "fof-forum-widgets-core.json": {
         "fof-forum-widgets-core": {
             "admin": {
-                "cache_not_writable_warning": "d41d8cd98f00b204e9800998ecf8427e 84a83eefc06e4e8795678e6d2a58f229",
+                "cache_not_writable_warning": "76a90aa0ecd3e8fb2c427b0442d4bb1a 84a83eefc06e4e8795678e6d2a58f229",
                 "settings": {
-                    "prefer_data_with_initial_load": "d41d8cd98f00b204e9800998ecf8427e 325c41f7108377ded1f07ea4295eb3f9",
-                    "prefer_data_with_initial_load_help": "d41d8cd98f00b204e9800998ecf8427e ffa7b958693655f67827eb8fd6b20f7e"
+                    "prefer_data_with_initial_load": "354c964651e24c3c027c8b87fa9f4723 325c41f7108377ded1f07ea4295eb3f9",
+                    "prefer_data_with_initial_load_help": "dd231b8c6eea71444d36b58cb996e0e3 ffa7b958693655f67827eb8fd6b20f7e"
                 }
             }
         }
@@ -4249,18 +4249,18 @@
         "fof-online-users-widget": {
             "admin": {
                 "permissions": {
-                    "view_online_users_widget": "d41d8cd98f00b204e9800998ecf8427e 4a005da57145e3fa033a22f3d1b89f0f"
+                    "view_online_users_widget": "29ec868a03ea9b96ee9e644581a034db 4a005da57145e3fa033a22f3d1b89f0f"
                 },
                 "settings": {
-                    "cache_ttl": "d41d8cd98f00b204e9800998ecf8427e 4f8e31f8e052a76e66d07bb17f0d9205",
-                    "last_seen_interval": "d41d8cd98f00b204e9800998ecf8427e 15f7dbbde7429ca0e0c44786e04edea0",
-                    "max_users": "d41d8cd98f00b204e9800998ecf8427e bcff0b662e973133defc7e8231d2378a"
+                    "cache_ttl": "9e2e44c9dbea7e66ee72e72c181bc480 4f8e31f8e052a76e66d07bb17f0d9205",
+                    "last_seen_interval": "a8e48a4f3db4a78658c1caf0c9d5dafb 15f7dbbde7429ca0e0c44786e04edea0",
+                    "max_users": "bcff0b662e973133defc7e8231d2378a bcff0b662e973133defc7e8231d2378a"
                 }
             },
             "forum": {
                 "widget": {
-                    "empty": "d41d8cd98f00b204e9800998ecf8427e e977eb7987cc027a443b2d0af4b2fa59",
-                    "title": "d41d8cd98f00b204e9800998ecf8427e 4f0e47b7997f121bd8ae9bd56d50ad87"
+                    "empty": "e977eb7987cc027a443b2d0af4b2fa59 e977eb7987cc027a443b2d0af4b2fa59",
+                    "title": "4f0e47b7997f121bd8ae9bd56d50ad87 4f0e47b7997f121bd8ae9bd56d50ad87"
                 }
             }
         }
@@ -6157,6 +6157,28 @@
                     "send": "f5c12e72649f06449f8b0249a1dcf390 f5c12e72649f06449f8b0249a1dcf390",
                     "user-count": "1846b4810f0240b2242c3819dea30e9a 1846b4810f0240b2242c3819dea30e9a"
                 }
+            }
+        }
+    },
+    "ralkage-cap-captcha.json": {
+        "ralkage-cap-captcha": {
+            "admin": {
+                "settings": {
+                    "api_endpoint_help": "ef90fe2dfa6e8f5f00f6ba9a490d15d8 ef90fe2dfa6e8f5f00f6ba9a490d15d8",
+                    "api_endpoint_label": "41c8039906444696b12c097df1614b4b 41c8039906444696b12c097df1614b4b",
+                    "protect_login_help": "68d42272759d1e16a07fade4d6d3a7d0 68d42272759d1e16a07fade4d6d3a7d0",
+                    "protect_login_label": "109ca356f1c959337565e4569bd13073 109ca356f1c959337565e4569bd13073",
+                    "protect_registration_help": "7fb2dde91449066f34eb36bc6196b682 7fb2dde91449066f34eb36bc6196b682",
+                    "protect_registration_label": "6efc56e1583ea2828ca20ecf6e8dac16 6efc56e1583ea2828ca20ecf6e8dac16",
+                    "secret_key_help": "be5efc27bd582b0f1ee55f6c8b2023a3 be5efc27bd582b0f1ee55f6c8b2023a3",
+                    "secret_key_label": "b4e5ee738b8e34b42c367f5eeddf0235 b4e5ee738b8e34b42c367f5eeddf0235"
+                }
+            },
+            "api": {
+                "invalid_captcha": "b6c0c8d78bc8993d52a2c65033941d72 b6c0c8d78bc8993d52a2c65033941d72"
+            },
+            "forum": {
+                "captcha_required": "fda3824b909f85dd1894228b4b5c33d9 fda3824b909f85dd1894228b4b5c33d9"
             }
         }
     },
