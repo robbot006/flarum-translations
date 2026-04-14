@@ -2690,6 +2690,26 @@
             }
         }
     },
+    "fof-online-users-widget.json": {
+        "fof-online-users-widget": {
+            "admin": {
+                "permissions": {
+                    "view_online_users_widget": "6e091f1bebb2796e9090c5043a5387df 6e091f1bebb2796e9090c5043a5387df"
+                },
+                "settings": {
+                    "cache_ttl": "730643e2dc6dc41531a08e262a23f599 730643e2dc6dc41531a08e262a23f599",
+                    "last_seen_interval": "23a53e2adf0625489e52c863a960e7e4 23a53e2adf0625489e52c863a960e7e4",
+                    "max_users": "674b237453b6b0aacd63b5b01ccdfd1c 674b237453b6b0aacd63b5b01ccdfd1c"
+                }
+            },
+            "forum": {
+                "widget": {
+                    "empty": "565d26688913ab3eaee316a130ad7a21 565d26688913ab3eaee316a130ad7a21",
+                    "title": "0dfba91f2dbaf7466b75ef95fe8bc584 0dfba91f2dbaf7466b75ef95fe8bc584"
+                }
+            }
+        }
+    },
     "fof-pages.json": {
         "fof-pages": {
             "admin": {
