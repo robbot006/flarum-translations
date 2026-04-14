@@ -96,7 +96,7 @@
                 "my_rewind": "Mein Rewind",
                 "not_available": "Rewind ist derzeit nicht verfügbar.",
                 "admin_notice": "„Rewind“ ist derzeit für normale Benutzer nicht sichtbar. Aktiviere die Funktion im Admin-Bereich, um sie öffentlich zugänglich zu machen.",
-                "no_snapshot": "",
+                "no_snapshot": "Du hast dein {year} Rewind noch nicht erstellt.",
                 "empty_public": ""
             },
             "community": {
