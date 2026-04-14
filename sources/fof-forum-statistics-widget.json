@@ -15,7 +15,9 @@
                 "cache_duration_help": "Specify how long the stats for the widget should be cached for (in seconds). <code>0</code> to disable caching (not recommended).",
                 "flush_cache_on_new_registration_label": "Flush Stats Cache on New Registration",
                 "flush_cache_on_new_registration_help": "If enabled, the stats cache will be flushed when a new user registers on the forum.",
-                "widget_ignore_private_discussions_label": "Ignore Private Discussions"
+                "widget_ignore_private_discussions_label": "Ignore Private Discussions",
+                "classic_look_label": "Classic Look",
+                "classic_look_help": "Restore the original widget appearance used before the fof/forum-widgets-core integration."
             },
             "permissions": {
                 "view_discussions_count_label": "View forum statistics widget discussions count",
