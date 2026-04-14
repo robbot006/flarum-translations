@@ -16,7 +16,7 @@
                 "location_label": "",
                 "pages_label": "",
                 "active_label": "Actif",
-                "empty_text": "Aucune entrée",
+                "empty_text": "Aucun élément pour le moment. Cliquez sur « Créer » pour ajouter votre premier élément principal.",
                 "delete_button": "Supprimer",
                 "edit_button": "Modifier",
                 "delete_confirm": "",
