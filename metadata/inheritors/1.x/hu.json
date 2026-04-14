@@ -55,6 +55,20 @@
     "core.json": {
         "core": {
             "admin": {
+                "announcements": {
+                    "about": "25ca523becfbdb71cf53e056c7897de5 25ca523becfbdb71cf53e056c7897de5",
+                    "comments_label": "643694a500391102510bc776067a501e 643694a500391102510bc776067a501e",
+                    "description": "40e5872eca4194db292bd4c75041e364 40e5872eca4194db292bd4c75041e364",
+                    "empty": "70df3ca28c628fd4d0d2a0a4e633cfe2 70df3ca28c628fd4d0d2a0a4e633cfe2",
+                    "hide": "2de51f7a5b6907ceca7052a2184836b3 2de51f7a5b6907ceca7052a2184836b3",
+                    "load_error": "b3f97055fcea573f17b69b5881b1454a b3f97055fcea573f17b69b5881b1454a",
+                    "read_more": "37a2fd1991a19c4e7f523f3e7738f884 37a2fd1991a19c4e7f523f3e7738f884",
+                    "refresh": "02dd2bc9e5c7b57c46e14d45782fe8b5 02dd2bc9e5c7b57c46e14d45782fe8b5",
+                    "retry": "f09cc41e55a6a9a7edc1e0b90946da8c f09cc41e55a6a9a7edc1e0b90946da8c",
+                    "show": "b0e18f7110ca9c9c1db7f216cd856e35 b0e18f7110ca9c9c1db7f216cd856e35",
+                    "title": "b4bfda4ae56522c8ab5033d451ace780 b4bfda4ae56522c8ab5033d451ace780",
+                    "view_all": "dbcac0062c8ac6679d899b3ccf089ad1 dbcac0062c8ac6679d899b3ccf089ad1"
+                },
                 "appearance": {
                     "colored_header_label": "0bc03362145f1f49ff124bb99d754a6b 0bc03362145f1f49ff124bb99d754a6b",
                     "colors_heading": "4050f5e9bbcada90ac8779a1612ffcab 4050f5e9bbcada90ac8779a1612ffcab",
