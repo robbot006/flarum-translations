@@ -12,8 +12,8 @@
         },
         "forum": {
             "widget": {
-                "title": "",
-                "empty": ""
+                "title": "Online uživatelé",
+                "empty": "Aktuálně není nikdo online."
             }
         }
     }
