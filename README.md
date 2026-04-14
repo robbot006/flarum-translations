@@ -904,6 +904,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`acpl-lscache`](https://weblate.rob006.net/projects/flarum2/acpl-lscache) | [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) |
 | [`acpl-mobile-tab`](https://weblate.rob006.net/projects/flarum2/acpl-mobile-tab) | [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab) |
 | [`acpl-my-tags`](https://weblate.rob006.net/projects/flarum2/acpl-my-tags) | [`acpl/my-tags`](https://github.com/android-com-pl/my-tags) |
+| [`dashzeveg-ads-manager`](https://weblate.rob006.net/projects/flarum2/dashzeveg-ads-manager) | [`dashzeveg/flarum-ads-manager`](https://github.com/dashzeveg/flarum-ads-manager) |
 | [`dashzeveg-custom-head`](https://weblate.rob006.net/projects/flarum2/dashzeveg-custom-head) | [`dashzeveg/flarum-custom-head`](https://github.com/dashzeveg/flarum-custom-head) |
 | [`datlechin-bbcode-hide-content`](https://weblate.rob006.net/projects/flarum2/datlechin-bbcode-hide-content) | [`datlechin/flarum-bbcode-hide-content`](https://github.com/datlechin/flarum-bbcode-hide-content) |
 | [`datlechin-birthdays`](https://weblate.rob006.net/projects/flarum2/datlechin-birthdays) | [`datlechin/flarum-birthdays`](https://github.com/datlechin/flarum-birthdays) |
