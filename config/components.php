@@ -662,7 +662,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/formatting/1.1.2/resources/locale/en.yml',
 	],
 	'fof-forum-statistics-widget' => [
-		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/forum-statistics-widget/1.3.1/resources/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/forum-statistics-widget/1.3.2/resources/locale/en.yml',
 	],
 	'fof-forum-stats-widget' => [
 		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/forum-stats-widget/1.0.0/locale/en.yml',
