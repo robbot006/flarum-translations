@@ -93,7 +93,10 @@
                 "no_posts_found": "未找到与“{q}”匹配的帖子。",
                 "no_posts_match": "没有符合筛选条件的帖子。",
                 "no_users_found": "没有找到与“{q}”相关的用户。",
-                "enter_search_term": "输入关键词以查找用户。"
+                "enter_search_term": "输入关键词以查找用户。",
+                "posts_for": "",
+                "posts_filtered_by": "",
+                "posts_title": ""
             },
             "header": {
                 "back_home": "返回首页",

@@ -93,7 +93,10 @@
                 "no_posts_found": "",
                 "no_posts_match": "",
                 "no_users_found": "",
-                "enter_search_term": ""
+                "enter_search_term": "",
+                "posts_for": "",
+                "posts_filtered_by": "",
+                "posts_title": ""
             },
             "header": {
                 "back_home": "",
