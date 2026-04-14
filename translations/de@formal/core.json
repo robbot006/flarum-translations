@@ -179,7 +179,7 @@
                 "comments_label": "{count, plural, one {# Kommentar} other {# Kommentare}}",
                 "description": "Aktuelle Neuigkeiten und Ankündigungen des Flarum-Teams.",
                 "empty": "Keine Ankündigungen gefunden.",
-                "load_error": "Die Ankündigungen konnten nicht geladen werden. Bitte versuche es später erneut.",
+                "load_error": "Die Ankündigungen konnten nicht geladen werden. Bitte versuchen Sie es später erneut.",
                 "about": "Aktuelle Nachrichten und Ankündigungen aus der offiziellen Flarum-Community unter discuss.flarum.org.",
                 "hide": "Ankündigungen ausblenden",
                 "read_more": "Weiterlesen",
