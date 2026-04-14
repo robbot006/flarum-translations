@@ -3934,7 +3934,7 @@
         "fof-checklist": {
             "admin": {
                 "settings": {
-                    "cross_out_completed_items": "66555458f1124319cf3709d7c837f553 66555458f1124319cf3709d7c837f553"
+                    "cross_out_completed_items": "3b463adcb94a138a01a4454b37b5db5e 3b463adcb94a138a01a4454b37b5db5e"
                 }
             },
             "lib": {
@@ -8020,7 +8020,7 @@
                 "postedOn": "ecdd965eb338ccdb7a1fb9aab03b6c40 ecdd965eb338ccdb7a1fb9aab03b6c40",
                 "postnumber": "fb9a3bd7afaec452d934520cb3ca0024 fb9a3bd7afaec452d934520cb3ca0024",
                 "reldiscussion": "8e5a7593d7ceefad76240510e5cbd109 8e5a7593d7ceefad76240510e5cbd109",
-                "repliedOn": "6cd681dbb9e869d3de7ba05f22846400 d41d8cd98f00b204e9800998ecf8427e"
+                "repliedOn": "6cd681dbb9e869d3de7ba05f22846400 6cd681dbb9e869d3de7ba05f22846400"
             }
         }
     },
@@ -8681,6 +8681,63 @@
                     "tab_posts": "483d032d9f7f165d86c62eff7de0e2de 483d032d9f7f165d86c62eff7de0e2de",
                     "tab_users": "b15b7b0340f52d448dc6191fc9317f3a b15b7b0340f52d448dc6191fc9317f3a",
                     "title": "01a3368548edcbc7ec5914145267e96c 01a3368548edcbc7ec5914145267e96c"
+                }
+            }
+        }
+    },
+    "ramon-stickers.json": {
+        "ramon-stickers": {
+            "admin": {
+                "settings": {
+                    "hover_play_help": "fc2746235c0e6e0ea6485358bb2af76b fc2746235c0e6e0ea6485358bb2af76b",
+                    "hover_play_label": "b415cac803b2d5730efa18f75abbf6c6 b415cac803b2d5730efa18f75abbf6c6",
+                    "show_tooltip_help": "745e30f763efcdf4876456ebd6361c29 745e30f763efcdf4876456ebd6361c29",
+                    "show_tooltip_label": "58ddb86b1677200c51a1e3f1e818d665 58ddb86b1677200c51a1e3f1e818d665"
+                },
+                "sticker_section": {
+                    "bulk_upload_button": "2e76213227c7c572437f127f438f1c6e 2e76213227c7c572437f127f438f1c6e",
+                    "bulk_upload_category_prompt": "6fc92db3f3d28aba10734da10bce7735 6fc92db3f3d28aba10734da10bce7735",
+                    "bulk_upload_done": "a08d80b8c6578f4658444ada0feed130 a08d80b8c6578f4658444ada0feed130",
+                    "bulk_upload_progress": "a2de749dee0977ec03010a3327e85e43 a2de749dee0977ec03010a3327e85e43",
+                    "cancel_select_button": "4b97278b444c0203fc17d7b93a39f5c7 4b97278b444c0203fc17d7b93a39f5c7",
+                    "delete_selected_button": "d799372688680265afed381c142fe9e5 d799372688680265afed381c142fe9e5",
+                    "delete_selected_confirm": "597d4e7c490fd006a2118e0743c76040 597d4e7c490fd006a2118e0743c76040",
+                    "edit_sticker": {
+                        "category_name_label": "84e3ca635478043afbcf2a5206f523a9 84e3ca635478043afbcf2a5206f523a9",
+                        "delete_sticker_button": "6cc00796c3d1273ccffd25beb7419981 6cc00796c3d1273ccffd25beb7419981",
+                        "delete_sticker_confirmation": "518eb74650ae7b3a9ceaaccce369db27 518eb74650ae7b3a9ceaaccce369db27",
+                        "modal_title": "10a2538d49d2e7fdd41612daaad47e99 10a2538d49d2e7fdd41612daaad47e99",
+                        "path_or_url_label": "56da6281e8ee58adf208cf19c9bbada5 56da6281e8ee58adf208cf19c9bbada5",
+                        "saved_message": "d0e0cc3a09e2861054b88bb47842e15a d0e0cc3a09e2861054b88bb47842e15a",
+                        "sticker_category_label": "72d9aec5138f6b6ea4c36650ced8fb20 72d9aec5138f6b6ea4c36650ced8fb20",
+                        "sticker_title_label": "b16566b3b354346eabedde6cebc08f2d b16566b3b354346eabedde6cebc08f2d",
+                        "submit_button": "1e382d5477484d2b130acaf315f1fc5d 1e382d5477484d2b130acaf315f1fc5d",
+                        "text_to_replace_label": "2d49642c3804be963afe71bb249e3a6d 2d49642c3804be963afe71bb249e3a6d",
+                        "upload_button": "6d8824c74f475ba15fabcbd784d163f6 6d8824c74f475ba15fabcbd784d163f6",
+                        "upload_help": "1bfb09f75bb786f0effd4822fc8f92b4 1bfb09f75bb786f0effd4822fc8f92b4",
+                        "upload_label": "c8346c004fd9633c5b7dff34be0df64a c8346c004fd9633c5b7dff34be0df64a"
+                    },
+                    "export_button": "a454ca5981d461e3500d1eb84ab7626a a454ca5981d461e3500d1eb84ab7626a",
+                    "export_error": "7781af5e9e675967550a829ffc012604 7781af5e9e675967550a829ffc012604",
+                    "heading_title": "0b77915df34c7873750ea67e88c88451 0b77915df34c7873750ea67e88c88451",
+                    "import_button": "5af5fb34160907d05c1ac280dbb7fc90 5af5fb34160907d05c1ac280dbb7fc90",
+                    "import_error_message": "2e74eed6e78c8686cbe61e95bb9f95ff 2e74eed6e78c8686cbe61e95bb9f95ff",
+                    "import_result": "e45102466ca6eec112181ab4df00a9c6 e45102466ca6eec112181ab4df00a9c6",
+                    "import_stickers_message": "35ab4ca10b87a74bac9d7b83eb7e6b01 35ab4ca10b87a74bac9d7b83eb7e6b01",
+                    "import_zip_message": "5150c773834e83cdd52a017f2963e5d4 5150c773834e83cdd52a017f2963e5d4",
+                    "importing_message": "460caba9ba812e9ff612c338bc9133a7 460caba9ba812e9ff612c338bc9133a7",
+                    "select_button": "751a9904d8e9a760cbe9f0ca82d47a31 751a9904d8e9a760cbe9f0ca82d47a31",
+                    "sticker_list": {
+                        "load_more_button": "06dfbfd2a034badc35702d30d3e74402 06dfbfd2a034badc35702d30d3e74402"
+                    }
+                }
+            },
+            "forum": {
+                "composer": {
+                    "sticker_tooltip": "eabcf2a6e24d1dc92fff9037a0cd2cc9 eabcf2a6e24d1dc92fff9037a0cd2cc9"
+                },
+                "picker": {
+                    "no_stickers": "055ec299d6ecf14fd3afcb3d26c7ff95 055ec299d6ecf14fd3afcb3d26c7ff95"
                 }
             }
         }
