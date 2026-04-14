@@ -2652,6 +2652,7 @@
                     "max-visible": "79a6106ebca0fe6b2542b6cdc054bda1 79a6106ebca0fe6b2542b6cdc054bda1",
                     "only-groups": "82af36b126de164c3f48fed4f39ad9ab 82af36b126de164c3f48fed4f39ad9ab",
                     "show-between-posts": "5597cc79384b1e54e37a9520cbeda99a 5597cc79384b1e54e37a9520cbeda99a",
+                    "show-count-of-readers-who-stopped": "5058599b43b248741dbb59b57ccb4fca 5058599b43b248741dbb59b57ccb4fca",
                     "show-in-discussion-list": "ef908fc83bc10a364bf05760e270d206 ef908fc83bc10a364bf05760e270d206",
                     "show-in-hero": "787820e437ed139974df27f59d3c484a 787820e437ed139974df27f59d3c484a",
                     "unread-icon": "5976ab55959af2d097e61236c5c0d9ae 5976ab55959af2d097e61236c5c0d9ae"
@@ -2666,6 +2667,11 @@
                 "controls": {
                     "remove-unread": "684e577e3010a4554915deee8515eedc 684e577e3010a4554915deee8515eedc",
                     "set-unread": "f3213ddc20ded73ddfd4424f8b3b5149 f3213ddc20ded73ddfd4424f8b3b5149"
+                },
+                "footer": {
+                    "read-no-further": "488353f5dbacbca14a4f698df76735c6 488353f5dbacbca14a4f698df76735c6",
+                    "read-this-post": "82aa3a766738e040032e7c573451b133 82aa3a766738e040032e7c573451b133",
+                    "read-to-end": "5c966c78fc9f0e8a893e794aafe058c7 5c966c78fc9f0e8a893e794aafe058c7"
                 },
                 "modal": {
                     "behind": "b6d17872428f166451855db6f4d3cd61 b6d17872428f166451855db6f4d3cd61",
@@ -9220,8 +9226,8 @@
                         "multi_file": "8bc61239d533889fb3eb5ddd76fb8fb0 8bc61239d533889fb3eb5ddd76fb8fb0",
                         "runtime": "77f0ba2861e04af1275059203c75a5b6 77f0ba2861e04af1275059203c75a5b6"
                     },
-                    "risky_performance_improvements": "3a497112ae5cae3add7ec0e1bb4c5a1e 3a497112ae5cae3add7ec0e1bb4c5a1e",
-                    "risky_performance_improvements_help": "0f955f2a7eaec5223db3a5fc742caed8 0f955f2a7eaec5223db3a5fc742caed8",
+                    "risky_performance_improvements": "323a45b1de694c6444b5c1f4360cb7f2 323a45b1de694c6444b5c1f4360cb7f2",
+                    "risky_performance_improvements_help": "923d84dc16a069e037b8252e312e3d00 923d84dc16a069e037b8252e312e3d00",
                     "soft_404": {
                         "heading": "8029f6c1e84cab92f68f3af65c126b5c 8029f6c1e84cab92f68f3af65c126b5c",
                         "help": "3dd22a9e31957818b707b6ed3ceef1b4 3dd22a9e31957818b707b6ed3ceef1b4",
