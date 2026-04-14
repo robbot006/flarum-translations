@@ -12,14 +12,14 @@
             "table": {
                 "drag_handle": "",
                 "description_label": "Description",
-                "type_label": "",
-                "location_label": "",
-                "pages_label": "",
+                "type_label": "Type",
+                "location_label": "Emplacement",
+                "pages_label": "Pages",
                 "active_label": "Actif",
                 "empty_text": "Aucun élément pour le moment. Cliquez sur « Créer » pour ajouter votre premier élément principal.",
                 "delete_button": "Supprimer",
                 "edit_button": "Modifier",
-                "delete_confirm": "",
+                "delete_confirm": "Êtes-vous sûr de vouloir supprimer cet élément ?",
                 "header_label": "En-tête"
             },
             "modal": {
@@ -27,31 +27,31 @@
                 "edit_title": "Modifier un élément",
                 "description_label": "Description",
                 "description_help": "",
-                "type_label": "",
-                "location_label": "",
+                "type_label": "Type",
+                "location_label": "Injecter dans",
                 "location_help": "",
                 "pages_label": "",
                 "save_button": "Enregistrer",
                 "type": {
                     "meta": "",
-                    "link": "",
+                    "link": "Lien",
                     "script": "",
-                    "style": "",
+                    "style": "Style",
                     "raw": ""
                 },
                 "location": {
                     "head": "",
-                    "foot": ""
+                    "foot": "Pied de page"
                 },
                 "pages": {
-                    "forum": "",
-                    "admin": ""
+                    "forum": "Forum",
+                    "admin": "Panneau d'administration"
                 },
                 "meta": {
-                    "variant_label": "",
+                    "variant_label": "Variante",
                     "name_label": "",
                     "property_label": "",
-                    "content_label": ""
+                    "content_label": "Contenu"
                 },
                 "link": {
                     "rel_label": "",
@@ -65,11 +65,11 @@
                     "fetchpriority_help": "",
                     "extras_label": "",
                     "extras_add": "",
-                    "extras_remove": ""
+                    "extras_remove": "Supprimer"
                 },
                 "script": {
                     "external_label": "",
-                    "inline_label": "",
+                    "inline_label": "Dans la ligne",
                     "src_label": "",
                     "inline_content_label": "",
                     "defer_label": "",
@@ -86,10 +86,10 @@
                     "inline_help": ""
                 },
                 "raw": {
-                    "content_label": "",
+                    "content_label": "HTML",
                     "help_text": ""
                 },
-                "preview_label": "",
+                "preview_label": "Prévisualiser",
                 "preview_empty": "",
                 "text": "Assurez-vous que votre syntaxe soit correcte, car il est possible de « casser » le forum en indiquant des données erronées sur l'élément d'en-tête. Une fois sauvegardé, activez votre nouvel élément d'en-tête en utilisant l'interrupteur fourni.",
                 "header_label": "Élément d'en-tête personnalisé"
