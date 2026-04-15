@@ -22,7 +22,7 @@
         },
         "forum": {
             "badge": {
-                "sticky_tooltip": "=> huseyinfiliz-stickiest.ref.sticky",
+                "sticky_tooltip": "Angepinnt",
                 "stickiest_tooltip": "Besonders wichtig",
                 "tag_sticky_tooltip": "=> huseyinfiliz-stickiest.ref.tag_sticky",
                 "super_sticky_tooltip": "=> huseyinfiliz-stickiest.ref.super_sticky",
