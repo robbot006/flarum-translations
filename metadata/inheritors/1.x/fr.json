@@ -1785,7 +1785,7 @@
                     "link_tooltip": "c5a2aec432ffe7e0c7db7ff09041761b c5a2aec432ffe7e0c7db7ff09041761b",
                     "ordered_list_tooltip": "546d0ce18dda8a2c3453aea0cc35a57f 546d0ce18dda8a2c3453aea0cc35a57f",
                     "quote_tooltip": "51e6d483e05ee9e6a5f0c7ed4f5331e4 51e6d483e05ee9e6a5f0c7ed4f5331e4",
-                    "spoiler_tooltip": "b5c1eb099d54f47ca8096ec66aecfc2b b5c1eb099d54f47ca8096ec66aecfc2b",
+                    "spoiler_tooltip": "8cfc8a68955b88b14434592071c5bfcc 8cfc8a68955b88b14434592071c5bfcc",
                     "strikethrough_tooltip": "ec6c4fcbe2df9e82dc99a7ea6bb0a723 ec6c4fcbe2df9e82dc99a7ea6bb0a723",
                     "unordered_list_tooltip": "16afd616bfe22b5e7458f1372ef62cfa 16afd616bfe22b5e7458f1372ef62cfa"
                 }
@@ -4456,9 +4456,9 @@
             },
             "forum": {
                 "settings": {
-                    "composer_heading": "d41d8cd98f00b204e9800998ecf8427e 3f6d75e612635c60260204733f04c2e3",
-                    "rich_text_compact_paragraphs_label": "d41d8cd98f00b204e9800998ecf8427e 19b6ab02a519c249284775a509801f07",
-                    "use_rich_text_editor_label": "d41d8cd98f00b204e9800998ecf8427e 33bd49d1d403f85d016c6339d854ecce"
+                    "composer_heading": "3f6d75e612635c60260204733f04c2e3 3f6d75e612635c60260204733f04c2e3",
+                    "rich_text_compact_paragraphs_label": "37e5643b8c8a45c756ecac655a9ed93b 19b6ab02a519c249284775a509801f07",
+                    "use_rich_text_editor_label": "33bd49d1d403f85d016c6339d854ecce 33bd49d1d403f85d016c6339d854ecce"
                 }
             },
             "lib": {
@@ -4469,7 +4469,7 @@
                     "code_tooltip": "d41d8cd98f00b204e9800998ecf8427e 83cfbf5a9809b92646d7481716a3ecf4",
                     "header_tooltip": "d41d8cd98f00b204e9800998ecf8427e 7affda2bf60f41357f54ffc75bf8f394",
                     "horizontal_rule_tooltip": "0543ef185494a621358ba1b3c9fc5f70 bb9fb1e8e3a531c3dcbca860112a05db",
-                    "image_tooltip": "d41d8cd98f00b204e9800998ecf8427e b6a759950772afb9c1d14e171bd9c140",
+                    "image_tooltip": "b6a759950772afb9c1d14e171bd9c140 b6a759950772afb9c1d14e171bd9c140",
                     "insert_button": "0dc237434971c38ec37ed19670caf9da 0dc237434971c38ec37ed19670caf9da",
                     "insert_image": {
                         "src_placeholder": "070d0def0047f25a1060abf6beadbd7d 070d0def0047f25a1060abf6beadbd7d",
@@ -4482,16 +4482,16 @@
                         "title_placeholder": "6519d87bf93e74463b79d12c7462e2cb 6519d87bf93e74463b79d12c7462e2cb"
                     },
                     "italic_tooltip": "d41d8cd98f00b204e9800998ecf8427e 730c20c2341917dc6403837f410db1a6",
-                    "link_tooltip": "d41d8cd98f00b204e9800998ecf8427e ececb5300918338143f8f6ba45def93a",
+                    "link_tooltip": "ececb5300918338143f8f6ba45def93a ececb5300918338143f8f6ba45def93a",
                     "ordered_list_tooltip": "d41d8cd98f00b204e9800998ecf8427e 45d6c520d1c49034c6369e027ea3fd2a",
                     "paragraph_tooltip": "d41d8cd98f00b204e9800998ecf8427e 988e987b34b9a2f08cdd61ce7a46af0d",
                     "quote_tooltip": "d41d8cd98f00b204e9800998ecf8427e 3083c78ec3f35d955f269d8f81ad1cd4",
-                    "spoiler_block_tooltip": "d41d8cd98f00b204e9800998ecf8427e e44bd3cb1b1da892c3aecd7b5d7cefed",
+                    "spoiler_block_tooltip": "38c96ae70b688ffc76a4d88f2e3c76c6 e44bd3cb1b1da892c3aecd7b5d7cefed",
                     "spoiler_inline_tooltip": "d41d8cd98f00b204e9800998ecf8427e 072b500a415220ff0c15edfa713151d5",
                     "strike_tooltip": "d41d8cd98f00b204e9800998ecf8427e 60f3db00799dcde4dab5330a8a54a254",
                     "sub_tooltip": "d41d8cd98f00b204e9800998ecf8427e d6d6a1cb92c968e01b0b17950c884bd4",
                     "sup_tooltip": "d41d8cd98f00b204e9800998ecf8427e 24fbd89b221f90246d217787722a3588",
-                    "text_type_tooltip": "d41d8cd98f00b204e9800998ecf8427e b7ca40bd2119bc060d4f006c37529f9d",
+                    "text_type_tooltip": "b7ca40bd2119bc060d4f006c37529f9d b7ca40bd2119bc060d4f006c37529f9d",
                     "toggle_button": "a9b141b8cabb99c5f9ea183522265d77 58265dc3cb7c1d5e6658e763ab7770da",
                     "unordered_list_tooltip": "d41d8cd98f00b204e9800998ecf8427e 2e9625ebb563c574d60c9f72ad4030a9"
                 }
