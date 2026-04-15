@@ -19,7 +19,7 @@
         "admin": {
             "settings": {
                 "enableSearch": "Suche aktivieren",
-                "enableRecent": "Aktuelles aktivieren",
+                "enableRecent": "Kürzlich verwendete aktivieren",
                 "enableTones": "Hauttöne aktivieren",
                 "filtersPosition": "Kategorien nach unten verschieben",
                 "searchPosition": "Suche und Hauttöne nach unten verschieben",
