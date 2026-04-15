@@ -72,7 +72,7 @@
                     "sync_help": "Für eine bessere Leistung und Benutzererfahrung solltest du die Verwendung des Datenbank-Warteschlangentreibers in Betracht ziehen. Weitere Informationen findest du in der Dokumentation.",
                     "custom_driver": "Dein Forum verwendet den {driver} Queue-Treiber, der von einer Erweiterung bereitgestellt wird.",
                     "retries_label": "Job-Wiederholungsversuche",
-                    "retries_help": "Maximale Anzahl von Versuchen, einen Auftrag auszuführen, bevor er als fehlgeschlagen markiert wird. Der Standardwert ist 1.",
+                    "retries_help": "Maximale Anzahl von Versuchen, einen Job auszuführen, bevor er als fehlgeschlagen markiert wird. Der Standardwert ist 1.",
                     "memory_label": "Speicherlimit (MB)",
                     "memory_help": "Maximaler Speicher, den der Queue-Worker vor dem Neustart verwenden kann. Der Standardwert beträgt 128 MB.",
                     "timeout_label": "Zeitlimit für Jobs (Sekunden)",
