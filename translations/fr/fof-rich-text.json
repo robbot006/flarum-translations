@@ -2,29 +2,29 @@
     "fof-rich-text": {
         "admin": {
             "settings": {
-                "toggle_on_editor": ""
+                "toggle_on_editor": "Afficher le bouton de basculement vers le mode texte enrichi dans l'éditeur ?"
             }
         },
         "lib": {
             "composer": {
-                "toggle_button": "",
-                "insert_button": "",
+                "toggle_button": "Activer ou désactiver le mode texte enrichi",
+                "insert_button": "Insérer",
                 "insert_image": {
-                    "src_placeholder": "",
-                    "title_placeholder": ""
+                    "src_placeholder": "Lien",
+                    "title_placeholder": "Titre"
                 },
                 "insert_link": {
-                    "text_placeholder": "",
-                    "href_placeholder": "",
-                    "title_placeholder": "",
-                    "remove_button": ""
+                    "text_placeholder": "Texte",
+                    "href_placeholder": "URL",
+                    "title_placeholder": "Titre (s'affiche au survol)",
+                    "remove_button": "Supprimer"
                 },
-                "additional_items_tooltip": "",
-                "bold_tooltip": "",
-                "code_tooltip": "",
-                "code_block_tooltip": "",
-                "header_tooltip": "",
-                "horizontal_rule_tooltip": "",
+                "additional_items_tooltip": "Commandes supplémentaires",
+                "bold_tooltip": "Texte en gras <{modifierKey}-b>",
+                "code_tooltip": "Code dans une ligne <{modifierKey}-`>",
+                "code_block_tooltip": "Insérer un bloc de code",
+                "header_tooltip": "Remplacer par l'en-tête {level} <Maj-{modifierKey}-{level}>",
+                "horizontal_rule_tooltip": "Insérer une ligne horizontale",
                 "image_tooltip": "",
                 "italic_tooltip": "",
                 "link_tooltip": "",
