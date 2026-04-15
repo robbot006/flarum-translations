@@ -24,12 +24,12 @@
             "badge": {
                 "sticky_tooltip": "Angepinnt",
                 "stickiest_tooltip": "Besonders wichtig",
-                "tag_sticky_tooltip": "=> huseyinfiliz-stickiest.ref.tag_sticky",
+                "tag_sticky_tooltip": "Angepinnt markieren",
                 "super_sticky_tooltip": "=> huseyinfiliz-stickiest.ref.super_sticky",
                 "super_tag_sticky_tooltip": "=> huseyinfiliz-stickiest.ref.super_tag_sticky"
             },
             "discussion_controls": {
-                "sticky_button": "=> flarum-sticky.forum.discussion_controls.sticky_button"
+                "sticky_button": "Anpinnen"
             },
             "sticky_modal": {
                 "title": "Angepinnt: {title}",
