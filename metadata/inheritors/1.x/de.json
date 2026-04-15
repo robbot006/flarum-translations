@@ -6618,8 +6618,37 @@
     "ralkage-ad-management.json": {
         "ralkage-ad-management": {
             "admin": {
+                "cancel": "4b97278b444c0203fc17d7b93a39f5c7 4b97278b444c0203fc17d7b93a39f5c7",
                 "nav": {
                     "title": "79eb3290908117db977100d873de7d3b 79eb3290908117db977100d873de7d3b"
+                },
+                "save": "b97d23bf800ff592f7afe97a29921271 b97d23bf800ff592f7afe97a29921271",
+                "settings": {
+                    "adsense_publisher_id": "58043fa6f23a9935c109a9811d6a9c13 58043fa6f23a9935c109a9811d6a9c13",
+                    "adsense_publisher_id_help": "b0be1ccafb3b3ab08ce89af38c94157e b0be1ccafb3b3ab08ce89af38c94157e",
+                    "allowed_image_formats": "be96ced822aafc1e2ebde2aa6711d7a8 be96ced822aafc1e2ebde2aa6711d7a8",
+                    "allowed_image_formats_help": "4da4c98794d90e5db1d4b24756e8be4a 4da4c98794d90e5db1d4b24756e8be4a",
+                    "between_posts_interval": "415db8768711dc2acc6488d58479ded5 415db8768711dc2acc6488d58479ded5",
+                    "between_posts_interval_help": "e155a3e0890dcda0b9afc5522d736698 e155a3e0890dcda0b9afc5522d736698",
+                    "compression_method": "6c03d91b96f53e3b67bfc38e9526ec95 6c03d91b96f53e3b67bfc38e9526ec95",
+                    "compression_method_help": "d0d0da3a35564dea2f2c208b866e8c07 d0d0da3a35564dea2f2c208b866e8c07",
+                    "compression_quality": "23d651f5cee52b8615ef6cd6523ca974 23d651f5cee52b8615ef6cd6523ca974",
+                    "compression_quality_help": "ffa495fb2afa6697a1c1ee50002195b2 ffa495fb2afa6697a1c1ee50002195b2",
+                    "default_max_image_changes": "2cf8b0127eb6b02576837a745d727ed8 2cf8b0127eb6b02576837a745d727ed8",
+                    "default_max_image_changes_help": "5793ec88acebce6706a96e29eecfac91 5793ec88acebce6706a96e29eecfac91",
+                    "enable_compression": "495085ee4dd886b6afdc4fb18807fa54 495085ee4dd886b6afdc4fb18807fa54",
+                    "enable_compression_help": "9c952b9b38f53bafc1fe8183c5a45fca 9c952b9b38f53bafc1fe8183c5a45fca",
+                    "image_settings_title": "96b22cab664cd1edeb26a54ccf4ccbda 96b22cab664cd1edeb26a54ccf4ccbda",
+                    "notifications_title": "17e80d5e0bf38952c3aaf08385fa13fc 17e80d5e0bf38952c3aaf08385fa13fc",
+                    "show_sponsored_label": "7d41db3195a2619984ec2a84bca06f8d 7d41db3195a2619984ec2a84bca06f8d",
+                    "show_sponsored_label_help": "7325578d62bb38c12171438650b7b9cc 7325578d62bb38c12171438650b7b9cc",
+                    "sponsored_label_text": "e228e49acfb3a6af50dd03699629b301 e228e49acfb3a6af50dd03699629b301",
+                    "sponsored_label_text_help": "3f91883bfb323a921d5649cd9db74d0f 3f91883bfb323a921d5649cd9db74d0f",
+                    "templates_placeholders_expiry": "91ad184a85e79c6b686a8352b775add2 91ad184a85e79c6b686a8352b775add2",
+                    "track_clicks": "ce75dcc48e8bad4ced7ea92ce5094cc5 ce75dcc48e8bad4ced7ea92ce5094cc5",
+                    "track_clicks_help": "59b173d551153a77f2243d3ee4c5f045 59b173d551153a77f2243d3ee4c5f045",
+                    "track_impressions": "5c0f3cd9cffd4e795fa82f9f01674d3c 5c0f3cd9cffd4e795fa82f9f01674d3c",
+                    "track_impressions_help": "b36fcdbdad4295d3e815f8872d8b28e0 b36fcdbdad4295d3e815f8872d8b28e0"
                 },
                 "tabs": {
                     "ads": "0dd9a97f8cfe9ddfeb82c498d0bba024 0dd9a97f8cfe9ddfeb82c498d0bba024",
