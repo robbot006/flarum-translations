@@ -35,8 +35,8 @@
                 "compression_method_help": "PHP GD ist integriert. reSmush.it nutzt eine externe API für die verlustfreie Optimierung (erfordert curl).",
                 "require_image_approval": "",
                 "require_image_approval_help": "",
-                "expiration_reminder_days": "",
-                "expiration_reminder_days_help": "",
+                "expiration_reminder_days": "Ablauferinnerung (Tage)",
+                "expiration_reminder_days_help": "Sendet E-Mail-Erinnerungen an Anzeigeninhaber so viele Tage vor Ablauf ihrer Anzeige. Setze den Wert auf 0, um diese Funktion zu deaktivieren.",
                 "send_performance_reports": "",
                 "send_performance_reports_help": "",
                 "notifications_info": "",
@@ -94,23 +94,23 @@
                 }
             },
             "ads": {
-                "title": "",
-                "create": "",
-                "edit": "",
-                "name": "",
-                "type": "",
-                "zone": "",
-                "select_zone": "",
-                "content": "",
+                "title": "Werbebanner",
+                "create": "Werbebanner erstellen",
+                "edit": "Werbebanner bearbeiten",
+                "name": "Bannername",
+                "type": "Bannertyp",
+                "zone": "Bereich",
+                "select_zone": "Wähle einen Bereich aus...",
+                "content": "HTML/JS-Inhalt",
                 "content_help": "",
-                "image_url": "",
-                "link_url": "",
+                "image_url": "Bild-URL",
+                "link_url": "Link-URL",
                 "alt_text": "",
-                "width": "",
-                "height": "",
-                "is_active": "",
-                "start_date": "",
-                "end_date": "",
+                "width": "Breite (px)",
+                "height": "Höhe (px)",
+                "is_active": "Aktiv",
+                "start_date": "Startdatum",
+                "end_date": "Enddatum",
                 "priority": "",
                 "priority_help": "",
                 "group_visibility": "",
@@ -124,53 +124,53 @@
                 "owner_help": "",
                 "empty": "",
                 "confirm_delete": "",
-                "status": "",
-                "pending_badge": "",
-                "approve": "",
-                "reject": "",
+                "status": "Status",
+                "pending_badge": "Ausstehend ({count})",
+                "approve": "Genehmigen",
+                "reject": "Ablehnen",
                 "approve_image": "",
                 "reject_image": "",
                 "pending_image_badge": "",
                 "statuses": {
-                    "active": "",
-                    "inactive": "",
-                    "pending_review": "",
-                    "rejected": ""
+                    "active": "Aktiv",
+                    "inactive": "Inaktiv",
+                    "pending_review": "Prüfung ausstehend",
+                    "rejected": "Abgelehnt"
                 },
                 "filter": {
-                    "all": "",
-                    "active": "",
-                    "pending_review": "",
-                    "inactive": "",
-                    "rejected": ""
+                    "all": "Alle",
+                    "active": "Aktiv",
+                    "pending_review": "Prüfung ausstehend",
+                    "inactive": "Inaktiv",
+                    "rejected": "Abgelehnt"
                 },
                 "types": {
-                    "image": "",
-                    "html": "",
+                    "image": "Bild",
+                    "html": "HTML",
                     "adsense": ""
                 },
                 "stats": {
                     "impressions": "",
-                    "clicks": "",
+                    "clicks": "Klicks",
                     "ctr": ""
                 }
             },
             "analytics": {
                 "title": "",
                 "select_ad": "",
-                "period": "",
+                "period": "Zeitraum",
                 "periods": {
-                    "7d": "",
-                    "30d": "",
-                    "90d": ""
+                    "7d": "Letzte 7 Tage",
+                    "30d": "Letzte 30 Tage",
+                    "90d": "Letzte 90 Tage"
                 },
                 "total_impressions": "",
                 "total_clicks": "",
                 "period_clicks": "",
                 "ctr": "",
                 "clicks_by_day": "",
-                "date": "",
-                "clicks_header": "",
+                "date": "Datum",
+                "clicks_header": "Klicks",
                 "no_data": ""
             }
         },
@@ -182,34 +182,34 @@
                 "name": "",
                 "zone": "",
                 "select_zone": "",
-                "image_url": "",
-                "link_url": "",
-                "alt_text": ""
+                "image_url": "Bild-URL",
+                "link_url": "Link-URL",
+                "alt_text": "Bildbeschreibung"
             },
             "page": {
                 "title": "",
                 "empty": "",
-                "stats": "",
-                "impressions": "",
-                "clicks": "",
-                "ctr": "",
-                "edit_image": "",
-                "image_changes_remaining": "",
-                "no_changes_remaining": "",
+                "stats": "Statistiken",
+                "impressions": "{count} Aufrufe",
+                "clicks": "{count} Klicks",
+                "ctr": "{value}% CTR",
+                "edit_image": "Bild ändern",
+                "image_changes_remaining": "{count} Bildwechsel verbleibend",
+                "no_changes_remaining": "Keine Bildwechsel verbleibend",
                 "submit_ad": "",
                 "submit_pending_notice": "",
-                "cancel": "",
+                "cancel": "Abbrechen",
                 "status": {
-                    "active": "",
-                    "inactive": "",
-                    "scheduled": "",
-                    "expired": "",
-                    "pending": "",
-                    "rejected": ""
+                    "active": "Aktiv",
+                    "inactive": "Inaktiv",
+                    "scheduled": "Geplant",
+                    "expired": "Abgelaufen",
+                    "pending": "Prüfung ausstehend",
+                    "rejected": "Abgelehnt"
                 }
             },
             "ad": {
-                "sponsored": ""
+                "sponsored": "Gesponsert"
             }
         }
     }
