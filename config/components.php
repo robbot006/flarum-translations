@@ -1558,6 +1558,27 @@ return [
 	'peruguitar-user-portrait' => [
 		'tag' => 'https://raw.githubusercontent.com/Anexsoft/peruguitar-flarum-ext-user-portrait/1.0.4/locale/en.yml',
 	],
+	'proxytracer-proxytracer' => [
+		'tag' => 'https://raw.githubusercontent.com/ProxyTracer/flarum-proxytracer/v1.0.0/locale/en.yml',
+		'__builtInLanguages' => [
+			'ar',
+			'bn',
+			'de',
+			'es',
+			'fr',
+			'hi',
+			'id',
+			'it',
+			'ja',
+			'pl',
+			'pt',
+			'ru',
+			'tr',
+			'uk',
+			'ur',
+			'zh_Hans',
+		],
+	],
 	'quasimo-carousel-grids' => [
 		'tag' => 'https://raw.githubusercontent.com/Quasimo/flarum-ext-carousel-grids/v2.0.6/resources/locale/en.yml',
 		'__builtInLanguages' => [
