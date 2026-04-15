@@ -5790,13 +5790,13 @@
             },
             "forum": {
                 "badge": {
-                    "sticky_tooltip": "d41d8cd98f00b204e9800998ecf8427e 2735acd161aa2e24ebc6103a1c58ef41",
+                    "sticky_tooltip": "d41d8cd98f00b204e9800998ecf8427e bf9d43dcd50766c6ff2abae75acc68c2",
                     "super_sticky_tooltip": "d41d8cd98f00b204e9800998ecf8427e 9b46db47fd2e8f00c7491692db912142",
                     "super_tag_sticky_tooltip": "d41d8cd98f00b204e9800998ecf8427e a5ca7728c691916d03df8311162535b3",
-                    "tag_sticky_tooltip": "d41d8cd98f00b204e9800998ecf8427e e58389160f168607fdab6efd8d0ce3e6"
+                    "tag_sticky_tooltip": "d41d8cd98f00b204e9800998ecf8427e c19cfa1a0501032728d4d722ba897f0f"
                 },
                 "discussion_controls": {
-                    "sticky_button": "d41d8cd98f00b204e9800998ecf8427e 7a63812b1fd998c2a51ae55de481d812"
+                    "sticky_button": "d41d8cd98f00b204e9800998ecf8427e bf9d43dcd50766c6ff2abae75acc68c2"
                 },
                 "post_stream": {
                     "discussion_common_stickied_text": "d41d8cd98f00b204e9800998ecf8427e 56f8b31b384726e948125c808714e51a",
