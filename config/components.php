@@ -269,6 +269,9 @@ return [
 	'fof-profile-image-crop' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/profile-image-crop/2.0.0-beta.1/resources/locale/en.yml',
 	],
+	'fof-pwned-passwords' => [
+		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/pwned-passwords/2.0.0-beta.1/locale/en.yml',
+	],
 	'fof-reactions' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/reactions/2.0.0-beta.6/resources/locale/en.yml',
 	],
