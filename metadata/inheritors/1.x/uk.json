@@ -3706,6 +3706,17 @@
             }
         }
     },
+    "fof-news-widget.json": {
+        "fof-news-widget": {
+            "admin": {
+                "settings": {
+                    "add_line": "5ef7c93545576c56c9a584d0989897fc 5ef7c93545576c56c9a584d0989897fc",
+                    "html_warning": "a0a56a3c9e29de97f34204c2087f9383 a0a56a3c9e29de97f34204c2087f9383",
+                    "lines": "3f1e5258b3cd9f388bab38730274f479 3f1e5258b3cd9f388bab38730274f479"
+                }
+            }
+        }
+    },
     "fof-oauth.json": {
         "fof-oauth": {
             "admin": {
@@ -4010,6 +4021,40 @@
                     "notify_post_reacted_label": "8791e53375d2d5009bbb521bfcd80acb 8791e53375d2d5009bbb521bfcd80acb"
                 },
                 "warning": "35f09a0ed7bb92f7cfa67c308761b248 35f09a0ed7bb92f7cfa67c308761b248"
+            }
+        }
+    },
+    "fof-rich-text.json": {
+        "fof-rich-text": {
+            "admin": {
+                "settings": {
+                    "toggle_on_editor": "7c12ce7b4f5cb587e2b29a165908e98e 7c12ce7b4f5cb587e2b29a165908e98e"
+                }
+            },
+            "forum": {
+                "settings": {
+                    "composer_heading": "bcba235aa0401fd10464df6afbfaab77 bcba235aa0401fd10464df6afbfaab77"
+                }
+            },
+            "lib": {
+                "composer": {
+                    "additional_items_tooltip": "36c76b8fdd9a5de3c886aed553f809f0 36c76b8fdd9a5de3c886aed553f809f0",
+                    "code_block_tooltip": "51953239751e2fd5ef8b92a060f1cf2a 51953239751e2fd5ef8b92a060f1cf2a",
+                    "horizontal_rule_tooltip": "76eb7b8507c4e2166c808eedcfe997e6 76eb7b8507c4e2166c808eedcfe997e6",
+                    "image_tooltip": "a28005980d89f74e8c2399ef7d88f16e a28005980d89f74e8c2399ef7d88f16e",
+                    "insert_button": "467874373556d86acb94cdf2e83df2dd 467874373556d86acb94cdf2e83df2dd",
+                    "insert_image": {
+                        "src_placeholder": "5b72badc97729fb7e964b27b74909ebe 5b72badc97729fb7e964b27b74909ebe",
+                        "title_placeholder": "2e9d7991efe99efaf9cf325b6f10d8a0 2e9d7991efe99efaf9cf325b6f10d8a0"
+                    },
+                    "insert_link": {
+                        "href_placeholder": "e6b391a8d2c4d45902a23a8b6585703d e6b391a8d2c4d45902a23a8b6585703d",
+                        "remove_button": "9aa8510b0d7556db07e758035e560c28 9aa8510b0d7556db07e758035e560c28",
+                        "text_placeholder": "8c45d9cf5766a98100df8108d3235247 8c45d9cf5766a98100df8108d3235247",
+                        "title_placeholder": "67dfdec5bd2d6d396c03142a106b351a 67dfdec5bd2d6d396c03142a106b351a"
+                    },
+                    "toggle_button": "2a9c319886cb15d1d44fcaf5392f5a32 2a9c319886cb15d1d44fcaf5392f5a32"
+                }
             }
         }
     },
