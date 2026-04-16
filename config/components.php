@@ -665,7 +665,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/forum-statistics-widget/1.3.2/resources/locale/en.yml',
 	],
 	'fof-forum-stats-widget' => [
-		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/forum-stats-widget/1.0.0/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/forum-stats-widget/1.0.1/locale/en.yml',
 	],
 	'fof-forum-widgets-core' => [
 		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/forum-widgets-core/1.0.0/locale/en.yml',
