@@ -2,11 +2,11 @@
     "fof-forum-statistics-widget": {
         "forum": {
             "navbar": {
-                "widget_title": "",
-                "discussions_count": "",
-                "posts_count": "",
-                "users_count": "",
-                "latest_member": ""
+                "widget_title": "フォーラムの統計",
+                "discussions_count": "ポスト数： {discussionsCount}",
+                "posts_count": "返信数： {postsCount}",
+                "users_count": "メンバー数： {usersCount}",
+                "latest_member": "最近サインアップ： "
             }
         },
         "admin": {

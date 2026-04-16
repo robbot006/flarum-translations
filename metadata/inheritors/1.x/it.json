@@ -2393,6 +2393,30 @@
             }
         }
     },
+    "fof-forum-statistics-widget.json": {
+        "fof-forum-statistics-widget": {
+            "admin": {
+                "permissions": {
+                    "view_discussions_count_label": "8e856cfb5fc6927bd39168cfcc919854 8e856cfb5fc6927bd39168cfcc919854",
+                    "view_lastest_member_label": "7133c3830adb857c05ad88356e8905f8 7133c3830adb857c05ad88356e8905f8",
+                    "view_posts_count_label": "a76b8bdba87dd2b91041117f1087c182 a76b8bdba87dd2b91041117f1087c182",
+                    "view_users_count_label": "d7ea4a799252526b3f276f14eb7d37ac d7ea4a799252526b3f276f14eb7d37ac"
+                },
+                "settings": {
+                    "widget_ignore_private_discussions_label": "0fc43981d53017a7382c84d0f91cd9b2 0fc43981d53017a7382c84d0f91cd9b2"
+                }
+            },
+            "forum": {
+                "navbar": {
+                    "discussions_count": "b03aae46d4a8cfe58cf318c35ad9632a b03aae46d4a8cfe58cf318c35ad9632a",
+                    "latest_member": "ab089f4a5b0c0bc81de442b14cc5f43f ab089f4a5b0c0bc81de442b14cc5f43f",
+                    "posts_count": "984e2fca507809e270cc2e6389d0a8a9 984e2fca507809e270cc2e6389d0a8a9",
+                    "users_count": "3dd7c3c84d12fb9621661d16f295a186 3dd7c3c84d12fb9621661d16f295a186",
+                    "widget_title": "01c3cd3702f06e80861de81265f9145e 01c3cd3702f06e80861de81265f9145e"
+                }
+            }
+        }
+    },
     "fof-frontpage.json": {
         "core": {
             "forum": {
@@ -3253,6 +3277,22 @@
                 "slug": "0c908588520b3ef787bce443fc2b507c 0c908588520b3ef787bce443fc2b507c",
                 "title": "5960b9e5e4d668ad6fde509a2b6de495 5960b9e5e4d668ad6fde509a2b6de495",
                 "url": "e6b391a8d2c4d45902a23a8b6585703d e6b391a8d2c4d45902a23a8b6585703d"
+            }
+        }
+    },
+    "fof-pwned-passwords.json": {
+        "fof-pwned-passwords": {
+            "admin": {
+                "enableAdminRevoke": "2872086e497cc81f9f62ce899fb26392 2872086e497cc81f9f62ce899fb26392",
+                "enableLoginCheck": "5c63e2a01877291f6560113185b9e230 5c63e2a01877291f6560113185b9e230"
+            },
+            "error": "c9ca564141192a76add2fc057d76073d c9ca564141192a76add2fc057d76073d",
+            "forum": {
+                "alert": {
+                    "resend_button": "1360a8363b04916424acb1b191ffbce4 1360a8363b04916424acb1b191ffbce4",
+                    "sent_message": "793cfea3a4f1e75c4d92e70183799fdb 793cfea3a4f1e75c4d92e70183799fdb",
+                    "warning": "377564fe48c26f214820a0aad33be531 377564fe48c26f214820a0aad33be531"
+                }
             }
         }
     },

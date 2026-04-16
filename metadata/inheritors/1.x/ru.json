@@ -3254,6 +3254,34 @@
             }
         }
     },
+    "fof-forum-statistics-widget.json": {
+        "fof-forum-statistics-widget": {
+            "admin": {
+                "permissions": {
+                    "view_discussions_count_label": "a39af599e44c3ed1a8b526428face4da a39af599e44c3ed1a8b526428face4da",
+                    "view_lastest_member_label": "ca20be77d929eb094917c56e7ac757fa ca20be77d929eb094917c56e7ac757fa",
+                    "view_posts_count_label": "0ddc61450361d536536f56b61c8a9073 0ddc61450361d536536f56b61c8a9073",
+                    "view_users_count_label": "cfa1cab305ca8e70d7a1445ca4e1cad5 cfa1cab305ca8e70d7a1445ca4e1cad5"
+                },
+                "settings": {
+                    "cache_duration_help": "10acca96c00863bac1548b055fb0762d 10acca96c00863bac1548b055fb0762d",
+                    "cache_duration_label": "572923f35df177cc83096a75f4d506e0 572923f35df177cc83096a75f4d506e0",
+                    "flush_cache_on_new_registration_help": "7ba763440a26108b5a0511c0efd7d191 7ba763440a26108b5a0511c0efd7d191",
+                    "flush_cache_on_new_registration_label": "08858401fcf500b85f777eba0fcaaec5 08858401fcf500b85f777eba0fcaaec5",
+                    "widget_ignore_private_discussions_label": "e81745e55aa266011a69d7f3b3d6c4b1 e81745e55aa266011a69d7f3b3d6c4b1"
+                }
+            },
+            "forum": {
+                "navbar": {
+                    "discussions_count": "986bfc9a4c5e8123d0730435f3f47ab6 986bfc9a4c5e8123d0730435f3f47ab6",
+                    "latest_member": "4a3a859c59674a68e573eda4a265fb56 4a3a859c59674a68e573eda4a265fb56",
+                    "posts_count": "1c1bce1bae16fd1537a948efd8867d1c 1c1bce1bae16fd1537a948efd8867d1c",
+                    "users_count": "4fd096d640d7844884d73f05131c87d4 4fd096d640d7844884d73f05131c87d4",
+                    "widget_title": "5e3753ce80a1394ad160591140abb966 5e3753ce80a1394ad160591140abb966"
+                }
+            }
+        }
+    },
     "fof-frontpage.json": {
         "core": {
             "forum": {
@@ -4324,6 +4352,22 @@
                     },
                     "submit_button": "23641d8e2ebacd0eb8382d66d9ab9d3e 23641d8e2ebacd0eb8382d66d9ab9d3e",
                     "submit_crop_button": "9e713c41ae9559064d147b430879130f 9e713c41ae9559064d147b430879130f"
+                }
+            }
+        }
+    },
+    "fof-pwned-passwords.json": {
+        "fof-pwned-passwords": {
+            "admin": {
+                "enableAdminRevoke": "c7c3fafe794f548fa5e30d086e6d70cf c7c3fafe794f548fa5e30d086e6d70cf",
+                "enableLoginCheck": "beaba424c4fc52982b201d682ba31e6e beaba424c4fc52982b201d682ba31e6e"
+            },
+            "error": "0f46d9a623fe3e73ebf179705b023471 0f46d9a623fe3e73ebf179705b023471",
+            "forum": {
+                "alert": {
+                    "resend_button": "fd832092154ea37aee974d1923cc11f6 fd832092154ea37aee974d1923cc11f6",
+                    "sent_message": "6da0f0ae044012e784cdb53ab72a16f1 6da0f0ae044012e784cdb53ab72a16f1",
+                    "warning": "d204e3eeef33c9ac2c30639d9cadeaa5 d204e3eeef33c9ac2c30639d9cadeaa5"
                 }
             }
         }

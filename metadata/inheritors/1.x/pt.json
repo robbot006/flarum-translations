@@ -1913,6 +1913,22 @@
             }
         }
     },
+    "fof-pwned-passwords.json": {
+        "fof-pwned-passwords": {
+            "admin": {
+                "enableAdminRevoke": "96dc804d20e187907171f4be38b1c1f2 96dc804d20e187907171f4be38b1c1f2",
+                "enableLoginCheck": "6767c8713059832c0a3cf11aa6339984 6767c8713059832c0a3cf11aa6339984"
+            },
+            "error": "60f06298177e810d939647201fcdb7b7 60f06298177e810d939647201fcdb7b7",
+            "forum": {
+                "alert": {
+                    "resend_button": "eb86a019818bc31dd18d8e416ce9a61e eb86a019818bc31dd18d8e416ce9a61e",
+                    "sent_message": "823a8f1e7b400e02fc4b463f4e2cbd72 823a8f1e7b400e02fc4b463f4e2cbd72",
+                    "warning": "01bc3e0607238f0efb087ec951e4aa92 01bc3e0607238f0efb087ec951e4aa92"
+                }
+            }
+        }
+    },
     "fof-reactions.json": {
         "fof-reactions": {
             "admin": {

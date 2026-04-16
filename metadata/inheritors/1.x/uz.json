@@ -1415,6 +1415,30 @@
             }
         }
     },
+    "fof-forum-statistics-widget.json": {
+        "fof-forum-statistics-widget": {
+            "admin": {
+                "permissions": {
+                    "view_discussions_count_label": "514fa21f27163d7795734911cc7e78e1 514fa21f27163d7795734911cc7e78e1",
+                    "view_lastest_member_label": "95152dac4b78cdd9f10156f5a2b25fc8 95152dac4b78cdd9f10156f5a2b25fc8",
+                    "view_posts_count_label": "668c9d8651639ac3a2f3d3962c911155 668c9d8651639ac3a2f3d3962c911155",
+                    "view_users_count_label": "9f6015d545c2310070f2f6b61e88d830 9f6015d545c2310070f2f6b61e88d830"
+                },
+                "settings": {
+                    "widget_ignore_private_discussions_label": "ab5a04e9647a097103dd62679c9dd200 ab5a04e9647a097103dd62679c9dd200"
+                }
+            },
+            "forum": {
+                "navbar": {
+                    "discussions_count": "5f3c45442f83e5d7210fed6f49367a3b 5f3c45442f83e5d7210fed6f49367a3b",
+                    "latest_member": "f6845a87d10be159848fe31cbf4c0973 f6845a87d10be159848fe31cbf4c0973",
+                    "posts_count": "b8d7721f36868d1b988299f020e0c55a b8d7721f36868d1b988299f020e0c55a",
+                    "users_count": "86881d0aa20d1716a8d0897d8276d2f4 86881d0aa20d1716a8d0897d8276d2f4",
+                    "widget_title": "e65d01d3ce15342bbfa050b22f86713d e65d01d3ce15342bbfa050b22f86713d"
+                }
+            }
+        }
+    },
     "fof-gamification.json": {
         "core": {
             "forum": {

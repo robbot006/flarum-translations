@@ -2407,6 +2407,34 @@
             }
         }
     },
+    "fof-forum-statistics-widget.json": {
+        "fof-forum-statistics-widget": {
+            "admin": {
+                "permissions": {
+                    "view_discussions_count_label": "45ff5b245531148c3b34c90225abfcc2 45ff5b245531148c3b34c90225abfcc2",
+                    "view_lastest_member_label": "b1576f849601cc3f23bf7e73822dc25e b1576f849601cc3f23bf7e73822dc25e",
+                    "view_posts_count_label": "5576c1019c04a13bc1990e60f3b3c2d9 5576c1019c04a13bc1990e60f3b3c2d9",
+                    "view_users_count_label": "e38c59a2b33d48bc4b8c10b369e4a1be e38c59a2b33d48bc4b8c10b369e4a1be"
+                },
+                "settings": {
+                    "cache_duration_help": "b3cde73b34dce97a7a5f1fa11ebdfa87 b3cde73b34dce97a7a5f1fa11ebdfa87",
+                    "cache_duration_label": "36ebd4630d565aabdae9bdd5506e0b9d 36ebd4630d565aabdae9bdd5506e0b9d",
+                    "flush_cache_on_new_registration_help": "618560f7e17ade40d3e450d6817d1f0c 618560f7e17ade40d3e450d6817d1f0c",
+                    "flush_cache_on_new_registration_label": "dd5a022575b2608d3bfe5789f0a4aa19 dd5a022575b2608d3bfe5789f0a4aa19",
+                    "widget_ignore_private_discussions_label": "13b97aada919be2705847d65fef41ced 13b97aada919be2705847d65fef41ced"
+                }
+            },
+            "forum": {
+                "navbar": {
+                    "discussions_count": "dc70c02557420e5467a793c1017777fa dc70c02557420e5467a793c1017777fa",
+                    "latest_member": "8fb74961a6fb4ecce852ace8ad497bf8 8fb74961a6fb4ecce852ace8ad497bf8",
+                    "posts_count": "7649ad66c2908deb0e33b67bc3bd23f3 7649ad66c2908deb0e33b67bc3bd23f3",
+                    "users_count": "9b424d9281bb65e033c85020239dbeb8 9b424d9281bb65e033c85020239dbeb8",
+                    "widget_title": "d8058822c5eb21d68a5fd62a99fa0b0d d8058822c5eb21d68a5fd62a99fa0b0d"
+                }
+            }
+        }
+    },
     "fof-frontpage.json": {
         "core": {
             "forum": {

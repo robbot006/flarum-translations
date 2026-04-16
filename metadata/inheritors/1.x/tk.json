@@ -1369,6 +1369,22 @@
             }
         }
     },
+    "fof-pwned-passwords.json": {
+        "fof-pwned-passwords": {
+            "admin": {
+                "enableAdminRevoke": "8737639865389ae2087f1d5a663232df 8737639865389ae2087f1d5a663232df",
+                "enableLoginCheck": "bbdb22f164bd6fa819416e560e8a531f bbdb22f164bd6fa819416e560e8a531f"
+            },
+            "error": "6edc312a30bbea8d15c1518e1c644a63 6edc312a30bbea8d15c1518e1c644a63",
+            "forum": {
+                "alert": {
+                    "resend_button": "1f73ac88212bf01bb6e2c34c48ada9e0 1f73ac88212bf01bb6e2c34c48ada9e0",
+                    "sent_message": "c67c999d2353992eecdce85f3d50c2bd c67c999d2353992eecdce85f3d50c2bd",
+                    "warning": "bd8d2819671108f67bcd267ce6c6d33f bd8d2819671108f67bcd267ce6c6d33f"
+                }
+            }
+        }
+    },
     "fof-upload.json": {
         "fof-upload": {
             "admin": {

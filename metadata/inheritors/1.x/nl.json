@@ -2116,6 +2116,19 @@
             }
         }
     },
+    "fof-forum-statistics-widget.json": {
+        "fof-forum-statistics-widget": {
+            "forum": {
+                "navbar": {
+                    "discussions_count": "ba619148449c89bd62a22d4d173f6703 ba619148449c89bd62a22d4d173f6703",
+                    "latest_member": "ef225ba0e9683bdc1312f76c9913f6f0 ef225ba0e9683bdc1312f76c9913f6f0",
+                    "posts_count": "c53e0d195032395a804c6babd75bdcfa c53e0d195032395a804c6babd75bdcfa",
+                    "users_count": "ec7cf45d75626bd14fb0b5ef14fb80cd ec7cf45d75626bd14fb0b5ef14fb80cd",
+                    "widget_title": "4749ee7eaf857037c4b055e643c370d0 4749ee7eaf857037c4b055e643c370d0"
+                }
+            }
+        }
+    },
     "fof-horizon.json": {
         "fof-horizon": {
             "admin": {

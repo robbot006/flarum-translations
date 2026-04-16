@@ -2,11 +2,11 @@
     "fof-forum-statistics-widget": {
         "forum": {
             "navbar": {
-                "widget_title": "",
-                "discussions_count": "",
-                "posts_count": "",
-                "users_count": "",
-                "latest_member": ""
+                "widget_title": "Forum Statistieken",
+                "discussions_count": "Aantal Discussies: {discussionsCount}",
+                "posts_count": "Aantal Posts: {postsCount}",
+                "users_count": "Aantal Leden: {usersCount}",
+                "latest_member": "Laatst geregistreerd: "
             }
         },
         "admin": {
