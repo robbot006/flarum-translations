@@ -41,7 +41,11 @@
                 "models_last_fetched": "Cập nhật lần cuối: {date}",
                 "models_never_fetched": "Chưa từng tải mô hình. Nhấn nút phía trên để tải danh sách mới nhất.",
                 "custom_model_label": "",
-                "custom_model_help": ""
+                "custom_model_help": "",
+                "gpt5_reasoning_effort_label": "",
+                "gpt5_reasoning_effort_help": "",
+                "gpt5_verbosity_label": "",
+                "gpt5_verbosity_help": ""
             },
             "permissions": {
                 "use_chatgpt_assistant_label": "Sử dụng ChatGPT Assistant"
