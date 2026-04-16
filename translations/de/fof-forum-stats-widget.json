@@ -1,5 +1,13 @@
 {
     "fof-forum-stats-widget": {
+        "admin": {
+            "settings": {
+                "decimal_places": {
+                    "label": "",
+                    "help": ""
+                }
+            }
+        },
         "forum": {
             "widget": {
                 "stats": {
