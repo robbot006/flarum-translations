@@ -850,6 +850,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-drafts`](https://weblate.rob006.net/projects/flarum2/fof-drafts) | [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts) |
 | [`fof-follow-tags`](https://weblate.rob006.net/projects/flarum2/fof-follow-tags) | [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags) |
 | [`fof-formatting`](https://weblate.rob006.net/projects/flarum2/fof-formatting) | [`fof/formatting`](https://github.com/FriendsOfFlarum/formatting) |
+| [`fof-forum-statistics-widget`](https://weblate.rob006.net/projects/flarum2/fof-forum-statistics-widget) | [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget) |
 | [`fof-forum-stats-widget`](https://weblate.rob006.net/projects/flarum2/fof-forum-stats-widget) | [`fof/forum-stats-widget`](https://github.com/FriendsOfFlarum/forum-stats-widget) |
 | [`fof-forum-widgets-core`](https://weblate.rob006.net/projects/flarum2/fof-forum-widgets-core) | [`fof/forum-widgets-core`](https://github.com/FriendsOfFlarum/forum-widgets-core) |
 | [`fof-frontpage`](https://weblate.rob006.net/projects/flarum2/fof-frontpage) | [`fof/frontpage`](https://github.com/FriendsOfFlarum/frontpage) |
@@ -874,6 +875,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-pages`](https://weblate.rob006.net/projects/flarum2/fof-pages) | [`fof/pages`](https://github.com/FriendsOfFlarum/pages) |
 | [`fof-prevent-necrobumping`](https://weblate.rob006.net/projects/flarum2/fof-prevent-necrobumping) | [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping) |
 | [`fof-profile-image-crop`](https://weblate.rob006.net/projects/flarum2/fof-profile-image-crop) | [`fof/profile-image-crop`](https://github.com/FriendsOfFlarum/profile-image-crop) |
+| [`fof-pwned-passwords`](https://weblate.rob006.net/projects/flarum2/fof-pwned-passwords) | [`fof/pwned-passwords`](https://github.com/FriendsOfFlarum/pwned-passwords) |
 | [`fof-reactions`](https://weblate.rob006.net/projects/flarum2/fof-reactions) | [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions) |
 | [`fof-rich-text`](https://weblate.rob006.net/projects/flarum2/fof-rich-text) | [`fof/rich-text`](https://github.com/FriendsOfFlarum/rich-text) |
 | [`fof-sentry`](https://weblate.rob006.net/projects/flarum2/fof-sentry) | [`fof/sentry`](https://github.com/FriendsOfFlarum/sentry) |
