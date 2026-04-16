@@ -16,8 +16,8 @@
                 "flush_cache_on_new_registration_label": "Statistik-Cache bei neuer Registrierung leeren",
                 "flush_cache_on_new_registration_help": "Wenn aktiviert, wird der Statistik-Cache geleert, wenn sich ein neuer Benutzer im Forum registriert.",
                 "widget_ignore_private_discussions_label": "Private Diskussionen ignorieren",
-                "classic_look_label": "",
-                "classic_look_help": ""
+                "classic_look_label": "Klassisches Design",
+                "classic_look_help": "Das ursprüngliche Erscheinungsbild des Widgets wiederherstellen, das vor der Integration von fof/forum-widgets-core verwendet wurde."
             },
             "permissions": {
                 "view_discussions_count_label": "Anzahl der Diskussionen im Forumsstatistik-Widget anzeigen",
