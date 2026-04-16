@@ -2,9 +2,9 @@
     "fof-news-widget": {
         "admin": {
             "settings": {
-                "add_line": "",
-                "lines": "",
-                "html_warning": ""
+                "add_line": "Додати новину",
+                "lines": "Новини",
+                "html_warning": "Будьте обережні: будь-який HTML-код буде відображатися."
             }
         }
     }
