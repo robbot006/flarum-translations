@@ -4087,7 +4087,7 @@
 	</tr>
 	<tr>
 		<td>
-			<span title="Compatible with recent Flarum">🟢</span>
+			<span title="Compatible with recent Flarum">🟢</span><span title="Extension is abandoned">❗</span>
 			<a href="https://github.com/huseyinfiliz/private-profile-plus" title="huseyinfiliz/private-profile-plus"><code>huseyinfiliz/private-profile-plus</code></a>
 		</td>
 		<td align="center">370<br /><img src="https://img.shields.io/badge/-%2B19-red" alt="+19" title="Change from last week"></td>
