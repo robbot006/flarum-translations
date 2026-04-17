@@ -864,12 +864,12 @@
                 "mega_text": "M"
             },
             "pagination": {
-                "back_button": "",
+                "back_button": "صفحه قبل",
                 "first_button": "",
                 "go_to_page_textbox_a11y_label": "",
                 "last_button": "",
-                "next_button": "",
-                "page_counter": ""
+                "next_button": "صفحه بعد",
+                "page_counter": "صفحه {current} از {total}"
             },
             "search": {
                 "gambit_plus_button_a11y_label": "",
@@ -1077,11 +1077,11 @@
             "mark_all_as_read": "علامت همه به‌عنوان خوانده‌شده",
             "never": "هرگز",
             "new_token": "توکن جدید",
-            "newest": "",
+            "newest": "جدیدترین",
             "next_page": "صفحه بعد",
             "notifications": "اعلان‌ها",
             "okay": "باشه",
-            "oldest": "",
+            "oldest": "قدیمی‌ترین",
             "password": "رمزعبور",
             "posts": "نوشته‌ها",
             "previous_page": "صفحه قبل",
@@ -1090,7 +1090,7 @@
             "remove": "حذف",
             "rename": "تغییر نام",
             "reply": "پاسخ",
-            "refresh": "",
+            "refresh": "تازه کردن",
             "reset_your_password": "تنظیم دوباره رمزعبور",
             "restore": "بازنشانی",
             "save_changes": "ذخیره تغییرات",
@@ -1101,7 +1101,7 @@
             "some_others": "{count, plural, one {# دیگر} other {# دیگر}}",
             "start_a_discussion": "شروع بحث جدید",
             "username": "نام کاربری",
-            "username_or_email_placeholder": "",
+            "username_or_email_placeholder": "نام کاربری یا ایمیل",
             "users": "کاربران",
             "view": "دیدن",
             "write_a_reply": "نوشتن پاسخ ...",
