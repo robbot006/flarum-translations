@@ -1216,6 +1216,51 @@
             }
         }
     },
+    "dashzeveg-ads-manager.json": {
+        "dashzeveg-ads-manager": {
+            "admin": {
+                "ad_header_bottom_desktop_help1": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_bottom_desktop_help2": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_bottom_desktop_help3": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_bottom_desktop_help4": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_bottom_desktop_help5": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_bottom_desktop_label2": "0565af39fbbf138e0148a5a29fa63cad 0565af39fbbf138e0148a5a29fa63cad",
+                "ad_header_bottom_desktop_label3": "608e51fbfd2f62d137c030ab35ce86b5 608e51fbfd2f62d137c030ab35ce86b5",
+                "ad_header_bottom_desktop_label4": "3f3660e368c66bc0e29915957ed18aba 3f3660e368c66bc0e29915957ed18aba",
+                "ad_header_bottom_desktop_label5": "d0a8eaadc7f6cb0125eec302b3cb72aa d0a8eaadc7f6cb0125eec302b3cb72aa",
+                "ad_header_bottom_enabled_label": "2958e457c4bceb5786345e5e2d7817fe 2958e457c4bceb5786345e5e2d7817fe",
+                "ad_header_bottom_mobile_help1": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_bottom_mobile_help2": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_bottom_mobile_help3": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_bottom_mobile_help4": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_bottom_mobile_label1": "00d3178f7b2f71b55b479edcef8038df 00d3178f7b2f71b55b479edcef8038df",
+                "ad_header_bottom_mobile_label2": "24ff1e0472e811d4d5c8c8b611a42eca 24ff1e0472e811d4d5c8c8b611a42eca",
+                "ad_header_bottom_mobile_label3": "ef2806eb96e0d036308460a685a1857b ef2806eb96e0d036308460a685a1857b",
+                "ad_header_bottom_mobile_label4": "2f949d78a7075594468b363f224cc4e1 2f949d78a7075594468b363f224cc4e1",
+                "ad_header_top_desktop_help1": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_top_desktop_help2": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_top_desktop_help3": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_top_desktop_help4": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_top_desktop_help5": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_top_desktop_label1": "afc47fb6017c35c93c0f7e15d1f3fea1 afc47fb6017c35c93c0f7e15d1f3fea1",
+                "ad_header_top_desktop_label2": "0565af39fbbf138e0148a5a29fa63cad 0565af39fbbf138e0148a5a29fa63cad",
+                "ad_header_top_desktop_label3": "608e51fbfd2f62d137c030ab35ce86b5 608e51fbfd2f62d137c030ab35ce86b5",
+                "ad_header_top_desktop_label4": "3f3660e368c66bc0e29915957ed18aba 3f3660e368c66bc0e29915957ed18aba",
+                "ad_header_top_desktop_label5": "d0a8eaadc7f6cb0125eec302b3cb72aa d0a8eaadc7f6cb0125eec302b3cb72aa",
+                "ad_header_top_enabled_label": "2958e457c4bceb5786345e5e2d7817fe 2958e457c4bceb5786345e5e2d7817fe",
+                "ad_header_top_mobile_help1": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_top_mobile_help2": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_top_mobile_help3": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_top_mobile_help4": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_top_mobile_help5": "8387493d14ada82aca1cff50bbaaf154 8387493d14ada82aca1cff50bbaaf154",
+                "ad_header_top_mobile_label1": "00d3178f7b2f71b55b479edcef8038df 00d3178f7b2f71b55b479edcef8038df",
+                "ad_header_top_mobile_label2": "24ff1e0472e811d4d5c8c8b611a42eca 24ff1e0472e811d4d5c8c8b611a42eca",
+                "ad_header_top_mobile_label3": "ef2806eb96e0d036308460a685a1857b ef2806eb96e0d036308460a685a1857b",
+                "ad_header_top_mobile_label4": "2f949d78a7075594468b363f224cc4e1 2f949d78a7075594468b363f224cc4e1",
+                "ad_header_top_mobile_label5": "e2a91b55ab9f1e0d846aa5b0b2ed40a6 e2a91b55ab9f1e0d846aa5b0b2ed40a6"
+            }
+        }
+    },
     "dashzeveg-custom-head.json": {
         "dashzeveg-custom-head": {
             "admin": {
