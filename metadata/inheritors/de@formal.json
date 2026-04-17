@@ -9107,6 +9107,8 @@
                     "queue_chunk_size_help": "0312aac99d4fc3ad52a1e5a0616e4d61 0312aac99d4fc3ad52a1e5a0616e4d61",
                     "queue_chunk_size_label": "02d5d2f078af4c834bb7b793154d0516 02d5d2f078af4c834bb7b793154d0516",
                     "queue_delay_label": "7fc9fb9fbb07a9eccd13fd676d74857d 7fc9fb9fbb07a9eccd13fd676d74857d",
+                    "queue_name_help": "b9f0a4af045cb873e146d9a9b9ab0196 b9f0a4af045cb873e146d9a9b9ab0196",
+                    "queue_name_label": "ba17b3a7e153b0c71619fe6a2be9b8cf ba17b3a7e153b0c71619fe6a2be9b8cf",
                     "send_hour_help": "152c98291718d9d6795cbac790d69a76 152c98291718d9d6795cbac790d69a76",
                     "send_hour_label": "0246f23264591a98dcbcecc45eda39b6 0246f23264591a98dcbcecc45eda39b6",
                     "send_window_end_help": "ca45a4cbfb6d082163464c0d6dcf7ec3 ca45a4cbfb6d082163464c0d6dcf7ec3",
