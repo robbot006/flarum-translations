@@ -11,7 +11,7 @@
                 "categories": "",
                 "nominees": "",
                 "suggestions": "",
-                "settings": ""
+                "settings": "تنظیمات"
             },
             "awards": {
                 "title": "",
@@ -92,7 +92,7 @@
                 "no_nominees": ""
             },
             "settings": {
-                "title": "",
+                "title": "تنظیمات",
                 "nav_title": "",
                 "nav_title_help": "",
                 "nav_icon": "",
