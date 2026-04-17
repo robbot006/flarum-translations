@@ -3053,6 +3053,8 @@
                 "settings": {
                     "cache_duration_help": "d90eb15a0fe5e464543da5a462b29b8e d90eb15a0fe5e464543da5a462b29b8e",
                     "cache_duration_label": "48e09c432f2549f0f3a02cff0c6adcfc 48e09c432f2549f0f3a02cff0c6adcfc",
+                    "classic_look_help": "6e69a0a40bacedb2ff3aa29d2534cba9 6e69a0a40bacedb2ff3aa29d2534cba9",
+                    "classic_look_label": "b3c2cb7e31948c8001d7e3989d0456ce b3c2cb7e31948c8001d7e3989d0456ce",
                     "flush_cache_on_new_registration_help": "99704eb649e3a5baca85f77921ae1f36 99704eb649e3a5baca85f77921ae1f36",
                     "flush_cache_on_new_registration_label": "ad4054ea2eaff0fe40a8c4f395bce165 ad4054ea2eaff0fe40a8c4f395bce165",
                     "widget_ignore_private_discussions_label": "19136b7761e88160fcf06e842e9f05fc 19136b7761e88160fcf06e842e9f05fc"
@@ -6156,6 +6158,10 @@
                     "post_without_hcaptcha": "e8b3a09f9140029594e801ab8424d7cb e8b3a09f9140029594e801ab8424d7cb"
                 },
                 "settings": {
+                    "dark_mode_help": "e79a3dab5f0c8c3b75357b42677bfc8a e79a3dab5f0c8c3b75357b42677bfc8a",
+                    "dark_mode_label": "6901f39bfbfcfe61384a610b84e79ed8 6901f39bfbfcfe61384a610b84e79ed8",
+                    "enable_login_help": "17e8b7ee968f7cabb06e89887dad1da8 17e8b7ee968f7cabb06e89887dad1da8",
+                    "enable_login_label": "d16e8e46bdd49b3920717ab778dbc43b d16e8e46bdd49b3920717ab778dbc43b",
                     "help_text": "6bead5c159251feecb935f526947a04a 6bead5c159251feecb935f526947a04a",
                     "secret_key_label": "cf1cab6262f9ed4381135e0fba4785d8 cf1cab6262f9ed4381135e0fba4785d8",
                     "site_key_label": "983347649b668c0c6ca8c0c19fddf7f0 983347649b668c0c6ca8c0c19fddf7f0",
@@ -6163,7 +6169,7 @@
                 }
             },
             "forum": {
-                "error": "c6b7eba1f3d3080a7b95370e25a7150e c6b7eba1f3d3080a7b95370e25a7150e"
+                "error": "dea58aa05b4a0ad181cfaa5e3b2997ad dea58aa05b4a0ad181cfaa5e3b2997ad"
             }
         },
         "validation": {
