@@ -46,7 +46,7 @@
                 "cancelled": "",
                 "started": "",
                 "already_running": "",
-                "cancel": "",
+                "cancel": "لغو",
                 "cancel_confirm": "",
                 "cancel_error": "",
                 "dismiss": "",
@@ -90,7 +90,7 @@
                 "stuck": "",
                 "users": "",
                 "results": "",
-                "cancel": "",
+                "cancel": "لغو",
                 "force_cancel": "",
                 "mark_failed": "",
                 "cancelled": "",
@@ -158,8 +158,8 @@
             "is_active_help": "",
             "is_visible": "",
             "is_visible_help": "",
-            "save": "",
-            "cancel": "",
+            "save": "درج کردن",
+            "cancel": "لغو",
             "validation": {
                 "tag_required": ""
             },
@@ -300,7 +300,7 @@
                 "assign_reason_placeholder": "",
                 "assign_reason_help": "",
                 "assign_button": "",
-                "cancel": "",
+                "cancel": "لغو",
                 "badge_assigned": "",
                 "recalculate_modal": {
                     "title": "",
