@@ -44,7 +44,7 @@
                     "source_label": "",
                     "source_help": "",
                     "source_local": "",
-                    "source_cdn": "",
+                    "source_cdn": "CDN",
                     "source_kit": "",
                     "cdn_url_label": "",
                     "cdn_url_help": "",
@@ -60,7 +60,7 @@
                         "help": "",
                         "fa5_fa6_label": "",
                         "fa7_label": "",
-                        "pro_label": ""
+                        "pro_label": "فقط Pro"
                     }
                 },
                 "pgsql": {
@@ -191,7 +191,7 @@
             },
             "dashboard": {
                 "clear_cache_button": "پاک کردن cache",
-                "description": "انجمن شما در یک نگاه",
+                "description": "انجمن شما در یک نگاه.",
                 "info_button": "",
                 "info_modal": {
                     "title": "",
@@ -590,7 +590,7 @@
                 "invalid_login_message": "",
                 "password_placeholder": "=> core.ref.password",
                 "remember_me_label": "",
-                "sign_up_text": "حساب کاربری ندارید؟ <a>ثبت‌نام</a> کنید.",
+                "sign_up_text": "حساب کاربری ندارید؟ <a>ثبت‌نام کنید</a>",
                 "submit_button": "=> core.ref.log_in",
                 "title": "=> core.ref.log_in",
                 "username_or_email_placeholder": ""
@@ -841,8 +841,8 @@
                 "accessible_label": "=> core.ref.loading"
             },
             "meta_titles": {
-                "with_page_title": "{pageNumber, plural, =1 {{pageTitle} - {forumName}} other {{pageTitle}: Page # - {forumName}}}",
-                "without_page_title": "{pageNumber, plural, =1 {{forumName}} other {Page # - {forumName}}}"
+                "with_page_title": "{pageNumber, plural, =1 {{pageTitle} - {forumName}} other {{pageTitle}: صفحه # - {forumName}}}",
+                "without_page_title": "{pageNumber, plural, =1 {{forumName}} other {صفحه # - {forumName}}}"
             },
             "modal": {
                 "close": "بستن"
@@ -1066,7 +1066,7 @@
             "extensions": "افزونه ها",
             "generic_confirmation_message": "آیا مطمئن هستید که می خواهید ادامه دهید؟ این عمل قابل لغو نیست.",
             "icon": "آیکون",
-            "icon_text": "نام هر یک از کلاس آیکون های <a>FontAwesome</a> را وارد کنید که <em>شامل</em> پیشوند <code>fas fa-</code> باشد.",
+            "icon_text": "نام هر یک از کلاس آیکون های <a>FontAwesome</a> را وارد کنید که <em>شامل</em> پیشوند <code>fas fa-flag</code> یا <code>fa-solid fa-flag</code> باشد.",
             "invalid_login_message": "",
             "light_hc_mode_label": "",
             "light_mode_label": "",
