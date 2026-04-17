@@ -25,7 +25,7 @@
                 "check": "",
                 "destination": "",
                 "discussion_help": "",
-                "discussion_name": "",
+                "discussion_name": "=> core.forum.composer_discussion.title_placeholder",
                 "new_discussion": "",
                 "selected_posts": "",
                 "status": {

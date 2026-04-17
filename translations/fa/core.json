@@ -122,10 +122,10 @@
                 "color_scheme_label": "",
                 "color_schemes": {
                     "auto_mode_label": "",
-                    "dark_hc_mode_label": "",
-                    "dark_mode_label": "",
-                    "light_hc_mode_label": "",
-                    "light_mode_label": ""
+                    "dark_hc_mode_label": "=> core.ref.dark_hc_mode_label",
+                    "dark_mode_label": "=> core.ref.dark_mode_label",
+                    "light_hc_mode_label": "=> core.ref.light_hc_mode_label",
+                    "light_mode_label": "=> core.ref.light_mode_label"
                 }
             },
             "basics": {
@@ -251,7 +251,7 @@
                 "delete_button": "حذف گروه",
                 "delete_confirmation": "آیا اطمینان دارید که می خواهید این گروه را حذف کنید ؟ اعضای این گروه حذف نخواهند شد .",
                 "hide_label": "پنهان کردن در انجمن",
-                "icon_label": "آیکون",
+                "icon_label": "=> core.ref.icon",
                 "icon_text": "=> core.ref.icon_text",
                 "name_label": "نام",
                 "plural_placeholder": "جمع (برای مثال: مد ها)",
@@ -345,13 +345,13 @@
                 "title": "لطفا صبر کنید ..."
             },
             "models": {
-                "discussions": "",
-                "posts": "",
-                "users": ""
+                "discussions": "=> core.ref.discussions",
+                "posts": "=> core.ref.posts",
+                "users": "=> core.ref.users"
             },
             "nav": {
-                "advanced_button": "",
-                "advanced_title": "",
+                "advanced_button": "=> core.admin.advanced.title",
+                "advanced_title": "=> core.admin.advanced.description",
                 "appearance_button": "ظاهر",
                 "appearance_title": "=> core.admin.appearance.description",
                 "basics_button": "تنظیمات اصلی",
@@ -462,7 +462,7 @@
                         "user_actions": {
                             "title": "اجرا",
                             "edit_user": {
-                                "button": "",
+                                "button": "=> core.ref.edit",
                                 "tooltip": ""
                             }
                         },
@@ -572,28 +572,28 @@
                 "mark_all_as_read_confirmation": "برای علامت تمامی مباحث به‌عنوان خوانده‌شده اطمینان دارید؟",
                 "mark_all_as_read_tooltip": "=> core.ref.mark_all_as_read",
                 "meta_title_text": "=> core.ref.all_discussions",
-                "refresh_tooltip": "",
+                "refresh_tooltip": "=> core.ref.refresh",
                 "start_discussion_button": "=> core.ref.start_a_discussion",
                 "skip_to_main_content": "",
                 "toggle_sidenav_dropdown_accessible_label": "تغییر منوی کشویی پیمایش"
             },
             "index_sort": {
                 "latest_button": "آخرین",
-                "newest_button": "",
-                "oldest_button": "",
-                "relevance_button": "",
+                "newest_button": "=> core.ref.newest",
+                "oldest_button": "=> core.ref.oldest",
+                "relevance_button": "=> core.ref.relevance",
                 "toggle_dropdown_accessible_label": "تغییر مرتب‌سازی فهرست بحث",
                 "top_button": "بالا"
             },
             "log_in": {
                 "forgot_password_link": "رمزعبورتان را فراموش کردید؟",
-                "invalid_login_message": "",
+                "invalid_login_message": "=> core.ref.invalid_login_message",
                 "password_placeholder": "=> core.ref.password",
-                "remember_me_label": "",
+                "remember_me_label": "=> core.ref.remember_me_label",
                 "sign_up_text": "حساب کاربری ندارید؟ <a>ثبت‌نام کنید</a>",
                 "submit_button": "=> core.ref.log_in",
                 "title": "=> core.ref.log_in",
-                "username_or_email_placeholder": ""
+                "username_or_email_placeholder": "=> core.ref.username_or_email_placeholder"
             },
             "notifications": {
                 "delete_all_confirm": "",
@@ -623,7 +623,7 @@
             "post_list": {
                 "empty_text": "",
                 "in_discussion_text": "",
-                "load_more_button": ""
+                "load_more_button": "=> core.ref.load_more"
             },
             "post_scrubber": {
                 "now_link": "هم‌اکنون",
@@ -639,13 +639,13 @@
                 "time_lapsed_text": "{period} بعد"
             },
             "posts_sort": {
-                "newest_button": "",
-                "oldest_button": "",
-                "relevance_button": ""
+                "newest_button": "=> core.ref.newest",
+                "oldest_button": "=> core.ref.oldest",
+                "relevance_button": "=> core.ref.relevance"
             },
             "posts": {
                 "meta_title_text": "",
-                "refresh_tooltip": ""
+                "refresh_tooltip": "=> core.ref.refresh"
             },
             "rename_discussion": {
                 "submit_button": "=> core.ref.rename",
@@ -693,10 +693,10 @@
                 "color_scheme_heading": "",
                 "color_schemes": {
                     "auto_mode_label": "",
-                    "dark_hc_mode_label": "",
-                    "dark_mode_label": "",
-                    "light_hc_mode_label": "",
-                    "light_mode_label": ""
+                    "dark_hc_mode_label": "=> core.ref.dark_hc_mode_label",
+                    "dark_mode_label": "=> core.ref.dark_mode_label",
+                    "light_hc_mode_label": "=> core.ref.light_hc_mode_label",
+                    "light_mode_label": "=> core.ref.light_mode_label"
                 },
                 "notification_checkbox_a11y_label_template": "دریافت آگاهی‌های \"{description}\" از طریق {method}",
                 "notifications_heading": "=> core.ref.notifications",
@@ -885,14 +885,14 @@
             "search_source": {
                 "discussions": {
                     "all_button": "",
-                    "heading": ""
+                    "heading": "=> core.ref.discussions"
                 },
                 "posts": {
                     "all_button": "",
-                    "heading": ""
+                    "heading": "=> core.ref.posts"
                 },
                 "users": {
-                    "heading": ""
+                    "heading": "=> core.ref.users"
                 }
             },
             "series": {
@@ -903,8 +903,8 @@
             "user_selection_modal": {
                 "empty_results": "",
                 "max_items_to_select": "",
-                "search_placeholder": "",
-                "submit_button": "",
+                "search_placeholder": "=> core.ref.search_users",
+                "submit_button": "=> core.ref.okay",
                 "title": ""
             },
             "username": {
@@ -976,12 +976,12 @@
                 "title": "=> core.ref.log_out"
             },
             "log_in": {
-                "invalid_login_message": "",
-                "username_or_email_placeholder": "",
-                "password_placeholder": "",
-                "remember_me_label": "",
-                "submit_button": "",
-                "title": ""
+                "invalid_login_message": "=> core.ref.invalid_login_message",
+                "username_or_email_placeholder": "=> core.ref.username_or_email_placeholder",
+                "password_placeholder": "=> core.ref.password",
+                "remember_me_label": "=> core.ref.remember_me_label",
+                "submit_button": "=> core.ref.log_in",
+                "title": "=> core.ref.log_in"
             },
             "reset_password": {
                 "confirm_password_label": "تائید رمزعبور جدید",

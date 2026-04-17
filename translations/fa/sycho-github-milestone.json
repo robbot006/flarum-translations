@@ -16,7 +16,7 @@
             "open": "",
             "all": "",
             "complete": "",
-            "load_more": "",
+            "load_more": "=> core.forum.discussion_list.load_more_button",
             "tasks_done": ""
         },
         "ref": {

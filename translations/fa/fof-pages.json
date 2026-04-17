@@ -13,7 +13,7 @@
                 "set_as_home_page_done": "",
                 "slug_label": "",
                 "slug_placeholder": "",
-                "submit_button": "",
+                "submit_button": "=> core.ref.save_changes",
                 "title": "",
                 "title_label": "",
                 "title_placeholder": "",
