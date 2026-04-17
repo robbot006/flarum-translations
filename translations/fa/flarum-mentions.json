@@ -45,7 +45,7 @@
                 "deleted_text": "[ناشناخته]"
             },
             "group_mention": {
-                "deleted_text": "[unknown group]"
+                "deleted_text": "[گروه ناشناس]"
             }
         },
         "email": {
