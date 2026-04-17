@@ -58,7 +58,7 @@
                 "username_placeholder": "=> core.ref.username"
             },
             "announcements": {
-                "comments_label": "",
+                "comments_label": "{count, plural, one {# نظر} other {# نظرات}}",
                 "description": "",
                 "empty": "",
                 "load_error": "",
@@ -68,7 +68,7 @@
                 "refresh": "",
                 "retry": "",
                 "show": "",
-                "title": "",
+                "title": "اعلامیه‌ها",
                 "view_all": ""
             },
             "dashboard": {
