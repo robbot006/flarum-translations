@@ -1969,6 +1969,15 @@
             }
         }
     },
+    "fof-horizon.json": {
+        "fof-horizon": {
+            "admin": {
+                "stats": {
+                    "refresh": "0f43610e36491b49803f9a55d996b754 0f43610e36491b49803f9a55d996b754"
+                }
+            }
+        }
+    },
     "fof-ignore-users.json": {
         "fof-ignore-users": {
             "admin": {
@@ -2487,7 +2496,7 @@
         "fof-user-directory": {
             "forum": {
                 "hero": {
-                    "title": "d41d8cd98f00b204e9800998ecf8427e 2fd638233d98e08950b42b87e25a93fe"
+                    "title": "2fd638233d98e08950b42b87e25a93fe 2fd638233d98e08950b42b87e25a93fe"
                 },
                 "page": {
                     "load_more_button": "aace03f843f7ad259fe0d79dc2e07f43 aace03f843f7ad259fe0d79dc2e07f43",
@@ -2523,6 +2532,37 @@
                     },
                     "results": {
                         "dismiss_button": "99336514ae6764af185483b16b4875c9 99336514ae6764af185483b16b4875c9"
+                    }
+                }
+            }
+        }
+    },
+    "fof-webhooks.json": {
+        "fof-webhooks": {
+            "admin": {
+                "settings": {
+                    "actions": {
+                        "flarum": {
+                            "discussion": {
+                                "deleted": "b80fdfc2103d3971de9974d50b122667 b80fdfc2103d3971de9974d50b122667",
+                                "hidden": "f0a8bdddbc31ce2572d7e592566cf613 f0a8bdddbc31ce2572d7e592566cf613",
+                                "renamed": "f8d5b397452b6455849a57fc8f2d9a24 f8d5b397452b6455849a57fc8f2d9a24",
+                                "restored": "d050999ce347a48aeed17b2216369d04 d050999ce347a48aeed17b2216369d04"
+                            },
+                            "group": {
+                                "deleted": "b80fdfc2103d3971de9974d50b122667 b80fdfc2103d3971de9974d50b122667",
+                                "renamed": "f8d5b397452b6455849a57fc8f2d9a24 f8d5b397452b6455849a57fc8f2d9a24"
+                            },
+                            "post": {
+                                "deleted": "b80fdfc2103d3971de9974d50b122667 b80fdfc2103d3971de9974d50b122667",
+                                "hidden": "f0a8bdddbc31ce2572d7e592566cf613 f0a8bdddbc31ce2572d7e592566cf613",
+                                "restored": "d050999ce347a48aeed17b2216369d04 d050999ce347a48aeed17b2216369d04"
+                            },
+                            "user": {
+                                "deleted": "b80fdfc2103d3971de9974d50b122667 b80fdfc2103d3971de9974d50b122667",
+                                "renamed": "f8d5b397452b6455849a57fc8f2d9a24 f8d5b397452b6455849a57fc8f2d9a24"
+                            }
+                        }
                     }
                 }
             }
@@ -2590,13 +2630,32 @@
         }
     },
     "ianm-follow-users.json": {
+        "flarum-gdpr": {
+            "lib": {
+                "data": {
+                    "followuser": {
+                        "anonymize_description": "61f7566e492ef361cf0ae0e4ea774ed6 61f7566e492ef361cf0ae0e4ea774ed6"
+                    }
+                }
+            }
+        },
         "ianm-follow-users": {
             "forum": {
+                "index": {
+                    "follow_tag_button": "b5b4999286c7a0b2bd349c1a1d3d7b3d b5b4999286c7a0b2bd349c1a1d3d7b3d",
+                    "unfollow_tag_button": "460243f2bb10be2ae5b9f488e4eb5825 460243f2bb10be2ae5b9f488e4eb5825"
+                },
                 "modals": {
                     "select_follow_level": {
                         "cancel_btn": "d41d8cd98f00b204e9800998ecf8427e f7c41ff9d4227cccd24d006bff475ec7",
                         "save_btn": "d41d8cd98f00b204e9800998ecf8427e b128f5d9cb47f0712ea8651eafc259ab"
                     }
+                },
+                "profile_link": "16a3715cde4d2a0b5f50275f12553308 16a3715cde4d2a0b5f50275f12553308",
+                "user_controls": {
+                    "change_button": "460243f2bb10be2ae5b9f488e4eb5825 460243f2bb10be2ae5b9f488e4eb5825",
+                    "follow_button": "b5b4999286c7a0b2bd349c1a1d3d7b3d b5b4999286c7a0b2bd349c1a1d3d7b3d",
+                    "unfollow_button": "90673b33a7add714221727c36ea15020 90673b33a7add714221727c36ea15020"
                 }
             }
         }
