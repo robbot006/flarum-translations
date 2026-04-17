@@ -31,15 +31,15 @@
             "revisionInfo": "",
             "noDiff": "",
             "differences": {
-                "originalContent": "",
-                "currentContent": "",
-                "revisionWithNumber": "",
+                "originalContent": "=> huseyinfiliz-diff.ref.originalContent",
+                "currentContent": "=> huseyinfiliz-diff.ref.currentContent",
+                "revisionWithNumber": "=> huseyinfiliz-diff.ref.revisionWithNumber",
                 "sentence": ""
             },
             "previewMode": {
-                "originalContent": "",
-                "currentContent": "",
-                "revisionWithNumber": "",
+                "originalContent": "=> huseyinfiliz-diff.ref.originalContent",
+                "currentContent": "=> huseyinfiliz-diff.ref.currentContent",
+                "revisionWithNumber": "=> huseyinfiliz-diff.ref.revisionWithNumber",
                 "sentence": ""
             }
         },
