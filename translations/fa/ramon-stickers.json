@@ -35,13 +35,13 @@
                     "upload_label": "",
                     "upload_button": "",
                     "upload_help": "",
-                    "submit_button": "",
+                    "submit_button": "=> core.ref.save_changes",
                     "delete_sticker_button": "",
                     "delete_sticker_confirmation": "",
-                    "saved_message": ""
+                    "saved_message": "=> core.admin.settings.saved_message"
                 },
                 "sticker_list": {
-                    "load_more_button": ""
+                    "load_more_button": "=> core.forum.post_stream.load_more_button"
                 }
             }
         },
