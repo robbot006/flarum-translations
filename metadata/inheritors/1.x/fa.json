@@ -17,6 +17,10 @@
     "core.json": {
         "core": {
             "admin": {
+                "announcements": {
+                    "comments_label": "03e9010553e1f96859bdb404055efb7f 03e9010553e1f96859bdb404055efb7f",
+                    "title": "ac75953ba57749ccce27502a466853a4 ac75953ba57749ccce27502a466853a4"
+                },
                 "appearance": {
                     "colored_header_label": "edacd0148fad6b0a262bfe6f23f6ca52 edacd0148fad6b0a262bfe6f23f6ca52",
                     "colors_heading": "1031a289ad3734ad2cf5db66edb4dd4b 1031a289ad3734ad2cf5db66edb4dd4b",
