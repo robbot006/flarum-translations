@@ -22,7 +22,7 @@
                 "bulk_upload_progress": "",
                 "bulk_upload_done": "",
                 "select_button": "",
-                "cancel_select_button": "",
+                "cancel_select_button": "لغو",
                 "delete_selected_button": "",
                 "delete_selected_confirm": "",
                 "edit_sticker": {
