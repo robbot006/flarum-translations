@@ -873,6 +873,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-online-users-widget`](https://weblate.rob006.net/projects/flarum2/fof-online-users-widget) | [`fof/online-users-widget`](https://github.com/FriendsOfFlarum/online-users-widget) |
 | [`fof-open-collective`](https://weblate.rob006.net/projects/flarum2/fof-open-collective) | [`fof/open-collective`](https://github.com/FriendsOfFlarum/open-collective) |
 | [`fof-pages`](https://weblate.rob006.net/projects/flarum2/fof-pages) | [`fof/pages`](https://github.com/FriendsOfFlarum/pages) |
+| [`fof-polls`](https://weblate.rob006.net/projects/flarum2/fof-polls) | [`fof/polls`](https://github.com/FriendsOfFlarum/polls) |
 | [`fof-prevent-necrobumping`](https://weblate.rob006.net/projects/flarum2/fof-prevent-necrobumping) | [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping) |
 | [`fof-profile-image-crop`](https://weblate.rob006.net/projects/flarum2/fof-profile-image-crop) | [`fof/profile-image-crop`](https://github.com/FriendsOfFlarum/profile-image-crop) |
 | [`fof-pwned-passwords`](https://weblate.rob006.net/projects/flarum2/fof-pwned-passwords) | [`fof/pwned-passwords`](https://github.com/FriendsOfFlarum/pwned-passwords) |
