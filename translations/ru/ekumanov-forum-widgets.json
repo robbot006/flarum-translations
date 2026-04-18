@@ -21,6 +21,7 @@
                 "label_posts": "{count, plural, one {сообщение} few {сообщения} many {сообщений} other {сообщения}}",
                 "label_users": "{count, plural, one {пользователь} few {пользователя} many {пользователей} other {пользователя}}",
                 "label_online": "{count, plural, one {пользователь в сети} few {пользователя в сети} many {пользователей в сети} other {пользователя в сети}}",
+                "label_online_over_total": "",
                 "tooltip_latest_registration": "Последняя регистрация: {name}"
             },
             "aria": {

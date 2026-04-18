@@ -21,6 +21,7 @@
                 "label_posts": "帖子",
                 "label_users": "用户",
                 "label_online": "在线",
+                "label_online_over_total": "",
                 "tooltip_latest_registration": "最新注册：{name}"
             },
             "aria": {

@@ -21,6 +21,7 @@
                 "label_posts": "{count, plural, one {post} other {posts}}",
                 "label_users": "{count, plural, one {user} other {users}}",
                 "label_online": "{count, plural, one {online user} other {online users}}",
+                "label_online_over_total": "{online} online out of {total} total users",
                 "tooltip_latest_registration": "Latest Registration: {name}"
             },
             "aria": {

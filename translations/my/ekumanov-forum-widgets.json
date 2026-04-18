@@ -21,6 +21,7 @@
                 "label_posts": "",
                 "label_users": "",
                 "label_online": "",
+                "label_online_over_total": "",
                 "tooltip_latest_registration": ""
             },
             "aria": {
