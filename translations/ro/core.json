@@ -42,7 +42,13 @@
                 "slug_driver_text": "Selectați driver-ul pentru slug-ul acestui model.",
                 "title": "Setări de bază",
                 "welcome_banner_heading": "Mesaj de bun-venit",
-                "welcome_banner_text": "Introduceți textul care va apărea deasupra listei de discuții. Utilizați-l pentru a ura bun venit noilor vizitatori ai acestui forum."
+                "welcome_banner_text": "Introduceți textul care va apărea deasupra listei de discuții. Utilizați-l pentru a ura bun venit noilor vizitatori ai acestui forum.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -196,6 +202,7 @@
                     "discussion": "Discuție",
                     "feature": "Caracteristici",
                     "formatting": "Formatare",
+                    "forum-widget": "",
                     "language": "Limbi",
                     "moderation": "Moderare",
                     "other": "Alte extensii",
@@ -719,6 +726,12 @@
             "send_test": {
                 "subject": "E-mail de testare Flarum",
                 "body": "Salut, {username}!\n\nAcesta este un e-mail de testare pentru confirmare că configurațiile adresei de e-mail funcționează corect.\n\nDacă ați fost Dvs., aceasta înseamnă că configurațiile Dvs. funcționează!\n\nDacă nu ați fost Dvs., vă rugăm să ignorați acest e-mail.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

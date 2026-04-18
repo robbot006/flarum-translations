@@ -42,7 +42,13 @@
                 "slug_driver_text": "选择此模块的 URL 驱动。",
                 "title": "常规",
                 "welcome_banner_heading": "欢迎横幅",
-                "welcome_banner_text": "横幅文本将显示于「全部主题」页面顶部，可以用于欢迎论坛访客。"
+                "welcome_banner_text": "横幅文本将显示于「全部主题」页面顶部，可以用于欢迎论坛访客。",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -198,6 +204,7 @@
                     "discussion": "主题",
                     "feature": "功能",
                     "formatting": "格式化",
+                    "forum-widget": "",
                     "language": "语言包",
                     "moderation": "内容审核",
                     "other": "其他",
@@ -726,6 +733,12 @@
             "send_test": {
                 "subject": "Flarum 邮件测试",
                 "body": "{username}，恭喜您！\n\n您的论坛邮箱服务可用。\n\n本邮件用于测试邮箱服务配置是否正确。\n\n若非本人发送测试邮件，请忽略。\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

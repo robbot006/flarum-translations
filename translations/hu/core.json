@@ -44,6 +44,12 @@
                 "title": "Alapok",
                 "welcome_banner_heading": "Üdvözlő banner",
                 "welcome_banner_text": "Állítsa be az „Összes téma” lapon megjelenítendő banner szövegét. Ezt a fórumra érkező látogatók köszöntéséhez használhatja.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": "",
                 "saved_message": "A változtatásokat elmentettük.",
                 "submit_button": "=> core.ref.save_changes"
             },
@@ -210,6 +216,7 @@
                     "discussion": "Téma",
                     "feature": "Tulajdonságok",
                     "formatting": "Formázás",
+                    "forum-widget": "",
                     "language": "Nyelvek",
                     "moderation": "Moderálás",
                     "other": "Más bővítmények",
@@ -772,6 +779,12 @@
             "send_test": {
                 "subject": "Flarum teszt e-mail",
                 "body": "Kedves {username}!\n\nEz egy teszt e-mail, hogy megerősítsük, hogy valóban működnek a Flarum e-mail beállításai.\n\nHa Ön küldte, akkor az e-mail működik!\n\nHa nem Ön küldte, akkor hagyja figyelmen kívül ezt a levelet.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {
