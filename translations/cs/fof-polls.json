@@ -24,9 +24,9 @@
                 "enable_global_polls_help": "",
                 "enabled_poll_groups": "",
                 "enabled_poll_groups_help": "",
-                "max_options": "",
-                "options_color_blend": "",
-                "options_color_blend_help": "",
+                "max_options": "Maximální počet možností v jedné anketě",
+                "options_color_blend": "Prolínání barev textu ve volbách hlasování",
+                "options_color_blend_help": "Tuto volbu použijte k míchání barev, zlepšíte tím čitelnost možností hlasování. Pokud tato volba způsobuje problémy se vzhledem fóra a snižuje jeho čitelnost, zakažte ji.",
                 "max_image_upload_size": "",
                 "max_image_upload_size_help": "",
                 "image_height": "",
@@ -34,42 +34,42 @@
                 "image_dimensions_help": ""
             },
             "permissions": {
-                "view_results_without_voting": "",
-                "start": "",
+                "view_results_without_voting": "Zobrazit výsledky bez hlasování",
+                "start": "Přidat anketu",
                 "start_global": "",
-                "self_edit": "",
-                "self_post_edit": "",
+                "self_edit": "Upravit vytvořené ankety (vyžaduje oprávnění k úpravám příspěvků)",
+                "self_post_edit": "Upravit *všechny* ankety ve vlastních příspěvcích (vyžaduje oprávnění k úpravám příspěvků)",
                 "upload_images": "",
-                "vote": "",
-                "change_vote": "",
-                "moderate": "",
+                "vote": "Hlasování v anketách",
+                "change_vote": "Změnit hlasování",
+                "moderate": "Upravit a mazat ankety",
                 "view_group": "",
                 "start_group": "",
                 "moderate_group": ""
             }
         },
         "forum": {
-            "days_remaining": "",
-            "no_permission": "",
-            "poll_ended": "",
-            "public_poll": "",
-            "max_votes_allowed": "",
+            "days_remaining": "Anketa končí {time}.",
+            "no_permission": "Nemáte oprávnění hlasovat",
+            "poll_ended": "Tato anketa byla ukončena.",
+            "public_poll": "Zobrazit hlasující",
+            "max_votes_allowed": "V anketě můžete hlasovat pro {max, plural, one {# možnost} few {# možnosti} other {# možností}}.",
             "polls_count": "",
             "poll_never_ends": "",
-            "answers": "",
+            "answers": "Odpovědi",
             "poll": {
-                "cannot_change_vote": "",
-                "submit_button": "",
+                "cannot_change_vote": "Po hlasování nemůžete svůj hlas změnit.",
+                "submit_button": "Hlasovat",
                 "start_poll_button": "",
                 "cannot_start_poll_button": "",
                 "total_votes": ""
             },
             "poll_controls": {
                 "toggle_dropdown_accessible_label": "",
-                "edit_label": "",
-                "delete_label": "",
-                "view_label": "",
-                "delete_confirmation": "",
+                "edit_label": "=> core.ref.edit",
+                "delete_label": "=> core.ref.delete",
+                "view_label": "=> core.ref.view",
+                "delete_confirmation": "Opravdu chcete tuto anketu smazat?",
                 "delete_success_message": "",
                 "delete_error_message": ""
             },
@@ -81,7 +81,7 @@
                 "composer": {
                     "add_title": "",
                     "edit_title": "",
-                    "save_changes": "",
+                    "save_changes": "=> core.ref.save_changes",
                     "delete": "",
                     "groups_manager": "",
                     "view_group": "",
@@ -92,15 +92,15 @@
                     "start_poll_group_button": "",
                     "cannot_start_poll_group_button": "",
                     "empty_text": "",
-                    "load_more_button": "",
+                    "load_more_button": "=> core.ref.load_more",
                     "no_polls": "",
                     "add_poll_button": ""
                 },
                 "controls": {
-                    "add_poll_label": "",
-                    "edit_label": "",
+                    "add_poll_label": "Přidat anketu",
+                    "edit_label": "=> core.ref.edit",
                     "view_label": "",
-                    "delete_label": "",
+                    "delete_label": "=> core.ref.delete",
                     "delete_confirmation": "",
                     "delete_success_message": "",
                     "delete_error_message": ""
@@ -111,54 +111,54 @@
             },
             "polls_list": {
                 "empty_text": "",
-                "load_more_button": "",
+                "load_more_button": "=> core.ref.load_more",
                 "sort_dropdown": {
                     "newest": "",
                     "oldest": "",
                     "most_voted": "",
                     "least_voted": "",
                     "sort_dropdown": {
-                        "default": ""
+                        "default": "=> fof-polls.forum.polls_list.sort_dropdown.newest"
                     }
                 }
             },
             "composer_discussion": {
-                "add_poll": "",
-                "edit_poll": "",
-                "no_permission_alert": ""
+                "add_poll": "=> fof-polls.forum.moderation.add",
+                "edit_poll": "=> fof-polls.forum.moderation.edit",
+                "no_permission_alert": "Nemáte oprávnění ke spuštění ankety."
             },
             "compose": {
-                "add_title": "",
-                "edit_title": "",
+                "add_title": "Přidat anketu",
+                "edit_title": "Upravit anketu",
                 "polls_manager": "",
                 "polls_preview": "",
                 "continue_editing": "",
                 "success": ""
             },
             "modal": {
-                "add_title": "",
-                "add_option_label": "",
-                "date_placeholder": "",
-                "edit_title": "",
-                "include_question": "",
-                "max": "",
-                "min": "",
-                "no_voters": "",
-                "option_placeholder": "",
-                "image_option_placeholder": "",
-                "options_label": "",
-                "public_poll_label": "",
-                "allow_multiple_votes_label": "",
-                "max_votes_label": "",
-                "max_votes_help": "",
-                "hide_votes_label": "",
+                "add_title": "Přidat anketu",
+                "add_option_label": "Přidat možnost",
+                "date_placeholder": "Datum ukončení ankety (volitelné)",
+                "edit_title": "Upravit anketu",
+                "include_question": "Musíte zadat otázku",
+                "max": "Můžete zadat maximální počet odpovědí: {max}",
+                "min": "Musíte zadat minimálně 2 odpovědi",
+                "no_voters": "Bez hlasů",
+                "option_placeholder": "Odpověď",
+                "image_option_placeholder": "Adresa URL obrázku (volitelné)",
+                "options_label": "Odpovědi",
+                "public_poll_label": "Umožnit uživatelům zobrazit, kdo hlasoval",
+                "allow_multiple_votes_label": "Umožnit uživatelům hlasovat pro více možností",
+                "max_votes_label": "Max. počet hlasů na jednoho uživatele",
+                "max_votes_help": "Nastavte na 0, aby uživatelé mohli hlasovat pro všechny možnosti.",
+                "hide_votes_label": "Skrýt hlasy, dokud anketa neskončí",
                 "hide_votes_label_help": "",
-                "allow_change_vote_label": "",
-                "question_placeholder": "",
+                "allow_change_vote_label": "Umožnit uživatelům změnit svůj hlas",
+                "question_placeholder": "Otázka",
                 "subtitle_placeholder": "",
-                "submit": "",
-                "delete": "",
-                "error": "",
+                "submit": "Odeslat",
+                "delete": "=> core.ref.delete",
+                "error": "=> core.lib.error.generic_message",
                 "poll_image": {
                     "label": "",
                     "help": "",
@@ -173,16 +173,16 @@
                 "date_clear": "",
                 "tooltip": {
                     "options": {
-                        "add-button": "",
+                        "add-button": "Přidat odpověď",
                         "remove-button": ""
                     }
                 }
             },
             "moderation": {
-                "add": "",
-                "delete": "",
-                "delete_confirm": "",
-                "edit": ""
+                "add": "Přidat anketu",
+                "delete": "Smazat anketu",
+                "delete_confirm": "Opravdu chcete tuto anketu smazat?",
+                "edit": "Upravit anketu"
             },
             "page": {
                 "nav": "",
@@ -190,17 +190,17 @@
                 "nav-groups": ""
             },
             "showcase": {
-                "active-polls": "",
+                "active-polls": "Aktivní ankety",
                 "ended-polls": "",
                 "no-active-polls": "",
                 "no-recent-polls": ""
             },
             "tooltip": {
-                "badge": "",
-                "votes": ""
+                "badge": "Anketa",
+                "votes": "{count, plural, one {# hlas} few {# hlasy} other {# hlasů}}"
             },
             "votes_modal": {
-                "title": ""
+                "title": "Hlasující"
             },
             "upload_image": {
                 "remove_button": "",

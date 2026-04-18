@@ -34,25 +34,25 @@
                 "image_dimensions_help": ""
             },
             "permissions": {
-                "view_results_without_voting": "",
-                "start": "",
+                "view_results_without_voting": "回答せずに結果を見る",
+                "start": "アンケートの実施",
                 "start_global": "",
-                "self_edit": "",
+                "self_edit": "ユーザーに回答内容の編集を許可する",
                 "self_post_edit": "",
                 "upload_images": "",
-                "vote": "",
-                "change_vote": "",
-                "moderate": "",
+                "vote": "アンケートへの回答",
+                "change_vote": "回答の編集",
+                "moderate": "アンケートの編集 / 削除",
                 "view_group": "",
                 "start_group": "",
                 "moderate_group": ""
             }
         },
         "forum": {
-            "days_remaining": "",
-            "no_permission": "",
-            "poll_ended": "",
-            "public_poll": "",
+            "days_remaining": "アンケートの締め切り：{time}",
+            "no_permission": "回答する権限がありません",
+            "poll_ended": "すでに締め切られたアンケートです",
+            "public_poll": "回答したユーザー一覧",
             "max_votes_allowed": "",
             "polls_count": "",
             "poll_never_ends": "",
@@ -123,8 +123,8 @@
                 }
             },
             "composer_discussion": {
-                "add_poll": "",
-                "edit_poll": "",
+                "add_poll": "アンケートの追加",
+                "edit_poll": "=> fof-polls.forum.moderation.edit",
                 "no_permission_alert": ""
             },
             "compose": {
@@ -136,27 +136,27 @@
                 "success": ""
             },
             "modal": {
-                "add_title": "",
-                "add_option_label": "",
-                "date_placeholder": "",
-                "edit_title": "",
-                "include_question": "",
-                "max": "",
-                "min": "",
-                "no_voters": "",
-                "option_placeholder": "",
+                "add_title": "アンケートの追加",
+                "add_option_label": "選択肢の追加",
+                "date_placeholder": "アンケートの締め切り (任意)",
+                "edit_title": "アンケートを編集",
+                "include_question": "質問文を入力してください",
+                "max": "設定できる選択肢は最大10個までです",
+                "min": "選択肢を少なくとも2つ設定する必要があります",
+                "no_voters": "No Votes",
+                "option_placeholder": "選択肢",
                 "image_option_placeholder": "",
-                "options_label": "",
-                "public_poll_label": "",
+                "options_label": "選択肢",
+                "public_poll_label": "回答者の一覧をユーザーに開示する",
                 "allow_multiple_votes_label": "",
                 "max_votes_label": "",
                 "max_votes_help": "",
                 "hide_votes_label": "",
                 "hide_votes_label_help": "",
                 "allow_change_vote_label": "",
-                "question_placeholder": "",
+                "question_placeholder": "質問",
                 "subtitle_placeholder": "",
-                "submit": "",
+                "submit": "送信",
                 "delete": "",
                 "error": "",
                 "poll_image": {
@@ -180,9 +180,9 @@
             },
             "moderation": {
                 "add": "",
-                "delete": "",
-                "delete_confirm": "",
-                "edit": ""
+                "delete": "アンケートの削除",
+                "delete_confirm": "このアンケートを削除してもよろしいですか？",
+                "edit": "アンケートの編集"
             },
             "page": {
                 "nav": "",
@@ -196,11 +196,11 @@
                 "no-recent-polls": ""
             },
             "tooltip": {
-                "badge": "",
-                "votes": ""
+                "badge": "アンケート",
+                "votes": "{count, plural, one {# 件の回答} other {# 件の回答}}"
             },
             "votes_modal": {
-                "title": ""
+                "title": "回答者"
             },
             "upload_image": {
                 "remove_button": "",

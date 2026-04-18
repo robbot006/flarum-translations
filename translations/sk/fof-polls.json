@@ -34,7 +34,7 @@
                 "image_dimensions_help": ""
             },
             "permissions": {
-                "view_results_without_voting": "",
+                "view_results_without_voting": "Zobraziť výsledky bez nutnosti voliť",
                 "start": "",
                 "start_global": "",
                 "self_edit": "",

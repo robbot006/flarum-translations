@@ -34,7 +34,7 @@
                 "image_dimensions_help": ""
             },
             "permissions": {
-                "view_results_without_voting": "",
+                "view_results_without_voting": "مشاهده نتایج بدون رای گیری",
                 "start": "",
                 "start_global": "",
                 "self_edit": "",
@@ -49,10 +49,10 @@
             }
         },
         "forum": {
-            "days_remaining": "",
-            "no_permission": "",
-            "poll_ended": "",
-            "public_poll": "",
+            "days_remaining": "{time} نظرسنجی به اتمام رسید.",
+            "no_permission": "شما اجازه رای دادن ندارید",
+            "poll_ended": "این نظرسنجی به پایان رسید.",
+            "public_poll": "مشاهده رای دهندگان",
             "max_votes_allowed": "",
             "polls_count": "",
             "poll_never_ends": "",
@@ -66,9 +66,9 @@
             },
             "poll_controls": {
                 "toggle_dropdown_accessible_label": "",
-                "edit_label": "",
-                "delete_label": "",
-                "view_label": "",
+                "edit_label": "=> core.ref.edit",
+                "delete_label": "=> core.ref.delete",
+                "view_label": "=> core.ref.view",
                 "delete_confirmation": "",
                 "delete_success_message": "",
                 "delete_error_message": ""
@@ -81,7 +81,7 @@
                 "composer": {
                     "add_title": "",
                     "edit_title": "",
-                    "save_changes": "",
+                    "save_changes": "=> core.ref.save_changes",
                     "delete": "",
                     "groups_manager": "",
                     "view_group": "",
@@ -92,15 +92,15 @@
                     "start_poll_group_button": "",
                     "cannot_start_poll_group_button": "",
                     "empty_text": "",
-                    "load_more_button": "",
+                    "load_more_button": "=> core.ref.load_more",
                     "no_polls": "",
                     "add_poll_button": ""
                 },
                 "controls": {
                     "add_poll_label": "",
-                    "edit_label": "",
+                    "edit_label": "=> core.ref.edit",
                     "view_label": "",
-                    "delete_label": "",
+                    "delete_label": "=> core.ref.delete",
                     "delete_confirmation": "",
                     "delete_success_message": "",
                     "delete_error_message": ""
@@ -111,7 +111,7 @@
             },
             "polls_list": {
                 "empty_text": "",
-                "load_more_button": "",
+                "load_more_button": "=> core.ref.load_more",
                 "sort_dropdown": {
                     "newest": "",
                     "oldest": "",
@@ -123,7 +123,7 @@
                 }
             },
             "composer_discussion": {
-                "add_poll": "",
+                "add_poll": "=> fof-polls.forum.moderation.add",
                 "edit_poll": "",
                 "no_permission_alert": ""
             },
@@ -136,29 +136,29 @@
                 "success": ""
             },
             "modal": {
-                "add_title": "",
-                "add_option_label": "",
-                "date_placeholder": "",
-                "edit_title": "",
-                "include_question": "",
-                "max": "",
-                "min": "",
-                "no_voters": "",
-                "option_placeholder": "",
+                "add_title": "افزودن نظرسنجی",
+                "add_option_label": "اضافه کردن گزینه",
+                "date_placeholder": "تاریخ پایان نظرسنجی (اختیاری)",
+                "edit_title": "ویرایش نظرسنجی",
+                "include_question": "شما باید یک سوال اضافه کنید",
+                "max": "شما می توانید حداکثر {max} پاسخ داشته باشید",
+                "min": "شما باید حداقل 2 پاسخ را وارد کنید",
+                "no_voters": "بدون رای",
+                "option_placeholder": "پاسخ",
                 "image_option_placeholder": "",
-                "options_label": "",
-                "public_poll_label": "",
+                "options_label": "پاسخ ها",
+                "public_poll_label": "به مردم اجازه دهید ببینند چه کسی رای داده است",
                 "allow_multiple_votes_label": "",
                 "max_votes_label": "",
                 "max_votes_help": "",
                 "hide_votes_label": "",
                 "hide_votes_label_help": "",
                 "allow_change_vote_label": "",
-                "question_placeholder": "",
+                "question_placeholder": "سوال",
                 "subtitle_placeholder": "",
-                "submit": "",
-                "delete": "",
-                "error": "",
+                "submit": "ارسال",
+                "delete": "=> core.ref.delete",
+                "error": "=> core.lib.error.generic_message",
                 "poll_image": {
                     "label": "",
                     "help": "",
@@ -180,9 +180,9 @@
             },
             "moderation": {
                 "add": "",
-                "delete": "",
-                "delete_confirm": "",
-                "edit": ""
+                "delete": "حذف نظرسنجی",
+                "delete_confirm": "آیا مطمئنید که می خواهید این نظرسنجی را حذف کنید؟",
+                "edit": "ویرایش نظرسنجی"
             },
             "page": {
                 "nav": "",
@@ -196,11 +196,11 @@
                 "no-recent-polls": ""
             },
             "tooltip": {
-                "badge": "",
-                "votes": ""
+                "badge": "نظرسنجی",
+                "votes": "{count, plural, one {# رای} other {# رای}}"
             },
             "votes_modal": {
-                "title": ""
+                "title": "رای دهندگان"
             },
             "upload_image": {
                 "remove_button": "",

@@ -2244,6 +2244,73 @@
             }
         }
     },
+    "fof-polls.json": {
+        "fof-polls": {
+            "admin": {
+                "permissions": {
+                    "view_results_without_voting": "2b56a32ae7ca4aa942d3f829bce5993e 2b56a32ae7ca4aa942d3f829bce5993e"
+                }
+            },
+            "forum": {
+                "composer_discussion": {
+                    "add_poll": "0be5d1292eac64f9a2cdd0596183e00f 0be5d1292eac64f9a2cdd0596183e00f"
+                },
+                "days_remaining": "4dc4df4dcd0486cb42d75502fbdfbb6e 4dc4df4dcd0486cb42d75502fbdfbb6e",
+                "modal": {
+                    "add_option_label": "1e061696c3276bf9c4541f353dca1ba9 1e061696c3276bf9c4541f353dca1ba9",
+                    "add_title": "cbb1270774937c151ae9c8cb415d8441 cbb1270774937c151ae9c8cb415d8441",
+                    "date_placeholder": "9b927bcb688b5e30bbd2f3953337c01e 9b927bcb688b5e30bbd2f3953337c01e",
+                    "delete": "c483181e82ffe762b4a38a1add4db25b c483181e82ffe762b4a38a1add4db25b",
+                    "edit_title": "c1992a1f2ba946baa5e1af71df6800f0 c1992a1f2ba946baa5e1af71df6800f0",
+                    "error": "1d52c2a5521a657311004141ffe1c296 1d52c2a5521a657311004141ffe1c296",
+                    "include_question": "1e120489c6a9836ab37eaaccbb70ab4c 1e120489c6a9836ab37eaaccbb70ab4c",
+                    "max": "0828cbb100c2ff8b28b228cfb205fe37 0828cbb100c2ff8b28b228cfb205fe37",
+                    "min": "59843d1b96eef694c6ad696b3b9e221a 59843d1b96eef694c6ad696b3b9e221a",
+                    "no_voters": "7f24d2f3238738c27efe8e6b11b34c77 7f24d2f3238738c27efe8e6b11b34c77",
+                    "option_placeholder": "c121b28dc81d88fc061e6d1d3a2672dc c121b28dc81d88fc061e6d1d3a2672dc",
+                    "options_label": "cf0b75d7161c94fa271063e1a2555573 cf0b75d7161c94fa271063e1a2555573",
+                    "public_poll_label": "356acbdd5cc4bb7c6cefdebad8ae8e1f 356acbdd5cc4bb7c6cefdebad8ae8e1f",
+                    "question_placeholder": "139606472968729ff86d9b0546f19146 139606472968729ff86d9b0546f19146",
+                    "submit": "456eaf3aa20cb0fb04f215c57f357ae7 456eaf3aa20cb0fb04f215c57f357ae7"
+                },
+                "moderation": {
+                    "delete": "1ac6f3ec287c1c33b1ca658f86c64c89 1ac6f3ec287c1c33b1ca658f86c64c89",
+                    "delete_confirm": "2401feb4ed79d44df559f9106a6340f8 2401feb4ed79d44df559f9106a6340f8",
+                    "edit": "c1992a1f2ba946baa5e1af71df6800f0 c1992a1f2ba946baa5e1af71df6800f0"
+                },
+                "no_permission": "dbe5e31a3ce0b51feb3f7976078141be dbe5e31a3ce0b51feb3f7976078141be",
+                "poll_controls": {
+                    "delete_label": "c483181e82ffe762b4a38a1add4db25b c483181e82ffe762b4a38a1add4db25b",
+                    "edit_label": "b05eb9521f26df146af2c7994fa7ad4c b05eb9521f26df146af2c7994fa7ad4c",
+                    "view_label": "c7cf5398c0c79d040ba92bb34b432449 c7cf5398c0c79d040ba92bb34b432449"
+                },
+                "poll_ended": "032f2130cec101282390d05c09565529 032f2130cec101282390d05c09565529",
+                "poll_groups": {
+                    "composer": {
+                        "save_changes": "1e382d5477484d2b130acaf315f1fc5d 1e382d5477484d2b130acaf315f1fc5d"
+                    },
+                    "controls": {
+                        "delete_label": "c483181e82ffe762b4a38a1add4db25b c483181e82ffe762b4a38a1add4db25b",
+                        "edit_label": "b05eb9521f26df146af2c7994fa7ad4c b05eb9521f26df146af2c7994fa7ad4c"
+                    },
+                    "list_page": {
+                        "load_more_button": "aace03f843f7ad259fe0d79dc2e07f43 aace03f843f7ad259fe0d79dc2e07f43"
+                    }
+                },
+                "polls_list": {
+                    "load_more_button": "aace03f843f7ad259fe0d79dc2e07f43 aace03f843f7ad259fe0d79dc2e07f43"
+                },
+                "public_poll": "4a5d6cf030c3fb231d28f435da57ba32 4a5d6cf030c3fb231d28f435da57ba32",
+                "tooltip": {
+                    "badge": "4863d07f882f9e20a6792e11fa3e9019 4863d07f882f9e20a6792e11fa3e9019",
+                    "votes": "987eb4eaa219820df32974d69d8a1952 987eb4eaa219820df32974d69d8a1952"
+                },
+                "votes_modal": {
+                    "title": "cf8ea9b4ed86449cb949989d5c5be2ad cf8ea9b4ed86449cb949989d5c5be2ad"
+                }
+            }
+        }
+    },
     "fof-reactions.json": {
         "fof-reactions": {
             "admin": {

@@ -124,7 +124,7 @@
             },
             "composer_discussion": {
                 "add_poll": "",
-                "edit_poll": "",
+                "edit_poll": "=> fof-polls.forum.moderation.edit",
                 "no_permission_alert": ""
             },
             "compose": {
@@ -144,9 +144,9 @@
                 "max": "",
                 "min": "",
                 "no_voters": "",
-                "option_placeholder": "",
+                "option_placeholder": "උත්තරය",
                 "image_option_placeholder": "",
-                "options_label": "",
+                "options_label": "උත්තර",
                 "public_poll_label": "",
                 "allow_multiple_votes_label": "",
                 "max_votes_label": "",

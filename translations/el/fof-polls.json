@@ -35,24 +35,24 @@
             },
             "permissions": {
                 "view_results_without_voting": "",
-                "start": "",
+                "start": "Ξεκινήστε μια δημοσκόπηση",
                 "start_global": "",
-                "self_edit": "",
+                "self_edit": "Επιτρέψτε στους χρήστες να επεξεργάζονται τις δικές τους δημοσκοπήσεις",
                 "self_post_edit": "",
                 "upload_images": "",
-                "vote": "",
+                "vote": "Ψηφίστε στις δημοσκοπήσεις",
                 "change_vote": "",
-                "moderate": "",
+                "moderate": "Επεξεργασία και κατάργηση δημοσκοπήσεων",
                 "view_group": "",
                 "start_group": "",
                 "moderate_group": ""
             }
         },
         "forum": {
-            "days_remaining": "",
-            "no_permission": "",
-            "poll_ended": "",
-            "public_poll": "",
+            "days_remaining": "Η δημοσκόπηση τελειώνει στις {time}.",
+            "no_permission": "Δυστυχώς δεν έχετε τα απαραίτητα δικαιώματα να ψηφίσετε",
+            "poll_ended": "Αυτή η δημοσκόπηση έχει τελειώσει.",
+            "public_poll": "Προβολή ψηφοφόρων",
             "max_votes_allowed": "",
             "polls_count": "",
             "poll_never_ends": "",
@@ -123,8 +123,8 @@
                 }
             },
             "composer_discussion": {
-                "add_poll": "",
-                "edit_poll": "",
+                "add_poll": "Προσθήκη δημοσκόπησης",
+                "edit_poll": "=> fof-polls.forum.moderation.edit",
                 "no_permission_alert": ""
             },
             "compose": {
@@ -136,27 +136,27 @@
                 "success": ""
             },
             "modal": {
-                "add_title": "",
-                "add_option_label": "",
-                "date_placeholder": "",
-                "edit_title": "",
-                "include_question": "",
-                "max": "",
-                "min": "",
-                "no_voters": "",
-                "option_placeholder": "",
+                "add_title": "Προσθήκη δημοσκόπησης",
+                "add_option_label": "Προσθέστε μια επιλογή",
+                "date_placeholder": "Ημερομηνία λήξης δημοσκόπησης (Προαιρετικό)",
+                "edit_title": "Επεξεργασία δημοσκόπησης",
+                "include_question": "Πρέπει να συμπεριλάβετε μια ερώτηση",
+                "max": "Μπορείτε να έχετε έως και 10 απαντήσεις",
+                "min": "Πρέπει να συμπεριλάβετε τουλάχιστον 2 απαντήσεις",
+                "no_voters": "Καμία ψήφο",
+                "option_placeholder": "Απάντηση",
                 "image_option_placeholder": "",
-                "options_label": "",
-                "public_poll_label": "",
+                "options_label": "Απαντήσεις",
+                "public_poll_label": "Επιτρέψτε στους χρήστες να δουν ποιος ψήφισε",
                 "allow_multiple_votes_label": "",
                 "max_votes_label": "",
                 "max_votes_help": "",
                 "hide_votes_label": "",
                 "hide_votes_label_help": "",
                 "allow_change_vote_label": "",
-                "question_placeholder": "",
+                "question_placeholder": "Ερώτηση",
                 "subtitle_placeholder": "",
-                "submit": "",
+                "submit": "Υποβολή",
                 "delete": "",
                 "error": "",
                 "poll_image": {
@@ -180,9 +180,9 @@
             },
             "moderation": {
                 "add": "",
-                "delete": "",
-                "delete_confirm": "",
-                "edit": ""
+                "delete": "Κατάργηση δημοσκόπησης",
+                "delete_confirm": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν τη δημοσκόπηση;",
+                "edit": "Επεξεργασία δημοσκόπησης"
             },
             "page": {
                 "nav": "",
@@ -196,11 +196,11 @@
                 "no-recent-polls": ""
             },
             "tooltip": {
-                "badge": "",
-                "votes": ""
+                "badge": "Δημοσκόπηση",
+                "votes": "1 ΄ψήφος|{count} ψήφοι"
             },
             "votes_modal": {
-                "title": ""
+                "title": "Ψηφοφόροι"
             },
             "upload_image": {
                 "remove_button": "",
