@@ -176,28 +176,28 @@
                 "username_placeholder": "=> core.ref.username"
             },
             "announcements": {
-                "comments_label": "",
-                "description": "",
-                "empty": "",
-                "load_error": "",
-                "about": "",
-                "hide": "",
-                "read_more": "",
-                "refresh": "",
-                "retry": "",
-                "show": "",
-                "title": "",
-                "view_all": ""
+                "comments_label": "{count, plural, one {# opmerking} other {# opmerkingen}}",
+                "description": "Laatste nieuws en aankondigingen van het Flarum-team.",
+                "empty": "Geen aankondigingen gevonden.",
+                "load_error": "Kon de aankondigingen niet laden. Probeer het later opnieuw.",
+                "about": "Het laatste nieuws en de aankondigingen zijn afkomstig van de officiële Flarum-community op discuss.flarum.org.",
+                "hide": "Aankondigingen verbergen",
+                "read_more": "Lees meer",
+                "refresh": "Aankondigingen vernieuwen",
+                "retry": "Probeer het opnieuw",
+                "show": "Toon aankondigingen",
+                "title": "Aankondigingen",
+                "view_all": "Bekijk alles op discuss.flarum.org"
             },
             "dashboard": {
                 "clear_cache_button": "Cache wissen",
                 "description": "Uw forum in één oogopslag.",
-                "info_button": "",
+                "info_button": "Systeeminfo",
                 "info_modal": {
-                    "title": "",
-                    "copy_button": "",
-                    "copy_success": "",
-                    "copy_error": ""
+                    "title": "Systeeminformatie",
+                    "copy_button": "Kopiëren naar Klembord",
+                    "copy_success": "Systeemgegevens naar het klembord gekopieerd",
+                    "copy_error": "Kopiëren naar klembord mislukt"
                 },
                 "io_error_message": "Kan niet naar het bestandssysteem schrijven. Controleer de machtigingen van uw bestandssysteem en probeer het opnieuw. Of probeer uit te voeren vanuit de CLI.",
                 "status": {
@@ -305,12 +305,12 @@
                 "title": "=> core.ref.email"
             },
             "extension": {
-                "abandoned_no_replacement": "",
-                "abandoned_with_replacement": "",
+                "abandoned_no_replacement": "Deze extensie wordt niet langer onderhouden door de auteur en ontvangt mogelijk geen updates meer.",
+                "abandoned_with_replacement": "Deze extensie is vervangen door {replacement}. Overweeg om over te stappen naar het vervangende pakket.",
                 "configure_scopes": "Configureer bereiken",
                 "confirm_purge": "Bij het opschonen zullen alle database-items en assets gerelateerd aan deze extensie verwijderd worden. Het zal de extensie niet verwijderen, dat moet via Composer. Weet je zeker dat je door wilt gaan?",
                 "database_driver_mismatch": "",
-                "deprecated": "",
+                "deprecated": "Verouderd",
                 "disabled": "Uitgeschakeld",
                 "enable_to_see": "Schakel de extensie in om instellingen te bekijken en te wijzigen.",
                 "enabled": "Ingeschakeld",
@@ -332,7 +332,7 @@
                     "no_readme": "Deze extensie lijkt geen README-bestand te hebben",
                     "title": "{extName} documentatie"
                 },
-                "replaced": "",
+                "replaced": "Vervangen",
                 "safe_mode_warning": ""
             },
             "header": {
@@ -955,7 +955,7 @@
                 "maintenance_mode_link": "",
                 "maintenance_mode_message": "",
                 "maintenance_mode_title": "",
-                "method_not_allowed": "",
+                "method_not_allowed": "Deze pagina ondersteunt die aanvraagmethode niet.",
                 "not_authenticated": "U hebt geen toestemming om deze pagina te openen. Probeer het opnieuw na het inloggen.",
                 "not_found": "De door u opgevraagde pagina kon niet worden gevonden.",
                 "not_found_return_link": "Terug naar {forum}",
