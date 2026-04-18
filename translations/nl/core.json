@@ -43,12 +43,12 @@
                 "title": "Basis",
                 "welcome_banner_heading": "Welkom banner",
                 "welcome_banner_text": "Configureer de tekst die wordt weergegeven in de banner op de 'Alle discussies' pagina. Gebruik dit om je gasten welkom te heten.",
-                "abandoned_extensions_heading": "",
-                "abandoned_extensions_text": "",
-                "abandoned_extensions_sync_button": "",
-                "abandoned_extensions_sync_success": "",
-                "abandoned_extensions_sync_error": "",
-                "abandoned_extensions_notify_admins_label": ""
+                "abandoned_extensions_heading": "Opgegeven extensies",
+                "abandoned_extensions_text": "Flarum houdt een <a>communitylijst bij van extensies die niet meer worden onderhouden</a>. Wanneer een geïnstalleerde extensie op deze lijst verschijnt, wordt deze gemarkeerd in het beheerderspaneel.",
+                "abandoned_extensions_sync_button": "Nu controleren",
+                "abandoned_extensions_sync_success": "Lijst met niet actieve extensies bijgewerkt. {count} overeenkomende geïnstalleerde extensie(s) gevonden.",
+                "abandoned_extensions_sync_error": "Het ophalen van de lijst met niet meer gebruikte extensies is mislukt. Probeer het later opnieuw.",
+                "abandoned_extensions_notify_admins_label": "Stuur een e-mail naar de beheerders wanneer tijdens de wekelijkse controle een nieuwe, niet actieve extensie wordt gedetecteerd"
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -204,7 +204,7 @@
                     "discussion": "Discussie",
                     "feature": "Functies",
                     "formatting": "Formattering",
-                    "forum-widget": "",
+                    "forum-widget": "Forumwidgets",
                     "language": "Talen",
                     "moderation": "Moderatie",
                     "other": "Andere Extensies",
@@ -735,10 +735,10 @@
                 "body": "Hallo {username}!\n\nDit is een testmail om te bevestigen dat uw e-mailconfiguratie van Flarum correct werkt.\n\nAls u dit was, betekent deze e-mail dat uw configuratie werkt!\n\nAls u dit niet was, kunt u deze e-mail negeren.\n"
             },
             "abandoned_extensions": {
-                "subject": "",
-                "body": "",
-                "line_with_replacement": "",
-                "line_no_replacement": ""
+                "subject": "Vereiste actie: niet actieve extensie(s) gedetecteerd",
+                "body": "Hallo {username},\n\nDe volgende geïnstalleerde extensie(s) zijn gemarkeerd als niet meer in gebruik:\n\n{extensions}\n\nBekijk deze extensies en overweeg, indien mogelijk, over te stappen op alternatieven.\n",
+                "line_with_replacement": "- {package} (voorgestelde vervanging: {replacement})",
+                "line_no_replacement": "- {package} (geen vervanging beschikbaar)"
             }
         },
         "ref": {
