@@ -80,6 +80,9 @@ return [
 	'ekumanov-new-posts-notice' => [
 		'tag' => 'https://raw.githubusercontent.com/ekumanov/flarum-ext-new-posts-notice/v2.2.1/locale/en.yml',
 	],
+	'ekumanov-post-search' => [
+		'tag' => 'https://raw.githubusercontent.com/ekumanov/flarum-ext-post-search/v0.1.0/locale/en.yml',
+	],
 	'flarum-akismet' => [
 		'beta' => 'https://raw.githubusercontent.com/flarum/akismet/v2.0.0-beta.8/locale/en.yml',
 	],
