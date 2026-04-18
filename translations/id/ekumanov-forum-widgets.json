@@ -43,6 +43,7 @@
                 "bar_position_above": "",
                 "bar_position_inside": "",
                 "bar_position_below": "",
+                "bar_position_above_footer": "",
                 "widget_position": "",
                 "widget_position_help": "",
                 "section_online_users": "",
@@ -65,7 +66,13 @@
                 "show_latest_registration": "",
                 "stats_cache_duration": "",
                 "stats_cache_duration_help": "",
-                "ignore_private_discussions": ""
+                "ignore_private_discussions": "",
+                "show_toggle": "",
+                "show_toggle_help": "",
+                "expanded_panel_width": "",
+                "expanded_panel_width_help": "",
+                "expanded_panel_width_full_bar": "",
+                "expanded_panel_width_online_cell": ""
             },
             "permissions": {
                 "view_online_users": "",

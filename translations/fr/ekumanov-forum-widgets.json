@@ -43,6 +43,7 @@
                 "bar_position_above": "Au-dessus de la barre d'outils",
                 "bar_position_inside": "Dans la barre d'outils",
                 "bar_position_below": "Sous la barre d'outils",
+                "bar_position_above_footer": "",
                 "widget_position": "Position du widget dans la barre latérale (priorité)",
                 "widget_position_help": "Détermine l'emplacement du widget dans la barre latérale. Plus la valeur est faible (plus négative), plus le widget est placé vers le bas. Valeur par défaut : -10. Ne s'applique qu'à la disposition de la barre latérale.",
                 "section_online_users": "Utilisateurs en ligne",
@@ -66,6 +67,12 @@
                 "stats_cache_duration": "Durée de mise en cache des statistiques (en secondes)",
                 "stats_cache_duration_help": "Durée de mise en cache du nombre de discussions, du nombre de messages, du nombre total d'utilisateurs et de la dernière inscription. La mise en cache est automatiquement invalidée lorsque des discussions, des messages ou des utilisateurs sont créés ou supprimés. Définissez cette valeur sur 0 pour désactiver la mise en cache (non recommandé pour les forums importants).",
                 "ignore_private_discussions": "Ignorer les discussions privées dans le décompte",
+                "show_toggle": "",
+                "show_toggle_help": "",
+                "expanded_panel_width": "",
+                "expanded_panel_width_help": "",
+                "expanded_panel_width_full_bar": "",
+                "expanded_panel_width_online_cell": "",
                 "section_display": "Affichage du widget"
             },
             "permissions": {

@@ -43,6 +43,7 @@
                 "bar_position_above": "上方",
                 "bar_position_inside": "内部",
                 "bar_position_below": "下方",
+                "bar_position_above_footer": "",
                 "widget_position": "侧边栏显示顺序（优先级）",
                 "widget_position_help": "控制小部件在侧边栏中的显示顺序。数值越低（负值越大）位置越靠下。默认值：-10。",
                 "section_online_users": "在线用户",
@@ -66,6 +67,12 @@
                 "stats_cache_duration": "统计数据缓存时长（秒）",
                 "stats_cache_duration_help": "各项统计数据的缓存时间。当有新的讨论、帖子或用户创建/删除时，缓存会自动失效。设为 0 则禁用缓存（不建议大型论坛使用）。",
                 "ignore_private_discussions": "统计总数时忽略私密讨论",
+                "show_toggle": "",
+                "show_toggle_help": "",
+                "expanded_panel_width": "",
+                "expanded_panel_width_help": "",
+                "expanded_panel_width_full_bar": "",
+                "expanded_panel_width_online_cell": "",
                 "section_display": "小部件显示"
             },
             "permissions": {

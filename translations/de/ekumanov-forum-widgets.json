@@ -43,6 +43,7 @@
                 "bar_position_above": "Oberhalb der Symbolleiste",
                 "bar_position_inside": "Innerhalb der Symbolleiste",
                 "bar_position_below": "Unterhalb der Symbolleiste",
+                "bar_position_above_footer": "",
                 "widget_position": "Position des Widgets in der Seitenleiste (Priorität)",
                 "widget_position_help": "Legt fest, wo das Widget in der Seitenleiste angezeigt wird. Je niedriger (je negativer) der Wert, desto weiter unten wird es platziert. Standardwert: -10. Gilt nur für das Seitenleisten-Layout.",
                 "section_online_users": "Online-Benutzer",
@@ -65,7 +66,13 @@
                 "show_latest_registration": "Neueste Registrierung anzeigen",
                 "stats_cache_duration": "Speicherdauer des Statistik-Caches (Sekunden)",
                 "stats_cache_duration_help": "Wie lange sollen die Anzahl der Diskussionen, die Anzahl der Beiträge, die Gesamtzahl der Benutzer und die letzte Registrierung zwischengespeichert werden? Der Cache wird automatisch ungültig, wenn Diskussionen, Beiträge oder Benutzer erstellt oder gelöscht werden. Setze den Wert auf 0, um die Zwischenspeicherung zu deaktivieren (für große Foren nicht empfohlen).",
-                "ignore_private_discussions": "Private Diskussionen bei der Zählung ignorieren"
+                "ignore_private_discussions": "Private Diskussionen bei der Zählung ignorieren",
+                "show_toggle": "",
+                "show_toggle_help": "",
+                "expanded_panel_width": "",
+                "expanded_panel_width_help": "",
+                "expanded_panel_width_full_bar": "",
+                "expanded_panel_width_online_cell": ""
             },
             "permissions": {
                 "view_online_users": "Online-Benutzer ansehen",
