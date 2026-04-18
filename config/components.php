@@ -342,7 +342,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/forumaker/magicread/2.2.2/resources/locale/en.yml',
 	],
 	'forumaker-magicslider' => [
-		'tag' => 'https://raw.githubusercontent.com/forumaker/magicslider/2.1.0/resources/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/forumaker/magicslider/2.2.2/resources/locale/en.yml',
 	],
 	'forumaker-yandex-oauth' => [
 		'tag' => 'https://raw.githubusercontent.com/forumaker/Yandex-Oauth/2.1.0/resources/locale/en.yml',
