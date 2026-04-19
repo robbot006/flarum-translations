@@ -1917,39 +1917,6 @@
             }
         }
     },
-    "flarum-com-database-queue.json": {
-        "blomstra-database-queue": {
-            "admin": {
-                "settings": {
-                    "backoff_help": "8a2161005c38fbae90bd89bac092a6f9 8a2161005c38fbae90bd89bac092a6f9",
-                    "backoff_label": "428c28396e0602b55d545b006fc906b4 428c28396e0602b55d545b006fc906b4",
-                    "memory_help": "4e1140d5605a8b1b24a0578130466605 4e1140d5605a8b1b24a0578130466605",
-                    "memory_label": "0f91f887a4e0f122b07c327a2de28a35 0f91f887a4e0f122b07c327a2de28a35",
-                    "rest_help": "707716fb40403c12198cbb4748ac44de 707716fb40403c12198cbb4748ac44de",
-                    "rest_label": "105b296a83f9c105355403f3332af50f 105b296a83f9c105355403f3332af50f",
-                    "retries_help": "9ea1a4c6c38d95c0d02c0f95ee9d6b47 9ea1a4c6c38d95c0d02c0f95ee9d6b47",
-                    "retries_label": "6c1516f9be5e1cb3ea796aa378b00a88 6c1516f9be5e1cb3ea796aa378b00a88",
-                    "timeout_help": "bad8e3acea6c3bb4a137954ce609e0f2 bad8e3acea6c3bb4a137954ce609e0f2",
-                    "timeout_label": "80c9fbdb56789ade0ef0a89df83dd349 80c9fbdb56789ade0ef0a89df83dd349"
-                },
-                "stats": {
-                    "auto_refresh": "c01099ebc123810db6ef429df5dfb132 c01099ebc123810db6ef429df5dfb132",
-                    "data": {
-                        "failed-jobs": "73d33235e37664eb2b2d078a68fe6b2c 73d33235e37664eb2b2d078a68fe6b2c",
-                        "pending-jobs": "def5555f0b1ab124ca719212b13d91b5 def5555f0b1ab124ca719212b13d91b5",
-                        "queue-name": "7e89d17254fcb85eda9c4e9370db7196 7e89d17254fcb85eda9c4e9370db7196",
-                        "status": {
-                            "inactive": "2aaad1e130dd23b7195ed5235483cef4 2aaad1e130dd23b7195ed5235483cef4",
-                            "label": "ec53a8c4f07baed5d8825072c89799be ec53a8c4f07baed5d8825072c89799be",
-                            "running": "7300bbb1ee8f8dd100f7915d0653b165 7300bbb1ee8f8dd100f7915d0653b165"
-                        }
-                    },
-                    "heading": "86dcb98e1dce96f3a9d3ffe4f014c2e1 86dcb98e1dce96f3a9d3ffe4f014c2e1",
-                    "refresh": "bf3cfcc67443f35738da254ed9c6ef3f bf3cfcc67443f35738da254ed9c6ef3f"
-                }
-            }
-        }
-    },
     "flarum-emoji.json": {
         "flarum-emoji": {
             "admin": {
