@@ -3266,8 +3266,8 @@
                 "settings": {
                     "cache_duration_help": "10acca96c00863bac1548b055fb0762d 10acca96c00863bac1548b055fb0762d",
                     "cache_duration_label": "572923f35df177cc83096a75f4d506e0 572923f35df177cc83096a75f4d506e0",
-                    "classic_look_help": "d41d8cd98f00b204e9800998ecf8427e d12ce4c8d51b7d60b8b1edefe06e1b3f",
-                    "classic_look_label": "d41d8cd98f00b204e9800998ecf8427e e31637e0c0ce1e98e26a80a49bb61b0a",
+                    "classic_look_help": "d12ce4c8d51b7d60b8b1edefe06e1b3f d12ce4c8d51b7d60b8b1edefe06e1b3f",
+                    "classic_look_label": "e31637e0c0ce1e98e26a80a49bb61b0a e31637e0c0ce1e98e26a80a49bb61b0a",
                     "flush_cache_on_new_registration_help": "7ba763440a26108b5a0511c0efd7d191 7ba763440a26108b5a0511c0efd7d191",
                     "flush_cache_on_new_registration_label": "08858401fcf500b85f777eba0fcaaec5 08858401fcf500b85f777eba0fcaaec5",
                     "widget_ignore_private_discussions_label": "e81745e55aa266011a69d7f3b3d6c4b1 e81745e55aa266011a69d7f3b3d6c4b1"
@@ -3287,10 +3287,10 @@
     "fof-forum-widgets-core.json": {
         "fof-forum-widgets-core": {
             "admin": {
-                "cache_not_writable_warning": "d41d8cd98f00b204e9800998ecf8427e 8571e6b20314b0f32ef72401446d6543",
+                "cache_not_writable_warning": "8571e6b20314b0f32ef72401446d6543 8571e6b20314b0f32ef72401446d6543",
                 "settings": {
-                    "prefer_data_with_initial_load": "d41d8cd98f00b204e9800998ecf8427e aa420c9d17ae7e33514f131a8426b8a4",
-                    "prefer_data_with_initial_load_help": "d41d8cd98f00b204e9800998ecf8427e 3e72de773e6857ea48e3d15c6f601b58"
+                    "prefer_data_with_initial_load": "aa420c9d17ae7e33514f131a8426b8a4 aa420c9d17ae7e33514f131a8426b8a4",
+                    "prefer_data_with_initial_load_help": "3e72de773e6857ea48e3d15c6f601b58 3e72de773e6857ea48e3d15c6f601b58"
                 }
             }
         }
@@ -4389,7 +4389,7 @@
                     },
                     "max_options": "33610513d78654a4a372561948923bc3 33610513d78654a4a372561948923bc3",
                     "options_color_blend": "637c9204b77f961692343f211d238927 637c9204b77f961692343f211d238927",
-                    "options_color_blend_help": "45f3af27d74df5bbacdfb37518f2c804 45f3af27d74df5bbacdfb37518f2c804"
+                    "options_color_blend_help": "e1f7c8b13a3163da8c812d4ce2cf024f e1f7c8b13a3163da8c812d4ce2cf024f"
                 }
             },
             "forum": {

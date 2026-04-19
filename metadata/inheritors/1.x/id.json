@@ -4088,6 +4088,17 @@
             }
         }
     },
+    "fof-news-widget.json": {
+        "fof-news-widget": {
+            "admin": {
+                "settings": {
+                    "add_line": "fc5f695f887d62a6d519eb882a2c7db8 fc5f695f887d62a6d519eb882a2c7db8",
+                    "html_warning": "6306b9c900af0a3ae28672eef6c1ae6b 6306b9c900af0a3ae28672eef6c1ae6b",
+                    "lines": "e74b2e5d3f62e8646d0d3c7a7ebe5eca e74b2e5d3f62e8646d0d3c7a7ebe5eca"
+                }
+            }
+        }
+    },
     "fof-oauth.json": {
         "fof-oauth": {
             "admin": {
@@ -5331,6 +5342,16 @@
                     "oldest": "5d5f0bff66a293e3ae9b0621f820e795 5d5f0bff66a293e3ae9b0621f820e795",
                     "username_az": "43231e6086d0bb8c2566d7d633cb1bc0 43231e6086d0bb8c2566d7d633cb1bc0",
                     "username_za": "eaa4bec9f54ac1107fe4dec9f827f184 eaa4bec9f54ac1107fe4dec9f827f184"
+                }
+            }
+        }
+    },
+    "fof-usercard-stats.json": {
+        "fof-usercard-stats": {
+            "forum": {
+                "user": {
+                    "discussion-count": "d78bab0fb34d3bdb1c401f3e4c1d62cf d78bab0fb34d3bdb1c401f3e4c1d62cf",
+                    "post-count": "e3444b8bee6877b38a6a72e7b464345f e3444b8bee6877b38a6a72e7b464345f"
                 }
             }
         }
