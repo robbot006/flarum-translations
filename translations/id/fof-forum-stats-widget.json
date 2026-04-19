@@ -3,19 +3,19 @@
         "admin": {
             "settings": {
                 "decimal_places": {
-                    "label": "",
-                    "help": ""
+                    "label": "Desimal",
+                    "help": "Jumlah tempat desimal yang akan ditampilkan untuk angka besar (0-2)."
                 }
             }
         },
         "forum": {
             "widget": {
                 "stats": {
-                    "comment_post_count": "",
-                    "discussion_count": "",
-                    "user_count": ""
+                    "comment_post_count": "Post",
+                    "discussion_count": "Diskusi",
+                    "user_count": "Pengguna"
                 },
-                "title": ""
+                "title": "Statistik Forum"
             }
         }
     }

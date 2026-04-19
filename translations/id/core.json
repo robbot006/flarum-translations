@@ -176,18 +176,18 @@
                 "username_placeholder": "=> core.ref.username"
             },
             "announcements": {
-                "comments_label": "",
-                "description": "",
-                "empty": "",
-                "load_error": "",
-                "about": "",
-                "hide": "",
-                "read_more": "",
-                "refresh": "",
-                "retry": "",
-                "show": "",
-                "title": "",
-                "view_all": ""
+                "comments_label": "{count, plural, one {# komentar} other {# komentar}}",
+                "description": "Berita dan pengumuman terbaru dari Tim Flarum.",
+                "empty": "Tidak ditemukan pengumuman.",
+                "load_error": "Tidak dapat memuat pengumuman. Silakan coba lagi nanti.",
+                "about": "Berita dan pengumuman terbaru diambil dari komunitas resmi Flarum di discuss.flarum.org.",
+                "hide": "Sembunyikan pengumuman",
+                "read_more": "Baca selengkapnya",
+                "refresh": "Segarkan pengumuman",
+                "retry": "Coba lagi",
+                "show": "Tampilkan pengumuman",
+                "title": "Pengumuman",
+                "view_all": "Lihat semua di discuss.flarum.org"
             },
             "dashboard": {
                 "clear_cache_button": "Hapus Cache",

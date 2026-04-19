@@ -16,8 +16,8 @@
                 "flush_cache_on_new_registration_label": "Bersihkan Cache Statistik pada Pendaftaran Baru",
                 "flush_cache_on_new_registration_help": "Jika diaktifkan, cache statistik akan dibersihkan ketika pengguna baru mendaftar di forum.",
                 "widget_ignore_private_discussions_label": "Abaikan Diskusi Pribadi",
-                "classic_look_label": "",
-                "classic_look_help": ""
+                "classic_look_label": "Tampilan Klasik",
+                "classic_look_help": "Kembalikan tampilan widget asli yang digunakan sebelum integrasi fof/forum-widgets-core."
             },
             "permissions": {
                 "view_discussions_count_label": "Melihat widget statistik jumlah diskusi",
