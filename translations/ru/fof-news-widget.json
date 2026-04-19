@@ -2,10 +2,10 @@
     "fof-news-widget": {
         "admin": {
             "settings": {
-                "add_line": "",
-                "remove_line": "",
-                "lines": "",
-                "html_warning": ""
+                "add_line": "Добавить строку новости",
+                "remove_line": "Удалить строку",
+                "lines": "Строки новостей",
+                "html_warning": "Будьте осторожны: любой HTML будет отображаться."
             }
         }
     }
