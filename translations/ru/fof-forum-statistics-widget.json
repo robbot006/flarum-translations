@@ -16,8 +16,8 @@
                 "flush_cache_on_new_registration_label": "Очищать кэш статистики при новой регистрации",
                 "flush_cache_on_new_registration_help": "Кэш статистика будет очищаться при регистрации нового пользователя на форуме.",
                 "widget_ignore_private_discussions_label": "Игнорировать переписки",
-                "classic_look_label": "",
-                "classic_look_help": ""
+                "classic_look_label": "Классический вид",
+                "classic_look_help": "Вернуть оригинальный внешний вид виджетов, который был до интеграции fof/forum-widgets-core."
             },
             "permissions": {
                 "view_discussions_count_label": "(Виджет статистики) Смотреть счётчик обсуждений",
