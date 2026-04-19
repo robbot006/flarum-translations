@@ -2,27 +2,27 @@
     "core": {
         "admin": {
             "advanced": {
-                "description": "",
+                "description": "フォーラムの詳細設定を変更します。",
                 "maintenance": {
                     "bisect": {
-                        "begin_button_text": "",
-                        "continue_button_text": "",
-                        "label": "",
-                        "help": ""
+                        "begin_button_text": "二分探索を開始",
+                        "continue_button_text": "二分探索を続ける",
+                        "label": "拡張機能の二分探索",
+                        "help": "問題の原因となっている拡張機能を特定するのに役立ちます。このプロセスが完了するまで、フォーラムは自動的にメンテナンスモード（低）になります。"
                     },
                     "bisect_modal": {
-                        "description": "",
-                        "end_button": "",
-                        "issue_question": "",
-                        "issue_question_help": "",
-                        "no_button": "",
-                        "result_description": "",
-                        "start_button": "",
-                        "stop_button": "",
-                        "steps_left": "",
-                        "total_steps": "",
-                        "title": "",
-                        "yes_button": ""
+                        "description": "このプロセスが完了するまで、フォーラムはメンテナンスモード（低）になります。各ステップでいくつかの拡張機能が無効化され、問題の原因となっている拡張機能を特定していきます。そのため、一部の機能が表示されなかったり、テーマのデザインが変わったりしても驚かないでください。このページは開いたままにしておき、各ステップの後に別のページで問題を再現できるか試してください。もしこのページを誤って閉じてしまっても、いつでも戻ってくることができます。\n",
+                        "end_button": "終了して拡張機能ページに戻る",
+                        "issue_question": "また問題は発生していますか？",
+                        "issue_question_help": "別のページで問題を再現できるか試し、結果を回答してください。",
+                        "no_button": "いいえ",
+                        "result_description": "拡張機能の二分探索が完了し、フォーラムのメンテナンスモードは解除されました。各ステップの回答によると、問題の原因と思われる拡張機能は以下のとおりです:\n",
+                        "start_button": "二分探索を開始",
+                        "stop_button": "二分探索を終了",
+                        "steps_left": "残りステップ: {steps}",
+                        "total_steps": "およそ {steps} ステップを必要とします。",
+                        "title": "拡張機能の二分探索",
+                        "yes_button": "はい"
                     },
                     "config_override": {
                         "label": "",
