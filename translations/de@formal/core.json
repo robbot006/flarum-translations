@@ -47,7 +47,7 @@
                 "abandoned_extensions_text": "",
                 "abandoned_extensions_sync_button": "",
                 "abandoned_extensions_sync_success": "",
-                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_sync_error": "Das Abrufen der Liste verwaister Erweiterungen ist fehlgeschlagen. Bitte versuchen Sie es später erneut.",
                 "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
@@ -730,7 +730,7 @@
             },
             "abandoned_extensions": {
                 "subject": "",
-                "body": "",
+                "body": "Hallo {username},\n\nDie folgenden installierte(n) Erweiterung(en) wurden als verwaist markiert:\n\n{extensions}\n\nBitte überprüfen Sie diese Erweiterungen und erwägen Sie den Wechsel zu Alternativen, sofern verfügbar.\n",
                 "line_with_replacement": "",
                 "line_no_replacement": ""
             }
