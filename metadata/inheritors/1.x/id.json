@@ -3233,6 +3233,16 @@
             }
         }
     },
+    "fof-forum-widgets-core.json": {
+        "fof-forum-widgets-core": {
+            "admin": {
+                "cache_not_writable_warning": "13b6ed03ed82b596fc072d2f213f1059 13b6ed03ed82b596fc072d2f213f1059",
+                "settings": {
+                    "prefer_data_with_initial_load": "aa4d06206637e48e467f05a902977f78 aa4d06206637e48e467f05a902977f78"
+                }
+            }
+        }
+    },
     "fof-frontpage.json": {
         "core": {
             "forum": {
@@ -4233,6 +4243,26 @@
             }
         }
     },
+    "fof-online-users-widget.json": {
+        "fof-online-users-widget": {
+            "admin": {
+                "permissions": {
+                    "view_online_users_widget": "e3f99caae292ce58ba676e7e06e5fc72 e3f99caae292ce58ba676e7e06e5fc72"
+                },
+                "settings": {
+                    "cache_ttl": "83193dfe952be1a081eb84da2f7f82b2 83193dfe952be1a081eb84da2f7f82b2",
+                    "last_seen_interval": "ba368febe70f531eb5bb844ec4f03381 ba368febe70f531eb5bb844ec4f03381",
+                    "max_users": "215d7f486319041678a13bc7f2ab97fb 215d7f486319041678a13bc7f2ab97fb"
+                }
+            },
+            "forum": {
+                "widget": {
+                    "empty": "6164e182e9ab2d9a715a722bab2d3884 6164e182e9ab2d9a715a722bab2d3884",
+                    "title": "f6ac09dd5a78f4e0775802a03aa17697 f6ac09dd5a78f4e0775802a03aa17697"
+                }
+            }
+        }
+    },
     "fof-open-collective.json": {
         "fof-open-collective": {
             "admin": {
@@ -5012,6 +5042,20 @@
                 },
                 "user_settings": {
                     "optional_policies_label": "1a76af199b7f35482afb88138efc6b78 1a76af199b7f35482afb88138efc6b78"
+                }
+            }
+        }
+    },
+    "fof-top-posters-widget.json": {
+        "fof-top-posters-widget": {
+            "admin": {
+                "settings": {
+                    "info": "78d9e214a5b7b38b7f763497db154405 78d9e214a5b7b38b7f763497db154405"
+                }
+            },
+            "forum": {
+                "widget": {
+                    "title": "ede813254d5b7b2c201e48cd32c93745 ede813254d5b7b2c201e48cd32c93745"
                 }
             }
         }
