@@ -3270,6 +3270,28 @@
             }
         }
     },
+    "fof-forum-stats-widget.json": {
+        "fof-forum-stats-widget": {
+            "admin": {
+                "settings": {
+                    "decimal_places": {
+                        "help": "d41d8cd98f00b204e9800998ecf8427e c4d5a86ebb72346bb413c78840cbc08c",
+                        "label": "d41d8cd98f00b204e9800998ecf8427e e284e64008fd8b066da04bca335d032a"
+                    }
+                }
+            },
+            "forum": {
+                "widget": {
+                    "stats": {
+                        "comment_post_count": "d41d8cd98f00b204e9800998ecf8427e 75be26f8c514d3270fc5730e614f8cda",
+                        "discussion_count": "d41d8cd98f00b204e9800998ecf8427e da86ae7e75fe2aef853208cac77da8b9",
+                        "user_count": "d41d8cd98f00b204e9800998ecf8427e 1fd02a90c38333badc226309fea6fecb"
+                    },
+                    "title": "d41d8cd98f00b204e9800998ecf8427e 6ec40377a3550285b7c0fc1585b6d93f"
+                }
+            }
+        }
+    },
     "fof-frontpage.json": {
         "core": {
             "forum": {
@@ -7618,6 +7640,9 @@
                     "bbcode_spoiler": "d41d8cd98f00b204e9800998ecf8427e d4386ec7a7c454d7b7fc43ce56a11ed3",
                     "bbcode_table": "d41d8cd98f00b204e9800998ecf8427e 13e9a2ef3e3a24396bcdf7a6132547df",
                     "bbcode_url": "d41d8cd98f00b204e9800998ecf8427e 66a20453514ef5f470dfdd7dd0145e5f",
+                    "forum_help": "d41d8cd98f00b204e9800998ecf8427e e9e364dae259ea9cceafdd63ed13fdb7",
+                    "forum_title": "d41d8cd98f00b204e9800998ecf8427e 0cfd9f82ff8ea7524c6c2b094b6d5930",
+                    "replace_forum_spoiler": "d41d8cd98f00b204e9800998ecf8427e 2ee6260f93f628e60b831d8361091149",
                     "title": "d41d8cd98f00b204e9800998ecf8427e 3f42e76ca5aa14470e7f6f76b8eb6938"
                 },
                 "support": {
