@@ -65,7 +65,16 @@
                 "footer_copyright_text": "Urheberrechtshinweis",
                 "footer_social": "Social-Media-Links",
                 "footer_show_social": "Social-Media-Links anzeigen",
-                "footer_social_help_json": "Konfiguriere Social-Media-Links im JSON-Format. Verwende folgende Schlüssel: facebook, twitter, linkedin, instagram, youtube."
+                "footer_social_help_json": "Konfiguriere Social-Media-Links im JSON-Format. Verwende folgende Schlüssel: facebook, twitter, linkedin, instagram, youtube.",
+                "section_team": "",
+                "team_enabled_label": "",
+                "team_enabled_help": "",
+                "team_title_label": "",
+                "team_desc_label": "",
+                "team_desc_placeholder": "",
+                "team_groups_label": "",
+                "team_groups_help": "",
+                "team_groups_empty": ""
             }
         },
         "forum": {
@@ -178,7 +187,20 @@
                 "discussion_plural": "",
                 "other_tags_label": "",
                 "featured": "",
-                "all_discussions": "",
+                "all_discussions": ""
+            },
+            "team": {
+                "title": "",
+                "disabled": "",
+                "empty": "",
+                "no_bio": "",
+                "discussions": "",
+                "posts": "",
+                "member_since": "",
+                "member_singular": "",
+                "member_plural": ""
+            },
+            "link": {
                 "login_to_view": ""
             }
         }

@@ -65,7 +65,16 @@
                 "footer_copyright_text": "版权文本",
                 "footer_social": "社交媒体链接",
                 "footer_show_social": "显示社交媒体链接",
-                "footer_social_help_json": "以 JSON 格式配置社交媒体链接。可使用的键包括：facebook、twitter、linkedin、instagram、youtube。"
+                "footer_social_help_json": "以 JSON 格式配置社交媒体链接。可使用的键包括：facebook、twitter、linkedin、instagram、youtube。",
+                "section_team": "",
+                "team_enabled_label": "",
+                "team_enabled_help": "",
+                "team_title_label": "",
+                "team_desc_label": "",
+                "team_desc_placeholder": "",
+                "team_groups_label": "",
+                "team_groups_help": "",
+                "team_groups_empty": ""
             }
         },
         "forum": {
@@ -180,6 +189,20 @@
                 "featured": "精选",
                 "all_discussions": "所以话题    链接：",
                 "login_to_view": "登录以查看链接"
+            },
+            "team": {
+                "title": "",
+                "disabled": "",
+                "empty": "",
+                "no_bio": "",
+                "discussions": "",
+                "posts": "",
+                "member_since": "",
+                "member_singular": "",
+                "member_plural": ""
+            },
+            "link": {
+                "login_to_view": ""
             }
         }
     }

@@ -65,7 +65,16 @@
                 "footer_copyright_text": "Текст копирайта",
                 "footer_social": "Социальные ссылки",
                 "footer_show_social": "Показывать ссылки на соцсети",
-                "footer_social_help_json": "Настройте ссылки на соцсети в формате JSON. Используйте ключи: facebook, twitter, linkedin, instagram, youtube."
+                "footer_social_help_json": "Настройте ссылки на соцсети в формате JSON. Используйте ключи: facebook, twitter, linkedin, instagram, youtube.",
+                "section_team": "",
+                "team_enabled_label": "",
+                "team_enabled_help": "",
+                "team_title_label": "",
+                "team_desc_label": "",
+                "team_desc_placeholder": "",
+                "team_groups_label": "",
+                "team_groups_help": "",
+                "team_groups_empty": ""
             }
         },
         "forum": {
@@ -180,6 +189,20 @@
                 "featured": "Избранные",
                 "all_discussions": "Все дискуссии:",
                 "login_to_view": "Войдите, чтобы открыть ссылку"
+            },
+            "team": {
+                "title": "",
+                "disabled": "",
+                "empty": "",
+                "no_bio": "",
+                "discussions": "",
+                "posts": "",
+                "member_since": "",
+                "member_singular": "",
+                "member_plural": ""
+            },
+            "link": {
+                "login_to_view": ""
             }
         }
     }
