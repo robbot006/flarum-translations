@@ -1630,6 +1630,9 @@ return [
 	'ramon-colored' => [
 		'tag' => 'https://raw.githubusercontent.com/ram0ng1/colored/1.2.0/resources/locale/en.yml',
 	],
+	'ramon-stickers' => [
+		'tag' => 'https://raw.githubusercontent.com/ram0ng1/stickers/2.0.5/locale/en.yml',
+	],
 	'rehiy-reply-to-see' => [
 		'tag' => 'https://raw.githubusercontent.com/rehiy/flarum-reply-to-see/v1.8.0/resources/locale/en.yml',
 	],
