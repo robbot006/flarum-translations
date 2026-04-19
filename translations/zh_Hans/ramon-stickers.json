@@ -2,16 +2,16 @@
     "ramon-stickers": {
         "admin": {
             "settings": {
-                "hover_play_label": "",
-                "hover_play_help": "",
-                "show_tooltip_label": "",
-                "show_tooltip_help": ""
+                "hover_play_label": "鼠标悬浮时播放动画",
+                "hover_play_help": "开启后，帖子中的Lottie和TGS动画静止在第一帧，只有鼠标悬浮时才播放动画。",
+                "show_tooltip_label": "鼠标悬浮时显示贴纸名称",
+                "show_tooltip_help": "开启后，在帖子或贴纸选择器中鼠标悬浮时，贴纸名称将通过提示弹窗呈现。"
             },
             "sticker_section": {
-                "heading_title": "",
-                "import_button": "",
-                "export_button": "",
-                "export_error": "",
+                "heading_title": "贴纸",
+                "import_button": "导入",
+                "export_button": "导出ZIP",
+                "export_error": "导出失败，请重试。",
                 "import_zip_message": "",
                 "import_stickers_message": "",
                 "importing_message": "",
