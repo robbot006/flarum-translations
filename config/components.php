@@ -450,7 +450,7 @@ return [
 		],
 	],
 	'ramon-stickers' => [
-		'beta' => 'https://raw.githubusercontent.com/ram0ng1/stickers/2.0.5-beta/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/ram0ng1/stickers/2.0.5/locale/en.yml',
 	],
 	'resofire-blog-cards' => [
 		'tag' => 'https://raw.githubusercontent.com/ResofireV2/blog-cards/v2.0.5/locale/en.yml',
