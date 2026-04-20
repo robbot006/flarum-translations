@@ -2751,6 +2751,36 @@
             }
         }
     },
+    "fof-recaptcha.json": {
+        "fof-recaptcha": {
+            "admin": {
+                "permissions": {
+                    "post_without_captcha": "ccf267c748c1a0cdd5b779bb623a827d ccf267c748c1a0cdd5b779bb623a827d"
+                },
+                "settings": {
+                    "forgot": "1eb31d5ef4f07299a967de5544068940 1eb31d5ef4f07299a967de5544068940",
+                    "help_text": "9bf9c4e953c2f16e66cd68b3f8ad836c 9bf9c4e953c2f16e66cd68b3f8ad836c",
+                    "secret_key_label": "7a9ae793e296917789d411ed9ef90d3e 7a9ae793e296917789d411ed9ef90d3e",
+                    "signin": "635451b1aa6992d3fb7d46a501cfa546 635451b1aa6992d3fb7d46a501cfa546",
+                    "signup": "ee92ad3cf509197cabcdd01db6f2677a ee92ad3cf509197cabcdd01db6f2677a",
+                    "site_key_label": "bf96a2c0cef306c856a3ae9d6c84e1f8 bf96a2c0cef306c856a3ae9d6c84e1f8",
+                    "type_label": "b54dd34eff3576640f724872552a5462 b54dd34eff3576640f724872552a5462"
+                },
+                "test": {
+                    "help_text": "a5df57f5d0b30f36b4d8839921bc08b6 a5df57f5d0b30f36b4d8839921bc08b6",
+                    "load_test_button": "94b6a1ec39fddc4c6457303399bc87b3 94b6a1ec39fddc4c6457303399bc87b3",
+                    "reload_button": "3a9786718c3e780c873d00dab1bad384 3a9786718c3e780c873d00dab1bad384",
+                    "submit_button": "30cc00aea30ec70b7c1292b6458181c0 30cc00aea30ec70b7c1292b6458181c0",
+                    "success_message": "9fc224553a754ca3f9f05463d274621a 9fc224553a754ca3f9f05463d274621a",
+                    "title": "0e01bbec846f30bdc5563be1534f41e1 0e01bbec846f30bdc5563be1534f41e1"
+                }
+            }
+        },
+        "validation": {
+            "recaptcha": "f3377ec882c217ef7486f1ea96adbfa5 f3377ec882c217ef7486f1ea96adbfa5",
+            "recaptcha-unknown": "f98d857b9798d13f6e5571ce4f6b9c75 f98d857b9798d13f6e5571ce4f6b9c75"
+        }
+    },
     "fof-share-social.json": {
         "fof-share-social": {
             "admin": {
