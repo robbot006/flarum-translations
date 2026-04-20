@@ -1025,7 +1025,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/imorland/flarum-ext-online-guests-widget/1.0.0/locale/en.yml',
 	],
 	'ianm-syndication' => [
-		'tag' => 'https://raw.githubusercontent.com/imorland/syndication/1.3.4/resources/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/imorland/syndication/1.3.5/resources/locale/en.yml',
 	],
 	'ianm-translate' => [
 		'tag' => 'https://raw.githubusercontent.com/flarum-com/premium-translations/84b06a54d8679050557844666ca9436064cb016b/ianm-translate.yml',
