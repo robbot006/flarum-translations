@@ -3,7 +3,7 @@
         "admin": {
             "create_button": "Créer",
             "help": {
-                "intro": "",
+                "intro": "Ajoutez des balises personnalisées à insérer dans le code HTML de votre forum. Les éléments sont mis en cache et fournis de manière efficace — aucune requête de base de données n'est effectuée lors du chargement de la page.",
                 "preconnect": "",
                 "cache": "Le code HTML généré est mis en cache lors l'enregistrement. Les modifications prennent effet immédiatement sans qu'il soit nécessaire de vider l'intégralité du cache du site.",
                 "pages": "Chaque élément peut concerner le frontend du forum, le panneau d'administration, ou les deux.",
@@ -29,11 +29,11 @@
                 "description_help": "",
                 "type_label": "Type",
                 "location_label": "Injecter dans",
-                "location_help": "",
-                "pages_label": "",
+                "location_help": "En-tête : chargé avant l'affichage de la page, idéal pour les styles et les métadonnées essentielles. Pied de page : chargé après le contenu de la page, idéal pour les scripts non essentiels.",
+                "pages_label": "Appliquer à",
                 "save_button": "Enregistrer",
                 "type": {
-                    "meta": "Balise Meta",
+                    "meta": "Balise Méta",
                     "link": "Lien",
                     "script": "Script",
                     "style": "Style",
@@ -54,8 +54,8 @@
                     "content_label": "Contenu"
                 },
                 "link": {
-                    "rel_label": "",
-                    "href_label": "",
+                    "rel_label": "rel=\"\"",
+                    "href_label": "href=\"\" (URL)",
                     "as_label": "",
                     "as_help": "",
                     "crossorigin_label": "",
@@ -75,11 +75,11 @@
                     "defer_label": "",
                     "defer_help": "",
                     "async_label": "async",
-                    "async_help": "",
+                    "async_help": "Le script s'exécute dès son téléchargement, sans tenir compte de l'ordre. Cette option est particulièrement adaptée aux scripts autonomes, tels que les scripts d'analyse.",
                     "module_label": "",
                     "module_help": "",
                     "crossorigin_label": "",
-                    "crossorigin_help": ""
+                    "crossorigin_help": "Requis lors du chargement de scripts provenant d'un autre domaine nécessitant un accès CORS."
                 },
                 "style": {
                     "inline_label": "Contenu CSS",
