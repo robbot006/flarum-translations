@@ -40,7 +40,7 @@
                     "raw": "HTML brut"
                 },
                 "location": {
-                    "head": "",
+                    "head": "En-tête",
                     "foot": "Pied de page"
                 },
                 "pages": {
