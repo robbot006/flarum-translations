@@ -878,6 +878,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-profile-image-crop`](https://weblate.rob006.net/projects/flarum2/fof-profile-image-crop) | [`fof/profile-image-crop`](https://github.com/FriendsOfFlarum/profile-image-crop) |
 | [`fof-pwned-passwords`](https://weblate.rob006.net/projects/flarum2/fof-pwned-passwords) | [`fof/pwned-passwords`](https://github.com/FriendsOfFlarum/pwned-passwords) |
 | [`fof-reactions`](https://weblate.rob006.net/projects/flarum2/fof-reactions) | [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions) |
+| [`fof-recaptcha`](https://weblate.rob006.net/projects/flarum2/fof-recaptcha) | [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha) |
 | [`fof-rich-text`](https://weblate.rob006.net/projects/flarum2/fof-rich-text) | [`fof/rich-text`](https://github.com/FriendsOfFlarum/rich-text) |
 | [`fof-sentry`](https://weblate.rob006.net/projects/flarum2/fof-sentry) | [`fof/sentry`](https://github.com/FriendsOfFlarum/sentry) |
 | [`fof-share-social`](https://weblate.rob006.net/projects/flarum2/fof-share-social) | [`fof/share-social`](https://github.com/FriendsOfFlarum/share-social) |
