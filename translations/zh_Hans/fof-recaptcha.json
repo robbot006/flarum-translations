@@ -2,10 +2,10 @@
     "fof-recaptcha": {
         "admin": {
             "settings": {
-                "help_text": "",
-                "secret_key_label": "",
-                "site_key_label": "",
-                "type_label": "",
+                "help_text": "点击<a>此处</a>获取 Google reCAPTCHA 证书。",
+                "secret_key_label": "密钥",
+                "site_key_label": "网站密钥",
+                "type_label": "reCAPTCHA 类型",
                 "type_help": "",
                 "type_options": {
                     "checkbox": "",
@@ -14,20 +14,20 @@
                 },
                 "v3_threshold_label": "",
                 "v3_threshold_help": "",
-                "signup": "",
-                "signin": "",
-                "forgot": ""
+                "signup": "=> core.forum.sign_up.title",
+                "signin": "=> core.forum.log_in.title",
+                "forgot": "=> core.forum.forgot_password.title"
             },
             "test": {
-                "title": "",
-                "help_text": "",
-                "success_message": "",
-                "load_test_button": "",
-                "submit_button": "",
-                "reload_button": ""
+                "title": "测试 reCAPTCHA",
+                "help_text": "使用上方配置测试验证码。修改设置后请重新加载测试，测试通过后请注意保存设置。\n以下测试可能无法代表已保存设置的情况。\n",
+                "success_message": "成功！reCAPTCHA 已正确设置。",
+                "load_test_button": "加载",
+                "submit_button": "保存",
+                "reload_button": "重新加载"
             },
             "permissions": {
-                "post_without_captcha": ""
+                "post_without_captcha": "发帖不需要验证码"
             }
         },
         "lib": {
@@ -38,7 +38,7 @@
         }
     },
     "validation": {
-        "recaptcha": "",
-        "recaptcha-unknown": ""
+        "recaptcha": "reCAPTCHA 验证失败。",
+        "recaptcha-unknown": "校验验证码时发生了未知错误（{errors}）。"
     }
 }

@@ -1994,6 +1994,24 @@
             }
         }
     },
+    "fof-recaptcha.json": {
+        "fof-recaptcha": {
+            "admin": {
+                "permissions": {
+                    "post_without_captcha": "e994d4a872761d5807ab43127b096166 e994d4a872761d5807ab43127b096166"
+                },
+                "settings": {
+                    "help_text": "aeb145984498c83981cc7d5e21514eb2 aeb145984498c83981cc7d5e21514eb2",
+                    "secret_key_label": "8f3b62cf257078fce1c64d5aba6486f8 8f3b62cf257078fce1c64d5aba6486f8",
+                    "site_key_label": "725de5e6c9636ec0c0bcbe768cd600a7 725de5e6c9636ec0c0bcbe768cd600a7",
+                    "type_label": "4f6ae802cb764587cb10eaa49ed8c0a2 4f6ae802cb764587cb10eaa49ed8c0a2"
+                }
+            }
+        },
+        "validation": {
+            "recaptcha": "586f0d378e2413103b7bccbe04ebed8a 586f0d378e2413103b7bccbe04ebed8a"
+        }
+    },
     "fof-sentry.json": {
         "fof-sentry": {
             "admin": {

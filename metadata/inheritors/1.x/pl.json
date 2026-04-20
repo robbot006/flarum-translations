@@ -3654,6 +3654,27 @@
             }
         }
     },
+    "fof-recaptcha.json": {
+        "fof-recaptcha": {
+            "admin": {
+                "permissions": {
+                    "post_without_captcha": "824c1b6641c7a21031f0194c7adce1bb 824c1b6641c7a21031f0194c7adce1bb"
+                },
+                "settings": {
+                    "forgot": "1eb31d5ef4f07299a967de5544068940 1eb31d5ef4f07299a967de5544068940",
+                    "help_text": "6cc074e6b273111e86709187e679feca 6cc074e6b273111e86709187e679feca",
+                    "secret_key_label": "5eb6bb157528b365f84c27bb4784031b 5eb6bb157528b365f84c27bb4784031b",
+                    "signin": "635451b1aa6992d3fb7d46a501cfa546 635451b1aa6992d3fb7d46a501cfa546",
+                    "signup": "ee92ad3cf509197cabcdd01db6f2677a ee92ad3cf509197cabcdd01db6f2677a",
+                    "site_key_label": "20f4f54341e68e01b853e9483e5fe37f 20f4f54341e68e01b853e9483e5fe37f",
+                    "type_label": "47193ee5082e8fbbdce0128f49eb7255 47193ee5082e8fbbdce0128f49eb7255"
+                }
+            }
+        },
+        "validation": {
+            "recaptcha": "02f33f21de587c650b1a04477296e17b 02f33f21de587c650b1a04477296e17b"
+        }
+    },
     "fof-rich-text.json": {
         "fof-rich-text": {
             "admin": {

@@ -2,10 +2,10 @@
     "fof-recaptcha": {
         "admin": {
             "settings": {
-                "help_text": "",
-                "secret_key_label": "",
-                "site_key_label": "",
-                "type_label": "",
+                "help_text": "Získajte vaše Google reCAPTCHA prihlasovacie údaje <a>tu</a>.",
+                "secret_key_label": "Tajný Kľúč",
+                "site_key_label": "Kľúč Stránky",
+                "type_label": "Typ reCAPTCHA",
                 "type_help": "",
                 "type_options": {
                     "checkbox": "",
@@ -27,7 +27,7 @@
                 "reload_button": ""
             },
             "permissions": {
-                "post_without_captcha": ""
+                "post_without_captcha": "Vytvoriť príspevky a diskusie bez captchy"
             }
         },
         "lib": {
@@ -38,7 +38,7 @@
         }
     },
     "validation": {
-        "recaptcha": "",
+        "recaptcha": "reCAPTCHA validácia zlyhala.",
         "recaptcha-unknown": ""
     }
 }

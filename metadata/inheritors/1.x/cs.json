@@ -2976,6 +2976,27 @@
             }
         }
     },
+    "fof-recaptcha.json": {
+        "fof-recaptcha": {
+            "admin": {
+                "permissions": {
+                    "post_without_captcha": "767b6f101b48c6b3c1d9c20c49d2614d 767b6f101b48c6b3c1d9c20c49d2614d"
+                },
+                "settings": {
+                    "forgot": "1eb31d5ef4f07299a967de5544068940 1eb31d5ef4f07299a967de5544068940",
+                    "help_text": "ca960aae8b71f0431442f27d1cf5a698 ca960aae8b71f0431442f27d1cf5a698",
+                    "secret_key_label": "71e9aefa15483a5eda003b530586cea7 71e9aefa15483a5eda003b530586cea7",
+                    "signin": "635451b1aa6992d3fb7d46a501cfa546 635451b1aa6992d3fb7d46a501cfa546",
+                    "signup": "ee92ad3cf509197cabcdd01db6f2677a ee92ad3cf509197cabcdd01db6f2677a",
+                    "site_key_label": "b2b3cfa078265c56cff0b6a48a94a835 b2b3cfa078265c56cff0b6a48a94a835",
+                    "type_label": "4f6ae802cb764587cb10eaa49ed8c0a2 4f6ae802cb764587cb10eaa49ed8c0a2"
+                }
+            }
+        },
+        "validation": {
+            "recaptcha": "227e50f69c6bc1546397dbdcd9392582 227e50f69c6bc1546397dbdcd9392582"
+        }
+    },
     "fof-share-social.json": {
         "fof-share-social": {
             "admin": {

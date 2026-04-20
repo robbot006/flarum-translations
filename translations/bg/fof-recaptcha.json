@@ -2,10 +2,10 @@
     "fof-recaptcha": {
         "admin": {
             "settings": {
-                "help_text": "",
-                "secret_key_label": "",
-                "site_key_label": "",
-                "type_label": "",
+                "help_text": "Получете идентификационните си данни за Google reCAPTCHA <a>тук</a>.",
+                "secret_key_label": "Таен ключ",
+                "site_key_label": "Ключ на сайта",
+                "type_label": "Тип reCAPTCHA",
                 "type_help": "",
                 "type_options": {
                     "checkbox": "",
@@ -14,9 +14,9 @@
                 },
                 "v3_threshold_label": "",
                 "v3_threshold_help": "",
-                "signup": "",
-                "signin": "",
-                "forgot": ""
+                "signup": "=> core.forum.sign_up.title",
+                "signin": "=> core.forum.log_in.title",
+                "forgot": "=> core.forum.forgot_password.title"
             },
             "test": {
                 "title": "",
@@ -27,7 +27,7 @@
                 "reload_button": ""
             },
             "permissions": {
-                "post_without_captcha": ""
+                "post_without_captcha": "Създаване на публикации и дискусии без captcha"
             }
         },
         "lib": {
@@ -38,7 +38,7 @@
         }
     },
     "validation": {
-        "recaptcha": "",
+        "recaptcha": "Проверката на reCAPTCHA не бе успешна.",
         "recaptcha-unknown": ""
     }
 }

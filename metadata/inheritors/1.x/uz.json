@@ -1806,6 +1806,24 @@
             }
         }
     },
+    "fof-recaptcha.json": {
+        "fof-recaptcha": {
+            "admin": {
+                "permissions": {
+                    "post_without_captcha": "fb5a78ea1481c3bd77c007ed57e5cbbf fb5a78ea1481c3bd77c007ed57e5cbbf"
+                },
+                "settings": {
+                    "help_text": "6783c0c7ec4fa29e3372baade5d9746b 6783c0c7ec4fa29e3372baade5d9746b",
+                    "secret_key_label": "f3e7026f10628395972af96e455f8056 f3e7026f10628395972af96e455f8056",
+                    "site_key_label": "7128937426c5de78686211eef0f7a168 7128937426c5de78686211eef0f7a168",
+                    "type_label": "000f25d98394faeeb19601d8deac2939 000f25d98394faeeb19601d8deac2939"
+                }
+            }
+        },
+        "validation": {
+            "recaptcha": "f83eb864150162577e73bd47ae38e20c f83eb864150162577e73bd47ae38e20c"
+        }
+    },
     "fof-share-social.json": {
         "fof-share-social": {
             "admin": {

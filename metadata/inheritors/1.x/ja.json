@@ -2309,6 +2309,24 @@
             }
         }
     },
+    "fof-recaptcha.json": {
+        "fof-recaptcha": {
+            "admin": {
+                "permissions": {
+                    "post_without_captcha": "803742468624bcaee4c09021f2594073 803742468624bcaee4c09021f2594073"
+                },
+                "settings": {
+                    "help_text": "f46b3c28f3ea5f3f269280224d11aeb0 f46b3c28f3ea5f3f269280224d11aeb0",
+                    "secret_key_label": "6f76c4612a6659f94b9b8d01d15da42f 6f76c4612a6659f94b9b8d01d15da42f",
+                    "site_key_label": "19fccae656becdb26c7dc0484d82f3ce 19fccae656becdb26c7dc0484d82f3ce",
+                    "type_label": "5b4d957c3848fb46b9ad398b60ef48b0 5b4d957c3848fb46b9ad398b60ef48b0"
+                }
+            }
+        },
+        "validation": {
+            "recaptcha": "d100686864986fdc799500f11ace4203 d100686864986fdc799500f11ace4203"
+        }
+    },
     "fof-sentry.json": {
         "fof-sentry": {
             "admin": {

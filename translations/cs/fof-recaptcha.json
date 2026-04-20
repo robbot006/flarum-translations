@@ -2,10 +2,10 @@
     "fof-recaptcha": {
         "admin": {
             "settings": {
-                "help_text": "",
-                "secret_key_label": "",
-                "site_key_label": "",
-                "type_label": "",
+                "help_text": "Získejte své přihlašovací údaje Google reCAPTCHA <a> zde </a>.",
+                "secret_key_label": "Tajný klíč (Secret Key)",
+                "site_key_label": "Klíč stránky (Site Key)",
+                "type_label": "Typ reCAPTCHA",
                 "type_help": "",
                 "type_options": {
                     "checkbox": "",
@@ -14,9 +14,9 @@
                 },
                 "v3_threshold_label": "",
                 "v3_threshold_help": "",
-                "signup": "",
-                "signin": "",
-                "forgot": ""
+                "signup": "=> core.forum.sign_up.title",
+                "signin": "=> core.forum.log_in.title",
+                "forgot": "=> core.forum.forgot_password.title"
             },
             "test": {
                 "title": "",
@@ -27,7 +27,7 @@
                 "reload_button": ""
             },
             "permissions": {
-                "post_without_captcha": ""
+                "post_without_captcha": "Vytváření příspěvků a diskuzí bez captcha"
             }
         },
         "lib": {
@@ -38,7 +38,7 @@
         }
     },
     "validation": {
-        "recaptcha": "",
+        "recaptcha": "Ověření reCAPTCHA selhalo.",
         "recaptcha-unknown": ""
     }
 }

@@ -2394,6 +2394,27 @@
             }
         }
     },
+    "fof-recaptcha.json": {
+        "fof-recaptcha": {
+            "admin": {
+                "permissions": {
+                    "post_without_captcha": "499b9d91f31f880778d484986da3db0e 499b9d91f31f880778d484986da3db0e"
+                },
+                "settings": {
+                    "help_text": "e7ec07e362d3a4cf4f6da0ff4f80bfe2 e7ec07e362d3a4cf4f6da0ff4f80bfe2",
+                    "secret_key_label": "f904621c5a33b7efd0eaba499c2289a8 f904621c5a33b7efd0eaba499c2289a8",
+                    "site_key_label": "70ad900a3b64e89b11fa9b35182a8331 70ad900a3b64e89b11fa9b35182a8331",
+                    "type_label": "fbf649675c62a60bbdbaa0aed3b60e8c fbf649675c62a60bbdbaa0aed3b60e8c"
+                },
+                "test": {
+                    "reload_button": "8e27fb8a59e2716f0dd3ee1d43eb09f4 8e27fb8a59e2716f0dd3ee1d43eb09f4"
+                }
+            }
+        },
+        "validation": {
+            "recaptcha": "5a57b6bc3d060ff8050269fab6aff303 5a57b6bc3d060ff8050269fab6aff303"
+        }
+    },
     "fof-sitemap.json": {
         "fof-sitemap": {
             "admin": {

@@ -4051,6 +4051,36 @@
             }
         }
     },
+    "fof-recaptcha.json": {
+        "fof-recaptcha": {
+            "admin": {
+                "permissions": {
+                    "post_without_captcha": "f8009aa26864d60422e929a62d3f4df0 f8009aa26864d60422e929a62d3f4df0"
+                },
+                "settings": {
+                    "forgot": "1eb31d5ef4f07299a967de5544068940 1eb31d5ef4f07299a967de5544068940",
+                    "help_text": "95280f3eda06662c535c06ba8379d317 95280f3eda06662c535c06ba8379d317",
+                    "secret_key_label": "e9d80319856ff43edbeb60c6ec118d9d e9d80319856ff43edbeb60c6ec118d9d",
+                    "signin": "635451b1aa6992d3fb7d46a501cfa546 635451b1aa6992d3fb7d46a501cfa546",
+                    "signup": "ee92ad3cf509197cabcdd01db6f2677a ee92ad3cf509197cabcdd01db6f2677a",
+                    "site_key_label": "927c5cfc1ccb1a2e624dd851d19f62bc 927c5cfc1ccb1a2e624dd851d19f62bc",
+                    "type_label": "42e0f050adac26df1f451519bddad2ba 42e0f050adac26df1f451519bddad2ba"
+                },
+                "test": {
+                    "help_text": "d8da2b9eb4c074da69e4e010d663b8b5 d8da2b9eb4c074da69e4e010d663b8b5",
+                    "load_test_button": "12e1a1edc352ab17dc724c97ea14681c 12e1a1edc352ab17dc724c97ea14681c",
+                    "reload_button": "2364df4262527fb45fb8a495c3767858 2364df4262527fb45fb8a495c3767858",
+                    "submit_button": "447d65f0ceef21b9b509dd83b918ae56 447d65f0ceef21b9b509dd83b918ae56",
+                    "success_message": "fdc4ba11ded3c9410b2040ffeb9714aa fdc4ba11ded3c9410b2040ffeb9714aa",
+                    "title": "b1ca7034ee7e09dbf51565b4db73c846 b1ca7034ee7e09dbf51565b4db73c846"
+                }
+            }
+        },
+        "validation": {
+            "recaptcha": "d632e7f3cfde67baf2de9095ca2ea750 d632e7f3cfde67baf2de9095ca2ea750",
+            "recaptcha-unknown": "32458ddbcd9e793bea8f2db4ab39a6dc 32458ddbcd9e793bea8f2db4ab39a6dc"
+        }
+    },
     "fof-sentry.json": {
         "fof-sentry": {
             "admin": {

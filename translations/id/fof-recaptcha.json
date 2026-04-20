@@ -2,10 +2,10 @@
     "fof-recaptcha": {
         "admin": {
             "settings": {
-                "help_text": "",
-                "secret_key_label": "",
-                "site_key_label": "",
-                "type_label": "",
+                "help_text": "Dapatkan kredensial Google reCAPTCHA Anda <a>di sini</a>.",
+                "secret_key_label": "Secret Key",
+                "site_key_label": "Site Key",
+                "type_label": "Tipe reCAPTCHA",
                 "type_help": "",
                 "type_options": {
                     "checkbox": "",
@@ -14,20 +14,20 @@
                 },
                 "v3_threshold_label": "",
                 "v3_threshold_help": "",
-                "signup": "",
-                "signin": "",
-                "forgot": ""
+                "signup": "=> core.forum.sign_up.title",
+                "signin": "=> core.forum.log_in.title",
+                "forgot": "=> core.forum.forgot_password.title"
             },
             "test": {
-                "title": "",
-                "help_text": "",
-                "success_message": "",
-                "load_test_button": "",
-                "submit_button": "",
-                "reload_button": ""
+                "title": "Tes reCAPTCHA",
+                "help_text": "Tes ini akan menggunakan nilai saat ini yang dimasukkan di atas. Pastikan untuk memuat ulang tes setelah memodifikasi pengaturan, dan jangan lupa untuk menyimpannya setelah tes selesai!\nDi bawah ini mungkin tidak mencerminkan pengaturan yang disimpan.\n",
+                "success_message": "Berhasil! reCAPTCHA telah dikonfigurasi dengan benar.",
+                "load_test_button": "Memuat",
+                "submit_button": "Submit",
+                "reload_button": "Muat ulang"
             },
             "permissions": {
-                "post_without_captcha": ""
+                "post_without_captcha": "Membuat post dan diskusi tanpa captcha"
             }
         },
         "lib": {
@@ -38,7 +38,7 @@
         }
     },
     "validation": {
-        "recaptcha": "",
-        "recaptcha-unknown": ""
+        "recaptcha": "Validasi reCAPTCHA gagal.",
+        "recaptcha-unknown": "Terjadi error yang tidak diketahui saat memvalidasi reCAPTCHA ({errors})."
     }
 }

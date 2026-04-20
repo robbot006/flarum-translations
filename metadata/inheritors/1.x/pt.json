@@ -2189,6 +2189,15 @@
             }
         }
     },
+    "fof-recaptcha.json": {
+        "fof-recaptcha": {
+            "admin": {
+                "settings": {
+                    "secret_key_label": "db0d5ba7bef9db1061dc257faa7196f1 db0d5ba7bef9db1061dc257faa7196f1"
+                }
+            }
+        }
+    },
     "fof-sentry.json": {
         "fof-sentry": {
             "admin": {

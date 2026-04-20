@@ -4617,6 +4617,36 @@
             }
         }
     },
+    "fof-recaptcha.json": {
+        "fof-recaptcha": {
+            "admin": {
+                "permissions": {
+                    "post_without_captcha": "de015b7c7b1cc1be2f94584877120c86 de015b7c7b1cc1be2f94584877120c86"
+                },
+                "settings": {
+                    "forgot": "1eb31d5ef4f07299a967de5544068940 1eb31d5ef4f07299a967de5544068940",
+                    "help_text": "a515049e31dec32fbe299f027064e546 a515049e31dec32fbe299f027064e546",
+                    "secret_key_label": "cdb81cf67c392f7fd736c0c1e437bade cdb81cf67c392f7fd736c0c1e437bade",
+                    "signin": "635451b1aa6992d3fb7d46a501cfa546 635451b1aa6992d3fb7d46a501cfa546",
+                    "signup": "ee92ad3cf509197cabcdd01db6f2677a ee92ad3cf509197cabcdd01db6f2677a",
+                    "site_key_label": "af5d9670314d3cd7148b924169d26d3b af5d9670314d3cd7148b924169d26d3b",
+                    "type_label": "973aba30fac916832bd7634536424b0e 973aba30fac916832bd7634536424b0e"
+                },
+                "test": {
+                    "help_text": "b1876b98a5971782888731c7ada05f66 b1876b98a5971782888731c7ada05f66",
+                    "load_test_button": "4793ea431592921524fc31117e9a662e 4793ea431592921524fc31117e9a662e",
+                    "reload_button": "64ca9bab920a2983bcf270320d850d00 64ca9bab920a2983bcf270320d850d00",
+                    "submit_button": "be5fbbe34ce9979bfb6576d9eddc5612 be5fbbe34ce9979bfb6576d9eddc5612",
+                    "success_message": "c97b335f8743ff873a9710ced1577693 c97b335f8743ff873a9710ced1577693",
+                    "title": "bd16ef4972341d3f761941a30f521245 bd16ef4972341d3f761941a30f521245"
+                }
+            }
+        },
+        "validation": {
+            "recaptcha": "fe7b1455c8f0d30ed3696a79ceff353f fe7b1455c8f0d30ed3696a79ceff353f",
+            "recaptcha-unknown": "e87f1e8cf87f3b548d9f4dbd5976430c e87f1e8cf87f3b548d9f4dbd5976430c"
+        }
+    },
     "fof-rich-text.json": {
         "fof-rich-text": {
             "admin": {

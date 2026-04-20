@@ -2,10 +2,10 @@
     "fof-recaptcha": {
         "admin": {
             "settings": {
-                "help_text": "",
-                "secret_key_label": "",
-                "site_key_label": "",
-                "type_label": "",
+                "help_text": "Получите данные для подключения Google reCAPTCHA <a>здесь</a>.",
+                "secret_key_label": "Секретный ключ",
+                "site_key_label": "Ключ сайта",
+                "type_label": "Тип reCAPTCHA",
                 "type_help": "",
                 "type_options": {
                     "checkbox": "",
@@ -14,20 +14,20 @@
                 },
                 "v3_threshold_label": "",
                 "v3_threshold_help": "",
-                "signup": "",
-                "signin": "",
-                "forgot": ""
+                "signup": "=> core.forum.sign_up.title",
+                "signin": "=> core.forum.log_in.title",
+                "forgot": "=> core.forum.forgot_password.title"
             },
             "test": {
-                "title": "",
-                "help_text": "",
-                "success_message": "",
-                "load_test_button": "",
-                "submit_button": "",
-                "reload_button": ""
+                "title": "Тест reCAPTCHA",
+                "help_text": "В этом тесте используются значения параметров, указанные выше. Обязательно обновите тест после изменения настроек и не забудьте сохранить результат после успешного прохождения теста!\nНиже могут не отображаться сохранённые настройки.\n",
+                "success_message": "Успешно! reCAPTCHA настроена правильно.",
+                "load_test_button": "Загрузка",
+                "submit_button": "Отправить",
+                "reload_button": "Обновить"
             },
             "permissions": {
-                "post_without_captcha": ""
+                "post_without_captcha": "Публиковать сообщения и дискуссии без reCAPTCHA"
             }
         },
         "lib": {
@@ -38,7 +38,7 @@
         }
     },
     "validation": {
-        "recaptcha": "",
-        "recaptcha-unknown": ""
+        "recaptcha": "Проверка reCAPTCHA не пройдена.",
+        "recaptcha-unknown": "Произошла неизвестная ошибка при проверке reCAPTCHA ({errors})."
     }
 }
