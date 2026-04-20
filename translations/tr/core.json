@@ -163,7 +163,13 @@
                 "slug_driver_text": "Adres kısa adı için bir sürücü modeli seçin.",
                 "title": "Temel Öğeler",
                 "welcome_banner_heading": "Hoşgeldiniz Mesajı",
-                "welcome_banner_text": "Tüm Tartışmalar sayfasında görünecek karşılama yazısını ayarla. Ziyaretçileri karşılamak için bunu kullan."
+                "welcome_banner_text": "Tüm Tartışmalar sayfasında görünecek karşılama yazısını ayarla. Ziyaretçileri karşılamak için bunu kullan.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -333,6 +339,14 @@
                     "title": "{extName} belgeleri"
                 },
                 "replaced": "Değiştirildi",
+                "reset_settings": {
+                    "button": "",
+                    "cancel_button": "",
+                    "confirm_button": "",
+                    "warning": "",
+                    "title": "",
+                    "title_extension": ""
+                },
                 "safe_mode_warning": "Güvenli mod şu anda etkin. Uzantılar yüklenmediğinden ayarlarına erişilemiyor."
             },
             "header": {
@@ -363,6 +377,7 @@
                     "discussion": "Tartışma",
                     "feature": "Özellikler",
                     "formatting": "Biçimlendirme",
+                    "forum-widget": "",
                     "infrastructure": "",
                     "language": "Diller",
                     "moderation": "Moderasyon",
@@ -1041,6 +1056,13 @@
             "send_test": {
                 "subject": "Flarum Test Postası",
                 "body": "Bu, Flarum e-posta yapılandırmanızın düzgün çalıştığını doğrulamak için gönderilmiş bir test e-postasıdır.\n\nBu işlemi siz yaptıysanız yapılandırmanız doğru çalışıyor demektir.\n\nBu siz değilseniz lütfen bu e-postayı dikkate almayın.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body_intro": "",
+                "body_outro": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

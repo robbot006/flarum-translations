@@ -163,7 +163,13 @@
                 "slug_driver_text": "Izvēlieties draiveri, kas tiks izmantots šī modeļa pārtraukšanai.",
                 "title": "Pamati",
                 "welcome_banner_heading": "Laipni lūdzam reklāmkarogs",
-                "welcome_banner_text": "Konfigurējiet tekstu, kas tiek rādīts lapas Visas diskusijas reklāmkarogā. Izmantojiet to, lai uzņemtu viesus savā forumā."
+                "welcome_banner_text": "Konfigurējiet tekstu, kas tiek rādīts lapas Visas diskusijas reklāmkarogā. Izmantojiet to, lai uzņemtu viesus savā forumā.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -333,6 +339,14 @@
                     "title": "{extName} dokumentācija"
                 },
                 "replaced": "",
+                "reset_settings": {
+                    "button": "",
+                    "cancel_button": "",
+                    "confirm_button": "",
+                    "warning": "",
+                    "title": "",
+                    "title_extension": ""
+                },
                 "safe_mode_warning": ""
             },
             "header": {
@@ -363,6 +377,7 @@
                     "discussion": "Diskusija",
                     "feature": "Iespējas",
                     "formatting": "Formatēšana",
+                    "forum-widget": "",
                     "infrastructure": "",
                     "language": "Valodas",
                     "moderation": "modēracija",
@@ -1041,6 +1056,13 @@
             "send_test": {
                 "subject": "Flarum E-pasta tests",
                 "body": ""
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body_intro": "",
+                "body_outro": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

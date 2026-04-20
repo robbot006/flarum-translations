@@ -163,7 +163,13 @@
                 "slug_driver_text": "Изаберите управљачки програм који ће се користити за спајање овог модела.",
                 "title": "Основно",
                 "welcome_banner_heading": "Банер за добродошлицу",
-                "welcome_banner_text": "Конфигуришите текст који ће се приказивати на банеру странице са свим дискусијама. Функција текста је да пожелите добродошлицу посетиоцима форума."
+                "welcome_banner_text": "Конфигуришите текст који ће се приказивати на банеру странице са свим дискусијама. Функција текста је да пожелите добродошлицу посетиоцима форума.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -333,6 +339,14 @@
                     "title": "{extName} документација"
                 },
                 "replaced": "",
+                "reset_settings": {
+                    "button": "",
+                    "cancel_button": "",
+                    "confirm_button": "",
+                    "warning": "",
+                    "title": "",
+                    "title_extension": ""
+                },
                 "safe_mode_warning": ""
             },
             "header": {
@@ -363,6 +377,7 @@
                     "discussion": "Дискусија",
                     "feature": "Могућности",
                     "formatting": "Форматирање",
+                    "forum-widget": "",
                     "infrastructure": "",
                     "language": "Језици",
                     "moderation": "Уређивање",
@@ -1041,6 +1056,13 @@
             "send_test": {
                 "subject": "Фларум тест е-поште",
                 "body": ""
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body_intro": "",
+                "body_outro": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

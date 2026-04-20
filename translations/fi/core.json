@@ -163,7 +163,13 @@
                 "slug_driver_text": "Valitse ajuri mitä käytetään polkutunnuksen luomiseen tälle mallille.",
                 "title": "Yleiset",
                 "welcome_banner_heading": "Tervetulobanneri",
-                "welcome_banner_text": "Määritä teksti mikä näkyy keskustelulistauksessa olevassa bannerissa. Käytä tätä toivottaaksesi vieraat tervetulleeksi."
+                "welcome_banner_text": "Määritä teksti mikä näkyy keskustelulistauksessa olevassa bannerissa. Käytä tätä toivottaaksesi vieraat tervetulleeksi.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -333,6 +339,14 @@
                     "title": "{extName} dokumentaatio"
                 },
                 "replaced": "Korvattu",
+                "reset_settings": {
+                    "button": "",
+                    "cancel_button": "",
+                    "confirm_button": "",
+                    "warning": "",
+                    "title": "",
+                    "title_extension": ""
+                },
                 "safe_mode_warning": ""
             },
             "header": {
@@ -363,6 +377,7 @@
                     "discussion": "Keskustelu",
                     "feature": "Ominaisuudet",
                     "formatting": "Muotoilu",
+                    "forum-widget": "",
                     "infrastructure": "",
                     "language": "Kielet",
                     "moderation": "Moderointi",
@@ -1041,6 +1056,13 @@
             "send_test": {
                 "subject": "Flarum foorumin sähköpostitesti",
                 "body": ""
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body_intro": "",
+                "body_outro": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

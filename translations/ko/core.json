@@ -163,7 +163,13 @@
                 "slug_driver_text": "이 모델을 슬러깅할 드라이버를 선택하세요.",
                 "title": "기본",
                 "welcome_banner_heading": "환영 배너",
-                "welcome_banner_text": "모든 토의 페이지의 배너에 표시되는 본문을 구성합니다. 포럼 방문자에 대한 환영 메시지로 사용됩니다."
+                "welcome_banner_text": "모든 토의 페이지의 배너에 표시되는 본문을 구성합니다. 포럼 방문자에 대한 환영 메시지로 사용됩니다.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -333,6 +339,14 @@
                     "title": "{extName} 설명 문서"
                 },
                 "replaced": "",
+                "reset_settings": {
+                    "button": "",
+                    "cancel_button": "",
+                    "confirm_button": "",
+                    "warning": "",
+                    "title": "",
+                    "title_extension": ""
+                },
                 "safe_mode_warning": ""
             },
             "header": {
@@ -363,6 +377,7 @@
                     "discussion": "토의",
                     "feature": "기능",
                     "formatting": "형식",
+                    "forum-widget": "",
                     "infrastructure": "",
                     "language": "언어",
                     "moderation": "중재",
@@ -1041,6 +1056,13 @@
             "send_test": {
                 "subject": "Flarum 이메일 테스트",
                 "body": ""
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body_intro": "",
+                "body_outro": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

@@ -163,7 +163,13 @@
                 "slug_driver_text": "Selectați driver-ul pentru slug-ul acestui model.",
                 "title": "Setări de bază",
                 "welcome_banner_heading": "Mesaj de bun-venit",
-                "welcome_banner_text": "Introduceți textul care va apărea deasupra listei de discuții. Utilizați-l pentru a ura bun venit noilor vizitatori ai acestui forum."
+                "welcome_banner_text": "Introduceți textul care va apărea deasupra listei de discuții. Utilizați-l pentru a ura bun venit noilor vizitatori ai acestui forum.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -333,6 +339,14 @@
                     "title": "Documentația {extName}"
                 },
                 "replaced": "Înlocuit",
+                "reset_settings": {
+                    "button": "",
+                    "cancel_button": "",
+                    "confirm_button": "",
+                    "warning": "",
+                    "title": "",
+                    "title_extension": ""
+                },
                 "safe_mode_warning": "Modul de siguranță este activat în prezent. Extensiile nu sunt pornite, iar setările acestora sunt, prin urmare, inaccesibile."
             },
             "header": {
@@ -363,6 +377,7 @@
                     "discussion": "Discuție",
                     "feature": "Caracteristici",
                     "formatting": "Formatare",
+                    "forum-widget": "",
                     "infrastructure": "Infrastructură",
                     "language": "Limbi",
                     "moderation": "Moderare",
@@ -1041,6 +1056,13 @@
             "send_test": {
                 "subject": "E-mail de testare Flarum",
                 "body": "Acesta este un e-mail de test pentru a confirma că setările de e-mail Flarum funcționează corect.\n\nDacă ați fost dumneavoastră, acest e-mail înseamnă că setările funcționează!\n\nDacă nu ați fost dumneavoastră, vă rugăm să ignorați acest e-mail.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body_intro": "",
+                "body_outro": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

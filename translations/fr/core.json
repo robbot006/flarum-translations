@@ -163,7 +163,13 @@
                 "slug_driver_text": "Sélectionnez un pilote qui sera utilisé pour l'identifiant texte unique de ce modèle.",
                 "title": "Essentiels",
                 "welcome_banner_heading": "Bannière de bienvenue",
-                "welcome_banner_text": "Personnalisez le texte qui s'affiche dans la bannière sur la page de la liste de toutes les discussions. Il vous permet d'accueillir les invités sur votre forum."
+                "welcome_banner_text": "Personnalisez le texte qui s'affiche dans la bannière sur la page de la liste de toutes les discussions. Il vous permet d'accueillir les invités sur votre forum.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -333,6 +339,14 @@
                     "title": "Documentation de {extName}"
                 },
                 "replaced": "Remplacé",
+                "reset_settings": {
+                    "button": "",
+                    "cancel_button": "",
+                    "confirm_button": "",
+                    "warning": "",
+                    "title": "",
+                    "title_extension": ""
+                },
                 "safe_mode_warning": "Le mode sans échec est actuellement activé. Les extensions ne sont pas démarrées et leurs paramètres sont donc inaccessibles."
             },
             "header": {
@@ -363,6 +377,7 @@
                     "discussion": "Discussion",
                     "feature": "Fonctionnalités",
                     "formatting": "Mise en page",
+                    "forum-widget": "",
                     "infrastructure": "Infrastructure",
                     "language": "Langues",
                     "moderation": "Modération",
@@ -1041,6 +1056,13 @@
             "send_test": {
                 "subject": "Courriel de test de Flarum",
                 "body": "Ceci est un courriel de test destiné à vérifier que la configuration de votre messagerie Flarum fonctionne correctement.\n\nSi vous êtes bien le destinataire, ce courriel signifie que votre configuration fonctionne !\n\nSi vous n'êtes pas le destinataire, veuillez ignorer ce courriel.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body_intro": "",
+                "body_outro": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

@@ -163,7 +163,13 @@
                 "slug_driver_text": "Bu modeldə \"Slugging\" üçün istifadə ediləcək bir sürücü seçin.",
                 "title": "Əsaslar",
                 "welcome_banner_heading": "Xoş gəlmisiniz Banneri",
-                "welcome_banner_text": "\"Bütün Müzakirələr\" səhifəsindəki bannerdə göstərilən mətni redaktə edin. Forumunuza yeni gələnləri qarşılamaq üçün bundan istifadə edin."
+                "welcome_banner_text": "\"Bütün Müzakirələr\" səhifəsindəki bannerdə göstərilən mətni redaktə edin. Forumunuza yeni gələnləri qarşılamaq üçün bundan istifadə edin.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -333,6 +339,14 @@
                     "title": "{extName} sənədləri"
                 },
                 "replaced": "",
+                "reset_settings": {
+                    "button": "",
+                    "cancel_button": "",
+                    "confirm_button": "",
+                    "warning": "",
+                    "title": "",
+                    "title_extension": ""
+                },
                 "safe_mode_warning": ""
             },
             "header": {
@@ -363,6 +377,7 @@
                     "discussion": "Müzakirə",
                     "feature": "Xüsusiyyətlər",
                     "formatting": "Formatlama",
+                    "forum-widget": "",
                     "infrastructure": "",
                     "language": "Dillər",
                     "moderation": "Moderasiya",
@@ -1041,6 +1056,13 @@
             "send_test": {
                 "subject": "Flarum E-poçt Testi",
                 "body": ""
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body_intro": "",
+                "body_outro": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

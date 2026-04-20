@@ -163,7 +163,13 @@
                 "slug_driver_text": "Выберите драйвер, который будет использоваться при создании семантических путей (URL) для этой модели.",
                 "title": "Основные",
                 "welcome_banner_heading": "Баннер приветствия",
-                "welcome_banner_text": "Введите текст, который будет отображаться на всех страницах форума. Используйте этот элемент для того, чтобы приветствовать гостей форума."
+                "welcome_banner_text": "Введите текст, который будет отображаться на всех страницах форума. Используйте этот элемент для того, чтобы приветствовать гостей форума.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -333,6 +339,14 @@
                     "title": "Документация {extName}"
                 },
                 "replaced": "Заменено",
+                "reset_settings": {
+                    "button": "",
+                    "cancel_button": "",
+                    "confirm_button": "",
+                    "warning": "",
+                    "title": "",
+                    "title_extension": ""
+                },
                 "safe_mode_warning": "Включён безопасный режим. Расширения не запускаются — их настройки недоступны."
             },
             "header": {
@@ -363,6 +377,7 @@
                     "discussion": "Общение",
                     "feature": "Возможности",
                     "formatting": "Форматирование",
+                    "forum-widget": "",
                     "infrastructure": "Инфраструктура",
                     "language": "Языки",
                     "moderation": "Модерация",
@@ -1041,6 +1056,13 @@
             "send_test": {
                 "subject": "Проверка email Flarum",
                 "body": "Это тестовое письмо для проверки работы email на форуме Flarum.\n\nЕсли вы отправили его, значит настройки работают корректно.\n\nЕсли это сделали не вы, просто проигнорируйте письмо.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body_intro": "",
+                "body_outro": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

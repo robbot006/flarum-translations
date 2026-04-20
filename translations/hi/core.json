@@ -163,7 +163,13 @@
                 "slug_driver_text": "इस मॉडल को स्लगिंग करने के लिए उपयोग किए जाने वाले ड्राइवर का चयन करें।",
                 "title": "मूल बातें",
                 "welcome_banner_heading": "स्वागत बैनर",
-                "welcome_banner_text": "सभी चर्चा पन्ने पर बैनर में प्रदर्शित होने वाले पाठ को कॉन्फ़िगर करें। अपने मंच पर मेहमानों का स्वागत करने के लिए इसका इस्तेमाल करें।"
+                "welcome_banner_text": "सभी चर्चा पन्ने पर बैनर में प्रदर्शित होने वाले पाठ को कॉन्फ़िगर करें। अपने मंच पर मेहमानों का स्वागत करने के लिए इसका इस्तेमाल करें।",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -333,6 +339,14 @@
                     "title": "{extName} प्रलेखन"
                 },
                 "replaced": "",
+                "reset_settings": {
+                    "button": "",
+                    "cancel_button": "",
+                    "confirm_button": "",
+                    "warning": "",
+                    "title": "",
+                    "title_extension": ""
+                },
                 "safe_mode_warning": ""
             },
             "header": {
@@ -363,6 +377,7 @@
                     "discussion": "विचार-विमर्श",
                     "feature": "विशेषताएं",
                     "formatting": "स्वरूपण",
+                    "forum-widget": "",
                     "infrastructure": "",
                     "language": "भाषाई",
                     "moderation": "चर्चा नियंत्रण",
@@ -1041,6 +1056,13 @@
             "send_test": {
                 "subject": "फ्लॉरुम ईमेल परीक्षण",
                 "body": ""
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body_intro": "",
+                "body_outro": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

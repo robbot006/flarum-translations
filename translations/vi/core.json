@@ -163,7 +163,13 @@
                 "slug_driver_text": "Chọn một trình điều khiển sử dụng để slug mô hình này.",
                 "title": "Cơ bản",
                 "welcome_banner_heading": "Biểu ngữ chào mừng",
-                "welcome_banner_text": "Thiết lập nội dung hiển thị trong biểu ngữ trên trang Cuộc thảo luận. Sử dụng cái này để chào mừng khách đến với diễn đàn của bạn."
+                "welcome_banner_text": "Thiết lập nội dung hiển thị trong biểu ngữ trên trang Cuộc thảo luận. Sử dụng cái này để chào mừng khách đến với diễn đàn của bạn.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -333,6 +339,14 @@
                     "title": "Tài liệu {extName}"
                 },
                 "replaced": "",
+                "reset_settings": {
+                    "button": "",
+                    "cancel_button": "",
+                    "confirm_button": "",
+                    "warning": "",
+                    "title": "",
+                    "title_extension": ""
+                },
                 "safe_mode_warning": ""
             },
             "header": {
@@ -363,6 +377,7 @@
                     "discussion": "Cuộc thảo luận",
                     "feature": "Tính năng",
                     "formatting": "Định dạng",
+                    "forum-widget": "",
                     "infrastructure": "",
                     "language": "Ngôn ngữ",
                     "moderation": "Kiểm duyệt",
@@ -1041,6 +1056,13 @@
             "send_test": {
                 "subject": "Thử nghiệm email Flarum",
                 "body": ""
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body_intro": "",
+                "body_outro": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

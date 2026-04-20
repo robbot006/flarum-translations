@@ -163,7 +163,13 @@
                 "slug_driver_text": "এই Model টি Slugging এর জন্য একটি Driver নির্বাচন করুন।",
                 "title": "বেসিক",
                 "welcome_banner_heading": "স্বাগতম ব্যানার",
-                "welcome_banner_text": "আপনার Home এ থাকা ব্যানার টির লেখা কনফিগার করুন ।আপনার অতিথিদের স্বাগতম জানাতে এটি ব্যবহার করুন ।"
+                "welcome_banner_text": "আপনার Home এ থাকা ব্যানার টির লেখা কনফিগার করুন ।আপনার অতিথিদের স্বাগতম জানাতে এটি ব্যবহার করুন ।",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -333,6 +339,14 @@
                     "title": "{extName} ডকুমেন্টেশন"
                 },
                 "replaced": "",
+                "reset_settings": {
+                    "button": "",
+                    "cancel_button": "",
+                    "confirm_button": "",
+                    "warning": "",
+                    "title": "",
+                    "title_extension": ""
+                },
                 "safe_mode_warning": ""
             },
             "header": {
@@ -363,6 +377,7 @@
                     "discussion": "আলোচনা",
                     "feature": "সুবিধাসমূহ",
                     "formatting": "ফরমেটিং",
+                    "forum-widget": "",
                     "infrastructure": "",
                     "language": "ভাষাসমূহ",
                     "moderation": "মডারেশন",
@@ -1041,6 +1056,13 @@
             "send_test": {
                 "subject": "",
                 "body": ""
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body_intro": "",
+                "body_outro": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

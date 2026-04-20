@@ -163,7 +163,13 @@
                 "slug_driver_text": "กรุณาเลือกชุดปฏิบัติงานเพื่อจะใช้คำเเสลงสำหรับโมดูลนี้",
                 "title": "พื้นฐาน",
                 "welcome_banner_heading": "แบรนเนอร์ต้อนรับ",
-                "welcome_banner_text": "ตั้งค่าข้อความที่จะเเสดงในเเบรนเนอร์ที่หน้ากระทู้ทั้งหมด ใช้นี่เพื่อเเสดงข้อความต้อนรับสำหรับผู้เยี่ยมชมพอรั่มของคุณ"
+                "welcome_banner_text": "ตั้งค่าข้อความที่จะเเสดงในเเบรนเนอร์ที่หน้ากระทู้ทั้งหมด ใช้นี่เพื่อเเสดงข้อความต้อนรับสำหรับผู้เยี่ยมชมพอรั่มของคุณ",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -333,6 +339,14 @@
                     "title": "เอกสารประกอบ {extName}"
                 },
                 "replaced": "",
+                "reset_settings": {
+                    "button": "",
+                    "cancel_button": "",
+                    "confirm_button": "",
+                    "warning": "",
+                    "title": "",
+                    "title_extension": ""
+                },
                 "safe_mode_warning": ""
             },
             "header": {
@@ -363,6 +377,7 @@
                     "discussion": "กระทู้",
                     "feature": "ฟีเจอร์",
                     "formatting": "กำลังจัดเก็บช้อมูล",
+                    "forum-widget": "",
                     "infrastructure": "",
                     "language": "ภาษา",
                     "moderation": "การดูเเล",
@@ -1041,6 +1056,13 @@
             "send_test": {
                 "subject": "การทดสอบอีเมล์ของ Flarum",
                 "body": ""
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body_intro": "",
+                "body_outro": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {
