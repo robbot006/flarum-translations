@@ -16,7 +16,7 @@
             "composer": {
                 "placeholder": "",
                 "submit_button": "",
-                "save_button": "",
+                "save_button": "ذخیره تغییرات",
                 "heading": "",
                 "reply_heading": "",
                 "edit_heading": "",
