@@ -343,7 +343,7 @@
                     "button": "Einstellungen zurücksetzen",
                     "cancel_button": "Abbrechen",
                     "confirm_button": "Zurücksetzen",
-                    "warning": "",
+                    "warning": "Dieser Vorgang ist unwiderruflich. Die folgenden Einstellungen werden dauerhaft aus der Datenbank gelöscht und auf ihre Standardwerte zurückgesetzt. Die Daten dieser Erweiterung sind davon nicht betroffen.",
                     "title": "Einstellungen zurücksetzen",
                     "title_extension": "Einstellungen für {extensionTitle} zurücksetzen"
                 },
@@ -1060,7 +1060,7 @@
             "abandoned_extensions": {
                 "subject": "Aktion erforderlich: Verwaiste Erweiterung(en) erkannt",
                 "body_intro": "Folgende installierte Erweiterung(en) wurde(n) als veraltet markiert:",
-                "body_outro": "",
+                "body_outro": "Bitte prüfe diese Erweiterungen und erwäge gegebenenfalls eine Umstellung auf Alternativen, sofern diese verfügbar sind.",
                 "line_with_replacement": "{package} (vorgeschlagener Ersatz: {replacement})",
                 "line_no_replacement": "{package} (Kein Ersatz verfügbar)"
             }
