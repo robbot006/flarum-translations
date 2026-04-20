@@ -33,7 +33,7 @@
                 "compression_quality_help": "Bildqualität nach der Komprimierung (1–100). Niedrigere Werte = kleinere Dateien. Empfohlen: 80–90.",
                 "compression_method": "Komprimierungsverfahren",
                 "compression_method_help": "PHP GD ist integriert. reSmush.it nutzt eine externe API für die verlustfreie Optimierung (erfordert curl).",
-                "require_image_approval": "",
+                "require_image_approval": "Genehmigung für Bildänderungen erforderlich",
                 "require_image_approval_help": "",
                 "expiration_reminder_days": "Ablauferinnerung (Tage)",
                 "expiration_reminder_days_help": "Sendet E-Mail-Erinnerungen an Anzeigeninhaber so viele Tage vor Ablauf ihrer Anzeige. Setze den Wert auf 0, um diese Funktion zu deaktivieren.",
