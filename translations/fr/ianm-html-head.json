@@ -10,7 +10,7 @@
                 "location": ""
             },
             "table": {
-                "drag_handle": "",
+                "drag_handle": "Glisser pour réorganiser",
                 "description_label": "Description",
                 "type_label": "Type",
                 "location_label": "Emplacement",
@@ -33,11 +33,11 @@
                 "pages_label": "",
                 "save_button": "Enregistrer",
                 "type": {
-                    "meta": "",
+                    "meta": "Balise Meta",
                     "link": "Lien",
-                    "script": "",
+                    "script": "Script",
                     "style": "Style",
-                    "raw": ""
+                    "raw": "HTML brut"
                 },
                 "location": {
                     "head": "",
@@ -63,8 +63,8 @@
                     "fetchpriority_label": "",
                     "fetchpriority_default": "",
                     "fetchpriority_help": "",
-                    "extras_label": "",
-                    "extras_add": "",
+                    "extras_label": "Attributs supplémentaires",
+                    "extras_add": "Ajouter un attribut",
                     "extras_remove": "Supprimer"
                 },
                 "script": {
@@ -74,7 +74,7 @@
                     "inline_content_label": "Contenu du script",
                     "defer_label": "",
                     "defer_help": "",
-                    "async_label": "",
+                    "async_label": "async",
                     "async_help": "",
                     "module_label": "",
                     "module_help": "",
