@@ -21,7 +21,7 @@
                 "label_posts": "{count, plural, one {Beitrag} other {Beiträge}}",
                 "label_users": "{count, plural, one {Benutzer} other {Benutzer}}",
                 "label_online": "{count, plural, one {Benutzer online} other {Benutzer online}}",
-                "label_online_over_total": "",
+                "label_online_over_total": "{online} online von {total} insgesamt",
                 "tooltip_latest_registration": "Neueste Registrierung: {name}"
             },
             "aria": {
@@ -73,7 +73,7 @@
                 "expanded_panel_width": "",
                 "expanded_panel_width_help": "",
                 "expanded_panel_width_full_bar": "",
-                "expanded_panel_width_online_cell": ""
+                "expanded_panel_width_online_cell": "Nur für die Online-Benutzer-Zelle"
             },
             "permissions": {
                 "view_online_users": "Online-Benutzer ansehen",
