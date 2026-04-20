@@ -44,7 +44,7 @@
                 "bar_position_above": "Oberhalb der Symbolleiste",
                 "bar_position_inside": "Innerhalb der Symbolleiste",
                 "bar_position_below": "Unterhalb der Symbolleiste",
-                "bar_position_above_footer": "",
+                "bar_position_above_footer": "Oberhalb der Fußzeile",
                 "widget_position": "Position des Widgets in der Seitenleiste (Priorität)",
                 "widget_position_help": "Legt fest, wo das Widget in der Seitenleiste angezeigt wird. Je niedriger (je negativer) der Wert, desto weiter unten wird es platziert. Standardwert: -10. Gilt nur für das Seitenleisten-Layout.",
                 "section_online_users": "Online-Benutzer",
