@@ -66,15 +66,15 @@
                 "footer_social": "Социальные ссылки",
                 "footer_show_social": "Показывать ссылки на соцсети",
                 "footer_social_help_json": "Настройте ссылки на соцсети в формате JSON. Используйте ключи: facebook, twitter, linkedin, instagram, youtube.",
-                "section_team": "",
-                "team_enabled_label": "",
-                "team_enabled_help": "",
-                "team_title_label": "",
-                "team_desc_label": "",
-                "team_desc_placeholder": "",
-                "team_groups_label": "",
-                "team_groups_help": "",
-                "team_groups_empty": ""
+                "section_team": "Команда",
+                "team_enabled_label": "Включить страницу команды",
+                "team_enabled_help": "Показывает страницу /team с участниками из выбранных групп.",
+                "team_title_label": "Заголовок страницы",
+                "team_desc_label": "Описание страницы",
+                "team_desc_placeholder": "Познакомьтесь с командой сообщества.",
+                "team_groups_label": "Группы для отображения",
+                "team_groups_help": "Участники выбранных групп будут отображаться на странице команды.",
+                "team_groups_empty": "Группы не найдены."
             }
         },
         "forum": {
@@ -187,22 +187,22 @@
                 "discussion_plural": "дискуссии",
                 "other_tags_label": "Другие теги",
                 "featured": "Избранные",
-                "all_discussions": "Все дискуссии:",
+                "all_discussions": "Все дискуссии",
                 "login_to_view": "Войдите, чтобы открыть ссылку"
             },
             "team": {
-                "title": "",
-                "disabled": "",
-                "empty": "",
-                "no_bio": "",
-                "discussions": "",
-                "posts": "",
-                "member_since": "",
-                "member_singular": "",
-                "member_plural": ""
+                "title": "Наша команда",
+                "disabled": "Эта страница недоступна.",
+                "empty": "Участники не найдены.",
+                "no_bio": "Участник сообщества.",
+                "discussions": "дискуссии",
+                "posts": "сообщения",
+                "member_since": "С",
+                "member_singular": "участник",
+                "member_plural": "участники"
             },
             "link": {
-                "login_to_view": ""
+                "login_to_view": "Войдите, чтобы увидеть ссылку"
             }
         }
     }
