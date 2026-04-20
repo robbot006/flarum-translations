@@ -260,7 +260,7 @@
                     "display_name_heading": "2eb6eb335f898b7a419b073813465d09 2eb6eb335f898b7a419b073813465d09",
                     "display_name_text": "1b33e0e96a129db4f5f9df10a96d8049 bc3e12a29e75715870f616522eb82892",
                     "forum_description_heading": "c99a637fe3ffacadfcf129fe28714833 c99a637fe3ffacadfcf129fe28714833",
-                    "forum_description_text": "e12f3af2c161c3d7a791b56f22dd058f e12f3af2c161c3d7a791b56f22dd058f",
+                    "forum_description_text": "9bc2089d3f6d05262cf845e885658c6c 9bc2089d3f6d05262cf845e885658c6c",
                     "forum_title_heading": "6e46ffd18e29e7d1b91a0fa513702138 6e46ffd18e29e7d1b91a0fa513702138",
                     "home_page_heading": "c84369cb124912750ac1c1982a7b7e05 c84369cb124912750ac1c1982a7b7e05",
                     "home_page_text": "2de9c804cafefa9b6c49512ee56228bd b11a00c556bfce64da1bdfa646431531",
@@ -420,6 +420,13 @@
                         "title": "9d43d1e7ce78740df41a3be04a95e6de 9d43d1e7ce78740df41a3be04a95e6de"
                     },
                     "replaced": "241290bedfc0fa2861003945e9462c53 241290bedfc0fa2861003945e9462c53",
+                    "reset_settings": {
+                        "button": "f4b6dc10180107be1fcf812e07baad4a f4b6dc10180107be1fcf812e07baad4a",
+                        "cancel_button": "4b97278b444c0203fc17d7b93a39f5c7 4b97278b444c0203fc17d7b93a39f5c7",
+                        "confirm_button": "02fa34697a2d64c5c56aa809d6be3be2 02fa34697a2d64c5c56aa809d6be3be2",
+                        "title": "f4b6dc10180107be1fcf812e07baad4a f4b6dc10180107be1fcf812e07baad4a",
+                        "title_extension": "56dd8847ed99dfc21754b2ef42f7286d 56dd8847ed99dfc21754b2ef42f7286d"
+                    },
                     "safe_mode_warning": "e1a2fb3ddf99a4ea6b147a89b1331af0 e1a2fb3ddf99a4ea6b147a89b1331af0"
                 },
                 "extensions-health-widget": {
@@ -595,6 +602,9 @@
             },
             "email": {
                 "abandoned_extensions": {
+                    "body_intro": "2fb2187b159a270c5ceed08eaf8754aa 2fb2187b159a270c5ceed08eaf8754aa",
+                    "line_no_replacement": "ccb5cec02ccb419fb9be3b0ffdb75cde ccb5cec02ccb419fb9be3b0ffdb75cde",
+                    "line_with_replacement": "a141d17054d8751ec96db69c88303368 a141d17054d8751ec96db69c88303368",
                     "subject": "d67da3f2ba191269d159b631c6d774c9 d67da3f2ba191269d159b631c6d774c9"
                 },
                 "activate_account": {

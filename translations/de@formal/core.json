@@ -143,7 +143,7 @@
                 "avatar_driver_heading": "Benutzeravatar",
                 "avatar_driver_text": "Wähle einen Treiber aus, der für die Avatare der Benutzer verwendet werden soll, wenn kein vom Benutzer hochgeladener Avatar verfügbar ist. Standardmäßig wird kein Avatar angezeigt, wenn ein Benutzer keinen hochgeladen hat.",
                 "forum_description_heading": "Forumbeschreibung",
-                "forum_description_text": "Kurze Beschreibung des Forums. Diese erscheint in den Meta-Tags für Suchmaschinen.",
+                "forum_description_text": "Kurze Beschreibung des Forums. Diese erscheint in den Meta-Tags und wird in Suchmaschinen angezeigt.",
                 "forum_title_heading": "Forumtitel",
                 "home_page_heading": "Startseite",
                 "home_page_text": "Wählen Sie die Seite aus, die Benutzer beim Besuch des Forums zuerst sehen.",
@@ -340,12 +340,12 @@
                 },
                 "replaced": "Ersetzt",
                 "reset_settings": {
-                    "button": "",
-                    "cancel_button": "",
-                    "confirm_button": "",
+                    "button": "Einstellungen zurücksetzen",
+                    "cancel_button": "Abbrechen",
+                    "confirm_button": "Zurücksetzen",
                     "warning": "",
-                    "title": "",
-                    "title_extension": ""
+                    "title": "Einstellungen zurücksetzen",
+                    "title_extension": "Einstellungen für {extensionTitle} zurücksetzen"
                 },
                 "safe_mode_warning": "Der abgesicherte Modus ist derzeit aktiviert. Erweiterungen werden nicht gestartet, sodass auf ihre Einstellungen nicht zugegriffen werden kann."
             },
@@ -1059,10 +1059,10 @@
             },
             "abandoned_extensions": {
                 "subject": "Aktion erforderlich: Verwaiste Erweiterung(en) erkannt",
-                "body_intro": "",
+                "body_intro": "Folgende installierte Erweiterung(en) wurde(n) als veraltet markiert:",
                 "body_outro": "",
-                "line_with_replacement": "",
-                "line_no_replacement": ""
+                "line_with_replacement": "{package} (vorgeschlagener Ersatz: {replacement})",
+                "line_no_replacement": "{package} (Kein Ersatz verfügbar)"
             }
         },
         "ref": {
