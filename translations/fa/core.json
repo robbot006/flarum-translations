@@ -133,7 +133,7 @@
                 "default_language_heading": "زبان پیشفرض",
                 "description": "عنوان انجمن ، زبان و سایر تنظیمات اساسی خود را تنظیم کنید.",
                 "display_name_driver_options": {
-                    "username": ""
+                    "username": "نام کاربری"
                 },
                 "display_name_heading": "نام نمایشی کاربر",
                 "display_name_text": "درایوری را که باید برای نام‌های نمایشی کاربران استفاده شود انتخاب کنید. به طور پیش فرض ، نام کاربری نشان داده می شود.",
@@ -154,7 +154,7 @@
                         "utf8": ""
                     },
                     "users": {
-                        "default": "",
+                        "default": "نام کاربری",
                         "id": "",
                         "id_with_display_name": ""
                     }
@@ -341,7 +341,7 @@
                 "replaced": "",
                 "reset_settings": {
                     "button": "",
-                    "cancel_button": "",
+                    "cancel_button": "لغو",
                     "confirm_button": "",
                     "warning": "",
                     "title": "",
@@ -834,13 +834,13 @@
                 },
                 "posts": {
                     "discussion": {
-                        "key": "",
+                        "key": "بحث",
                         "hint": ""
                     }
                 },
                 "users": {
                     "email": {
-                        "key": "",
+                        "key": "ایمیل",
                         "hint": ""
                     },
                     "group": {
