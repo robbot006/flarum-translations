@@ -19,8 +19,8 @@
                 "section_social": "",
                 "section_people": "",
                 "section_achievements": "",
-                "slide_post_count": "",
-                "slide_discussion_count": "",
+                "slide_post_count": "نوشته‌ها",
+                "slide_discussion_count": "مباحث",
                 "slide_active_days": "",
                 "slide_word_count": "",
                 "slide_most_active_month": "",
@@ -138,7 +138,7 @@
             },
             "metrics": {
                 "post_count": {
-                    "title": "",
+                    "title": "نوشته‌ها",
                     "description": "",
                     "messages": {
                         "tier_1": "",
@@ -149,7 +149,7 @@
                     }
                 },
                 "discussion_count": {
-                    "title": "",
+                    "title": "مباحث",
                     "description": "",
                     "messages": {
                         "tier_1": "",
@@ -280,8 +280,8 @@
                 "title": "",
                 "intro_label": "",
                 "year_in_numbers": "",
-                "posts": "",
-                "discussions": "",
+                "posts": "نوشته‌ها",
+                "discussions": "مباحث",
                 "new_members": "",
                 "busiest_month": "",
                 "busiest_month_desc": "",
