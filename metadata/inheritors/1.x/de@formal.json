@@ -6952,6 +6952,7 @@
                     "expiration_reminder_days_help": "cd3a4338375b2589b2ac5fab4415c3f9 cd3a4338375b2589b2ac5fab4415c3f9",
                     "image_settings_title": "96b22cab664cd1edeb26a54ccf4ccbda 96b22cab664cd1edeb26a54ccf4ccbda",
                     "notifications_title": "17e80d5e0bf38952c3aaf08385fa13fc 17e80d5e0bf38952c3aaf08385fa13fc",
+                    "require_image_approval": "d41d8cd98f00b204e9800998ecf8427e 00fa2a368155a6e38d402a845c7fda29",
                     "show_sponsored_label": "7d41db3195a2619984ec2a84bca06f8d 7d41db3195a2619984ec2a84bca06f8d",
                     "show_sponsored_label_help": "7325578d62bb38c12171438650b7b9cc 7325578d62bb38c12171438650b7b9cc",
                     "sponsored_label_text": "e228e49acfb3a6af50dd03699629b301 e228e49acfb3a6af50dd03699629b301",
