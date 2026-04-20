@@ -33,7 +33,7 @@
                 "limit_pickem_help": "Maximale Anzahl der kommenden Spiele, der letzten Ergebnisse und der Einträge in der Rangliste, die in der Zusammenfassung angezeigt werden sollen (Standard: 5, Mindestanzahl: 3). Erfordert huseyinfiliz/pickem.",
                 "limit_gamepedia_label": "Gamepedia — Maximale Anzahl an Spielen pro Abschnitt",
                 "limit_gamepedia_help": "Maximale Anzahl der Spiele, die in den Bereichen „Meistdiskutiert“ und „Neu hinzugefügt“ angezeigt werden sollen (Standard: 5, Mindestanzahl: 3). Erfordert huseyinfiliz/gamepedia.",
-                "limit_resofire_gamepedia_label": "",
+                "limit_resofire_gamepedia_label": "Resofire Gamepedia – Maximale Anzahl an Spielen pro Abschnitt",
                 "limit_resofire_gamepedia_help": "",
                 "limit_favorites_label": "Lieblingsdiskussionen — maximale Anzahl",
                 "limit_favorites_help": "Maximale Anzahl der anzuzeigenden Lieblingsdiskussionen, sortiert nach Likes / Reaktionen im angegebenen Zeitraum (Standard: 6, Mindestwert: 3). Auf 0 setzen, um die Funktion zu deaktivieren. Verwendet „fof/reactions“, falls aktiviert, andernfalls „flarum/likes“.",
