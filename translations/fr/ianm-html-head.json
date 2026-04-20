@@ -5,8 +5,8 @@
             "help": {
                 "intro": "",
                 "preconnect": "",
-                "cache": "",
-                "pages": "",
+                "cache": "Le code HTML généré est mis en cache lors l'enregistrement. Les modifications prennent effet immédiatement sans qu'il soit nécessaire de vider l'intégralité du cache du site.",
+                "pages": "Chaque élément peut concerner le frontend du forum, le panneau d'administration, ou les deux.",
                 "location": ""
             },
             "table": {
@@ -23,8 +23,8 @@
                 "header_label": "En-tête"
             },
             "modal": {
-                "create_title": "Créer un nouvel élément",
-                "edit_title": "Modifier un élément",
+                "create_title": "Créer un élément d'en-tête",
+                "edit_title": "Modifier un élément d'en-tête",
                 "description_label": "Description",
                 "description_help": "",
                 "type_label": "Type",
@@ -68,9 +68,9 @@
                     "extras_remove": "Supprimer"
                 },
                 "script": {
-                    "external_label": "",
+                    "external_label": "Externe (src)",
                     "inline_label": "Dans la ligne",
-                    "src_label": "",
+                    "src_label": "src=\"\" (URL)",
                     "inline_content_label": "Contenu du script",
                     "defer_label": "",
                     "defer_help": "",
@@ -83,11 +83,11 @@
                 },
                 "style": {
                     "inline_label": "Contenu CSS",
-                    "inline_help": ""
+                    "inline_help": "Appliqué globalement à toutes les pages ciblées par cet élément. Veillez à ce que les règles soient précises afin d'éviter tout effet indésirable."
                 },
                 "raw": {
                     "content_label": "HTML",
-                    "help_text": ""
+                    "help_text": "Saisissez du code HTML brut. Des indications de préconnexion sont générées automatiquement pour tous les liens inter-origines ou balises de script détectés ici. L'ordre de tri et l'activation/désactivation fonctionnent normalement, mais les fonctionnalités spécifiques à certains types (fetchpriority, defer, etc.) ne sont pas disponibles — utilisez un type structuré si vous en avez besoin."
                 },
                 "preview_label": "Prévisualiser",
                 "preview_empty": "Remplissez les champs ci-dessus pour obtenir un aperçu.",
