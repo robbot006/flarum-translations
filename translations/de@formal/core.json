@@ -43,12 +43,12 @@
                 "title": "Grundeinstellungen",
                 "welcome_banner_heading": "Willkommensnachricht",
                 "welcome_banner_text": "Legen Sie den Text fest, der auf der Seite \"Alle Diskussionen\" erscheint, um Besucher zu begrüßen.",
-                "abandoned_extensions_heading": "",
-                "abandoned_extensions_text": "",
-                "abandoned_extensions_sync_button": "",
-                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_heading": "Verwaiste Erweiterungen",
+                "abandoned_extensions_text": "Flarum führt eine <a>Community-Liste verwaister Erweiterungen</a>. Wenn eine installierte Erweiterung auf dieser Liste erscheint, wird sie im Admin-Panel markiert.",
+                "abandoned_extensions_sync_button": "Jetzt prüfen",
+                "abandoned_extensions_sync_success": "Liste der verwaisten Erweiterungen wurde aktualisiert. {count} installierte Erweiterung(en) wurden gefunden.",
                 "abandoned_extensions_sync_error": "Das Abrufen der Liste verwaister Erweiterungen ist fehlgeschlagen. Bitte versuchen Sie es später erneut.",
-                "abandoned_extensions_notify_admins_label": ""
+                "abandoned_extensions_notify_admins_label": "Administratoren per E-Mail benachrichtigen, wenn bei der wöchentlichen Prüfung eine neue verwaiste Erweiterung erkannt wird"
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -203,7 +203,7 @@
                     "discussion": "Diskussion",
                     "feature": "Funktionen",
                     "formatting": "Formatierung",
-                    "forum-widget": "",
+                    "forum-widget": "Forum-Widgets",
                     "language": "Sprachen",
                     "moderation": "Moderation",
                     "other": "Sonstige Erweiterungen",
@@ -729,10 +729,10 @@
                 "body": "Sehr geehrte/r {username},\n\ndies ist eine Test-E-Mail zur Überprüfung, ob Ihre Flarum-E-Mail-Konfiguration korrekt funktioniert.\n\nFalls Sie es waren, dann zeigt diese E-Mail an, dass Ihre Konfiguration funktioniert.\n\nFalls Sie es nicht waren, ignorieren Sie bitte diese E-Mail.\n"
             },
             "abandoned_extensions": {
-                "subject": "",
+                "subject": "Aktion erforderlich: Verwaiste Erweiterung(en) erkannt",
                 "body": "Hallo {username},\n\nDie folgenden installierte(n) Erweiterung(en) wurden als verwaist markiert:\n\n{extensions}\n\nBitte überprüfen Sie diese Erweiterungen und erwägen Sie den Wechsel zu Alternativen, sofern verfügbar.\n",
-                "line_with_replacement": "",
-                "line_no_replacement": ""
+                "line_with_replacement": "- {package} (empfohlener Ersatz: {replacement})",
+                "line_no_replacement": "- {package} (kein Ersatz verfügbar)"
             }
         },
         "ref": {
