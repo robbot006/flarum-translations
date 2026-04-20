@@ -50,17 +50,17 @@
                 "meta": {
                     "variant_label": "Variante",
                     "name_label": "name=\"\"",
-                    "property_label": "",
+                    "property_label": "property=\"\" (Open Graph)",
                     "content_label": "Contenu"
                 },
                 "link": {
                     "rel_label": "rel=\"\"",
                     "href_label": "href=\"\" (URL)",
-                    "as_label": "",
+                    "as_label": "as=\"\"",
                     "as_help": "",
                     "crossorigin_label": "",
                     "crossorigin_help": "",
-                    "fetchpriority_label": "",
+                    "fetchpriority_label": "fetchpriority=\"\"",
                     "fetchpriority_default": "",
                     "fetchpriority_help": "",
                     "extras_label": "Attributs supplémentaires",
@@ -76,7 +76,7 @@
                     "defer_help": "",
                     "async_label": "async",
                     "async_help": "Le script s'exécute dès son téléchargement, sans tenir compte de l'ordre. Cette option est particulièrement adaptée aux scripts autonomes, tels que les scripts d'analyse.",
-                    "module_label": "",
+                    "module_label": "type=\"module\"",
                     "module_help": "",
                     "crossorigin_label": "",
                     "crossorigin_help": "Requis lors du chargement de scripts provenant d'un autre domaine nécessitant un accès CORS."
