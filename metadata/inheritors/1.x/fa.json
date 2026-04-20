@@ -1705,7 +1705,14 @@
                 },
                 "index": {
                     "categories_link": "0c7b698f7d106139cedf2a20a258eb29 0c7b698f7d106139cedf2a20a258eb29"
+                },
+                "stat-widgets": {
+                    "discussion_label": "20e066e3f358e704a5ea44dc430d44c4 20e066e3f358e704a5ea44dc430d44c4",
+                    "post_label": "eab630a0b5ac90496e3b140ab0bba3e4 eab630a0b5ac90496e3b140ab0bba3e4"
                 }
+            },
+            "ref": {
+                "categories": "72989e615ac0961093fccadc0c3cad74 72989e615ac0961093fccadc0c3cad74"
             }
         }
     },

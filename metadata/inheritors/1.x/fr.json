@@ -3277,8 +3277,8 @@
             "admin": {
                 "settings": {
                     "decimal_places": {
-                        "help": "d41d8cd98f00b204e9800998ecf8427e 31aeb6f48cb14f73b50b4454de1d95e2",
-                        "label": "d41d8cd98f00b204e9800998ecf8427e 0528e5a6c7f6ff8d289379f8ec613ca0"
+                        "help": "e588b7ff70d40bb59e61bca1663fd4f9 31aeb6f48cb14f73b50b4454de1d95e2",
+                        "label": "0528e5a6c7f6ff8d289379f8ec613ca0 0528e5a6c7f6ff8d289379f8ec613ca0"
                     }
                 }
             },
