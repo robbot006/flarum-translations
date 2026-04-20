@@ -164,12 +164,12 @@
                 "title": "Pengaturan Dasar",
                 "welcome_banner_heading": "Banner Selamat Datang",
                 "welcome_banner_text": "Konfigurasikan teks yang ditampilkan dalam banner di halaman Semua Diskusi. Gunakan ini untuk menyambut tamu yang datang ke forum Anda.",
-                "abandoned_extensions_heading": "",
-                "abandoned_extensions_text": "",
-                "abandoned_extensions_sync_button": "",
-                "abandoned_extensions_sync_success": "",
-                "abandoned_extensions_sync_error": "",
-                "abandoned_extensions_notify_admins_label": ""
+                "abandoned_extensions_heading": "Ekstensi yang Telah Ditinggalkan",
+                "abandoned_extensions_text": "Flarum mengelola <a>daftar ekstensi komunitas yang telah ditinggalkan</a>. Jika sebuah ekstensi yang terpasang muncul dalam daftar tersebut, ekstensi tersebut akan ditandai di panel admin.",
+                "abandoned_extensions_sync_button": "Periksa Sekarang",
+                "abandoned_extensions_sync_success": "Daftar ekstensi yang ditinggalkan telah diperbarui. Ditemukan {count} ekstensi terinstal.",
+                "abandoned_extensions_sync_error": "Gagal mengambil daftar ekstensi yang ditinggalkan. Silakan coba lagi nanti.",
+                "abandoned_extensions_notify_admins_label": "Kirim email ke admin saat ekstensi yang baru ditinggalkan terdeteksi selama pemeriksaan mingguan"
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -377,7 +377,7 @@
                     "discussion": "Diskusi",
                     "feature": "Fitur",
                     "formatting": "Pengaturan format",
-                    "forum-widget": "",
+                    "forum-widget": "Widget Forum",
                     "infrastructure": "",
                     "language": "Bahasa",
                     "moderation": "Moderasi",
@@ -1058,7 +1058,7 @@
                 "body": ""
             },
             "abandoned_extensions": {
-                "subject": "",
+                "subject": "Tindakan yang diperlukan: terdeteksi ekstensi yang ditinggalkan",
                 "body_intro": "",
                 "body_outro": "",
                 "line_with_replacement": "",

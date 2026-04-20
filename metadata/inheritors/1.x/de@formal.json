@@ -94,6 +94,12 @@
                     "title": "fc046794f634c3ce35bb219f61e666c5 fc046794f634c3ce35bb219f61e666c5"
                 },
                 "basics": {
+                    "abandoned_extensions_heading": "a457f080c3310b404f014db3cdc684f0 a457f080c3310b404f014db3cdc684f0",
+                    "abandoned_extensions_notify_admins_label": "37c4e29adbdfc38e0014611aa1d88a7f 37c4e29adbdfc38e0014611aa1d88a7f",
+                    "abandoned_extensions_sync_button": "5c3738f31d129fedea257a6a64369c2c 5c3738f31d129fedea257a6a64369c2c",
+                    "abandoned_extensions_sync_error": "28223b806a679e07575258da8f7e9e45 28223b806a679e07575258da8f7e9e45",
+                    "abandoned_extensions_sync_success": "5db0c83584ed51b10b25e99fd52d174a 5db0c83584ed51b10b25e99fd52d174a",
+                    "abandoned_extensions_text": "48e79d558f4068d50abc27fcc156eec5 48e79d558f4068d50abc27fcc156eec5",
                     "all_discussions_label": "fa93b126d1b9a3781a8facaff4f045ff fa93b126d1b9a3781a8facaff4f045ff",
                     "default_language_heading": "1b35f9539adda0bc0a1f612aa066966d 1b35f9539adda0bc0a1f612aa066966d",
                     "description": "c4e7224aaafc480cf15bbc5408bcb5b3 c4e7224aaafc480cf15bbc5408bcb5b3",
@@ -249,6 +255,7 @@
                         "discussion": "204a415b6d42dca573f4fd768125df2b 204a415b6d42dca573f4fd768125df2b",
                         "feature": "8f96b9007880dcd8b15648ced9350869 8f96b9007880dcd8b15648ced9350869",
                         "formatting": "9c545327f69f448ebba64bc3ab22c6b3 9c545327f69f448ebba64bc3ab22c6b3",
+                        "forum-widget": "83edb93637ed3a5f394d3b821ad0fc65 83edb93637ed3a5f394d3b821ad0fc65",
                         "language": "bf6c56085d5ba147fe0860211f201685 bf6c56085d5ba147fe0860211f201685",
                         "moderation": "4f4528c10546108f0df9db006600350e 4f4528c10546108f0df9db006600350e",
                         "other": "d1edabf0f2209f387fb00d07803a0dbc d1edabf0f2209f387fb00d07803a0dbc",
@@ -363,6 +370,9 @@
                 }
             },
             "email": {
+                "abandoned_extensions": {
+                    "subject": "d67da3f2ba191269d159b631c6d774c9 d67da3f2ba191269d159b631c6d774c9"
+                },
                 "activate_account": {
                     "subject": "c7a299194e591f0f5490894a4c78b964 c7a299194e591f0f5490894a4c78b964"
                 },

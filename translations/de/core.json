@@ -164,12 +164,12 @@
                 "title": "Grundeinstellungen",
                 "welcome_banner_heading": "Willkommensnachricht",
                 "welcome_banner_text": "Lege den Text fest, der auf der Seite \"Alle Diskussionen\" erscheint, um Besucher zu begrüßen.",
-                "abandoned_extensions_heading": "",
-                "abandoned_extensions_text": "",
-                "abandoned_extensions_sync_button": "",
-                "abandoned_extensions_sync_success": "",
-                "abandoned_extensions_sync_error": "",
-                "abandoned_extensions_notify_admins_label": ""
+                "abandoned_extensions_heading": "Verwaiste Erweiterungen",
+                "abandoned_extensions_text": "Flarum führt eine <a>Community-Liste verwaister Erweiterungen</a>. Wenn eine installierte Erweiterung auf dieser Liste erscheint, wird sie im Admin-Panel markiert.",
+                "abandoned_extensions_sync_button": "Jetzt prüfen",
+                "abandoned_extensions_sync_success": "Liste der verwaisten Erweiterungen wurde aktualisiert. {count} installierte Erweiterung(en) wurden gefunden.",
+                "abandoned_extensions_sync_error": "Das Abrufen der Liste verwaister Erweiterungen ist fehlgeschlagen. Bitte versuche es später erneut.",
+                "abandoned_extensions_notify_admins_label": "Administratoren per E-Mail benachrichtigen, wenn bei der wöchentlichen Prüfung eine neue verwaiste Erweiterung erkannt wird"
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -377,7 +377,7 @@
                     "discussion": "Diskussion",
                     "feature": "Funktionen",
                     "formatting": "Formatierung",
-                    "forum-widget": "",
+                    "forum-widget": "Forum-Widgets",
                     "infrastructure": "Infrastruktur",
                     "language": "Sprachen",
                     "moderation": "Moderation",
@@ -1058,7 +1058,7 @@
                 "body": "Dies ist eine Test-E-Mail, um zu überprüfen, ob deine Flarum-E-Mail-Konfiguration ordnungsgemäß funktioniert.\n\nWenn du der Absender warst, bedeutet diese E-Mail, dass deine Konfiguration funktioniert!\n\nWenn du nicht der Absender warst, ignoriere diese E-Mail bitte.\n"
             },
             "abandoned_extensions": {
-                "subject": "",
+                "subject": "Aktion erforderlich: Verwaiste Erweiterung(en) erkannt",
                 "body_intro": "",
                 "body_outro": "",
                 "line_with_replacement": "",

@@ -164,12 +164,12 @@
                 "title": "Essentiels",
                 "welcome_banner_heading": "Bannière de bienvenue",
                 "welcome_banner_text": "Personnalisez le texte qui s'affiche dans la bannière sur la page de la liste de toutes les discussions. Il vous permet d'accueillir les invités sur votre forum.",
-                "abandoned_extensions_heading": "",
-                "abandoned_extensions_text": "",
-                "abandoned_extensions_sync_button": "",
-                "abandoned_extensions_sync_success": "",
-                "abandoned_extensions_sync_error": "",
-                "abandoned_extensions_notify_admins_label": ""
+                "abandoned_extensions_heading": "Extensions abandonnées",
+                "abandoned_extensions_text": "Flarum tient à jour une <a>liste communautaire des extensions abandonnées</a>. Lorsqu'une extension installée figure sur cette liste, elle est signalée dans le panneau d'administration.",
+                "abandoned_extensions_sync_button": "Vérifier maintenant",
+                "abandoned_extensions_sync_success": "La liste des extensions abandonnées a été mise à jour. {count} extension(s) installée(s) correspondante(s) trouvée(s).",
+                "abandoned_extensions_sync_error": "Impossible de récupérer la liste des extensions abandonnées. Veuillez réessayer plus tard.",
+                "abandoned_extensions_notify_admins_label": "Envoyer un courriel aux administrateurs lorsqu'une extension récemment abandonnée est détectée lors de la vérification hebdomadaire"
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -377,7 +377,7 @@
                     "discussion": "Discussion",
                     "feature": "Fonctionnalités",
                     "formatting": "Mise en page",
-                    "forum-widget": "",
+                    "forum-widget": "Widgets du forum",
                     "infrastructure": "Infrastructure",
                     "language": "Langues",
                     "moderation": "Modération",
@@ -1058,7 +1058,7 @@
                 "body": "Ceci est un courriel de test destiné à vérifier que la configuration de votre messagerie Flarum fonctionne correctement.\n\nSi vous êtes bien le destinataire, ce courriel signifie que votre configuration fonctionne !\n\nSi vous n'êtes pas le destinataire, veuillez ignorer ce courriel.\n"
             },
             "abandoned_extensions": {
-                "subject": "",
+                "subject": "Action requise : extension(s) abandonnée(s) détectée(s)",
                 "body_intro": "",
                 "body_outro": "",
                 "line_with_replacement": "",
