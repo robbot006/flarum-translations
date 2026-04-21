@@ -61,8 +61,8 @@
                     "crossorigin_label": "Ajouter crossorigin=\"anonymous\"",
                     "crossorigin_help": "Requis pour les polices et les scripts chargés à partir d'un autre domaine, afin que le navigateur puisse partager la connexion. Activez cette option si la ressource provient d'une autre origine.",
                     "fetchpriority_label": "fetchpriority=\"\"",
-                    "fetchpriority_default": "",
-                    "fetchpriority_help": "",
+                    "fetchpriority_default": "Par défaut : navigateur",
+                    "fetchpriority_help": "Indication pour le navigateur concernant la priorité relative de cette ressource. haut : charger en priorité (par exemple, une image principale ou une feuille de style critique). bas : charger plus tard (par exemple, une ressource située sous le pli). Ne pas définir pour laisser le navigateur décider lui-même.",
                     "extras_label": "Attributs supplémentaires",
                     "extras_add": "Ajouter un attribut",
                     "extras_remove": "Supprimer"
