@@ -881,6 +881,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-open-collective`](https://weblate.rob006.net/projects/flarum/fof-open-collective) | [`fof/open-collective`](https://github.com/FriendsOfFlarum/open-collective) |
 | [`fof-pages`](https://weblate.rob006.net/projects/flarum/fof-pages) | [`fof/pages`](https://github.com/FriendsOfFlarum/pages) |
 | [`fof-passport`](https://weblate.rob006.net/projects/flarum/fof-passport) | [`fof/passport`](https://github.com/FriendsOfFlarum/passport) |
+| [`fof-photoswipe`](https://weblate.rob006.net/projects/flarum/fof-photoswipe) | [`fof/photoswipe`](https://github.com/FriendsOfFlarum/photoswipe) |
 | [`fof-polls`](https://weblate.rob006.net/projects/flarum/fof-polls) | [`fof/polls`](https://github.com/FriendsOfFlarum/polls) |
 | [`fof-pretty-mail`](https://weblate.rob006.net/projects/flarum/fof-pretty-mail) | [`fof/pretty-mail`](https://github.com/FriendsOfFlarum/pretty-mail) |
 | [`fof-prevent-necrobumping`](https://weblate.rob006.net/projects/flarum/fof-prevent-necrobumping) | [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping) |
