@@ -1,10 +1,10 @@
 {
     "fof-photoswipe": {
         "forum": {
-            "close_title": "",
+            "close_title": "Zamknij",
             "zoom_title": "",
-            "arrow_prev_title": "",
-            "arrow_next_title": "",
+            "arrow_prev_title": "Poprzedni",
+            "arrow_next_title": "Następny",
             "error_msg": ""
         }
     }
