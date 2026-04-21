@@ -700,6 +700,9 @@ return [
 	'fof-links' => [
 		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/links/1.4.0/locale/en.yml',
 	],
+	'fof-mailing' => [
+		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/mailing/1.0.0/resources/locale/en.yml',
+	],
 	'fof-mason' => [
 		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/mason/1.2.1/resources/locale/en.yml',
 	],
