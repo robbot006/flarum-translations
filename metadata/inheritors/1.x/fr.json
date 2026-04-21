@@ -3874,6 +3874,49 @@
             }
         }
     },
+    "fof-mailing.json": {
+        "fof-mailing": {
+            "admin": {
+                "permissions": {
+                    "mail_all": "d41d8cd98f00b204e9800998ecf8427e cc9f294816ab8636819a339929ee7677",
+                    "mail_individual": "d41d8cd98f00b204e9800998ecf8427e 2eacbd5dbaae72ccef8214a0c2288b7f"
+                }
+            },
+            "api": {
+                "no_recipients": "d41d8cd98f00b204e9800998ecf8427e c91fb16f374b9c7c232c5073c8c83cd7"
+            },
+            "email": {
+                "default_subject": "d41d8cd98f00b204e9800998ecf8427e 322775d3288a0c24d266034f3a5dfa8f"
+            },
+            "forum": {
+                "links": {
+                    "mail_all": "d41d8cd98f00b204e9800998ecf8427e 6730fe4ae39562c12d0e9ed3e38351e8",
+                    "mail_individual": "d41d8cd98f00b204e9800998ecf8427e 18cb796cc05be6100559c73d910da403"
+                },
+                "modal_mail": {
+                    "default_subject": "d41d8cd98f00b204e9800998ecf8427e 322775d3288a0c24d266034f3a5dfa8f",
+                    "message_label": "d41d8cd98f00b204e9800998ecf8427e 4c2a8fe7eaf24721cc7a9f0175115bd4",
+                    "recipients_label": "d41d8cd98f00b204e9800998ecf8427e faa842b3eb2c71e1c88a205333626658",
+                    "recipients_placeholder": "d41d8cd98f00b204e9800998ecf8427e 78036358778b456032c7e95331447a7c",
+                    "subject_label": "d41d8cd98f00b204e9800998ecf8427e 982c0fd4875d1c11a584c3ba1f1e36cc",
+                    "submit_button": "d41d8cd98f00b204e9800998ecf8427e 770a1a1e17972d73a5f39914e0d5c6b1",
+                    "title_text": "d41d8cd98f00b204e9800998ecf8427e 85946bb1805667d81b9842edb5d27c61"
+                },
+                "modal_sent": {
+                    "on_its_way": "d41d8cd98f00b204e9800998ecf8427e 8bab369556ef37c95f849d774f53913b",
+                    "title_text": "d41d8cd98f00b204e9800998ecf8427e 7fdc241765864ef28eb5c38310955f20"
+                },
+                "recipient_kinds": {
+                    "email": "d41d8cd98f00b204e9800998ecf8427e d06b5168e9989d2114d3c397015636fb",
+                    "group": "d41d8cd98f00b204e9800998ecf8427e 68afae588b9f5dcf7cb2cb816535c125",
+                    "user": "d41d8cd98f00b204e9800998ecf8427e f628ae7eac054bc61babf042677832ee"
+                }
+            },
+            "ref": {
+                "default_subject": "d41d8cd98f00b204e9800998ecf8427e e2a20866c903b34fa9a10544fa67f118"
+            }
+        }
+    },
     "fof-masquerade.json": {
         "flarum-gdpr": {
             "lib": {
@@ -4403,6 +4446,17 @@
                 "slug": "c4b751c29c85430307bbd34746ead161 c4b751c29c85430307bbd34746ead161",
                 "title": "99fb48ddce014d8ad24810eeb3bfde68 99fb48ddce014d8ad24810eeb3bfde68",
                 "url": "e6b391a8d2c4d45902a23a8b6585703d e6b391a8d2c4d45902a23a8b6585703d"
+            }
+        }
+    },
+    "fof-photoswipe.json": {
+        "fof-photoswipe": {
+            "forum": {
+                "arrow_next_title": "d41d8cd98f00b204e9800998ecf8427e 257a7b4c17035553819990bc73114989",
+                "arrow_prev_title": "d41d8cd98f00b204e9800998ecf8427e 292d37187f30bfe76e7fa34f249fd39d",
+                "close_title": "d41d8cd98f00b204e9800998ecf8427e 7d206237f9912ea010005db2c20b60ce",
+                "error_msg": "d41d8cd98f00b204e9800998ecf8427e 31c834f3d0867d8992d10ef8232d0da2",
+                "zoom_title": "d41d8cd98f00b204e9800998ecf8427e 4252b72e6ebcd4d4b4c2e46a786f03d2"
             }
         }
     },
