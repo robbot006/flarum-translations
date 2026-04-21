@@ -7291,6 +7291,8 @@
                 "settings": {
                     "cache_duration_help": "bc507d62a432652a98af0de0ea885263 bc507d62a432652a98af0de0ea885263",
                     "cache_duration_label": "07229b74b4beba9ab8cb2681c6020b17 07229b74b4beba9ab8cb2681c6020b17",
+                    "classic_look_help": "069dddd49c3108152f46ed53788ae34f 069dddd49c3108152f46ed53788ae34f",
+                    "classic_look_label": "2a9665bcb6e3e1812cfbe91877c62e13 2a9665bcb6e3e1812cfbe91877c62e13",
                     "flush_cache_on_new_registration_help": "eb26b4529c667dbeaf86ca0b5c7e09fe eb26b4529c667dbeaf86ca0b5c7e09fe",
                     "flush_cache_on_new_registration_label": "e30f19e7b28a6e76b875ad1ef9c9be4b e30f19e7b28a6e76b875ad1ef9c9be4b",
                     "widget_helper_text": "951dd8fa44c0b50763d2681d31becc12 951dd8fa44c0b50763d2681d31becc12",
@@ -7311,6 +7313,14 @@
     },
     "fof-forum-stats-widget.json": {
         "fof-forum-stats-widget": {
+            "admin": {
+                "settings": {
+                    "decimal_places": {
+                        "help": "10b3ec62f619785af069f3408c5ef661 10b3ec62f619785af069f3408c5ef661",
+                        "label": "9c3abe4ee276c5bbb88af7e90c7aa5f1 9c3abe4ee276c5bbb88af7e90c7aa5f1"
+                    }
+                }
+            },
             "forum": {
                 "widget": {
                     "stats": {
@@ -8633,6 +8643,17 @@
             },
             "api": {
                 "default-login-button-title": "0215257d16a1b5afb21683c057beebf8 0215257d16a1b5afb21683c057beebf8"
+            }
+        }
+    },
+    "fof-photoswipe.json": {
+        "fof-photoswipe": {
+            "forum": {
+                "arrow_next_title": "cedb8d14a046f6541720d55ef31fdb83 cedb8d14a046f6541720d55ef31fdb83",
+                "arrow_prev_title": "21f83233305a0e9cef8cbefba5387449 21f83233305a0e9cef8cbefba5387449",
+                "close_title": "8311b9b64370db830145f6612a9021fd 8311b9b64370db830145f6612a9021fd",
+                "error_msg": "98eae2aae5f6403a8a14a9ebfdc597fd 98eae2aae5f6403a8a14a9ebfdc597fd",
+                "zoom_title": "955267ecb4d6f406e4e005effe6afb11 955267ecb4d6f406e4e005effe6afb11"
             }
         }
     },

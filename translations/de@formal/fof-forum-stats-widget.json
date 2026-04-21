@@ -3,8 +3,8 @@
         "admin": {
             "settings": {
                 "decimal_places": {
-                    "label": "",
-                    "help": ""
+                    "label": "Dezimalstellen",
+                    "help": "Die Anzahl der anzuzeigenden Dezimalstellen bei großen Zahlen (0–2)."
                 }
             }
         },
