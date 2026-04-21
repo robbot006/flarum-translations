@@ -4406,6 +4406,17 @@
             }
         }
     },
+    "fof-photoswipe.json": {
+        "fof-photoswipe": {
+            "forum": {
+                "arrow_next_title": "cedb8d14a046f6541720d55ef31fdb83 cedb8d14a046f6541720d55ef31fdb83",
+                "arrow_prev_title": "21f83233305a0e9cef8cbefba5387449 21f83233305a0e9cef8cbefba5387449",
+                "close_title": "8311b9b64370db830145f6612a9021fd 8311b9b64370db830145f6612a9021fd",
+                "error_msg": "98eae2aae5f6403a8a14a9ebfdc597fd 98eae2aae5f6403a8a14a9ebfdc597fd",
+                "zoom_title": "955267ecb4d6f406e4e005effe6afb11 955267ecb4d6f406e4e005effe6afb11"
+            }
+        }
+    },
     "fof-polls.json": {
         "fof-polls": {
             "admin": {

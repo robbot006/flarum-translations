@@ -1,11 +1,11 @@
 {
     "fof-photoswipe": {
         "forum": {
-            "close_title": "",
-            "zoom_title": "",
-            "arrow_prev_title": "",
-            "arrow_next_title": "",
-            "error_msg": ""
+            "close_title": "Schließen",
+            "zoom_title": "Zoomen",
+            "arrow_prev_title": "Vorheriges",
+            "arrow_next_title": "Nächstes",
+            "error_msg": "Das Bild kann nicht geladen werden"
         }
     }
 }
