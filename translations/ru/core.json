@@ -48,7 +48,7 @@
                 "abandoned_extensions_sync_button": "Проверить",
                 "abandoned_extensions_sync_success": "Список заброшенных расширений обновлён. Найдено {count} совпадений с установленными.",
                 "abandoned_extensions_sync_error": "Не удалось получить список заброшенных расширений. Попробуйте позже.",
-                "abandoned_extensions_notify_admins_label": "Уведомлять администраторов по почте, если при еженедельной проверке обнаружено новое заброшенное расширение"
+                "abandoned_extensions_notify_admins_label": "Присылать email, если при еженедельной проверке обнаружено новое заброшенное расширение"
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
