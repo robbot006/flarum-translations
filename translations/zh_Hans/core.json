@@ -164,12 +164,12 @@
                 "title": "常规",
                 "welcome_banner_heading": "欢迎横幅",
                 "welcome_banner_text": "横幅文本将显示于「全部讨论」页面顶部，可以用于欢迎论坛访客。",
-                "abandoned_extensions_heading": "",
-                "abandoned_extensions_text": "",
-                "abandoned_extensions_sync_button": "",
-                "abandoned_extensions_sync_success": "",
-                "abandoned_extensions_sync_error": "",
-                "abandoned_extensions_notify_admins_label": ""
+                "abandoned_extensions_heading": "已弃用插件",
+                "abandoned_extensions_text": "Flarum维护了一个<a>已弃用扩展的清单</a>。当安装了列表中的插件时，管理员面板中将标记该插件。",
+                "abandoned_extensions_sync_button": "立即检查",
+                "abandoned_extensions_sync_success": "已弃用插件清单更新完成。已安装插件中，发现{count}个已弃用的。",
+                "abandoned_extensions_sync_error": "已弃用插件清单更新失败。请稍后重试。",
+                "abandoned_extensions_notify_admins_label": "邮件通知管理员每周例行检查时新发现的已弃用插件"
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -340,12 +340,12 @@
                 },
                 "replaced": "替换",
                 "reset_settings": {
-                    "button": "",
-                    "cancel_button": "",
-                    "confirm_button": "",
-                    "warning": "",
-                    "title": "",
-                    "title_extension": ""
+                    "button": "重置设置",
+                    "cancel_button": "取消",
+                    "confirm_button": "重置",
+                    "warning": "该操作无法撤销。下列设置信息将从数据库中永久删除，并重置为默认设置。该插件的数据不会受影响。",
+                    "title": "重置设置",
+                    "title_extension": "重置{extensionTitle}设置"
                 },
                 "safe_mode_warning": "当前已启用安全模式。扩展未启动，因此无法访问其设置。"
             },
@@ -377,7 +377,7 @@
                     "discussion": "讨论",
                     "feature": "功能",
                     "formatting": "格式化",
-                    "forum-widget": "",
+                    "forum-widget": "论坛小组件",
                     "infrastructure": "基础",
                     "language": "语言包",
                     "moderation": "内容审核",
@@ -1058,11 +1058,11 @@
                 "body": "这是一封测试邮件，用于确认您的 Flarum 邮件配置是否工作正常。\n\n如果是您发送的，此邮件表示您的配置工作正常！\n\n如果这不是您本人，请忽略此邮件。\n"
             },
             "abandoned_extensions": {
-                "subject": "",
-                "body_intro": "",
-                "body_outro": "",
-                "line_with_replacement": "",
-                "line_no_replacement": ""
+                "subject": "注意：发现已弃用插件",
+                "body_intro": "下列插件为已弃用插件：",
+                "body_outro": "请检查这些插件，并计划迁移到可用的替代插件。",
+                "line_with_replacement": "{package} （建议的替代插件：{replacement}）",
+                "line_no_replacement": "{package}（暂无可用替代插件）"
             }
         },
         "ref": {
