@@ -863,6 +863,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-impersonate`](https://weblate.rob006.net/projects/flarum2/fof-impersonate) | [`fof/impersonate`](https://github.com/FriendsOfFlarum/impersonate) |
 | [`fof-linguist`](https://weblate.rob006.net/projects/flarum2/fof-linguist) | [`fof/linguist`](https://github.com/FriendsOfFlarum/linguist) |
 | [`fof-links`](https://weblate.rob006.net/projects/flarum2/fof-links) | [`fof/links`](https://github.com/FriendsOfFlarum/links) |
+| [`fof-mailing`](https://weblate.rob006.net/projects/flarum2/fof-mailing) | [`fof/mailing`](https://github.com/FriendsOfFlarum/mailing) |
 | [`fof-masquerade`](https://weblate.rob006.net/projects/flarum2/fof-masquerade) | [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade) |
 | [`fof-merge-discussions`](https://weblate.rob006.net/projects/flarum2/fof-merge-discussions) | [`fof/merge-discussions`](https://github.com/FriendsOfFlarum/merge-discussions) |
 | [`fof-moderator-notes`](https://weblate.rob006.net/projects/flarum2/fof-moderator-notes) | [`fof/moderator-notes`](https://github.com/FriendsOfFlarum/moderator-notes) |
@@ -873,6 +874,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`fof-online-users-widget`](https://weblate.rob006.net/projects/flarum2/fof-online-users-widget) | [`fof/online-users-widget`](https://github.com/FriendsOfFlarum/online-users-widget) |
 | [`fof-open-collective`](https://weblate.rob006.net/projects/flarum2/fof-open-collective) | [`fof/open-collective`](https://github.com/FriendsOfFlarum/open-collective) |
 | [`fof-pages`](https://weblate.rob006.net/projects/flarum2/fof-pages) | [`fof/pages`](https://github.com/FriendsOfFlarum/pages) |
+| [`fof-photoswipe`](https://weblate.rob006.net/projects/flarum2/fof-photoswipe) | [`fof/photoswipe`](https://github.com/FriendsOfFlarum/photoswipe) |
 | [`fof-polls`](https://weblate.rob006.net/projects/flarum2/fof-polls) | [`fof/polls`](https://github.com/FriendsOfFlarum/polls) |
 | [`fof-prevent-necrobumping`](https://weblate.rob006.net/projects/flarum2/fof-prevent-necrobumping) | [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping) |
 | [`fof-profile-image-crop`](https://weblate.rob006.net/projects/flarum2/fof-profile-image-crop) | [`fof/profile-image-crop`](https://github.com/FriendsOfFlarum/profile-image-crop) |
