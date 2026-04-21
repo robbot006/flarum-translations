@@ -1564,6 +1564,9 @@ return [
 	'peruguitar-user-portrait' => [
 		'tag' => 'https://raw.githubusercontent.com/Anexsoft/peruguitar-flarum-ext-user-portrait/1.0.4/locale/en.yml',
 	],
+	'pianotell-flamoji' => [
+		'tag' => 'https://raw.githubusercontent.com/PrimateCoder/flarum-flamoji/v0.1.0/locale/en.yml',
+	],
 	'proxytracer-proxytracer' => [
 		'tag' => 'https://raw.githubusercontent.com/ProxyTracer/flarum-proxytracer/v1.0.0/locale/en.yml',
 		'__builtInLanguages' => [
