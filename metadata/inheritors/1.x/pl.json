@@ -2879,6 +2879,49 @@
             }
         }
     },
+    "fof-mailing.json": {
+        "fof-mailing": {
+            "admin": {
+                "permissions": {
+                    "mail_all": "a128e01e97620e0a04ca1ec0eb33e68a a128e01e97620e0a04ca1ec0eb33e68a",
+                    "mail_individual": "4bf31c4101cc7f8b9c584d71054fb063 4bf31c4101cc7f8b9c584d71054fb063"
+                }
+            },
+            "api": {
+                "no_recipients": "65971a5d8a0e4b0c462f503a31147aa2 65971a5d8a0e4b0c462f503a31147aa2"
+            },
+            "email": {
+                "default_subject": "322775d3288a0c24d266034f3a5dfa8f 322775d3288a0c24d266034f3a5dfa8f"
+            },
+            "forum": {
+                "links": {
+                    "mail_all": "dec6cffa5a8a4e0a0eaf2f06f773d582 dec6cffa5a8a4e0a0eaf2f06f773d582",
+                    "mail_individual": "dec6cffa5a8a4e0a0eaf2f06f773d582 dec6cffa5a8a4e0a0eaf2f06f773d582"
+                },
+                "modal_mail": {
+                    "default_subject": "322775d3288a0c24d266034f3a5dfa8f 322775d3288a0c24d266034f3a5dfa8f",
+                    "message_label": "9e5c8c4c9e5472d38a5ced5d12bc1b90 9e5c8c4c9e5472d38a5ced5d12bc1b90",
+                    "recipients_label": "b8f9f8ef26ab1595a86a2bafd0072b60 b8f9f8ef26ab1595a86a2bafd0072b60",
+                    "recipients_placeholder": "8b44f8867bba1ff14c5e54f6b47b61e4 8b44f8867bba1ff14c5e54f6b47b61e4",
+                    "subject_label": "8af886241037a794f4d4ad4ab8ccf4b5 8af886241037a794f4d4ad4ab8ccf4b5",
+                    "submit_button": "aeba5b89f8ef9eb1e44f6ae6ec7385e9 aeba5b89f8ef9eb1e44f6ae6ec7385e9",
+                    "title_text": "1747039889522b7ada5a836dc523c661 1747039889522b7ada5a836dc523c661"
+                },
+                "modal_sent": {
+                    "on_its_way": "5006bb920e6608ae97e9e24c4a8786c4 5006bb920e6608ae97e9e24c4a8786c4",
+                    "title_text": "0003519768514c686cfa08ea102eaf55 0003519768514c686cfa08ea102eaf55"
+                },
+                "recipient_kinds": {
+                    "email": "1e884e3078d9978e216a027ecd57fb34 1e884e3078d9978e216a027ecd57fb34",
+                    "group": "5ab6d96f04fabaa6a0da4b8be88ee96a 5ab6d96f04fabaa6a0da4b8be88ee96a",
+                    "user": "954b2d4a1f096e1fa9be96ba9e2c3fdc 954b2d4a1f096e1fa9be96ba9e2c3fdc"
+                }
+            },
+            "ref": {
+                "default_subject": "5c339dd7399b4aeb12864a4cc9e4269d 5c339dd7399b4aeb12864a4cc9e4269d"
+            }
+        }
+    },
     "fof-masquerade.json": {
         "flarum-gdpr": {
             "lib": {
