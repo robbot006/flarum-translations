@@ -236,6 +236,9 @@ return [
 	'fof-links' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/links/2.0.0-beta.3/locale/en.yml',
 	],
+	'fof-mailing' => [
+		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/mailing/2.0.0-beta.1/resources/locale/en.yml',
+	],
 	'fof-masquerade' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/masquerade/3.0.0-beta.4/resources/locale/en.yml',
 	],
