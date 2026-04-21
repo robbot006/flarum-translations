@@ -14,7 +14,7 @@
         },
         "forum": {
             "stream": {
-                "noResults": "",
+                "noResults": "In dieser Diskussion gibt es keine Beiträge, auf die die Suchanfrage zutrifft",
                 "unmatchedGap": "",
                 "otherAuthorsGap": ""
             },
