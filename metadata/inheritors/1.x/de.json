@@ -3874,6 +3874,49 @@
             }
         }
     },
+    "fof-mailing.json": {
+        "fof-mailing": {
+            "admin": {
+                "permissions": {
+                    "mail_all": "d41d8cd98f00b204e9800998ecf8427e 0ea57ef472453b8fe43aa3e312fcdffa",
+                    "mail_individual": "d41d8cd98f00b204e9800998ecf8427e 2cc0b918d9168a8f60deaff994ae631c"
+                }
+            },
+            "api": {
+                "no_recipients": "d41d8cd98f00b204e9800998ecf8427e ce6c517b20874097bcd94bfa69910e7c"
+            },
+            "email": {
+                "default_subject": "d41d8cd98f00b204e9800998ecf8427e 322775d3288a0c24d266034f3a5dfa8f"
+            },
+            "forum": {
+                "links": {
+                    "mail_all": "d41d8cd98f00b204e9800998ecf8427e bdabbcc7ae07fcb65154f51330fca56c",
+                    "mail_individual": "d41d8cd98f00b204e9800998ecf8427e 0847bde720e38f506bccf097afd8536c"
+                },
+                "modal_mail": {
+                    "default_subject": "d41d8cd98f00b204e9800998ecf8427e 322775d3288a0c24d266034f3a5dfa8f",
+                    "message_label": "d41d8cd98f00b204e9800998ecf8427e d87d49ade9a44cfe4e05485dd581d4e4",
+                    "recipients_label": "d41d8cd98f00b204e9800998ecf8427e 889e0013996756b3434cb04de2f02c24",
+                    "recipients_placeholder": "d41d8cd98f00b204e9800998ecf8427e 36aac92c861f19b62d3c724ccce869ac",
+                    "subject_label": "d41d8cd98f00b204e9800998ecf8427e 27b0e915af0dde50f2d122b229235d3b",
+                    "submit_button": "d41d8cd98f00b204e9800998ecf8427e c10dbfd82ada39d491ee13697ce3034b",
+                    "title_text": "d41d8cd98f00b204e9800998ecf8427e 244643ea0b3b12c5f2a8c20ffc52946e"
+                },
+                "modal_sent": {
+                    "on_its_way": "d41d8cd98f00b204e9800998ecf8427e 7cfbe5cd0be9afb76e0b2a73a8803b29",
+                    "title_text": "d41d8cd98f00b204e9800998ecf8427e 420849a3b64c2a4a6a2030442efef444"
+                },
+                "recipient_kinds": {
+                    "email": "d41d8cd98f00b204e9800998ecf8427e 082e55a73f10496681c84231dc1c88f7",
+                    "group": "d41d8cd98f00b204e9800998ecf8427e 3b77a53bb0cbab20a1d684f05c5cf8d6",
+                    "user": "d41d8cd98f00b204e9800998ecf8427e b15b7b0340f52d448dc6191fc9317f3a"
+                }
+            },
+            "ref": {
+                "default_subject": "d41d8cd98f00b204e9800998ecf8427e 2b39b8410107fb4c458d5fd964e411b0"
+            }
+        }
+    },
     "fof-masquerade.json": {
         "flarum-gdpr": {
             "lib": {
@@ -5800,7 +5843,7 @@
             "admin": {
                 "settings": {
                     "enable_counter": "d41d8cd98f00b204e9800998ecf8427e 933f532a1056e60467d3d83834e244cb",
-                    "enable_pagination": "d41d8cd98f00b204e9800998ecf8427e c5d733074b3d16d79a837a767b4468b3",
+                    "enable_pagination": "d41d8cd98f00b204e9800998ecf8427e ab74937956d081639042dec5d88840ef",
                     "enable_readmore": "d41d8cd98f00b204e9800998ecf8427e 2c1065ce7bcdab96ba1511a1f4cce206",
                     "section_main": "27014dd1bf5fe7e41ced3bedfc4cd2aa 27014dd1bf5fe7e41ced3bedfc4cd2aa"
                 }
