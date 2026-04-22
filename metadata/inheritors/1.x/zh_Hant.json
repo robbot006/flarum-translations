@@ -5306,6 +5306,17 @@
             }
         }
     },
+    "michaelbelgium-ai-autoreply.json": {
+        "michaelbelgium-ai-autoreply": {
+            "admin": {
+                "settings": {
+                    "api_key_label": "bae9c7eb5eabce9012b84619ff7516b2 bae9c7eb5eabce9012b84619ff7516b2",
+                    "platform_help": "b2bfdb9a696ce17c34e7e1eadf24f174 b2bfdb9a696ce17c34e7e1eadf24f174",
+                    "platform_label": "eaa34c54eaa597f1e5394de2b06023b7 eaa34c54eaa597f1e5394de2b06023b7"
+                }
+            }
+        }
+    },
     "migratetoflarum-fake-data.json": {
         "migratetoflarum-fake-data": {
             "api": {

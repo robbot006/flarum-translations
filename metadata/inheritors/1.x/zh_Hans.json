@@ -6616,6 +6616,38 @@
             }
         }
     },
+    "michaelbelgium-ai-autoreply.json": {
+        "michaelbelgium-ai-autoreply": {
+            "admin": {
+                "permissions": {
+                    "use_chatgpt_assistant_label": "01b3f9a80124fb6814afffebb3618ae6 01b3f9a80124fb6814afffebb3618ae6"
+                },
+                "settings": {
+                    "api_key_help": "6f6af8d1d030ab1b87b52f46dc0c1d41 6f6af8d1d030ab1b87b52f46dc0c1d41",
+                    "api_key_label": "482c9201dd00f4f4aaf04595d490dfca 482c9201dd00f4f4aaf04595d490dfca",
+                    "enable_on_discussion_started_help": "668840c4f3ab9e87eccc7c413c527b9a 668840c4f3ab9e87eccc7c413c527b9a",
+                    "enable_on_discussion_started_label": "11ad4de060d140843bf253faaf12da82 11ad4de060d140843bf253faaf12da82",
+                    "enabled_tags_help": "3f1445a0a4710c953e2cd63e3e3da4e0 3f1445a0a4710c953e2cd63e3e3da4e0",
+                    "enabled_tags_label": "14d342362f66aa86e2aa1c1e11aa1204 14d342362f66aa86e2aa1c1e11aa1204",
+                    "max_tokens_help": "058e59859bb3861c6992eb8e5a98d24c 058e59859bb3861c6992eb8e5a98d24c",
+                    "max_tokens_label": "82972f9ff5ba7b169a736054679b38fb 82972f9ff5ba7b169a736054679b38fb",
+                    "model_help": "49626f9ee17ad145e19e84868c94c66e 49626f9ee17ad145e19e84868c94c66e",
+                    "model_label": "8000f187a5d4f41f098c85c81d0d83d7 8000f187a5d4f41f098c85c81d0d83d7",
+                    "platform_help": "f977c2e37ccc109ea60ea9ac6a7ea160 f977c2e37ccc109ea60ea9ac6a7ea160",
+                    "platform_label": "4981287fe504b9c36ebc2f6d3b2d9911 4981287fe504b9c36ebc2f6d3b2d9911",
+                    "system_prompt_help": "b9a286b98e0b601848278322add60c83 b9a286b98e0b601848278322add60c83",
+                    "system_prompt_label": "862407e44b76141ebf30e065d4bcfe74 862407e44b76141ebf30e065d4bcfe74",
+                    "system_prompt_placeholder": "9107806906b2874f9d86575c9c13d296 9107806906b2874f9d86575c9c13d296",
+                    "temperature_help": "a87428955fe88ed8f52f75756a863273 a87428955fe88ed8f52f75756a863273",
+                    "temperature_label": "c9bf0b889af97ed6328981992a0ff32e c9bf0b889af97ed6328981992a0ff32e",
+                    "user_prompt_badge_help": "a0d4a2afd120f3110375408312ec970a a0d4a2afd120f3110375408312ec970a",
+                    "user_prompt_badge_label": "99700ffdf4161170795caad75c2573ba 99700ffdf4161170795caad75c2573ba",
+                    "user_prompt_help": "955157931ac2b545746bb81228951cb7 955157931ac2b545746bb81228951cb7",
+                    "user_prompt_label": "479d7018d05da88d77c231af54b9f41f 479d7018d05da88d77c231af54b9f41f"
+                }
+            }
+        }
+    },
     "migratetoflarum-fake-data.json": {
         "migratetoflarum-fake-data": {
             "api": {
