@@ -3,10 +3,10 @@
         "admin": {
             "settings": {
                 "section_main": "Einstellungen",
-                "section_pagination": "",
+                "section_pagination": "Paginierung",
                 "enable_readmore": "Weitere Vorschau auf der Profilseite lesen",
-                "enable_readmore_help": "",
-                "enable_pagination": "Paginierung innerhalb von Diskussionen",
+                "enable_readmore_help": "Blendet lange Beiträge auf Profilseiten aus und fügt eine Schaltfläche hinzu, um sie zu erweitern",
+                "enable_pagination": "Fügt Seitennavigation unterhalb der Scrollleiste hinzu",
                 "enable_pagination_help": "",
                 "enable_counter": "Live-Zeichenzähler im Composer",
                 "enable_counter_help": "",
@@ -20,13 +20,13 @@
                 "label": "Zeichen"
             },
             "pager": {
-                "first": "",
-                "prev": "",
-                "next": "",
-                "last": "",
-                "page": "",
-                "go": "",
-                "input_label": ""
+                "first": "Zurück zum Anfang",
+                "prev": "Vorherige Seite",
+                "next": "Nächste Seite",
+                "last": "Gehe zur letzten Seite",
+                "page": "Seite",
+                "go": "Los",
+                "input_label": "Zu Seite wechseln"
             }
         }
     }
