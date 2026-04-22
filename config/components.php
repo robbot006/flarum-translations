@@ -1646,7 +1646,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/rehiy/flarum-reply-to-see/v1.8.0/resources/locale/en.yml',
 	],
 	'resofire-blog-cards' => [
-		'tag' => 'https://raw.githubusercontent.com/ResofireV2/blog-cards/v0.5.2/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/ResofireV2/blog-cards/v2.0.6/locale/en.yml',
 	],
 	'resofire-digest-mail' => [
 		'tag' => 'https://raw.githubusercontent.com/ResofireV2/digest-mail/v0.3.6/locale/en.yml',
