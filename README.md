@@ -1296,7 +1296,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`tryhackx-advanced-pages`](https://weblate.rob006.net/projects/flarum/tryhackx-advanced-pages) | [`tryhackx/flarum-advanced-pages`](https://github.com/TryHackX/flarum-advanced-pages) |
 | [`umhelper-oauth-clerk`](https://weblate.rob006.net/projects/flarum/umhelper-oauth-clerk) | [`umhelper/oauth-clerk`](https://github.com/UMHelper/flarum-ext-oauth-clerk) |
 | [`v17development-blog`](https://weblate.rob006.net/projects/flarum/v17development-blog) | [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog) |
-| [`v17development-seo`](https://weblate.rob006.net/projects/flarum/v17development-seo) | [`v17development/flarum-seo`](https://github.com/FriendsOfFlarum/flarum-seo) |
+| [`v17development-seo`](https://weblate.rob006.net/projects/flarum/v17development-seo) | [`v17development/flarum-seo`](https://github.com/FriendsOfFlarum/seo) |
 | [`v17development-user-badges`](https://weblate.rob006.net/projects/flarum/v17development-user-badges) | [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges) |
 | [`vlssu-cravatar`](https://weblate.rob006.net/projects/flarum/vlssu-cravatar) | [`vlssu/flarum-cravatar`](https://github.com/vlssu/flarum-cravatar) |
 | [`walsgit-discussion-cards`](https://weblate.rob006.net/projects/flarum/walsgit-discussion-cards) | [`walsgit/flarum-discussion-cards`](https://github.com/WalsGit/flarum-discussion-cards) |
