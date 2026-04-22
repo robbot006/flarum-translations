@@ -2,19 +2,19 @@
     "michaelbelgium-ai-autoreply": {
         "admin": {
             "settings": {
-                "platform_label": "",
-                "platform_help": "",
-                "api_key_label": "",
-                "api_key_help": "",
-                "model_label": "",
+                "platform_label": "Plateforme",
+                "platform_help": "Sélectionnez la plateforme d'IA à utiliser.",
+                "api_key_label": "Clé API",
+                "api_key_help": "Récupérez la clé API de <a>{platform}</a>.",
+                "model_label": "Modèle",
                 "model_help": "",
-                "max_tokens_label": "",
-                "max_tokens_help": "",
-                "temperature_label": "",
+                "max_tokens_label": "Nombre maximal de jetons",
+                "max_tokens_help": "<a>Qu'est-ce que les jetons et comment les compter?</a>",
+                "temperature_label": "Température",
                 "temperature_help": "",
-                "user_prompt_label": "",
+                "user_prompt_label": "Assistance utilisateur",
                 "user_prompt_help": "",
-                "system_prompt_label": "",
+                "system_prompt_label": "Instruction système",
                 "system_prompt_help": "",
                 "system_prompt_placeholder": "",
                 "user_prompt_badge_label": "",
@@ -25,7 +25,7 @@
                 "enabled_tags_help": ""
             },
             "permissions": {
-                "use_chatgpt_assistant_label": ""
+                "use_chatgpt_assistant_label": "Utiliser l'assistant IA"
             }
         }
     }
