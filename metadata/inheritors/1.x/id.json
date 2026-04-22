@@ -3865,6 +3865,49 @@
             }
         }
     },
+    "fof-mailing.json": {
+        "fof-mailing": {
+            "admin": {
+                "permissions": {
+                    "mail_all": "eab90bd841f6f96c41e16437b0c81cd9 eab90bd841f6f96c41e16437b0c81cd9",
+                    "mail_individual": "213fe6006a2fdabe77637139e38f878c 213fe6006a2fdabe77637139e38f878c"
+                }
+            },
+            "api": {
+                "no_recipients": "bcba7a36f09081020205dde755e6cd4a bcba7a36f09081020205dde755e6cd4a"
+            },
+            "email": {
+                "default_subject": "322775d3288a0c24d266034f3a5dfa8f 322775d3288a0c24d266034f3a5dfa8f"
+            },
+            "forum": {
+                "links": {
+                    "mail_all": "1acd9ce798c20a684b1931f0a6c6af5c 1acd9ce798c20a684b1931f0a6c6af5c",
+                    "mail_individual": "7eaabaa18e80bd3d0753ff6c14c67488 7eaabaa18e80bd3d0753ff6c14c67488"
+                },
+                "modal_mail": {
+                    "default_subject": "322775d3288a0c24d266034f3a5dfa8f 322775d3288a0c24d266034f3a5dfa8f",
+                    "message_label": "23062ba790a281d963b33bf7dd92c00d 23062ba790a281d963b33bf7dd92c00d",
+                    "recipients_label": "b4f2530feabd4e234fc31c4c8853a914 b4f2530feabd4e234fc31c4c8853a914",
+                    "recipients_placeholder": "66bbdc626e127ebaf6e377ed5af55968 66bbdc626e127ebaf6e377ed5af55968",
+                    "subject_label": "ca7c689181a281332ce596611542730d ca7c689181a281332ce596611542730d",
+                    "submit_button": "fe319105a464d7a5958aa161814a5bc0 fe319105a464d7a5958aa161814a5bc0",
+                    "title_text": "4fdb012f069a264001535984eb974da3 4fdb012f069a264001535984eb974da3"
+                },
+                "modal_sent": {
+                    "on_its_way": "c71e2c85c556610542181ccf75cfd682 c71e2c85c556610542181ccf75cfd682",
+                    "title_text": "341709b1e03c5b682c2083fa5be3e2bc 341709b1e03c5b682c2083fa5be3e2bc"
+                },
+                "recipient_kinds": {
+                    "email": "ce8ae9da5b7cd6c3df2929543a9af92d ce8ae9da5b7cd6c3df2929543a9af92d",
+                    "group": "c64bbc2e7f518ab88313aaf50430140d c64bbc2e7f518ab88313aaf50430140d",
+                    "user": "a354cc9430dd4275b30e7c923f8cd049 a354cc9430dd4275b30e7c923f8cd049"
+                }
+            },
+            "ref": {
+                "default_subject": "731bc99020e0795ce821bb1478c1ac74 731bc99020e0795ce821bb1478c1ac74"
+            }
+        }
+    },
     "fof-masquerade.json": {
         "flarum-gdpr": {
             "lib": {
@@ -3886,6 +3929,7 @@
                 },
                 "fields": {
                     "add": "51a4dbe29a1567319e4f95b2acb43719 51a4dbe29a1567319e4f95b2acb43719",
+                    "delete-confirmation": "799aa5350003b5dd2f365b6adb37e79c 799aa5350003b5dd2f365b6adb37e79c",
                     "description": "cb53f6b3f5ad0514ed3360b67b636d8a cb53f6b3f5ad0514ed3360b67b636d8a",
                     "description-help": "a2b0797d5f47c910a32825a663e26aac a2b0797d5f47c910a32825a663e26aac",
                     "edit": "93d9efb51629e2aab33d3ffa253fadf2 93d9efb51629e2aab33d3ffa253fadf2",
@@ -4391,6 +4435,17 @@
                 "slug": "0c908588520b3ef787bce443fc2b507c 0c908588520b3ef787bce443fc2b507c",
                 "title": "268dc1262e7244020a3aab8960edc777 268dc1262e7244020a3aab8960edc777",
                 "url": "e6b391a8d2c4d45902a23a8b6585703d e6b391a8d2c4d45902a23a8b6585703d"
+            }
+        }
+    },
+    "fof-photoswipe.json": {
+        "fof-photoswipe": {
+            "forum": {
+                "arrow_next_title": "c8e24bb4cfdb3531b9a6d06d95e9691c c8e24bb4cfdb3531b9a6d06d95e9691c",
+                "arrow_prev_title": "02df4b70631603141470658e520a8d38 02df4b70631603141470658e520a8d38",
+                "close_title": "348c435b9b2147a88ebf4ea448cf9a0c 348c435b9b2147a88ebf4ea448cf9a0c",
+                "error_msg": "2e44a6240389903c5f7f711d1ac4b274 2e44a6240389903c5f7f711d1ac4b274",
+                "zoom_title": "7efc5f61da76dab59178268561b65249 7efc5f61da76dab59178268561b65249"
             }
         }
     },
