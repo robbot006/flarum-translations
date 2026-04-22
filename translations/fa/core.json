@@ -83,15 +83,15 @@
                     "backoff_help": ""
                 },
                 "search": {
-                    "section_label": "",
-                    "driver_heading": "",
+                    "section_label": "جستجوی درایورها",
+                    "driver_heading": "جستجوی درایور: {model}",
                     "driver_text": "",
                     "driver_options": {
                         "default": ""
                     },
                     "no_other_drivers": ""
                 },
-                "title": ""
+                "title": "پیشرفته"
             },
             "appearance": {
                 "allow_user_color_scheme_label": "",
@@ -352,8 +352,8 @@
             "header": {
                 "get_help": "کمک بگیرید",
                 "log_out_button": "=> core.ref.log_out",
-                "search_placeholder": "",
-                "search_role_label": ""
+                "search_placeholder": "جستجو...",
+                "search_role_label": "جستجو"
             },
             "loading": {
                 "title": "لطفا صبر کنید ..."
@@ -889,7 +889,7 @@
             "search": {
                 "gambit_plus_button_a11y_label": "",
                 "gambit_minus_button_a11y_label": "",
-                "title": "",
+                "title": "جستجو",
                 "no_results_text": "",
                 "no_search_text": "",
                 "options_heading": "",
