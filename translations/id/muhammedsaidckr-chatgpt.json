@@ -40,12 +40,12 @@
                 "fetch_models_error": "Gagal mengambil model. Silakan periksa pengaturan API key dan base URI Anda.",
                 "models_last_fetched": "Terakhir diperbarui: {date}",
                 "models_never_fetched": "Model belum pernah diambil. Klik tombol di atas untuk mengambil model terbaru.",
-                "custom_model_label": "",
-                "custom_model_help": "",
-                "gpt5_reasoning_effort_label": "",
-                "gpt5_reasoning_effort_help": "",
-                "gpt5_verbosity_label": "",
-                "gpt5_verbosity_help": ""
+                "custom_model_label": "Nama Model Custom",
+                "custom_model_help": "Masukkan nama model custom untuk mengganti pilihan pada menu dropdown di atas (misalnya: deepseek-chat, llama3). Biarkan kosong untuk menggunakan model yang dipilih.",
+                "gpt5_reasoning_effort_label": "Upaya Penalaran GPT-5",
+                "gpt5_reasoning_effort_help": "Mengontrol tingkat penalaran yang dilakukan GPT-5 sebelum menjawab. (minimal, rendah, sedang, tinggi)",
+                "gpt5_verbosity_label": "Tingkat Detail Output GPT-5",
+                "gpt5_verbosity_help": "Mengontrol panjang dan detail respons GPT-5. (rendah, sedang, tinggi)"
             },
             "permissions": {
                 "use_chatgpt_assistant_label": "Gunakan ChatGPT Assistant"
