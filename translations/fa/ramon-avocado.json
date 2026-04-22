@@ -10,7 +10,7 @@
                 "section_auth": "",
                 "auth_image_label": "",
                 "auth_image_help": "",
-                "section_search": "",
+                "section_search": "جستجو",
                 "section_posts": "نوشته‌ها",
                 "banner_image_label": "",
                 "banner_image_help": "",
@@ -89,7 +89,7 @@
                 "placeholder": ""
             },
             "search": {
-                "title": "",
+                "title": "جستجو",
                 "placeholder": "",
                 "placeholder_hero": "",
                 "hero_title": "",
@@ -97,7 +97,7 @@
                 "tab_discussions": "مباحث",
                 "tab_posts": "نوشته‌ها",
                 "tab_users": "",
-                "search_button": "",
+                "search_button": "جستجو",
                 "clear": "",
                 "sort_relevance": "",
                 "sort_latest": "",
@@ -114,7 +114,7 @@
             },
             "header": {
                 "back_home": "",
-                "search": "",
+                "search": "جستجو",
                 "or": ""
             },
             "discussion": {
