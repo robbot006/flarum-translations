@@ -404,6 +404,9 @@ return [
 	'justoverclock-welcomebox' => [
 		'tag' => 'https://raw.githubusercontent.com/justoverclockl/flarum-ext-welcomebox/3.0.0/locale/en.yml',
 	],
+	'michaelbelgium-ai-autoreply' => [
+		'tag' => 'https://raw.githubusercontent.com/MichaelBelgium/flarum-ai-autoreply/v2.0.0/locale/en.yml',
+	],
 	'migratetoflarum-fake-data' => [
 		'beta' => 'https://raw.githubusercontent.com/migratetoflarum/fake-data/2.0.0-beta.1/resources/locale/en.yml',
 	],
