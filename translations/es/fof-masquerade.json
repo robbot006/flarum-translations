@@ -22,7 +22,6 @@
             }
         },
         "admin": {
-            "general-options": "Configuración",
             "buttons": {
                 "add-field": "Crear campo",
                 "edit-field": "Guardar cambios",
@@ -50,6 +49,7 @@
                 "icon": "Icono",
                 "icon-help": "Introduce el nombre de alguna clase de <a>FontAwesome</a>, <em>incluyendo</em> el prefijo <code>fas fa-</code>.\n",
                 "force-user-to-completion": "Obligar al usuario a completar el perfil",
+                "hide-empty-fields": "",
                 "options": "Opciones",
                 "option-new": "Nueva opción",
                 "option-comma-warning": "La etiqueta de cualquier opción no puede contener comas (\",\").",
@@ -61,7 +61,8 @@
                 "email": "Email",
                 "select": "Desplegable",
                 "url": "URL"
-            }
+            },
+            "general-options": "Configuración"
         },
         "lib": {
             "gambits": {
