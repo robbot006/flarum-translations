@@ -2,25 +2,25 @@
     "ekumanov-post-search": {
         "admin": {
             "settings": {
-                "dropdownAccess": "",
-                "dropdownAccessHelp": "",
-                "sideNavAccess": "",
-                "sideNavAccessHelp": "",
-                "authorQuickFilter": "",
-                "authorQuickFilterHelp": "",
-                "originalPosterBadge": "",
-                "originalPosterBadgeHelp": ""
+                "dropdownAccess": "Zugriff über das Dropdown-Menü „Diskussion“",
+                "dropdownAccessHelp": "Zeige in der Dropdown-Liste der Diskussionssteuerelemente die Schaltfläche „Diskussion durchsuchen“ an.",
+                "sideNavAccess": "Zugriff über die Seitenleiste im Diskussionsbereich",
+                "sideNavAccessHelp": "Zeige in der Diskussions-Seitenleiste eine Schaltfläche „Diskussion durchsuchen“ an.",
+                "authorQuickFilter": "Schnellfilter für den Verfasser des Beitrags",
+                "authorQuickFilterHelp": "Füge zu den Steuerelementen jedes Beitrags einen Schnellzugriff hinzu, um nach diesem Autor zu filtern.",
+                "originalPosterBadge": "Schnellzugriff auf Diskussionsstarter",
+                "originalPosterBadgeHelp": "Zeige neben den Beiträgen des Verfassers eine anklickbare Beschriftung „Diskussionsstarter“ an. Durch Anklicken wird der Feed auf diesen Benutzer gefiltert."
             }
         },
         "forum": {
             "stream": {
                 "noResults": "In dieser Diskussion gibt es keine Beiträge, auf die die Suchanfrage zutrifft",
-                "unmatchedGap": "",
-                "otherAuthorsGap": ""
+                "unmatchedGap": "{count, plural, one {Ein nicht passender Beitrag wurde ausgeblendet} other {{count} nicht passende Beiträge wurden ausgeblendet}}",
+                "otherAuthorsGap": "{count, plural, one {Ein Beitrag eines anderen Autors ausgeblendet} other {{count} Beiträge anderer Autoren ausgeblendet}}"
             },
             "toolbar": {
-                "searchPlaceholder": "",
-                "authorPlaceholder": "",
+                "searchPlaceholder": "Diskussion durchsuchen…",
+                "authorPlaceholder": "Nach Autor filtern…",
                 "summary": "",
                 "pin": "",
                 "close": "",
