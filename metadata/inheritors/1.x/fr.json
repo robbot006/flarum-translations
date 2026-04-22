@@ -6539,6 +6539,27 @@
             }
         }
     },
+    "michaelbelgium-ai-autoreply.json": {
+        "michaelbelgium-ai-autoreply": {
+            "admin": {
+                "permissions": {
+                    "use_chatgpt_assistant_label": "d41d8cd98f00b204e9800998ecf8427e 8c220ab62cfd29a76be001858a388543"
+                },
+                "settings": {
+                    "api_key_help": "d41d8cd98f00b204e9800998ecf8427e 9a0d304b6d99e3750da271a61188f2e7",
+                    "api_key_label": "d41d8cd98f00b204e9800998ecf8427e fcd9dd34060a1a15b9c0befa207f2c69",
+                    "max_tokens_help": "d41d8cd98f00b204e9800998ecf8427e 75582183dd15afb80b0aaecc961505d5",
+                    "max_tokens_label": "d41d8cd98f00b204e9800998ecf8427e fdf90fb55e01e2a0481182ed2c7a556b",
+                    "model_label": "d41d8cd98f00b204e9800998ecf8427e df696df198707592f832b15537228f11",
+                    "platform_help": "d41d8cd98f00b204e9800998ecf8427e 55aa90184e469c8e53e8102e7fadb11a",
+                    "platform_label": "d41d8cd98f00b204e9800998ecf8427e cbc8c37b00540755508db46776ef8d6e",
+                    "system_prompt_label": "d41d8cd98f00b204e9800998ecf8427e d5ff102c070d3429f5a1c6e53fdc874c",
+                    "temperature_label": "d41d8cd98f00b204e9800998ecf8427e 2677394722d06d292cf70efba0da2d1b",
+                    "user_prompt_label": "d41d8cd98f00b204e9800998ecf8427e d0619acea2cd0483df98fd0de6fb37fd"
+                }
+            }
+        }
+    },
     "migratetoflarum-fake-data.json": {
         "migratetoflarum-fake-data": {
             "api": {
