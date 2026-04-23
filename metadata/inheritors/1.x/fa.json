@@ -2995,6 +2995,16 @@
             "uploaded": "55521bdba7be8627084e66e9555aae1f 55521bdba7be8627084e66e9555aae1f"
         }
     },
+    "walsgit-recycle-bin.json": {
+        "walsgit-recycle-bin": {
+            "admin": {
+                "discussion_id": "d41d8cd98f00b204e9800998ecf8427e b46d538ced7d104344243b1e7efc2849",
+                "post": {
+                    "id": "d41d8cd98f00b204e9800998ecf8427e b46d538ced7d104344243b1e7efc2849"
+                }
+            }
+        }
+    },
     "yippy-auth-ldap.json": {
         "yippy-auth-ldap": {
             "forum": {
