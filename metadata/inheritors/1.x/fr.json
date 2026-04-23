@@ -6555,7 +6555,10 @@
                     "platform_label": "d41d8cd98f00b204e9800998ecf8427e cbc8c37b00540755508db46776ef8d6e",
                     "system_prompt_label": "d41d8cd98f00b204e9800998ecf8427e d5ff102c070d3429f5a1c6e53fdc874c",
                     "temperature_label": "d41d8cd98f00b204e9800998ecf8427e 2677394722d06d292cf70efba0da2d1b",
-                    "user_prompt_label": "d41d8cd98f00b204e9800998ecf8427e d0619acea2cd0483df98fd0de6fb37fd"
+                    "user_prompt_badge_help": "d41d8cd98f00b204e9800998ecf8427e f0bd7b9797a12692d676458d4139e462",
+                    "user_prompt_badge_label": "d41d8cd98f00b204e9800998ecf8427e 55347a9e92feb3dd00bfa3cd404fd09b",
+                    "user_prompt_help": "d41d8cd98f00b204e9800998ecf8427e cd22bd3745f20ab112b268afefcf7186",
+                    "user_prompt_label": "d41d8cd98f00b204e9800998ecf8427e f17989ad027a6da780426880860211d5"
                 }
             }
         }
