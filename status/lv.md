@@ -502,7 +502,7 @@
 	<tr>
 		<td>
 			<span title="Compatible with recent Flarum">🟢</span>
-			<a href="https://github.com/FriendsOfFlarum/flarum-seo" title="v17development/flarum-seo"><code>v17development/flarum-seo</code></a>
+			<a href="https://github.com/FriendsOfFlarum/seo" title="v17development/flarum-seo"><code>v17development/flarum-seo</code></a>
 		</td>
 		<td align="center">44<br /><img src="https://img.shields.io/badge/--1-brightgreen" alt="-1" title="Change from last week"></td>
 		<td align="center"><a href="https://packagist.org/packages/v17development/flarum-seo/stats">96,809<br /><img src="https://img.shields.io/badge/-%2B441-brightgreen" alt="+441" title="Change from last week"></a></td>
