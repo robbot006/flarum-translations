@@ -155,7 +155,7 @@
                     },
                     "users": {
                         "default": "نام کاربری",
-                        "id": "",
+                        "id": "شناسه",
                         "id_with_display_name": ""
                     }
                 },
