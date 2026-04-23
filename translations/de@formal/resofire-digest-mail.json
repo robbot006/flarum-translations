@@ -49,10 +49,10 @@
                 "queue_name_help": "Die benannte Warteschlange, in die die Digest-Jobs verschoben werden. Muss mit dem Argument „--queue“ in deinem Cron-Eintrag „queue:work“ übereinstimmen. Standard: digest.",
                 "limit_members_label": "Neue Mitglieder — maximale Anzahl",
                 "limit_members_help": "Maximale Anzahl neuer Mitglieder, die in der Zusammenfassung angezeigt werden sollen.",
-                "hot_reply_weight_label": "",
-                "hot_reply_weight_help": "",
-                "hot_recency_weight_label": "",
-                "hot_recency_weight_help": "",
+                "hot_reply_weight_label": "Beliebtheitsbewertung — Gewichtung von Antworten",
+                "hot_reply_weight_help": "Wie stark jede Antwort in die Beliebtheitsbewertung einer Diskussion einfließt. Je höher der Wert, desto stärker wird die Bewertung von den Antworten bestimmt.",
+                "hot_recency_weight_label": "Beliebtheitsbewertung — Gewichtung von Aktualität",
+                "hot_recency_weight_help": "Wie stark sich die Aktualität auf die Beliebtheit auswirkt. Je höher der Wert, desto stärker werden neuere Beiträge gewichtet. Setze den Wert auf 0, um die Rangfolge ausschließlich nach Antworten zu bestimmen.",
                 "featured_discussion_label": "ID einer empfohlenen Diskussion",
                 "featured_discussion_help": "Gib eine Diskussions-ID ein, um die Diskussion als „Empfohlene Diskussion“ oben in jeder Zusammenfassung anzuzeigen. Lasse das Feld leer, wenn keine empfohlene Diskussion angezeigt werden soll.",
                 "send_hour_label": "Versandzeit",
@@ -86,13 +86,13 @@
                 "theme_light_only": "Nur Heller Modus – installiere und aktiviere „fof/nightmode“, um E-Mails im dunklen Modus freizuschalten"
             },
             "onboarding": {
-                "section_heading": "",
-                "mode_label": "",
-                "mode_help": "",
-                "mode_none": "",
-                "mode_auto_enroll": "",
-                "mode_opt_in_modal": "",
-                "frequency_label": "",
+                "section_heading": "Einführung für neue Benutzer",
+                "mode_label": "Einführungsmodus",
+                "mode_help": "Legt fest, wie neue Benutzer bei der Aktivierung ihres Kontos für die Zusammenfassungs-E-Mails angemeldet werden.",
+                "mode_none": "Keine Voreinstellung — die Benutzer wählen ihre eigenen Einstellungen",
+                "mode_auto_enroll": "Neue Benutzer automatisch anmelden",
+                "mode_opt_in_modal": "Modalfenster zum Anmelden anzeigen",
+                "frequency_label": "Häufigkeit der automatischen Anmeldung",
                 "frequency_help": ""
             }
         },
@@ -100,37 +100,37 @@
             "subject": "",
             "heading": "",
             "stats": {
-                "posts": "",
-                "discussions": "",
-                "new_members": "",
-                "active_users": ""
+                "posts": "Beiträge",
+                "discussions": "Diskussionen",
+                "new_members": "Neue Mitglieder",
+                "active_users": "Aktive Benutzer"
             },
             "featured": {
-                "author_label": "",
+                "author_label": "Verfasser",
                 "badge": "",
                 "cta": ""
             },
             "sections": {
-                "new_discussions": "",
-                "active_discussions": "",
+                "new_discussions": "Neue Diskussionen",
+                "active_discussions": "Aktive Diskussionen",
                 "unread": "",
-                "new_members": "",
-                "leaderboard": "",
-                "badges": "",
+                "new_members": "Neue Mitglieder",
+                "leaderboard": "Rangliste",
+                "badges": "Abzeichen",
                 "pickem": "",
-                "gamepedia": "",
+                "gamepedia": "Gamepedia",
                 "favorites": ""
             },
             "members": {
-                "joined": ""
+                "joined": "{time_ago} beigetreten"
             },
             "leaderboard": {
                 "rankings_note": "",
-                "col_rank": "",
-                "col_member": "",
-                "col_move": "",
+                "col_rank": "#",
+                "col_member": "Mitglied",
+                "col_move": "Verschieben",
                 "col_score": "",
-                "new_badge": "",
+                "new_badge": "NEU",
                 "biggest_mover": "",
                 "spot_singular": "",
                 "spot_plural": ""
@@ -152,9 +152,9 @@
                 "draw": "",
                 "leaderboard_heading": "",
                 "col_rank": "",
-                "col_player": "",
-                "col_pts": "",
-                "col_accuracy": ""
+                "col_player": "Spieler",
+                "col_pts": "Pkt",
+                "col_accuracy": "Genauigkeit"
             },
             "gamepedia": {
                 "most_discussed": "",
@@ -169,14 +169,14 @@
             },
             "awards": {
                 "coming_soon": "",
-                "categories": "",
+                "categories": "Kategorien",
                 "front_runners": "",
                 "voting_closed": "",
                 "tallying": "",
                 "cta_vote": "",
                 "cta_nominees": "",
-                "cta_view": "",
-                "cta_results": ""
+                "cta_view": "Auszeichnungen ansehen",
+                "cta_results": "Vollständige Ergebnisse ansehen"
             },
             "footer": {
                 "unsubscribe": ""
@@ -187,26 +187,26 @@
             "heading": "",
             "greeting": "",
             "click_hint": "",
-            "daily_title": "",
-            "daily_desc": "",
-            "weekly_title": "",
-            "weekly_desc": "",
-            "monthly_title": "",
-            "monthly_desc": "",
-            "off_title": "",
-            "off_desc": ""
+            "daily_title": "Täglich",
+            "daily_desc": "Eine E-Mail pro Tag mit den neuesten Aktivitäten.",
+            "weekly_title": "Wöchentlich",
+            "weekly_desc": "Eine wöchentliche Zusammenfassung jeden {day}.",
+            "monthly_title": "Monatlich",
+            "monthly_desc": "Eine monatliche Zusammenfassung am {day} jedes Monats.",
+            "off_title": "Aus",
+            "off_desc": "Schick mir keine E-Mail-Zusammenfassung."
         },
         "unsubscribe_saved": {
-            "page_title": "",
-            "heading": "",
-            "body": "",
-            "return_link": ""
+            "page_title": "Einstellungen gespeichert",
+            "heading": "Einstellungen gespeichert",
+            "body": "Deine Einstellungen für die E-Mail-Zusammenfassung wurden erfolgreich aktualisiert.",
+            "return_link": "Zurück zu {forum}"
         },
         "unsubscribe_invalid": {
-            "page_title": "",
-            "heading": "",
-            "body_expired": "",
-            "body_signin": ""
+            "page_title": "Ungültiger oder veralteter Link",
+            "heading": "Dieser Link ist nicht mehr gültig",
+            "body_expired": "Dieser Abmeldelink ist entweder abgelaufen (Links sind 90 Tage lang gültig) oder wurde bereits verwendet. In jeder Zusammenfassungs-E-Mail, die wir dir senden, findest du einen neuen Link.",
+            "body_signin": "Um deine Einstellungen für die Zusammenfassung zu verwalten, melde dich bei {forum} an und rufe deine Benachrichtigungseinstellungen auf."
         }
     }
 }
