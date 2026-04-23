@@ -97,8 +97,8 @@
             }
         },
         "email": {
-            "subject": "",
-            "heading": "",
+            "subject": "{forum} — Deine {frequency} Zusammenfassung",
+            "heading": "Was gab es in dieser {period} Neues?",
             "stats": {
                 "posts": "Beiträge",
                 "discussions": "Diskussionen",
@@ -107,8 +107,8 @@
             },
             "featured": {
                 "author_label": "Verfasser",
-                "badge": "",
-                "cta": ""
+                "badge": "Hervorgehoben",
+                "cta": "Diskutiere mit"
             },
             "sections": {
                 "new_discussions": "Neue Diskussionen",
@@ -117,58 +117,58 @@
                 "new_members": "Neue Mitglieder",
                 "leaderboard": "Rangliste",
                 "badges": "Abzeichen",
-                "pickem": "",
+                "pickem": "Pick'em",
                 "gamepedia": "Gamepedia",
-                "favorites": ""
+                "favorites": "Lieblingsdiskussionen"
             },
             "members": {
                 "joined": "{time_ago} beigetreten"
             },
             "leaderboard": {
-                "rankings_note": "",
+                "rankings_note": "Ranglisten basieren auf der Gesamtpunktzahl, die durch Beiträge, Diskussionen, Likes, Abzeichen und tägliche Anmeldungen erzielt wurde.",
                 "col_rank": "#",
                 "col_member": "Mitglied",
                 "col_move": "Verschieben",
-                "col_score": "",
+                "col_score": "Punkte",
                 "new_badge": "NEU",
-                "biggest_mover": "",
-                "spot_singular": "",
-                "spot_plural": ""
+                "biggest_mover": "Stärkster Aufsteiger in dieser {period}",
+                "spot_singular": "Platz",
+                "spot_plural": "Plätze"
             },
             "badges": {
-                "intro": "",
+                "intro": "Mitglieder, die in dieser {period} Abzeichen verdient haben.",
                 "most_earned": "",
-                "earned_count_singular": "",
-                "earned_count_plural": "",
-                "rarest": "",
-                "rarest_count_singular": "",
-                "rarest_count_plural": ""
+                "earned_count_singular": "{count} Mal verdient in dieser {period}",
+                "earned_count_plural": "{count} Mal verdient in dieser {period}",
+                "rarest": "Seltenstes verliehenes Abzeichen",
+                "rarest_count_singular": "Nur {count} Mitglieder haben dieses Abzeichen",
+                "rarest_count_plural": "Nur {count} Mitglieder haben dieses Abzeichen"
             },
             "pickem": {
-                "upcoming_heading": "",
+                "upcoming_heading": "Bevorstehende Spiele",
                 "upcoming_note": "",
                 "cta": "",
-                "results_heading": "",
-                "draw": "",
-                "leaderboard_heading": "",
-                "col_rank": "",
+                "results_heading": "Aktuelle Ergebnisse",
+                "draw": "Unentschieden",
+                "leaderboard_heading": "Pick'em Rangliste",
+                "col_rank": "#",
                 "col_player": "Spieler",
                 "col_pts": "Pkt",
                 "col_accuracy": "Genauigkeit"
             },
             "gamepedia": {
                 "most_discussed": "",
-                "newly_added": "",
-                "cta": ""
+                "newly_added": "Neu hinzugefügt",
+                "cta": "Gamepedia durchsuchen"
             },
             "resofire_gamepedia": {
-                "most_discussed": "",
-                "newly_added": "",
+                "most_discussed": "Meistdiskutiert in dieser {period}",
+                "newly_added": "Neu hinzugefügt",
                 "top_genres": "",
-                "cta": ""
+                "cta": "Gamepedia durchsuchen"
             },
             "awards": {
-                "coming_soon": "",
+                "coming_soon": "Demnächst",
                 "categories": "Kategorien",
                 "front_runners": "",
                 "voting_closed": "",
@@ -183,10 +183,10 @@
             }
         },
         "unsubscribe": {
-            "page_title": "",
-            "heading": "",
-            "greeting": "",
-            "click_hint": "",
+            "page_title": "Einstellungen für die E-Mail-Zusammenfassung",
+            "heading": "Einstellungen für die E-Mail-Zusammenfassung",
+            "greeting": "Hallo, {name}. Wähle aus, wie oft du eine Zusammenfassung der Neuigkeiten aus dem {forum} erhalten möchtest.",
+            "click_hint": "Klicke auf eine Option, um deine Einstellung sofort zu speichern.",
             "daily_title": "Täglich",
             "daily_desc": "Eine E-Mail pro Tag mit den neuesten Aktivitäten.",
             "weekly_title": "Wöchentlich",
