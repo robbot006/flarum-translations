@@ -15,8 +15,8 @@
         "admin": {
             "settings": {
                 "general_heading": "Allgemeine Einstellungen",
-                "days_label": "",
-                "days_help": "",
+                "days_label": "Tage, nach denen eine Diskussion als inaktiv gilt",
+                "days_help": "Diskussionen nach so vielen Tagen seit dem letzten Beitrag als inaktiv markieren. Setzen Sie den Wert auf <code>0</code>, um diese Funktion standardmäßig zu deaktivieren.",
                 "show_discussion_cta_label": "Aufforderung „Neue Diskussion starten“ anzeigen",
                 "show_discussion_cta_help": "",
                 "tags_title": "",
