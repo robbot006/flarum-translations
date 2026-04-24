@@ -4890,6 +4890,57 @@
             }
         }
     },
+    "ianm-syndication.json": {
+        "ianm-syndication": {
+            "admin": {
+                "settings": {
+                    "entries-count": "585e888730697afe75da1fb2757e5175 585e888730697afe75da1fb2757e5175",
+                    "forum-icons": {
+                        "help": "39f35a13c0d652ba1ff4f1cf22bdaebf 39f35a13c0d652ba1ff4f1cf22bdaebf",
+                        "label": "c59bc6a73b542e1153dd11abd3152371 c59bc6a73b542e1153dd11abd3152371"
+                    },
+                    "forum-link-format": {
+                        "help": "0e5876f44610a782c7f877ee2c065aac 0e5876f44610a782c7f877ee2c065aac",
+                        "label": "60a35932ee0b8b42e517d5c5e1690f55 60a35932ee0b8b42e517d5c5e1690f55"
+                    },
+                    "full-text": {
+                        "help": "b9884d1e968a342dcdf72b19c08afb3b b9884d1e968a342dcdf72b19c08afb3b",
+                        "label": "4643d18b57583889701cf600d68d0ea0 4643d18b57583889701cf600d68d0ea0"
+                    },
+                    "html": {
+                        "help": "f8ce11acc4a0a36d9877361144643e0a f8ce11acc4a0a36d9877361144643e0a",
+                        "label": "4abd9765b86a7fbfb5d6ef3132840b6a 4abd9765b86a7fbfb5d6ef3132840b6a"
+                    }
+                }
+            },
+            "forum": {
+                "autodiscovery": {
+                    "discussion_last_posts": "6aa76c52df290254d9c16b16944807f0 6aa76c52df290254d9c16b16944807f0",
+                    "forum_activity": "c19c907f04cc27864c3f1e8431eab262 c19c907f04cc27864c3f1e8431eab262",
+                    "forum_new_discussions": "e02b1211b31eb441c31f135b037e2b42 e02b1211b31eb441c31f135b037e2b42",
+                    "tag_activity": "06d931bc4585408057a2a685e65c32b2 06d931bc4585408057a2a685e65c32b2",
+                    "tag_new_discussions": "cc0a35ee7f0bd1ddc9c928f5cbdbcf1a cc0a35ee7f0bd1ddc9c928f5cbdbcf1a"
+                },
+                "discussion": {
+                    "feed_link": "c4771ad3d3f161048c2cd8121541e295 c4771ad3d3f161048c2cd8121541e295"
+                },
+                "feeds": {
+                    "titles": {
+                        "discussion_subtitle": "ad1734006b54cb2ac4d93547937868c2 ad1734006b54cb2ac4d93547937868c2",
+                        "discussion_title": "e8aa8d469bdd8e335b5530558cd7b7de e8aa8d469bdd8e335b5530558cd7b7de",
+                        "main_d_subtitle": "40f6c5237341d045fe5486869c4ae29f 40f6c5237341d045fe5486869c4ae29f",
+                        "main_d_title": "0b6bf687a4a8971bea5c8a5ca9cb1ce9 0b6bf687a4a8971bea5c8a5ca9cb1ce9",
+                        "main_subtitle": "62ff760e87b104ebecca6d985c69f4b2 62ff760e87b104ebecca6d985c69f4b2",
+                        "main_title": "f94412da58d06557a67c507b679213b0 f94412da58d06557a67c507b679213b0",
+                        "tag_d_subtitle": "e9ecc4b101870fa60000c609bd5ff878 e9ecc4b101870fa60000c609bd5ff878",
+                        "tag_d_title": "3e617d9204a36a0833174e454a89d0e2 3e617d9204a36a0833174e454a89d0e2",
+                        "tag_subtitle": "80fb0626c4c807008c2f5baab824c903 80fb0626c4c807008c2f5baab824c903",
+                        "tag_title": "9f5d73674ae2f8c32eef3677137cad05 9f5d73674ae2f8c32eef3677137cad05"
+                    }
+                }
+            }
+        }
+    },
     "ianm-twofactor.json": {
         "flarum-gdpr": {
             "lib": {

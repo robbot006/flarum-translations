@@ -2335,6 +2335,15 @@
             }
         }
     },
+    "ianm-syndication.json": {
+        "ianm-syndication": {
+            "forum": {
+                "autodiscovery": {
+                    "forum_activity": "371ee7d977f7b20045283983ef890cc6 371ee7d977f7b20045283983ef890cc6"
+                }
+            }
+        }
+    },
     "justoverclock-related-discussions.json": {
         "justoverclock-related-discussions": {
             "admin": {

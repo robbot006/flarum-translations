@@ -6410,6 +6410,93 @@
             }
         }
     },
+    "ianm-oauth-reddit.json": {
+        "fof-oauth": {
+            "admin": {
+                "settings": {
+                    "providers": {
+                        "reddit": {
+                            "client_id_label": "76525f0f34b48475e5ca33f71d296f3b 76525f0f34b48475e5ca33f71d296f3b",
+                            "client_secret_label": "1b4739e491387ef5d8a546854308e5fe 1b4739e491387ef5d8a546854308e5fe",
+                            "description": "2276d63ff48cccc0f6f2f3e2db0ca4f9 2276d63ff48cccc0f6f2f3e2db0ca4f9"
+                        }
+                    }
+                }
+            },
+            "forum": {
+                "log_in": {
+                    "with_reddit_button": "625db5950e116b42b8d60e995c02ab39 625db5950e116b42b8d60e995c02ab39"
+                },
+                "providers": {
+                    "reddit": "bc4daa78912f7062fdde64e6d19d9c2d bc4daa78912f7062fdde64e6d19d9c2d"
+                }
+            },
+            "lib": {
+                "providers": {
+                    "reddit": "b632c55a33530d1433e29ffc09ba1151 b632c55a33530d1433e29ffc09ba1151"
+                }
+            }
+        }
+    },
+    "ianm-syndication.json": {
+        "ianm-syndication": {
+            "admin": {
+                "settings": {
+                    "entries-count": "84a70e8050f2e545f829da9a5c76a332 84a70e8050f2e545f829da9a5c76a332",
+                    "forum-icons": {
+                        "help": "10146de2c80ffdf2462864c9b0be4bdc 10146de2c80ffdf2462864c9b0be4bdc",
+                        "label": "a2ab1dc2f1fa34ccd9986266890de87d a2ab1dc2f1fa34ccd9986266890de87d"
+                    },
+                    "forum-link-format": {
+                        "help": "f387706b37347c8f924ecf626137c665 f387706b37347c8f924ecf626137c665",
+                        "label": "4564916e05fc22b497c1bf6ee3ff16a7 4564916e05fc22b497c1bf6ee3ff16a7"
+                    },
+                    "full-text": {
+                        "help": "c07a9beedb92597103d52b3f58989fe1 c07a9beedb92597103d52b3f58989fe1",
+                        "label": "8239fd1fdceada2ffda68cfa4ae24374 8239fd1fdceada2ffda68cfa4ae24374"
+                    },
+                    "html": {
+                        "help": "5565daeb9405f831e7b96e9d0d502ca4 5565daeb9405f831e7b96e9d0d502ca4",
+                        "label": "0b45d5398aef88978dc7888f8b42a82f 0b45d5398aef88978dc7888f8b42a82f"
+                    }
+                }
+            },
+            "forum": {
+                "autodiscovery": {
+                    "discussion_last_posts": "3a444a87a6088861d1c0ed84eb13ece7 3a444a87a6088861d1c0ed84eb13ece7",
+                    "forum_activity": "dc16fd02ec325856e3432d7461448eda dc16fd02ec325856e3432d7461448eda",
+                    "forum_new_discussions": "2d7c43905ae00604d3ef79e2b7ff923c 2d7c43905ae00604d3ef79e2b7ff923c",
+                    "tag_activity": "54c81c62254008305e66d7d21c363f3d 54c81c62254008305e66d7d21c363f3d",
+                    "tag_new_discussions": "ee20a4fee4ec7db3e39140c7be2e9c13 ee20a4fee4ec7db3e39140c7be2e9c13",
+                    "user_last_posts": "8b28e4fb786b81d535e9f63754fb37e0 8b28e4fb786b81d535e9f63754fb37e0"
+                },
+                "discussion": {
+                    "feed_link": "7ead0c0b83cb724260ac265f5a713d01 7ead0c0b83cb724260ac265f5a713d01"
+                },
+                "feeds": {
+                    "entries": {
+                        "user_posts": {
+                            "title_reply": "9fefac8ce6395a8d9d512a9444792561 9fefac8ce6395a8d9d512a9444792561"
+                        }
+                    },
+                    "titles": {
+                        "discussion_subtitle": "2feedbcbc0ccec6171e482850736868a 2feedbcbc0ccec6171e482850736868a",
+                        "discussion_title": "e8aa8d469bdd8e335b5530558cd7b7de e8aa8d469bdd8e335b5530558cd7b7de",
+                        "main_d_subtitle": "6ce07ce5fcb1af8655e8b29e146f0595 6ce07ce5fcb1af8655e8b29e146f0595",
+                        "main_d_title": "1c25327f498bd2eb65b1cb4e9695c60d 1c25327f498bd2eb65b1cb4e9695c60d",
+                        "main_subtitle": "f1867dfa75089dad6bdb833b98e77967 f1867dfa75089dad6bdb833b98e77967",
+                        "main_title": "f94412da58d06557a67c507b679213b0 f94412da58d06557a67c507b679213b0",
+                        "tag_d_subtitle": "df758ef6c692f784285331c5da7f68ce df758ef6c692f784285331c5da7f68ce",
+                        "tag_d_title": "dc951171acfb25c4b5d6eb4f665fed22 dc951171acfb25c4b5d6eb4f665fed22",
+                        "tag_subtitle": "c4700f6bc0fb8aea39d6d043e85dd453 c4700f6bc0fb8aea39d6d043e85dd453",
+                        "tag_title": "fca344b8781297db1c79741ec194181a fca344b8781297db1c79741ec194181a",
+                        "user_subtitle": "b95deb41365da2efcedbe45b64635bde b95deb41365da2efcedbe45b64635bde",
+                        "user_title": "c04cd06704d124ba9ac414758cc9526a c04cd06704d124ba9ac414758cc9526a"
+                    }
+                }
+            }
+        }
+    },
     "ianm-twofactor.json": {
         "flarum-gdpr": {
             "lib": {
