@@ -350,6 +350,12 @@ return [
 	'forumaker-magicslider' => [
 		'tag' => 'https://raw.githubusercontent.com/forumaker/magicslider/2.2.2/resources/locale/en.yml',
 	],
+	'forumaker-profile-cover' => [
+		'tag' => 'https://raw.githubusercontent.com/forumaker/Profile-Cover/2.0.0/resources/locale/en.yml',
+		'__builtInLanguages' => [
+			'ru',
+		],
+	],
 	'forumaker-yandex-oauth' => [
 		'tag' => 'https://raw.githubusercontent.com/forumaker/Yandex-Oauth/2.1.0/resources/locale/en.yml',
 		'__builtInLanguages' => [
