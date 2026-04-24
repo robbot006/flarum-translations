@@ -1,24 +1,24 @@
 {
     "forumaker-profile-cover": {
         "admin": {
-            "thumbnails": "",
-            "thumbnails_help": "",
-            "max_size": "",
+            "thumbnails": "Miniaturansichten erstellen",
+            "thumbnails_help": "Erstellt eine verkleinerte Version des Profiltitelbildes, das in kompakten Ansichten wie Benutzerkarten und Verzeichnislisten verwendet wird",
+            "max_size": "Maximale Größe des Profiltitelbilds (in KB)",
             "permission": {
-                "set_cover": ""
+                "set_cover": "Profiltitelbild festlegen"
             }
         },
         "forum": {
-            "cover": "",
-            "edit_cover": "",
-            "notice": "",
+            "cover": "Profiltitelbild",
+            "edit_cover": "Profiltitelbild bearbeiten",
+            "notice": "Maximale Größe: {size}",
             "added": {
-                "success": "",
-                "error": ""
+                "success": "Profiltitelbild aktualisiert",
+                "error": "Bild konnte nicht hochgeladen werden"
             },
             "removed": {
-                "success": "",
-                "error": ""
+                "success": "Profiltitelbild entfernt",
+                "error": "Profiltitelbild konnte nicht entfernt werden. Bitte versuche es erneut."
             }
         }
     }
