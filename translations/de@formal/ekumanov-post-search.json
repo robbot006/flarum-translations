@@ -21,24 +21,24 @@
             "toolbar": {
                 "searchPlaceholder": "Diskussion durchsuchen…",
                 "authorPlaceholder": "Nach Autor filtern…",
-                "summary": "",
-                "pin": "",
-                "close": "",
-                "clear": ""
+                "summary": "{matching} Treffer von {total}",
+                "pin": "Filter-Symbolleiste in Diskussionen immer öffnen",
+                "close": "Filter löschen und Symbolleiste schließen",
+                "clear": "Filter löschen"
             },
             "discussionControls": {
-                "searchInDiscussion": ""
+                "searchInDiscussion": "Diskussion durchsuchen"
             },
             "postControls": {
-                "authorFilter": ""
+                "authorFilter": "Nur Antworten dieses Autors anzeigen"
             },
             "post": {
-                "opBadge": "",
-                "opBadgeTooltip": ""
+                "opBadge": "Diskussionsstarter",
+                "opBadgeTooltip": "Klicken, um nur Antworten dieses Benutzers anzuzeigen"
             },
             "cannotGoToPost": {
-                "message": "",
-                "action": ""
+                "message": "Kann diesen Beitrag nicht aufrufen",
+                "action": "Versuche, die Filter zurückzusetzen"
             }
         }
     }

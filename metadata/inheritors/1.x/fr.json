@@ -6548,14 +6548,22 @@
                 "settings": {
                     "api_key_help": "d41d8cd98f00b204e9800998ecf8427e 9a0d304b6d99e3750da271a61188f2e7",
                     "api_key_label": "d41d8cd98f00b204e9800998ecf8427e fcd9dd34060a1a15b9c0befa207f2c69",
+                    "enabled_tags_help": "d41d8cd98f00b204e9800998ecf8427e 4677e1deb0ab5287de1abca399a21fb8",
+                    "enabled_tags_label": "d41d8cd98f00b204e9800998ecf8427e 65dfec18a6505659f2213dc4cf90fa9b",
                     "max_tokens_help": "d41d8cd98f00b204e9800998ecf8427e 75582183dd15afb80b0aaecc961505d5",
                     "max_tokens_label": "d41d8cd98f00b204e9800998ecf8427e fdf90fb55e01e2a0481182ed2c7a556b",
+                    "model_help": "d41d8cd98f00b204e9800998ecf8427e 2d7092bed021f6aee5af046086551400",
                     "model_label": "d41d8cd98f00b204e9800998ecf8427e df696df198707592f832b15537228f11",
                     "platform_help": "d41d8cd98f00b204e9800998ecf8427e 55aa90184e469c8e53e8102e7fadb11a",
                     "platform_label": "d41d8cd98f00b204e9800998ecf8427e cbc8c37b00540755508db46776ef8d6e",
                     "system_prompt_label": "d41d8cd98f00b204e9800998ecf8427e d5ff102c070d3429f5a1c6e53fdc874c",
+                    "system_prompt_placeholder": "d41d8cd98f00b204e9800998ecf8427e fd510e494258bbbf9c914db255564a38",
+                    "temperature_help": "d41d8cd98f00b204e9800998ecf8427e d743d018b180b46ee536ac4169514d5b",
                     "temperature_label": "d41d8cd98f00b204e9800998ecf8427e 2677394722d06d292cf70efba0da2d1b",
-                    "user_prompt_label": "d41d8cd98f00b204e9800998ecf8427e d0619acea2cd0483df98fd0de6fb37fd"
+                    "user_prompt_badge_help": "d41d8cd98f00b204e9800998ecf8427e f0bd7b9797a12692d676458d4139e462",
+                    "user_prompt_badge_label": "d41d8cd98f00b204e9800998ecf8427e 55347a9e92feb3dd00bfa3cd404fd09b",
+                    "user_prompt_help": "d41d8cd98f00b204e9800998ecf8427e cd22bd3745f20ab112b268afefcf7186",
+                    "user_prompt_label": "d41d8cd98f00b204e9800998ecf8427e f17989ad027a6da780426880860211d5"
                 }
             }
         }

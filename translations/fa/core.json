@@ -155,7 +155,7 @@
                     },
                     "users": {
                         "default": "نام کاربری",
-                        "id": "",
+                        "id": "شناسه",
                         "id_with_display_name": ""
                     }
                 },
@@ -378,7 +378,7 @@
                     "feature": "امکانات",
                     "formatting": "قالب بندی",
                     "forum-widget": "",
-                    "infrastructure": "",
+                    "infrastructure": "زیرساخت",
                     "language": "زبان ها",
                     "moderation": "مدیریت",
                     "other": "سایر افزونه ها",
@@ -844,7 +844,7 @@
                         "hint": ""
                     },
                     "group": {
-                        "key": "",
+                        "key": "گروه",
                         "hint": ""
                     }
                 }
@@ -892,9 +892,9 @@
                 "title": "جستجو",
                 "no_results_text": "",
                 "no_search_text": "",
-                "options_heading": "",
-                "placeholder": "",
-                "preview_heading": "",
+                "options_heading": "گزینه‌های جستجو",
+                "placeholder": "جستجو...",
+                "preview_heading": "پیش‌نمایش جستجو",
                 "search_clear_button_accessible_label": ""
             },
             "search_source": {
@@ -1006,7 +1006,7 @@
             },
             "unsubscribe_email": {
                 "title": "",
-                "return_to_forum": "",
+                "return_to_forum": "بازگشت به {forumTitle}",
                 "confirm_button": "",
                 "immediate_helptext": "",
                 "confirm_message": "",
@@ -1023,15 +1023,15 @@
             }
         },
         "email": {
-            "greeting": "",
-            "signoff": "",
+            "greeting": "سلام {displayName}،",
+            "signoff": "تیم {forumTitle}",
             "informational": {
                 "default_title": "",
                 "footer": "",
                 "footer_plain": ""
             },
             "notification": {
-                "default_title": "",
+                "default_title": "اطلاعیه",
                 "footer": {
                     "main_text": "",
                     "main_text_plain": "",

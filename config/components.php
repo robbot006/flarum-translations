@@ -204,7 +204,7 @@ return [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/forum-stats-widget/2.0.0-beta.2/locale/en.yml',
 	],
 	'fof-forum-widgets-core' => [
-		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/forum-widgets-core/2.0.0-beta.2/locale/en.yml',
+		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/forum-widgets-core/2.0.0-beta.3/locale/en.yml',
 	],
 	'fof-frontpage' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/frontpage/2.0.0-beta.1/resources/locale/en.yml',
@@ -389,6 +389,9 @@ return [
 	'ianm-log-viewer' => [
 		'beta' => 'https://raw.githubusercontent.com/imorland/flarum-ext-log-viewer/2.0.0-beta.2/locale/en.yml',
 	],
+	'ianm-oauth-reddit' => [
+		'beta' => 'https://raw.githubusercontent.com/imorland/flarum-ext-oauth-reddit/2.0.0-beta.1/locale/en.yml',
+	],
 	'ianm-syndication' => [
 		'beta' => 'https://raw.githubusercontent.com/imorland/syndication/2.0.0-beta.1/resources/locale/en.yml',
 	],
@@ -471,7 +474,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/ResofireV2/digest-mail/v2.2.4/locale/en.yml',
 	],
 	'resofire-discussion-participants' => [
-		'tag' => 'https://raw.githubusercontent.com/ResofireV2/discussion-participants/v2.0.7/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/ResofireV2/discussion-participants/v2.1.0/locale/en.yml',
 	],
 	'resofire-menu-control' => [
 		'tag' => 'https://raw.githubusercontent.com/ResofireV2/menu-control/v2.2.7/resources/locale/en.yml',
@@ -495,7 +498,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/SychO9/flarum-profile-cover/v2.0.0/resources/locale/en.yml',
 	],
 	'tryhackx-advanced-pages' => [
-		'tag' => 'https://raw.githubusercontent.com/TryHackX/flarum-advanced-pages/2.0.2/resources/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/TryHackX/flarum-advanced-pages/2.0.3/resources/locale/en.yml',
 		'__builtInLanguages' => [
 			'pl',
 		],
