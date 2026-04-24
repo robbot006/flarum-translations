@@ -497,6 +497,12 @@ return [
 			'pl',
 		],
 	],
+	'tryhackx-homepage-blocks' => [
+		'tag' => 'https://raw.githubusercontent.com/TryHackX/flarum-homepage-blocks/2.0.3/resources/locale/en.yml',
+		'__builtInLanguages' => [
+			'pl',
+		],
+	],
 	'vlssu-cravatar' => [
 		'tag' => 'https://raw.githubusercontent.com/vlssu/flarum-cravatar/v0.3.0/resources/locale/en.yml',
 		'__builtInLanguages' => [
