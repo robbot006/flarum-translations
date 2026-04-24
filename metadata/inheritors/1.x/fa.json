@@ -1581,6 +1581,18 @@
             }
         }
     },
+    "fof-analytics.json": {
+        "fof-analytics": {
+            "admin": {
+                "popup": {
+                    "section": {
+                        "googleAnalytics": "d41d8cd98f00b204e9800998ecf8427e d86cf69a8b82547a94ca3f6a307cf9a6",
+                        "piwik": "d41d8cd98f00b204e9800998ecf8427e 440e46d0e89145432434f153b8c34fb5"
+                    }
+                }
+            }
+        }
+    },
     "fof-anti-spam.json": {
         "fof-anti-spam": {
             "admin": {
@@ -1612,6 +1624,15 @@
             "forum": {
                 "user": {
                     "cancel": "d41d8cd98f00b204e9800998ecf8427e f7c41ff9d4227cccd24d006bff475ec7"
+                }
+            }
+        }
+    },
+    "fof-best-answer.json": {
+        "fof-best-answer": {
+            "admin": {
+                "settings": {
+                    "documentation": "d41d8cd98f00b204e9800998ecf8427e 583df1b5bd36164747ba763f79920ff9"
                 }
             }
         }
@@ -2427,6 +2448,24 @@
                     "forgot": "1eb31d5ef4f07299a967de5544068940 1eb31d5ef4f07299a967de5544068940",
                     "signin": "635451b1aa6992d3fb7d46a501cfa546 635451b1aa6992d3fb7d46a501cfa546",
                     "signup": "ee92ad3cf509197cabcdd01db6f2677a ee92ad3cf509197cabcdd01db6f2677a"
+                }
+            }
+        }
+    },
+    "fof-rich-text.json": {
+        "fof-rich-text": {
+            "lib": {
+                "composer": {
+                    "insert_button": "d41d8cd98f00b204e9800998ecf8427e 2ab8cd6c642ace706f599f18f0650f51",
+                    "insert_image": {
+                        "src_placeholder": "d41d8cd98f00b204e9800998ecf8427e 0be0b678e9c62b7efcc6b542a551c8b6",
+                        "title_placeholder": "d41d8cd98f00b204e9800998ecf8427e ca9700348cc8d83be60a420f625ff714"
+                    },
+                    "insert_link": {
+                        "href_placeholder": "d41d8cd98f00b204e9800998ecf8427e 52c8263cb0ad65ea9b51d16a12a9e712",
+                        "remove_button": "d41d8cd98f00b204e9800998ecf8427e 3b9854e1bb2b4b1f8b901248d9d16b3b",
+                        "text_placeholder": "d41d8cd98f00b204e9800998ecf8427e 38e921a220d1ac9d8eb0b725cc9f0fba"
+                    }
                 }
             }
         }
