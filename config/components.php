@@ -389,6 +389,9 @@ return [
 	'ianm-log-viewer' => [
 		'beta' => 'https://raw.githubusercontent.com/imorland/flarum-ext-log-viewer/2.0.0-beta.2/locale/en.yml',
 	],
+	'ianm-oauth-reddit' => [
+		'beta' => 'https://raw.githubusercontent.com/imorland/flarum-ext-oauth-reddit/2.0.0-beta.1/locale/en.yml',
+	],
 	'ianm-twofactor' => [
 		'beta' => 'https://raw.githubusercontent.com/imorland/flarum-ext-twofactor/2.0.0-beta.6/locale/en.yml',
 	],
