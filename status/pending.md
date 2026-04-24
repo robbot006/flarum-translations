@@ -250,6 +250,4 @@
 
 ## Dead branches
 
-| Extension | Pull request |
-| --- | --- |
-| `framiodev-upload-exif` | [![#1580 (open)](https://img.shields.io/badge/PR-%231580-brightgreen)](https://github.com/rob006-software/flarum-translations/pull/1580) |
+There are no dead branches.
