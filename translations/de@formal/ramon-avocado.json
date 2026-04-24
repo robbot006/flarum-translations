@@ -26,8 +26,8 @@
                 "show_action_icons_help": "Zeige Font Awesome-Symbole auf den Aktionsschaltflächen „Gefällt mir“ und „Antworten“ an.",
                 "fixed_avatar_effect_label": "Fixierte Avatare aktivieren",
                 "fixed_avatar_effect_help": "Avatar des Beitragsautors beim Scrollen bei längeren Beiträgen auf Desktop am oberen Rand fixieren.",
-                "hero_decoration_icon_label": "",
-                "hero_decoration_icon_help": "",
+                "hero_decoration_icon_label": "Unterthema-Symbol im Diskussions-Hero anzeigen",
+                "hero_decoration_icon_help": "Zeige das Symbol für das Unterthema als großes dekoratives Element auf der rechten Seite der Diskussionsüberschrift an.",
                 "hero_decoration_icon_opacity_label": "Deckkraft des Symbols (0–100)",
                 "hero_decoration_icon_opacity_help": "Stelle die Deckkraft des Dekorationssymbols als Prozentsatz ein. 100 = vollständig deckend, 0 = durchsichtig.",
                 "section_logo": "Logo",
@@ -66,15 +66,15 @@
                 "footer_social": "Social-Media-Links",
                 "footer_show_social": "Social-Media-Links anzeigen",
                 "footer_social_help_json": "Konfiguriere Social-Media-Links im JSON-Format. Verwende folgende Schlüssel: facebook, twitter, linkedin, instagram, youtube.",
-                "section_team": "",
-                "team_enabled_label": "",
-                "team_enabled_help": "",
-                "team_title_label": "",
-                "team_desc_label": "",
-                "team_desc_placeholder": "",
-                "team_groups_label": "",
-                "team_groups_help": "",
-                "team_groups_empty": ""
+                "section_team": "Teamseite",
+                "team_enabled_label": "Teamseite aktivieren",
+                "team_enabled_help": "Zeigt die Seite „/team“ mit den Mitgliedern der ausgewählten Gruppen an.",
+                "team_title_label": "Seitentitel",
+                "team_desc_label": "Seitenbeschreibung",
+                "team_desc_placeholder": "Lerne die Menschen hinter der Community kennen.",
+                "team_groups_label": "Anzuzeigende Gruppen",
+                "team_groups_help": "Die Mitglieder der ausgewählten Gruppen werden auf der Team-Seite angezeigt.",
+                "team_groups_empty": "Keine Gruppen gefunden."
             }
         },
         "forum": {
@@ -82,11 +82,11 @@
                 "share": "Teilen"
             },
             "post_cta": {
-                "text": "",
+                "text": "Gefällt dir, was du siehst? Steig in die Diskussion ein!",
                 "or": "oder"
             },
             "link_cta": {
-                "placeholder": ""
+                "placeholder": "Bitte melde dich an, um den Link anzuzeigen"
             },
             "search": {
                 "title": "Suche",
@@ -99,18 +99,18 @@
                 "tab_users": "Benutzer",
                 "search_button": "Suchen",
                 "clear": "Löschen",
-                "sort_relevance": "",
+                "sort_relevance": "Relevanz",
                 "sort_latest": "Aktuellste",
-                "sort_top": "",
+                "sort_top": "Beliebteste",
                 "sort_newest": "Neueste",
                 "sort_oldest": "Älteste",
-                "no_posts_found": "",
-                "no_posts_match": "",
-                "no_users_found": "",
-                "enter_search_term": "",
-                "posts_for": "",
-                "posts_filtered_by": "",
-                "posts_title": ""
+                "no_posts_found": "Keine Beiträge gefunden für „{q}“.",
+                "no_posts_match": "Keine Beiträge entsprechen diesen Filtern.",
+                "no_users_found": "Keine Benutzer gefunden für „{q}“.",
+                "enter_search_term": "Gib einen Suchbegriff ein, um Benutzer zu finden.",
+                "posts_for": "Beiträge für",
+                "posts_filtered_by": "Beiträge gefiltert nach",
+                "posts_title": "Beitragssuche"
             },
             "header": {
                 "back_home": "Zurück zur Startseite",

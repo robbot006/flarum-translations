@@ -55,7 +55,7 @@
                 "hot_recency_weight_help": "Wie stark sich die Aktualität auf die Beliebtheit auswirkt. Je höher der Wert, desto stärker werden neuere Beiträge gewichtet. Setze den Wert auf 0, um die Rangfolge ausschließlich nach Antworten zu bestimmen.",
                 "featured_discussion_label": "ID einer empfohlenen Diskussion",
                 "featured_discussion_help": "Gib eine Diskussions-ID ein, um die Diskussion als „Empfohlene Diskussion“ oben in jeder Zusammenfassung anzuzeigen. Lasse das Feld leer, wenn keine empfohlene Diskussion angezeigt werden soll.",
-                "send_hour_label": "Versandzeit",
+                "send_hour_label": "Versandstunde",
                 "send_hour_help": "Die Uhrzeit, zu der der Versand der Zusammenfassungs-E-Mails beginnt.",
                 "send_window_start_label": "Versandzeit",
                 "send_window_start_help": "Die Tageszeit, zu der der Versand der Zusammenfassungs-E-Mails beginnt. Wähle eine ruhige Zeit, in der in deinem Forum wenig los ist – in der Regel spätabends oder frühmorgens.",
@@ -70,9 +70,9 @@
             },
             "test_send": {
                 "heading": "Test-E-Mail versenden",
-                "help": "Sendet sofort eine Live-Zusammenfassung per E-Mail an eine beliebige Adresse. Die Inhalte werden anhand der Sichtbarkeit deines Kontos zusammengestellt. Dies hat keine Auswirkungen auf den geplanten Versand oder Abmelde-Token.",
+                "help": "Sendet sofort eine echte Zusammenfassungs-E-Mail an eine beliebige Adresse. Die Inhalte werden anhand der Sichtbarkeit deines Kontos zusammengestellt. Dies hat keine Auswirkungen auf den geplanten Versand oder Abmelde-Token.",
                 "email_placeholder": "empfaenger@beispiel.de",
-                "frequency_label": "Frequenz",
+                "frequency_label": "Häufigkeit",
                 "send_button": "Test-E-Mail versenden",
                 "sending_button": "Wird versendet…",
                 "success": "Gesendet! Schau in das Postfach von {email} für die {frequency} Zusammenfassung.",
@@ -92,8 +92,8 @@
                 "mode_none": "Keine Voreinstellung — die Benutzer wählen ihre eigenen Einstellungen",
                 "mode_auto_enroll": "Neue Benutzer automatisch anmelden",
                 "mode_opt_in_modal": "Modalfenster zum Anmelden anzeigen",
-                "frequency_label": "Häufigkeit der automatischen Anmeldung",
-                "frequency_help": ""
+                "frequency_label": "Häufigkeitswert bei automatischer Anmeldung",
+                "frequency_help": "Die Häufigkeit, mit der neue Benutzer automatisch für den Empfang der Zusammenfassung angemeldet werden. Es stehen nur die Häufigkeiten zur Verfügung, die oben unter Häufigkeitsoptionen aktiviert wurden."
             }
         },
         "email": {
@@ -113,7 +113,7 @@
             "sections": {
                 "new_discussions": "Neue Diskussionen",
                 "active_discussions": "Aktive Diskussionen",
-                "unread": "",
+                "unread": "Das hast du noch nicht gesehen",
                 "new_members": "Neue Mitglieder",
                 "leaderboard": "Rangliste",
                 "badges": "Abzeichen",
@@ -137,7 +137,7 @@
             },
             "badges": {
                 "intro": "Mitglieder, die in dieser {period} Abzeichen verdient haben.",
-                "most_earned": "",
+                "most_earned": "Am häufigsten verdient in dieser {period}",
                 "earned_count_singular": "{count} Mal verdient in dieser {period}",
                 "earned_count_plural": "{count} Mal verdient in dieser {period}",
                 "rarest": "Seltenstes verliehenes Abzeichen",
@@ -146,8 +146,8 @@
             },
             "pickem": {
                 "upcoming_heading": "Bevorstehende Spiele",
-                "upcoming_note": "",
-                "cta": "",
+                "upcoming_note": "Verpasse nicht deine Chance, auszuwählen — die Teilnahmefristen findest du unten.",
+                "cta": "Gib deine Tipps ab",
                 "results_heading": "Aktuelle Ergebnisse",
                 "draw": "Unentschieden",
                 "leaderboard_heading": "Pick'em Rangliste",
@@ -157,29 +157,29 @@
                 "col_accuracy": "Genauigkeit"
             },
             "gamepedia": {
-                "most_discussed": "",
+                "most_discussed": "Meistdiskutiert in dieser {period}",
                 "newly_added": "Neu hinzugefügt",
                 "cta": "Gamepedia durchsuchen"
             },
             "resofire_gamepedia": {
                 "most_discussed": "Meistdiskutiert in dieser {period}",
                 "newly_added": "Neu hinzugefügt",
-                "top_genres": "",
+                "top_genres": "Beliebteste Genres in dieser {period}",
                 "cta": "Gamepedia durchsuchen"
             },
             "awards": {
                 "coming_soon": "Demnächst",
                 "categories": "Kategorien",
-                "front_runners": "",
-                "voting_closed": "",
-                "tallying": "",
-                "cta_vote": "",
-                "cta_nominees": "",
+                "front_runners": "Aktuelle Spitzenreiter",
+                "voting_closed": "Abstimmung ist beendet",
+                "tallying": "Die Ergebnisse werden gerade ausgezählt. Bleibe dran für die Bekanntgabe!",
+                "cta_vote": "Gib deine Stimme ab",
+                "cta_nominees": "Nominierte anzeigen",
                 "cta_view": "Auszeichnungen ansehen",
                 "cta_results": "Vollständige Ergebnisse ansehen"
             },
             "footer": {
-                "unsubscribe": ""
+                "unsubscribe": "Häufigkeit ändern oder abmelden"
             }
         },
         "unsubscribe": {
