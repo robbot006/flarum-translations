@@ -6009,11 +6009,11 @@
                     "days_help": "7d5f516849c9690b356bedb5d3ffb0de cf9274c7e150f8e8cfc26a300b44e002",
                     "days_label": "ff13e7147a268180c32dad28584f8fc2 ff13e7147a268180c32dad28584f8fc2",
                     "general_heading": "02be9999832d9b4f68c22d725bc04789 02be9999832d9b4f68c22d725bc04789",
-                    "show_discussion_cta_help": "2810da70089082ccadf05ad7642b8a07 d41d8cd98f00b204e9800998ecf8427e",
+                    "show_discussion_cta_help": "2810da70089082ccadf05ad7642b8a07 de7786fa0638d965e30e74719ea937ae",
                     "show_discussion_cta_label": "9ee0c93f805f09d36bcc1ef488b90184 9ee0c93f805f09d36bcc1ef488b90184",
-                    "tags_help": "b54b019c1bce091f9c8225210d923791 d41d8cd98f00b204e9800998ecf8427e",
+                    "tags_help": "b54b019c1bce091f9c8225210d923791 0b34e16d7a47bf98b216563b3efc56f1",
                     "tags_placeholder": "eb6d8ae6f20283755b339c0dc273988b eb6d8ae6f20283755b339c0dc273988b",
-                    "tags_title": "c3c882fb2b446969f7aecf0b8f519c2e d41d8cd98f00b204e9800998ecf8427e"
+                    "tags_title": "c3c882fb2b446969f7aecf0b8f519c2e c3c882fb2b446969f7aecf0b8f519c2e"
                 }
             },
             "forum": {
@@ -6021,9 +6021,9 @@
                     "error": "03f6df8ca4bb79b383c8194494c459e8 03f6df8ca4bb79b383c8194494c459e8",
                     "inactive_discussion_alert": {
                         "confirmation": "c39086d220532c2435e1afd8614bba39 c39086d220532c2435e1afd8614bba39",
-                        "cta": "c4e7f4a9fc9ee82febbdbb1af6164888 c4e7f4a9fc9ee82febbdbb1af6164888",
+                        "cta": "c4e7f4a9fc9ee82febbdbb1af6164888 5d96cfb5394bfb2492a2020a9219e0cd",
                         "cta_button": "3390e67d6de88601acefc799b0c6648e 3390e67d6de88601acefc799b0c6648e",
-                        "description": "fe3e168ed8bf9a93d4f8578cc677c194 fe3e168ed8bf9a93d4f8578cc677c194",
+                        "description": "fe3e168ed8bf9a93d4f8578cc677c194 11fa6524df9c00af643e27f0a87fff57",
                         "title": "018e55fb9292f515c680c4993f49e6f9 018e55fb9292f515c680c4993f49e6f9"
                     }
                 }
