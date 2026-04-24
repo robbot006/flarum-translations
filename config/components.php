@@ -498,7 +498,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/WalsGit/recycle-bin/2.0.1/locale/en.yml',
 	],
 	'yannisme-melon' => [
-		'tag' => 'https://raw.githubusercontent.com/yannisme/melon/0.0.7/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/yannisme/melon/0.0.8/locale/en.yml',
 		'__builtInLanguages' => [
 			'zh_Hans',
 		],
