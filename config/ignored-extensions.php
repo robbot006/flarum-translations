@@ -61,6 +61,7 @@ return [
 	'ramesh-dada/flarum-gui-image-and-link',
 	'ramesh-dada/realtime',
 	'nearata/flarum-ext-copy-code-to-clipboard',
+	'clarkwinkelmann/flarum-ext-vote-with-money',
 	/*
 	 * dead/private forks
 	 */
