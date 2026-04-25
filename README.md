@@ -978,6 +978,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`sycho-private-facade`](https://weblate.rob006.net/projects/flarum2/sycho-private-facade) | [`sycho/flarum-private-facade`](https://github.com/SychO9/flarum-private-facade) |
 | [`sycho-profile-cover`](https://weblate.rob006.net/projects/flarum2/sycho-profile-cover) | [`sycho/flarum-profile-cover`](https://github.com/SychO9/flarum-profile-cover) |
 | [`tryhackx-advanced-pages`](https://weblate.rob006.net/projects/flarum2/tryhackx-advanced-pages) | [`tryhackx/flarum-advanced-pages`](https://github.com/TryHackX/flarum-advanced-pages) |
+| [`tryhackx-homepage-blocks`](https://weblate.rob006.net/projects/flarum2/tryhackx-homepage-blocks) | [`tryhackx/flarum-homepage-blocks`](https://github.com/TryHackX/flarum-homepage-blocks) |
 | [`vlssu-cravatar`](https://weblate.rob006.net/projects/flarum2/vlssu-cravatar) | [`vlssu/flarum-cravatar`](https://github.com/vlssu/flarum-cravatar) |
 | [`walsgit-recycle-bin`](https://weblate.rob006.net/projects/flarum2/walsgit-recycle-bin) | [`walsgit/recycle-bin`](https://github.com/WalsGit/recycle-bin) |
 | [`yippy-auth-ldap`](https://weblate.rob006.net/projects/flarum2/yippy-auth-ldap) | [`yippy/flarum-ext-auth-ldap`](https://github.com/Yippy/flarum-ext-auth-ldap) |
