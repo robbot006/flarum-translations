@@ -46,6 +46,8 @@ return [
 	'v17development/flarum-user-badges',
 	// migrated to `fof/*`
 	'clarkwinkelmann/flarum-ext-mailing',
+	// migrated to `fof/*`
+	'sycho/flarum-move-posts',
 	/*
 	 * dead/private forks
 	 */
