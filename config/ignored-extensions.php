@@ -18,8 +18,10 @@ return [
 	'capybash/magicread',
 	'capybash/magicslider',
 	// migrated to `fof/*`
-	'askvortsov/flarum-discussion-templates', // https://github.com/rob006-software/flarum-translations/pull/1443
-	'askvortsov/flarum-moderator-warnings', // https://github.com/rob006-software/flarum-translations/pull/1433
+	'askvortsov/flarum-discussion-templates',
+	'askvortsov/flarum-moderator-warnings',
+	'askvortsov/flarum-checklist',
+	'askvortsov/flarum-categories',
 	// all abandoned by author - https://github.com/rob006-software/flarum-translations/pull/1383
 	'nodeloc/dislikes',
 	'nodeloc/flarum-auto-moderator',

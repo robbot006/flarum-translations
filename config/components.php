@@ -56,12 +56,6 @@ return [
 	'askvortsov-auto-moderator' => [
 		'tag' => 'https://raw.githubusercontent.com/askvortsov1/flarum-automod/v0.1.3/resources/locale/en.yml',
 	],
-	'askvortsov-categories' => [
-		'tag' => 'https://raw.githubusercontent.com/askvortsov1/flarum-categories/v3.1.0/resources/locale/en.yml',
-	],
-	'askvortsov-checklist' => [
-		'tag' => 'https://raw.githubusercontent.com/askvortsov1/flarum-checklist/v1.3.1/resources/locale/en.yml',
-	],
 	'askvortsov-help-tags' => [
 		'tag' => 'https://raw.githubusercontent.com/askvortsov1/flarum-help-tags/v1.1.0/resources/locale/en.yml',
 	],
