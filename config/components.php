@@ -31,9 +31,6 @@ return [
 	'acpl-my-tags' => [
 		'tag' => 'https://raw.githubusercontent.com/android-com-pl/my-tags/1.4.0/locale/en.yml',
 	],
-	'afrux-asirem' => [
-		'afrux-theme-base:tag' => 'https://raw.githubusercontent.com/afrux/flarum-theme-base/v0.1.8/locale/en.yml',
-	],
 	'afrux-forum-stats-widget' => [
 		'tag' => 'https://raw.githubusercontent.com/afrux/forum-stats-widget/v0.1.1/locale/en.yml',
 	],
