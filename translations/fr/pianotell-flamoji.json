@@ -2,9 +2,9 @@
     "pianotell-flamoji": {
         "admin": {
             "settings": {
-                "emoji_settings_heading": "",
-                "category_settings_heading": "",
-                "general_ui_settings_heading": "",
+                "emoji_settings_heading": "Paramètres d'émoji",
+                "category_settings_heading": "Paramètres de catégorie",
+                "general_ui_settings_heading": "Paramètres généraux de l'interface utilisateur",
                 "show_variants_label": "",
                 "show_variants_text": "",
                 "auto_hide_label": "",
