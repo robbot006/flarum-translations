@@ -235,7 +235,7 @@ This repository contains raw translations data used by [Weblate](https://weblate
 	</tr>
 	<tr>
 		<td><a href="https://github.com/flarum-lang/french">French</a></td>
-		<td><a href="https://github.com/qiaeru">qiaeru</a></td>
+		<td><a href="https://github.com/Wlork">Wlork</a></td>
 		<td align="right">
 			<a href="https://rob006-software.github.io/flarum-translations/status/fr.html" title="Click to see detailed translation status for each extension">
 				<img src="https://weblate.rob006.net/widgets/flarum2/fr/svg-badge.svg" alt="detailed translation status" />
