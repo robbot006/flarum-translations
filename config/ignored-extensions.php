@@ -60,6 +60,7 @@ return [
 	'extiverse/mercury',
 	'ramesh-dada/flarum-gui-image-and-link',
 	'ramesh-dada/realtime',
+	'nearata/flarum-ext-copy-code-to-clipboard',
 	/*
 	 * dead/private forks
 	 */
