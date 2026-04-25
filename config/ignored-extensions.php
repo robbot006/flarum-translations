@@ -56,6 +56,7 @@ return [
 	'kyrne/whisper',
 	'xelson/flarum-ext-chat',
 	'malago/flarum-achievements',
+	'extiverse/mercury',
 	/*
 	 * dead/private forks
 	 */
