@@ -51,6 +51,7 @@ return [
 	// abandoned by author
 	'justoverclock/username-blacklist',
 	'justoverclock/flarum-ext-newsletter',
+	'justoverclock/flarum-ext-newsfeed',
 	/*
 	 * dead/private forks
 	 */
