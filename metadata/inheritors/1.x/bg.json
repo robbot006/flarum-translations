@@ -3760,43 +3760,6 @@
             }
         }
     },
-    "sycho-move-posts.json": {
-        "sycho-move-posts": {
-            "admin": {
-                "permissions": {
-                    "move_posts": "138659e3b776e89f9be91923e23291fd 138659e3b776e89f9be91923e23291fd"
-                },
-                "settings": {
-                    "group_sequential_posts": "e1baf83ab26c6b37d0f25f8fb98f5c3c e1baf83ab26c6b37d0f25f8fb98f5c3c",
-                    "moved_first_post_content": "191351c312c1fdd21102c7e9dec47452 191351c312c1fdd21102c7e9dec47452",
-                    "moved_first_post_content_help": "db29af1aeb4a8c5a05fdfe6165655a8a db29af1aeb4a8c5a05fdfe6165655a8a"
-                }
-            },
-            "forum": {
-                "badge": {
-                    "first_moved_tooltip": "425e5347e2eb040f20d41c8cc63adb40 425e5347e2eb040f20d41c8cc63adb40"
-                },
-                "discussion": {
-                    "move_posts": "138659e3b776e89f9be91923e23291fd 138659e3b776e89f9be91923e23291fd"
-                },
-                "error": {
-                    "move_old_post_to_newer_discussion": "28534ab94e1d9b48401a2831e4ba2d74 28534ab94e1d9b48401a2831e4ba2d74"
-                },
-                "modal": {
-                    "check": "fd52720a03848ecc1da492ab9fe6c5ad fd52720a03848ecc1da492ab9fe6c5ad",
-                    "destination": "e6167776e1a913638735158f604d08de e6167776e1a913638735158f604d08de",
-                    "discussion_help": "23b783044f96456faa8e78ae2aa17f3d 23b783044f96456faa8e78ae2aa17f3d",
-                    "discussion_name": "5f93b38d28c94e3aa21b8e2066929348 5f93b38d28c94e3aa21b8e2066929348",
-                    "new_discussion": "bd3516d82ad0c4d1092a4528a467113d bd3516d82ad0c4d1092a4528a467113d",
-                    "selected_posts": "5edeca62212dc2a6f26d6486391a857b 5edeca62212dc2a6f26d6486391a857b",
-                    "status": {
-                        "complex_move": "856708bb99b4ae805cd9b37e0dfbab91 856708bb99b4ae805cd9b37e0dfbab91",
-                        "old_to_new_move": "28534ab94e1d9b48401a2831e4ba2d74 28534ab94e1d9b48401a2831e4ba2d74"
-                    }
-                }
-            }
-        }
-    },
     "sycho-profile-cover.json": {
         "sycho-profile-cover": {
             "admin": {

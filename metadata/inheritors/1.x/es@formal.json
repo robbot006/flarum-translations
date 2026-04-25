@@ -3815,32 +3815,6 @@
             "hcaptcha": "8335f4dda72a92bc7ef9d389bc4e3644 8335f4dda72a92bc7ef9d389bc4e3644"
         }
     },
-    "sycho-move-posts.json": {
-        "sycho-move-posts": {
-            "forum": {
-                "badge": {
-                    "first_moved_tooltip": "bc83b3ff82f9c9274f444096f9a7885b bc83b3ff82f9c9274f444096f9a7885b"
-                },
-                "modal": {
-                    "check": "adc50475f245e11ccee7aa0277950036 adc50475f245e11ccee7aa0277950036",
-                    "destination": "d1e0cee38e20dc0b2ef29aab01f73662 d1e0cee38e20dc0b2ef29aab01f73662",
-                    "new_discussion": "43943de74d7af2c10918aa750eb658cf 43943de74d7af2c10918aa750eb658cf",
-                    "status": {
-                        "simple_move": "fe0d946bca3b5f36cb242d5d3e9fb623 fe0d946bca3b5f36cb242d5d3e9fb623"
-                    },
-                    "submit": "c7c4d0a8f1b69075310936463b2d218a c7c4d0a8f1b69075310936463b2d218a"
-                },
-                "post": {
-                    "move": "64b556b5b1419a2e5948cf9995d322e5 64b556b5b1419a2e5948cf9995d322e5",
-                    "moving": "89bb7b5909563082f9503a638277bc33 89bb7b5909563082f9503a638277bc33",
-                    "unmove": "4c37f95046b72f74b3b406d8286e1305 4c37f95046b72f74b3b406d8286e1305"
-                }
-            },
-            "ref": {
-                "move_posts": "2bb28a3eb469ffc666fca8ad844646ae 2bb28a3eb469ffc666fca8ad844646ae"
-            }
-        }
-    },
     "sycho-private-facade.json": {
         "sycho-private-facade": {
             "admin": {

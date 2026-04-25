@@ -2410,15 +2410,6 @@
             }
         }
     },
-    "sycho-move-posts.json": {
-        "sycho-move-posts": {
-            "admin": {
-                "settings": {
-                    "moved_first_post_content": "cb000262beb1184d9fa15a80eb4e3d63 cb000262beb1184d9fa15a80eb4e3d63"
-                }
-            }
-        }
-    },
     "sycho-private-facade.json": {
         "sycho-private-facade": {
             "admin": {
