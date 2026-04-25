@@ -3,9 +3,9 @@
         "admin": {
             "tabs": {
                 "badges": "Odznaki",
-                "categories": "",
+                "categories": "Kategorie",
                 "recalculation": "",
-                "settings": ""
+                "settings": "Ustawienia"
             },
             "settings": {
                 "display_title": "",
@@ -16,7 +16,7 @@
                 "primary_badge_hidden": "",
                 "primary_badge_icon": "",
                 "primary_badge_icon_name": "",
-                "show_badges_on_user_card": "",
+                "show_badges_on_user_card": "Pokaż odznaki w profilu użytkownika",
                 "show_badges_on_user_card_help": "",
                 "post_badge_display_limit": "",
                 "post_badge_display_limit_help": "",
