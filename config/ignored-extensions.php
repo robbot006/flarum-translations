@@ -34,12 +34,12 @@ return [
 	'nodeloc/telegram',
 	'nodeloc/whisper',
 	// migrated to `fof/*` (or abandoned)
-	'afrux-asirem',
-	'afrux-forum-stats-widget',
-	'afrux-forum-widgets-core',
-	'afrux-news-widget',
-	'afrux-online-users-widget',
-	'afrux-top-posters-widget',
+	'afrux/asirem',
+	'afrux/forum-stats-widget',
+	'afrux/forum-widgets-core',
+	'afrux/news-widget',
+	'afrux/online-users-widget',
+	'afrux/top-posters-widget',
 	/*
 	 * dead/private forks
 	 */
