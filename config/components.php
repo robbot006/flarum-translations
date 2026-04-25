@@ -1169,12 +1169,6 @@ return [
 	'justoverclock-last-users-posts' => [
 		'tag' => 'https://raw.githubusercontent.com/justoverclockl/last-users-posts/0.3.0/locale/en.yml',
 	],
-	'justoverclock-newsfeed' => [
-		'tag' => 'https://raw.githubusercontent.com/justoverclockl/flarum-ext-newsfeed/1.0.1/resources/locale/en.yml',
-	],
-	'justoverclock-newsletter' => [
-		'tag' => 'https://raw.githubusercontent.com/justoverclockl/newsletter/1.0.1/locale/en.yml',
-	],
 	'justoverclock-og-meta-tag' => [
 		'tag' => 'https://raw.githubusercontent.com/justoverclockl/og-meta-tag/0.1.0/resources/locale/en.yml',
 	],
@@ -1231,9 +1225,6 @@ return [
 	],
 	'justoverclock-user-statistics' => [
 		'tag' => 'https://raw.githubusercontent.com/justoverclockl/user-statistics/0.1.9/locale/en.yml',
-	],
-	'justoverclock-username-blacklist' => [
-		'tag' => 'https://raw.githubusercontent.com/justoverclockl/username-blacklist/0.1.0/resources/locale/en.yml',
 	],
 	'justoverclock-users-map-location' => [
 		'tag' => 'https://raw.githubusercontent.com/justoverclockl/users-map-location/0.1.6/locale/en.yml',
