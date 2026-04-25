@@ -976,7 +976,6 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`clarkwinkelmann-ipsum-autocomplete`](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-ipsum-autocomplete) | [`clarkwinkelmann/flarum-ext-ipsum-autocomplete`](https://github.com/clarkwinkelmann/flarum-ext-ipsum-autocomplete) |
 | [`clarkwinkelmann-jwt-cookie-login`](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-jwt-cookie-login) | [`clarkwinkelmann/flarum-ext-jwt-cookie-login`](https://github.com/clarkwinkelmann/flarum-ext-jwt-cookie-login) |
 | [`clarkwinkelmann-likes-received`](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-likes-received) | [`clarkwinkelmann/flarum-ext-likes-received`](https://github.com/clarkwinkelmann/flarum-ext-likes-received) |
-| [`clarkwinkelmann-mailing`](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-mailing) | [`clarkwinkelmann/flarum-ext-mailing`](https://github.com/clarkwinkelmann/flarum-ext-mailing) |
 | [`clarkwinkelmann-mass-actions`](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-mass-actions) | [`clarkwinkelmann/flarum-ext-mass-actions`](https://github.com/clarkwinkelmann/flarum-ext-mass-actions) |
 | [`clarkwinkelmann-meilisearch-dashboard`](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-meilisearch-dashboard) | [`clarkwinkelmann/flarum-ext-meilisearch-dashboard`](https://github.com/clarkwinkelmann/flarum-ext-meilisearch-dashboard) |
 | [`clarkwinkelmann-money-rewards`](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-money-rewards) | [`clarkwinkelmann/flarum-ext-money-rewards`](https://github.com/clarkwinkelmann/flarum-ext-money-rewards) |
@@ -1274,7 +1273,6 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`sycho-advanced-extension-categories`](https://weblate.rob006.net/projects/flarum/sycho-advanced-extension-categories) | [`sycho/flarum-advanced-extension-categories`](https://github.com/SychO9/flarum-advanced-extension-categories) |
 | [`sycho-force-password-reset`](https://weblate.rob006.net/projects/flarum/sycho-force-password-reset) | [`sycho/flarum-force-password-reset`](https://github.com/SychO9/flarum-force-password-reset) |
 | [`sycho-github-milestone`](https://weblate.rob006.net/projects/flarum/sycho-github-milestone) | [`sycho/flarum-github-milestone`](https://github.com/SychO9/flarum-github-milestone) |
-| [`sycho-move-posts`](https://weblate.rob006.net/projects/flarum/sycho-move-posts) | [`sycho/flarum-move-posts`](https://github.com/SychO9/flarum-move-posts) |
 | [`sycho-private-facade`](https://weblate.rob006.net/projects/flarum/sycho-private-facade) | [`sycho/flarum-private-facade`](https://github.com/SychO9/flarum-private-facade) |
 | [`sycho-profile-cover`](https://weblate.rob006.net/projects/flarum/sycho-profile-cover) | [`sycho/flarum-profile-cover`](https://github.com/SychO9/flarum-profile-cover) |
 | [`therealsujitk-gifs`](https://weblate.rob006.net/projects/flarum/therealsujitk-gifs) | [`therealsujitk/flarum-ext-gifs`](https://github.com/therealsujitk/flarum-ext-gifs) |
