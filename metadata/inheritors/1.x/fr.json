@@ -6692,6 +6692,17 @@
             }
         }
     },
+    "pianotell-flamoji.json": {
+        "pianotell-flamoji": {
+            "admin": {
+                "settings": {
+                    "category_settings_heading": "d41d8cd98f00b204e9800998ecf8427e a362fef9bb313447b09127bba481d681",
+                    "emoji_settings_heading": "d41d8cd98f00b204e9800998ecf8427e 4cb1ed0bc888c773cb8f5f4dba7e3801",
+                    "general_ui_settings_heading": "d41d8cd98f00b204e9800998ecf8427e 0075c81830f0ed3ef3d1a48104fe9787"
+                }
+            }
+        }
+    },
     "quasimo-llms-txt.json": {
         "quasimo-llms-txt": {
             "admin": {
