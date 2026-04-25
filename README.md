@@ -946,7 +946,6 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`blomstra-secondary-tags-toggler`](https://weblate.rob006.net/projects/flarum/blomstra-secondary-tags-toggler) | [`blomstra/secondary-tags-toggler`](https://github.com/blomstra/flarum-ext-secondary-tags-toggler) |
 | [`blomstra-sort-order-toggle`](https://weblate.rob006.net/projects/flarum/blomstra-sort-order-toggle) | [`blomstra/sort-order-toggle`](https://github.com/blomstra/flarum-ext-sort-order-toggle) |
 | [`blomstra-trello`](https://weblate.rob006.net/projects/flarum/blomstra-trello) | [`blomstra/trello`](https://github.com/blomstra/flarum-ext-trello) |
-| [`blomstra-usercard-stats`](https://weblate.rob006.net/projects/flarum/blomstra-usercard-stats) | [`blomstra/usercard-stats`](https://github.com/blomstra/flarum-ext-usercard-stats) |
 | [`blomstra-web3`](https://weblate.rob006.net/projects/flarum/blomstra-web3) | [`blomstra/web3`](https://github.com/blomstra/flarum-ext-web3) |
 | [`blomstra-welcome-login`](https://weblate.rob006.net/projects/flarum/blomstra-welcome-login) | [`blomstra/welcome-login`](https://github.com/blomstra/flarum-ext-welcome-login) |
 | [`blt950-oauth-generic`](https://weblate.rob006.net/projects/flarum/blt950-oauth-generic) | [`blt950/oauth-generic`](https://github.com/blt950/flarum-ext-oauth-generic) |
@@ -1097,7 +1096,6 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`huseyinfiliz-pickem`](https://weblate.rob006.net/projects/flarum/huseyinfiliz-pickem) | [`huseyinfiliz/pickem`](https://github.com/huseyinfiliz/pickem) |
 | [`huseyinfiliz-private-profile`](https://weblate.rob006.net/projects/flarum/huseyinfiliz-private-profile) | [`huseyinfiliz/private-profile`](https://github.com/huseyinfiliz/private-profile) |
 | [`huseyinfiliz-private-profile-plus`](https://weblate.rob006.net/projects/flarum/huseyinfiliz-private-profile-plus) | [`huseyinfiliz/private-profile-plus`](https://github.com/huseyinfiliz/private-profile-plus) |
-| [`huseyinfiliz-sort-changer`](https://weblate.rob006.net/projects/flarum/huseyinfiliz-sort-changer) | [`huseyinfiliz/sort-changer`](https://github.com/huseyinfiliz/sort-changer) |
 | [`huseyinfiliz-stickiest`](https://weblate.rob006.net/projects/flarum/huseyinfiliz-stickiest) | [`huseyinfiliz/stickiest`](https://github.com/huseyinfiliz/stickiest) |
 | [`huseyinfiliz-sticky-title`](https://weblate.rob006.net/projects/flarum/huseyinfiliz-sticky-title) | [`huseyinfiliz/sticky-title`](https://github.com/huseyinfiliz/sticky-title) |
 | [`huseyinfiliz-traderfeedback`](https://weblate.rob006.net/projects/flarum/huseyinfiliz-traderfeedback) | [`huseyinfiliz/traderfeedback`](https://github.com/huseyinfiliz/traderfeedback) |
