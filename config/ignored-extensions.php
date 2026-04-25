@@ -40,6 +40,8 @@ return [
 	'afrux/news-widget',
 	'afrux/online-users-widget',
 	'afrux/top-posters-widget',
+	// migrated to `fof/*`
+	'v17development/flarum-user-badges',
 	/*
 	 * dead/private forks
 	 */
