@@ -961,9 +961,6 @@ return [
 	'huseyinfiliz-private-profile-plus' => [
 		'tag' => 'https://raw.githubusercontent.com/huseyinfiliz/private-profile-plus/1.0/locale/en.yml',
 	],
-	'huseyinfiliz-sort-changer' => [
-		'tag' => 'https://raw.githubusercontent.com/huseyinfiliz/sort-changer/v2/locale/en.yml',
-	],
 	'huseyinfiliz-stickiest' => [
 		'tag' => 'https://raw.githubusercontent.com/huseyinfiliz/stickiest/1.0.3/locale/en.yml',
 	],
