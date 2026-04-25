@@ -1732,12 +1732,6 @@ return [
 			'fr',
 		],
 	],
-	'tohsakarat-post-camera' => [
-		'tag' => 'https://raw.githubusercontent.com/tohsakrat/post-camera/v1.0.2/locale/en.yml',
-		'__builtInLanguages' => [
-			'zh_Hans',
-		],
-	],
 	'tohsakarat-save-and-load-draft-automatically' => [
 		'tag' => 'https://raw.githubusercontent.com/tohsakrat/save-and-load-draft-automatically/v1.10/resources/locale/en.yml',
 		'__builtInLanguages' => [
