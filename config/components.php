@@ -31,9 +31,6 @@ return [
 	'acpl-my-tags' => [
 		'tag' => 'https://raw.githubusercontent.com/android-com-pl/my-tags/1.4.0/locale/en.yml',
 	],
-	'afrux-news-widget' => [
-		'tag' => 'https://raw.githubusercontent.com/afrux/news-widget/v0.1.1/locale/en.yml',
-	],
 	'afrux-online-users-widget' => [
 		'tag' => 'https://raw.githubusercontent.com/afrux/online-users-widget/v0.1.9/locale/en.yml',
 	],
