@@ -376,7 +376,7 @@ return [
 			'versionTemplate' => 'v5.Minor.Patch',
 			'ignoredVersionsConstraints' => ['^4.29.2'],
 		],
-		'maintainers' => ['qiaeru'],
+		'maintainers' => ['Wlork'],
 	],
 	'ga' => [
 		'type' => 'language',
