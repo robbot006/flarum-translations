@@ -126,9 +126,6 @@ return [
 	'blomstra-trello' => [
 		'tag' => 'https://raw.githubusercontent.com/blomstra/flarum-ext-trello/0.3.2/locale/en.yml',
 	],
-	'blomstra-usercard-stats' => [
-		'tag' => 'https://raw.githubusercontent.com/blomstra/flarum-ext-usercard-stats/0.1.2/locale/en.yml',
-	],
 	'blomstra-web3' => [
 		'tag' => 'https://raw.githubusercontent.com/blomstra/flarum-ext-web3/v0.1.8/locale/en.yml',
 	],
