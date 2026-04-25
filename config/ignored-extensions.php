@@ -54,6 +54,7 @@ return [
 	'justoverclock/flarum-ext-newsfeed',
 	'kyrne/evergreen',
 	'kyrne/whisper',
+	'xelson/flarum-ext-chat',
 	/*
 	 * dead/private forks
 	 */
