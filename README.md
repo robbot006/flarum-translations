@@ -1095,7 +1095,6 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`huseyinfiliz-notificationhub`](https://weblate.rob006.net/projects/flarum/huseyinfiliz-notificationhub) | [`huseyinfiliz/notificationhub`](https://github.com/huseyinfiliz/notificationhub) |
 | [`huseyinfiliz-pickem`](https://weblate.rob006.net/projects/flarum/huseyinfiliz-pickem) | [`huseyinfiliz/pickem`](https://github.com/huseyinfiliz/pickem) |
 | [`huseyinfiliz-private-profile`](https://weblate.rob006.net/projects/flarum/huseyinfiliz-private-profile) | [`huseyinfiliz/private-profile`](https://github.com/huseyinfiliz/private-profile) |
-| [`huseyinfiliz-private-profile-plus`](https://weblate.rob006.net/projects/flarum/huseyinfiliz-private-profile-plus) | [`huseyinfiliz/private-profile-plus`](https://github.com/huseyinfiliz/private-profile-plus) |
 | [`huseyinfiliz-stickiest`](https://weblate.rob006.net/projects/flarum/huseyinfiliz-stickiest) | [`huseyinfiliz/stickiest`](https://github.com/huseyinfiliz/stickiest) |
 | [`huseyinfiliz-sticky-title`](https://weblate.rob006.net/projects/flarum/huseyinfiliz-sticky-title) | [`huseyinfiliz/sticky-title`](https://github.com/huseyinfiliz/sticky-title) |
 | [`huseyinfiliz-traderfeedback`](https://weblate.rob006.net/projects/flarum/huseyinfiliz-traderfeedback) | [`huseyinfiliz/traderfeedback`](https://github.com/huseyinfiliz/traderfeedback) |
