@@ -12449,53 +12449,6 @@
             }
         }
     },
-    "justoverclock-newsfeed.json": {
-        "flarum-ext-newsfeed": {
-            "admin": {
-                "feedurldesc": "5a202a18bacc0fbebf7de7fd3485ce38 5a202a18bacc0fbebf7de7fd3485ce38",
-                "feedutltitle": "6ccca227b6fd9c7ed179ab2e214dab63 6ccca227b6fd9c7ed179ab2e214dab63"
-            }
-        }
-    },
-    "justoverclock-newsletter.json": {
-        "justoverclock-newsletter": {
-            "admin": {
-                "ctaText": "5204c61d1a03f0420cf45e61bed3ad00 5204c61d1a03f0420cf45e61bed3ad00",
-                "emailSentErrorMessage": "15f29e5b1ae97dfb2e2377816078cb5f 15f29e5b1ae97dfb2e2377816078cb5f",
-                "emailSentSuccessMessage": "53c35860e4a5af5ac9f58be84a2210c8 53c35860e4a5af5ac9f58be84a2210c8",
-                "emailTitle": "c8a9bb378bec172fefd672d67f1ba971 c8a9bb378bec172fefd672d67f1ba971",
-                "lastNewsletterSent": "c87cffe73a58cf3c99a44bf17d84293a c87cffe73a58cf3c99a44bf17d84293a",
-                "lastNewsletterSentDescription": "dbe575d7fddf09750c4a586be1bfbe66 dbe575d7fddf09750c4a586be1bfbe66",
-                "lastNewsletterSentText": "30377cb1a97425da7f45d2aa92d5329e 30377cb1a97425da7f45d2aa92d5329e",
-                "newsLetterOptOutFooter": "1a3bf21c3f31be74933b716d7e32fa6a 1a3bf21c3f31be74933b716d7e32fa6a",
-                "newsLetterOptOutFooterUnsubscribe": "55ac3e9d99856a9839b0a94ce0e8de11 55ac3e9d99856a9839b0a94ce0e8de11",
-                "newsletterCountText": "50ac85e516106f223122c5f1b23f2aa2 50ac85e516106f223122c5f1b23f2aa2",
-                "noNewsletterSent": "8ae13266943d2d11fcd8121fae2b45ef 8ae13266943d2d11fcd8121fae2b45ef",
-                "sendEmailButtonText": "91a532fe91bca681299d468d06c5191d 91a532fe91bca681299d468d06c5191d",
-                "sendingText": "9c35c0cb550e07dfd37a5d9bfe7158b7 9c35c0cb550e07dfd37a5d9bfe7158b7",
-                "textOrHtml": "aa7b106106b84ab1fb941433472116e5 aa7b106106b84ab1fb941433472116e5",
-                "totalSubscribers": "d3a2dc931178bfc3bb654742c4e3a20c d3a2dc931178bfc3bb654742c4e3a20c",
-                "totalSubscribersCount": "29750e18c3107e9336e41049a52efe92 29750e18c3107e9336e41049a52efe92"
-            },
-            "forum": {
-                "consent": "7caf3a0925bd3fc05cb95b354d4313be 7caf3a0925bd3fc05cb95b354d4313be",
-                "emailNotFound": "003d04c2e44a3011f0ac3a58912aacbc 003d04c2e44a3011f0ac3a58912aacbc",
-                "emailRequired": "46843589475f54fef621dc69b3c78e9b 46843589475f54fef621dc69b3c78e9b",
-                "invalidEmailHint": "ecfc4ad654aad81e6e339e62d7cd425e ecfc4ad654aad81e6e339e62d7cd425e",
-                "newsLetterModalTitle": "f4d073e866d6f97c26f623f391c5ec6a f4d073e866d6f97c26f623f391c5ec6a",
-                "newsLetterTitle": "77de8d3b012bbe4f10f9720225e4c987 77de8d3b012bbe4f10f9720225e4c987",
-                "optOutPageDescription": "4958a7200f35696040bd8fad51bce789 4958a7200f35696040bd8fad51bce789",
-                "optOutPageTitle": "911971dbe3198809c5d6237dabbf4805 911971dbe3198809c5d6237dabbf4805",
-                "optOutPlaceholder": "40cca183919792e818b586a35f150da4 40cca183919792e818b586a35f150da4",
-                "subscribe": "77de8d3b012bbe4f10f9720225e4c987 77de8d3b012bbe4f10f9720225e4c987",
-                "subscriberDeleted": "abdf1d0088176e9c040009f14a7741d0 abdf1d0088176e9c040009f14a7741d0",
-                "subscriberExist": "c5f4eef15e4245d3966e0dff333d2e66 c5f4eef15e4245d3966e0dff333d2e66",
-                "successMessage": "2e48685ee1daff10aa6ba637aa58644e 2e48685ee1daff10aa6ba637aa58644e",
-                "successUnsubscribedMessage": "4ccabcafdfda7abf7a0e6cc48c21e19d 4ccabcafdfda7abf7a0e6cc48c21e19d",
-                "unSubscribe": "b7cd9209e08e9bac9d004fee6a591ccf b7cd9209e08e9bac9d004fee6a591ccf"
-            }
-        }
-    },
     "justoverclock-og-meta-tag.json": {
         "justoverclock-og-meta-tag": {
             "admin": {
@@ -12772,19 +12725,6 @@
                 "totalBestAnswer": "b312b4e476a3342a0c592eb68dcb7277 b312b4e476a3342a0c592eb68dcb7277",
                 "totalDiscussions": "0c93fa49eac89b6201f8f168ca4e7bcb 0c93fa49eac89b6201f8f168ca4e7bcb",
                 "totalPosts": "bc9f5b1bfd9a3459cf3d855d42927235 bc9f5b1bfd9a3459cf3d855d42927235"
-            }
-        }
-    },
-    "justoverclock-username-blacklist.json": {
-        "username-blacklist": {
-            "admin": {
-                "blackList": "06d2f4bb9c66992363cdc07187ba9d88 06d2f4bb9c66992363cdc07187ba9d88",
-                "blackList-help": "754ef8eeb0ceb21853fff4306d4ef51d 754ef8eeb0ceb21853fff4306d4ef51d"
-            },
-            "forum": {
-                "modal-body-first-line": "03e4d220b8d02113d5e122796b0a7f00 03e4d220b8d02113d5e122796b0a7f00",
-                "modal-body-second-line": "9fa497b040e5f4ff404e5d1487b80639 9fa497b040e5f4ff404e5d1487b80639",
-                "modal-title": "8a6dec5382873f551c332baafa7d167a 8a6dec5382873f551c332baafa7d167a"
             }
         }
     },
