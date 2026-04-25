@@ -50,6 +50,7 @@ return [
 	'sycho/flarum-move-posts',
 	// abandoned by author
 	'justoverclock/username-blacklist',
+	'justoverclock/flarum-ext-newsletter',
 	/*
 	 * dead/private forks
 	 */

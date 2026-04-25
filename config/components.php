@@ -1172,9 +1172,6 @@ return [
 	'justoverclock-newsfeed' => [
 		'tag' => 'https://raw.githubusercontent.com/justoverclockl/flarum-ext-newsfeed/1.0.1/resources/locale/en.yml',
 	],
-	'justoverclock-newsletter' => [
-		'tag' => 'https://raw.githubusercontent.com/justoverclockl/newsletter/1.0.1/locale/en.yml',
-	],
 	'justoverclock-og-meta-tag' => [
 		'tag' => 'https://raw.githubusercontent.com/justoverclockl/og-meta-tag/0.1.0/resources/locale/en.yml',
 	],
