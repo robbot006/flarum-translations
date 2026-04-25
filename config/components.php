@@ -1732,11 +1732,6 @@ return [
 			'fr',
 		],
 	],
-	'tohsakarat-table-of-content' => [
-		'__builtInLanguages' => [
-			'zh_Hans',
-		],
-	],
 	'tohsakarat-tags-filter' => [
 		'tag' => 'https://raw.githubusercontent.com/tohsakrat/flarum-tags-filter/v1.0.6/locale/en.yml',
 		'__builtInLanguages' => [
