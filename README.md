@@ -926,8 +926,6 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`archlinux-de-click-image`](https://weblate.rob006.net/projects/flarum/archlinux-de-click-image) | [`archlinux-de/flarum-click-image`](https://github.com/archlinux-de/flarum-click-image) |
 | [`askvortsov-article-series`](https://weblate.rob006.net/projects/flarum/askvortsov-article-series) | [`askvortsov/flarum-article-series`](https://github.com/askvortsov1/flarum-article-series) |
 | [`askvortsov-auto-moderator`](https://weblate.rob006.net/projects/flarum/askvortsov-auto-moderator) | [`askvortsov/flarum-auto-moderator`](https://github.com/askvortsov1/flarum-automod) |
-| [`askvortsov-categories`](https://weblate.rob006.net/projects/flarum/askvortsov-categories) | [`askvortsov/flarum-categories`](https://github.com/askvortsov1/flarum-categories) |
-| [`askvortsov-checklist`](https://weblate.rob006.net/projects/flarum/askvortsov-checklist) | [`askvortsov/flarum-checklist`](https://github.com/askvortsov1/flarum-checklist) |
 | [`askvortsov-help-tags`](https://weblate.rob006.net/projects/flarum/askvortsov-help-tags) | [`askvortsov/flarum-help-tags`](https://github.com/askvortsov1/flarum-help-tags) |
 | [`askvortsov-markdown-tables`](https://weblate.rob006.net/projects/flarum/askvortsov-markdown-tables) | [`askvortsov/flarum-markdown-tables`](https://github.com/askvortsov1/flarum-markdown-tables) |
 | [`askvortsov-pwa`](https://weblate.rob006.net/projects/flarum/askvortsov-pwa) | [`askvortsov/flarum-pwa`](https://github.com/askvortsov1/flarum-pwa) |
