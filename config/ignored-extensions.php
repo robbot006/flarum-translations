@@ -48,10 +48,20 @@ return [
 	'clarkwinkelmann/flarum-ext-mailing',
 	// migrated to `fof/*`
 	'sycho/flarum-move-posts',
-	// abandoned by author
+	// abandoned by author (see https://github.com/rob006-software/flarum-translations/issues/1204)
 	'justoverclock/username-blacklist',
 	'justoverclock/flarum-ext-newsletter',
 	'justoverclock/flarum-ext-newsfeed',
+	'kyrne/evergreen',
+	'kyrne/whisper',
+	'kyrne/websocket',
+	'xelson/flarum-ext-chat',
+	'malago/flarum-achievements',
+	'extiverse/mercury',
+	'ramesh-dada/flarum-gui-image-and-link',
+	'ramesh-dada/realtime',
+	'nearata/flarum-ext-copy-code-to-clipboard',
+	'clarkwinkelmann/flarum-ext-vote-with-money',
 	/*
 	 * dead/private forks
 	 */

@@ -304,9 +304,6 @@ return [
 	'clarkwinkelmann-username-blacklist' => [
 		'tag' => 'https://raw.githubusercontent.com/clarkwinkelmann/flarum-ext-username-blacklist/1.0.0/resources/locale/en.yml',
 	],
-	'clarkwinkelmann-vote-with-money' => [
-		'tag' => 'https://raw.githubusercontent.com/clarkwinkelmann/flarum-ext-vote-with-money/1.0.0/locale/en.yml',
-	],
 	'clarkwinkelmann-who-read' => [
 		'tag' => 'https://raw.githubusercontent.com/clarkwinkelmann/flarum-ext-who-read/1.4.1/resources/locale/en.yml',
 	],
@@ -477,9 +474,6 @@ return [
 	],
 	'ekumanov-new-posts-notice' => [
 		'tag' => 'https://raw.githubusercontent.com/ekumanov/flarum-ext-new-posts-notice/v1.0.4/locale/en.yml',
-	],
-	'extiverse-mercury' => [
-		'tag' => 'https://raw.githubusercontent.com/extiverse/mercury/0.2.0/resources/locale/en.yml',
 	],
 	'ffans-clipboardjs' => [
 		'tag' => 'https://raw.githubusercontent.com/FFans/clipboardjs/v1.0.0/resources/locale/en.yml',
@@ -1274,15 +1268,6 @@ return [
 	'krombox-oauth-wordpress' => [
 		'tag' => 'https://raw.githubusercontent.com/krombox/flarum-ext-oauth-wordpress/0.0.1/locale/en.yml',
 	],
-	'kyrne-evergreen' => [
-		'tag' => 'https://raw.githubusercontent.com/KyrneDev/Evergreen/0.2.0/resources/locale/en.yml',
-	],
-	'kyrne-websocket' => [
-		'tag' => 'https://raw.githubusercontent.com/KyrneDev/websocket/3.3.0/resources/locale/en.yml',
-	],
-	'kyrne-whisper' => [
-		'tag' => 'https://raw.githubusercontent.com/KyrneDev/whisper/0.1.4/resources/locale/en.yml',
-	],
 	'litalino-adblock' => [
 		'tag' => 'https://raw.githubusercontent.com/Litalino/flarum-adblock/1.2.1/locale/en.yml',
 		'__builtInLanguages' => [
@@ -1347,13 +1332,6 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/maicol07/flarum-ext-sso/1.11.7/locale/en.yml',
 		'__builtInLanguages' => [
 			'it',
-		],
-	],
-	'malago-achievements' => [
-		'tag' => 'https://raw.githubusercontent.com/malago86/flarum-achievements/0.5.6/locale/en.yml',
-		'__builtInLanguages' => [
-			'es',
-			'es@formal',
 		],
 	],
 	'malago-ads' => [
@@ -1458,9 +1436,6 @@ return [
 	],
 	'nearata-cloudflare' => [
 		'tag' => 'https://raw.githubusercontent.com/Nearata/flarum-ext-cloudflare/1.1.0/locale/en.yml',
-	],
-	'nearata-copy-code-to-clipboard' => [
-		'tag' => 'https://raw.githubusercontent.com/Nearata/flarum-ext-copy-code-to-clipboard/v2.2.1/locale/en.yml',
 	],
 	'nearata-dsts' => [
 		'tag' => 'https://raw.githubusercontent.com/Nearata/flarum-ext-dsts/v2.4.0/locale/en.yml',
@@ -1587,12 +1562,6 @@ return [
 	],
 	'ralkage-word-counter' => [
 		'tag' => 'https://raw.githubusercontent.com/Ralkage/flarum-ext-word-counter/1.0.0/locale/en.yml',
-	],
-	'ramesh-dada-gui-image-and-link' => [
-		'tag' => 'https://raw.githubusercontent.com/ramesh-dada/Flarum-GUI-Image-and-Link/1.0/resources/locale/en.yml',
-	],
-	'ramesh-dada-realtime' => [
-		'tag' => 'https://raw.githubusercontent.com/ramesh-dada/realtime/v100.2/resources/locale/en.yml',
 	],
 	'ramon-colored' => [
 		'tag' => 'https://raw.githubusercontent.com/ram0ng1/colored/1.2.0/resources/locale/en.yml',
@@ -1764,13 +1733,6 @@ return [
 		'__builtInLanguages' => [
 			'de',
 			'de@formal',
-		],
-	],
-	'xelson-chat' => [
-		'tag' => 'https://raw.githubusercontent.com/Xelson/flarum-ext-chat/v1.1.5/resources/locale/en.yaml',
-		'__builtInLanguages' => [
-			'ru',
-			'vi',
 		],
 	],
 	'xrh0905-oauth-microsoft' => [
