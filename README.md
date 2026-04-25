@@ -1141,7 +1141,6 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`justoverclock-hashtag`](https://weblate.rob006.net/projects/flarum/justoverclock-hashtag) | [`justoverclock/flarum-ext-hashtag`](https://github.com/justoverclockl/flarum-ext-hashtag) |
 | [`justoverclock-infocards`](https://weblate.rob006.net/projects/flarum/justoverclock-infocards) | [`justoverclock/flarum-ext-infocards`](https://github.com/justoverclockl/flarum-ext-infocards) |
 | [`justoverclock-keywords`](https://weblate.rob006.net/projects/flarum/justoverclock-keywords) | [`justoverclock/flarum-ext-keywords`](https://github.com/justoverclockl/flarum-ext-keywords) |
-| [`justoverclock-newsfeed`](https://weblate.rob006.net/projects/flarum/justoverclock-newsfeed) | [`justoverclock/flarum-ext-newsfeed`](https://github.com/justoverclockl/flarum-ext-newsfeed) |
 | [`justoverclock-purify`](https://weblate.rob006.net/projects/flarum/justoverclock-purify) | [`justoverclock/flarum-ext-purify`](https://github.com/justoverclockl/flarum-ext-purify) |
 | [`justoverclock-pwgen`](https://weblate.rob006.net/projects/flarum/justoverclock-pwgen) | [`justoverclock/flarum-ext-pwgen`](https://github.com/justoverclockl/flarum-ext-pwgen) |
 | [`justoverclock-realtimecode`](https://weblate.rob006.net/projects/flarum/justoverclock-realtimecode) | [`justoverclock/flarum-ext-realtimecode`](https://github.com/justoverclockl/flarum-ext-realtimecode) |
@@ -1158,7 +1157,6 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`justoverclock-last-registered-users`](https://weblate.rob006.net/projects/flarum/justoverclock-last-registered-users) | [`justoverclock/last-registered-users`](https://github.com/justoverclockl/last-registered-users) |
 | [`justoverclock-last-tweet`](https://weblate.rob006.net/projects/flarum/justoverclock-last-tweet) | [`justoverclock/last-tweet`](https://github.com/justoverclockl/last-tweet) |
 | [`justoverclock-last-users-posts`](https://weblate.rob006.net/projects/flarum/justoverclock-last-users-posts) | [`justoverclock/last-users-posts`](https://github.com/justoverclockl/last-users-posts) |
-| [`justoverclock-newsletter`](https://weblate.rob006.net/projects/flarum/justoverclock-newsletter) | [`justoverclock/newsletter`](https://github.com/justoverclockl/newsletter) |
 | [`justoverclock-og-meta-tag`](https://weblate.rob006.net/projects/flarum/justoverclock-og-meta-tag) | [`justoverclock/og-meta-tag`](https://github.com/justoverclockl/og-meta-tag) |
 | [`justoverclock-popular-tags`](https://weblate.rob006.net/projects/flarum/justoverclock-popular-tags) | [`justoverclock/popular-tags`](https://github.com/justoverclockl/popular-tags) |
 | [`justoverclock-profile-comments`](https://weblate.rob006.net/projects/flarum/justoverclock-profile-comments) | [`justoverclock/profile-comments`](https://github.com/justoverclockl/flarum-profile-comments) |
@@ -1169,7 +1167,6 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`justoverclock-thread-read-time`](https://weblate.rob006.net/projects/flarum/justoverclock-thread-read-time) | [`justoverclock/thread-read-time`](https://github.com/justoverclockl/thread-read-time) |
 | [`justoverclock-user-pc-specs`](https://weblate.rob006.net/projects/flarum/justoverclock-user-pc-specs) | [`justoverclock/user-pc-specs`](https://github.com/justoverclockl/user-pc-specs) |
 | [`justoverclock-user-statistics`](https://weblate.rob006.net/projects/flarum/justoverclock-user-statistics) | [`justoverclock/user-statistics`](https://github.com/justoverclockl/user-statistics) |
-| [`justoverclock-username-blacklist`](https://weblate.rob006.net/projects/flarum/justoverclock-username-blacklist) | [`justoverclock/username-blacklist`](https://github.com/justoverclockl/username-blacklist) |
 | [`justoverclock-users-map-location`](https://weblate.rob006.net/projects/flarum/justoverclock-users-map-location) | [`justoverclock/users-map-location`](https://github.com/justoverclockl/users-map-location) |
 | [`justoverclock-youtube-video-feed`](https://weblate.rob006.net/projects/flarum/justoverclock-youtube-video-feed) | [`justoverclock/youtube-video-feed`](https://github.com/justoverclockl/youtube-video-feed) |
 | [`katosdev-signature`](https://weblate.rob006.net/projects/flarum/katosdev-signature) | [`katosdev/signature`](https://github.com/katosdev/signature) |
