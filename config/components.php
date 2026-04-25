@@ -958,9 +958,6 @@ return [
 	'huseyinfiliz-private-profile' => [
 		'tag' => 'https://raw.githubusercontent.com/huseyinfiliz/private-profile/v1.1/locale/en.yml',
 	],
-	'huseyinfiliz-private-profile-plus' => [
-		'tag' => 'https://raw.githubusercontent.com/huseyinfiliz/private-profile-plus/1.0/locale/en.yml',
-	],
 	'huseyinfiliz-stickiest' => [
 		'tag' => 'https://raw.githubusercontent.com/huseyinfiliz/stickiest/1.0.3/locale/en.yml',
 	],
