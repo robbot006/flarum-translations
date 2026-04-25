@@ -58,6 +58,7 @@ return [
 	'xelson/flarum-ext-chat',
 	'malago/flarum-achievements',
 	'extiverse/mercury',
+	'ramesh-dada/flarum-gui-image-and-link',
 	/*
 	 * dead/private forks
 	 */
