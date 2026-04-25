@@ -3864,6 +3864,49 @@
             }
         }
     },
+    "fof-mailing.json": {
+        "fof-mailing": {
+            "admin": {
+                "permissions": {
+                    "mail_all": "d41d8cd98f00b204e9800998ecf8427e b40f8db3f401f4a338650d45c88e9619",
+                    "mail_individual": "d41d8cd98f00b204e9800998ecf8427e d63fbf9d3f021573369b7cb565709b97"
+                }
+            },
+            "api": {
+                "no_recipients": "d41d8cd98f00b204e9800998ecf8427e c66c2bc5f22b1f3e25de5dd7dc9731af"
+            },
+            "email": {
+                "default_subject": "d41d8cd98f00b204e9800998ecf8427e 322775d3288a0c24d266034f3a5dfa8f"
+            },
+            "forum": {
+                "links": {
+                    "mail_all": "d41d8cd98f00b204e9800998ecf8427e f4f76ad4fcd0e14cd14f8afbcc95fa6e",
+                    "mail_individual": "d41d8cd98f00b204e9800998ecf8427e cc450ead5fd2aa111231e88adca5e53d"
+                },
+                "modal_mail": {
+                    "default_subject": "d41d8cd98f00b204e9800998ecf8427e 322775d3288a0c24d266034f3a5dfa8f",
+                    "message_label": "d41d8cd98f00b204e9800998ecf8427e ff692f04ace012504bc529e0a75f2bb4",
+                    "recipients_label": "d41d8cd98f00b204e9800998ecf8427e fb5bf1f1ab3ce045a4241cb06944f0fc",
+                    "recipients_placeholder": "d41d8cd98f00b204e9800998ecf8427e 6da9640b3de46328017024d9075a7112",
+                    "subject_label": "d41d8cd98f00b204e9800998ecf8427e 9970ad07468267e2f309f1467c75bb80",
+                    "submit_button": "d41d8cd98f00b204e9800998ecf8427e 1535fcfa4cb8e4d467127154977e9788",
+                    "title_text": "d41d8cd98f00b204e9800998ecf8427e ca679191b6a4fbbb28e58fda13c1cfb6"
+                },
+                "modal_sent": {
+                    "on_its_way": "d41d8cd98f00b204e9800998ecf8427e 815645a811688e04c00db274e3d88c12",
+                    "title_text": "d41d8cd98f00b204e9800998ecf8427e c7ae0a32f081923dc516904cd92dc513"
+                },
+                "recipient_kinds": {
+                    "email": "d41d8cd98f00b204e9800998ecf8427e e9e8054f8b9b30a5bc0eab3aa4645f9c",
+                    "group": "d41d8cd98f00b204e9800998ecf8427e 4b0ab7babd5f07e75bd97386e8dab658",
+                    "user": "d41d8cd98f00b204e9800998ecf8427e 1fd02a90c38333badc226309fea6fecb"
+                }
+            },
+            "ref": {
+                "default_subject": "d41d8cd98f00b204e9800998ecf8427e 17cdcbb8abca211a70b355e0eef3cdde"
+            }
+        }
+    },
     "fof-masquerade.json": {
         "flarum-gdpr": {
             "lib": {
@@ -4361,6 +4404,17 @@
                 "slug": "45938ff32c13f5d38472795320b90d70 5fc8010f895757c95a900a8642db6ec1",
                 "title": "8d6b5924f187048cfa28d6c21fa6d2d6 8d6b5924f187048cfa28d6c21fa6d2d6",
                 "url": "bfe68d5844f8e54602760e18f45954f7 bfe68d5844f8e54602760e18f45954f7"
+            }
+        }
+    },
+    "fof-photoswipe.json": {
+        "fof-photoswipe": {
+            "forum": {
+                "arrow_next_title": "d41d8cd98f00b204e9800998ecf8427e 78374bbe55258ddba78204355074fe31",
+                "arrow_prev_title": "d41d8cd98f00b204e9800998ecf8427e 1d7cad36a8f1720b31c54fe94a9fe33b",
+                "close_title": "d41d8cd98f00b204e9800998ecf8427e b15d91274e9fc68608c609999e0413fa",
+                "error_msg": "d41d8cd98f00b204e9800998ecf8427e f6f7c4fd35d2a2e9d75f8d3837cf0deb",
+                "zoom_title": "d41d8cd98f00b204e9800998ecf8427e 05853d9ceb108fc5434cdb1a34ab3fc3"
             }
         }
     },
@@ -5083,6 +5137,20 @@
                 },
                 "user_settings": {
                     "optional_policies_label": "d41d8cd98f00b204e9800998ecf8427e 11bc9f897a36ede7da32bceb7babcbdd"
+                }
+            }
+        }
+    },
+    "fof-top-posters-widget.json": {
+        "fof-top-posters-widget": {
+            "admin": {
+                "settings": {
+                    "info": "d41d8cd98f00b204e9800998ecf8427e 0e0e7c26012077fb40bbbe9c79d01c1e"
+                }
+            },
+            "forum": {
+                "widget": {
+                    "title": "d41d8cd98f00b204e9800998ecf8427e 11c5bf179f9f8f992dd5170d931804a8"
                 }
             }
         }
