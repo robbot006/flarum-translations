@@ -1732,29 +1732,6 @@ return [
 			'fr',
 		],
 	],
-	'tohsakarat-post-camera' => [
-		'tag' => 'https://raw.githubusercontent.com/tohsakrat/post-camera/v1.0.2/locale/en.yml',
-		'__builtInLanguages' => [
-			'zh_Hans',
-		],
-	],
-	'tohsakarat-save-and-load-draft-automatically' => [
-		'tag' => 'https://raw.githubusercontent.com/tohsakrat/save-and-load-draft-automatically/v1.10/resources/locale/en.yml',
-		'__builtInLanguages' => [
-			'zh_Hans',
-		],
-	],
-	'tohsakarat-table-of-content' => [
-		'__builtInLanguages' => [
-			'zh_Hans',
-		],
-	],
-	'tohsakarat-tags-filter' => [
-		'tag' => 'https://raw.githubusercontent.com/tohsakrat/flarum-tags-filter/v1.0.6/locale/en.yml',
-		'__builtInLanguages' => [
-			'zh_Hans',
-		],
-	],
 	'tokenjenny-web3' => [
 		'tag' => 'https://raw.githubusercontent.com/tokenjenny/flarum-ext-web3/v0.0.2/resources/locale/en.yml',
 	],
