@@ -54,6 +54,7 @@ return [
 	'justoverclock/flarum-ext-newsfeed',
 	'kyrne/evergreen',
 	'kyrne/whisper',
+	'kyrne/websocket',
 	'xelson/flarum-ext-chat',
 	'malago/flarum-achievements',
 	'extiverse/mercury',

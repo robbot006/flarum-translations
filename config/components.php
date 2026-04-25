@@ -1271,9 +1271,6 @@ return [
 	'krombox-oauth-wordpress' => [
 		'tag' => 'https://raw.githubusercontent.com/krombox/flarum-ext-oauth-wordpress/0.0.1/locale/en.yml',
 	],
-	'kyrne-websocket' => [
-		'tag' => 'https://raw.githubusercontent.com/KyrneDev/websocket/3.3.0/resources/locale/en.yml',
-	],
 	'litalino-adblock' => [
 		'tag' => 'https://raw.githubusercontent.com/Litalino/flarum-adblock/1.2.1/locale/en.yml',
 		'__builtInLanguages' => [
