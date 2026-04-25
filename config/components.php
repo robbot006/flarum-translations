@@ -1274,9 +1274,6 @@ return [
 	'krombox-oauth-wordpress' => [
 		'tag' => 'https://raw.githubusercontent.com/krombox/flarum-ext-oauth-wordpress/0.0.1/locale/en.yml',
 	],
-	'kyrne-evergreen' => [
-		'tag' => 'https://raw.githubusercontent.com/KyrneDev/Evergreen/0.2.0/resources/locale/en.yml',
-	],
 	'kyrne-websocket' => [
 		'tag' => 'https://raw.githubusercontent.com/KyrneDev/websocket/3.3.0/resources/locale/en.yml',
 	],

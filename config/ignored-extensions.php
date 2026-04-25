@@ -48,10 +48,11 @@ return [
 	'clarkwinkelmann/flarum-ext-mailing',
 	// migrated to `fof/*`
 	'sycho/flarum-move-posts',
-	// abandoned by author
+	// abandoned by author (see https://github.com/rob006-software/flarum-translations/issues/1204)
 	'justoverclock/username-blacklist',
 	'justoverclock/flarum-ext-newsletter',
 	'justoverclock/flarum-ext-newsfeed',
+	'kyrne/evergreen',
 	/*
 	 * dead/private forks
 	 */
