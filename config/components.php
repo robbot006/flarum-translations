@@ -31,24 +31,6 @@ return [
 	'acpl-my-tags' => [
 		'tag' => 'https://raw.githubusercontent.com/android-com-pl/my-tags/1.4.0/locale/en.yml',
 	],
-	'afrux-asirem' => [
-		'afrux-theme-base:tag' => 'https://raw.githubusercontent.com/afrux/flarum-theme-base/v0.1.8/locale/en.yml',
-	],
-	'afrux-forum-stats-widget' => [
-		'tag' => 'https://raw.githubusercontent.com/afrux/forum-stats-widget/v0.1.1/locale/en.yml',
-	],
-	'afrux-forum-widgets-core' => [
-		'tag' => 'https://raw.githubusercontent.com/afrux/forum-widgets-core/v0.1.7/locale/en.yml',
-	],
-	'afrux-news-widget' => [
-		'tag' => 'https://raw.githubusercontent.com/afrux/news-widget/v0.1.1/locale/en.yml',
-	],
-	'afrux-online-users-widget' => [
-		'tag' => 'https://raw.githubusercontent.com/afrux/online-users-widget/v0.1.9/locale/en.yml',
-	],
-	'afrux-top-posters-widget' => [
-		'tag' => 'https://raw.githubusercontent.com/afrux/top-posters-widget/v0.1.5/locale/en.yml',
-	],
 	'akr-chevereto' => [
 		'tag' => 'https://raw.githubusercontent.com/AKR-Developers/flarum-chevereto/1.0.1/resources/locale/en.yml',
 	],
