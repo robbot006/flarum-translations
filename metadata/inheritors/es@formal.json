@@ -5222,65 +5222,6 @@
             }
         }
     },
-    "kyrne-whisper.json": {
-        "kyrne-whisper": {
-            "admin": {
-                "permissions": {
-                    "start_label": "212411d29d1120cc29e471c474a1c5a8 212411d29d1120cc29e471c474a1c5a8"
-                },
-                "settings": {
-                    "return_key": "2e6eaf0108404ce5ba5a91d2f2121fd4 2e6eaf0108404ce5ba5a91d2f2121fd4",
-                    "set_own_password": "d0fb00157d87270883c2385e06e151bc d0fb00157d87270883c2385e06e151bc",
-                    "title": "3dd9010cfc2b0821b30c1a63356e9b64 3dd9010cfc2b0821b30c1a63356e9b64"
-                }
-            },
-            "forum": {
-                "chat": {
-                    "cant_send": "9ff9580851c9182b842c15bf9a00f36f 9ff9580851c9182b842c15bf9a00f36f",
-                    "cant_send_toomany": "079ca4f4a1af7a0da555682e363e86df 079ca4f4a1af7a0da555682e363e86df",
-                    "cant_start": "51706d3c4b5835f643ca52b262e802d3 51706d3c4b5835f643ca52b262e802d3",
-                    "chat_with": "25a34a45533704c7bc09e16920e51efd 25a34a45533704c7bc09e16920e51efd",
-                    "failed_message": "9a9dd815768b538b5a5e051515e125b9 9a9dd815768b538b5a5e051515e125b9",
-                    "failed_to_decrypt": "18f7cba088546600c41e902b89af1dfd 18f7cba088546600c41e902b89af1dfd",
-                    "messages_multiple": "f213b4757c934687dc5503c9a295f1b1 f213b4757c934687dc5503c9a295f1b1",
-                    "messages_single": "791515517af4d0102ee71d2d4a8cb824 791515517af4d0102ee71d2d4a8cb824",
-                    "read": "b4819ebd526f3f5324adbd3c7a050152 b4819ebd526f3f5324adbd3c7a050152",
-                    "recovery_message": "3540a4346acbc35d5683bad93b52daf0 3540a4346acbc35d5683bad93b52daf0",
-                    "send": "074a3002348aa1b2069ca2d93de41e30 074a3002348aa1b2069ca2d93de41e30",
-                    "start": "95e08a6491c4253dbd5cf94ef47cf9c7 95e08a6491c4253dbd5cf94ef47cf9c7",
-                    "start_of_conversation": "d5dd6db00f10ba389d381463e8c67867 d5dd6db00f10ba389d381463e8c67867",
-                    "text_placeholder": "ba9079c57dce99db7e92d28a2a3747aa ba9079c57dce99db7e92d28a2a3747aa"
-                },
-                "dropdown": {
-                    "tooltip": "3c6eb51b56e7647ad73adfa83b669cbb 3c6eb51b56e7647ad73adfa83b669cbb"
-                },
-                "modal": {
-                    "already": "7b0b53c95fca3b080b8d5156bf5417a5 7b0b53c95fca3b080b8d5156bf5417a5",
-                    "copied": "838ce12b7ea363a54885d6ffebcd279b 838ce12b7ea363a54885d6ffebcd279b",
-                    "help": "7ba54813e9a6dc3e5c91523e3fd2c9ec 7ba54813e9a6dc3e5c91523e3fd2c9ec",
-                    "help_start": "f897e701559f7f1b6d6327bae1eb5134 f897e701559f7f1b6d6327bae1eb5134",
-                    "more_users": "5bf215904a29db01718f4ef408ae84b6 5bf215904a29db01718f4ef408ae84b6",
-                    "search_recipients": "a1a9c97a5682f3171d13623dd307205d a1a9c97a5682f3171d13623dd307205d",
-                    "submit": "be4aaeb8c5c6f1f174dd32d502cdf048 be4aaeb8c5c6f1f174dd32d502cdf048",
-                    "title": "95e08a6491c4253dbd5cf94ef47cf9c7 95e08a6491c4253dbd5cf94ef47cf9c7"
-                },
-                "setup": {
-                    "button_import": "0b7253f352fa390d7d68365ac7dcae5e 0b7253f352fa390d7d68365ac7dcae5e",
-                    "button_setup": "1a0150117e807caf279cde8bdf66f406 1a0150117e807caf279cde8bdf66f406",
-                    "confirm_password": "aee08659274141a3f10f9635fe51ad90 aee08659274141a3f10f9635fe51ad90",
-                    "header_import": "95d0ff45bf0a7f6b825ab2e2aca1aa47 95d0ff45bf0a7f6b825ab2e2aca1aa47",
-                    "header_set_own": "04dee3cb6b45a2061396db4b97e8b843 04dee3cb6b45a2061396db4b97e8b843",
-                    "header_set_own_import": "46488a79c101e9dc3b6f043c3e4c1039 46488a79c101e9dc3b6f043c3e4c1039",
-                    "header_setup": "07422a9e4f8aa721ec7628fe6fe6c14e 07422a9e4f8aa721ec7628fe6fe6c14e",
-                    "invalid_password": "ffebbdd25d873fc3b455f0d509dfd4ca ffebbdd25d873fc3b455f0d509dfd4ca",
-                    "passwords_mismatch": "40d8aa382a10f5e72a728653803f9ad0 40d8aa382a10f5e72a728653803f9ad0",
-                    "success": "0e5784026da1c1ee754095339e773d15 0e5784026da1c1ee754095339e773d15",
-                    "title": "be00bfed3f38e5a9f13e256e00a46711 be00bfed3f38e5a9f13e256e00a46711"
-                },
-                "user_modal_alert": "d21709b753148c12a34792d1483e31a8 d21709b753148c12a34792d1483e31a8"
-            }
-        }
-    },
     "matteocontrini-imgur-upload.json": {
         "imgur-upload": {
             "admin": {
