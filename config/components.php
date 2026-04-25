@@ -422,6 +422,9 @@ return [
 	'migratetoflarum-fake-data' => [
 		'beta' => 'https://raw.githubusercontent.com/migratetoflarum/fake-data/2.0.0-beta.1/resources/locale/en.yml',
 	],
+	'pianotell-flamoji' => [
+		'tag' => 'https://raw.githubusercontent.com/PrimateCoder/flarum-flamoji/v2.0.0/locale/en.yml',
+	],
 	'quasimo-carousel-grids' => [
 		'tag' => 'https://raw.githubusercontent.com/Quasimo/flarum-ext-carousel-grids/v2.0.6/resources/locale/en.yml',
 		'__builtInLanguages' => [
