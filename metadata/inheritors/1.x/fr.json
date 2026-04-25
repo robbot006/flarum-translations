@@ -6695,10 +6695,109 @@
     "pianotell-flamoji.json": {
         "pianotell-flamoji": {
             "admin": {
+                "custom_emojis_section": {
+                    "edit_emoji": {
+                        "delete_emoji_button": "d41d8cd98f00b204e9800998ecf8427e ca0662e88c1b01dbe66467064df6b988",
+                        "delete_emoji_confirmation": "d41d8cd98f00b204e9800998ecf8427e 6926da2869e332234f36691a8473bf92",
+                        "emoji_title_label": "d41d8cd98f00b204e9800998ecf8427e 44f7adcd8198f84e4c61f2a6a0551567",
+                        "modal_title": "d41d8cd98f00b204e9800998ecf8427e ac24ad21edb0c79bf5df0f414158fad3",
+                        "path_or_url_label": "d41d8cd98f00b204e9800998ecf8427e 1f8347b35ee9d016978a9750ff95ad5f",
+                        "saved_message": "d41d8cd98f00b204e9800998ecf8427e d0e0cc3a09e2861054b88bb47842e15a",
+                        "submit_button": "d41d8cd98f00b204e9800998ecf8427e 1e382d5477484d2b130acaf315f1fc5d",
+                        "text_to_replace_label": "d41d8cd98f00b204e9800998ecf8427e 738d257375728931738e8c30576fce63"
+                    },
+                    "emoji_list": {
+                        "load_more_button": "d41d8cd98f00b204e9800998ecf8427e 06dfbfd2a034badc35702d30d3e74402"
+                    },
+                    "export_json_button": "d41d8cd98f00b204e9800998ecf8427e 7496fcc3ac5071e435714814042bae39",
+                    "heading_title": "d41d8cd98f00b204e9800998ecf8427e 94ce7bf0f7ed8556278166ec74357de7",
+                    "import_emojis_message": "d41d8cd98f00b204e9800998ecf8427e ca038b8a0609ca14be773f4e2604ac8c",
+                    "import_json_button": "d41d8cd98f00b204e9800998ecf8427e 60b3e9935669c87c967a394c306e2529"
+                },
                 "settings": {
+                    "auto_hide_label": "d41d8cd98f00b204e9800998ecf8427e 3149f91f51f35ebf39e5544534d730dd",
+                    "auto_hide_text": "d41d8cd98f00b204e9800998ecf8427e 81ffb3fd091b30357fe8624094e5ee0f",
                     "category_settings_heading": "d41d8cd98f00b204e9800998ecf8427e a362fef9bb313447b09127bba481d681",
+                    "emoji_categories": {
+                        "activity": "d41d8cd98f00b204e9800998ecf8427e 61d19b36454995ba27358f1b2e5b8155",
+                        "flags": "d41d8cd98f00b204e9800998ecf8427e 698ff4f1241e8bf6ac93a7ad5e2cb184",
+                        "foods": "d41d8cd98f00b204e9800998ecf8427e 03f56f2e2c69b0632e49747cd9f9a25c",
+                        "nature": "d41d8cd98f00b204e9800998ecf8427e a0bf4de040cc3e596cce0d77267c7fc2",
+                        "objects": "d41d8cd98f00b204e9800998ecf8427e 424b3812376ac69be3fd5a63dd875c5f",
+                        "people": "d41d8cd98f00b204e9800998ecf8427e 4b42a05440745ac8309f17ef099eeb76",
+                        "places": "d41d8cd98f00b204e9800998ecf8427e 22bd8b907563c39f597d84e4f4696bd0",
+                        "symbols": "d41d8cd98f00b204e9800998ecf8427e 634b20a11d3abc1bc6b028338ee93512"
+                    },
                     "emoji_settings_heading": "d41d8cd98f00b204e9800998ecf8427e 4cb1ed0bc888c773cb8f5f4dba7e3801",
-                    "general_ui_settings_heading": "d41d8cd98f00b204e9800998ecf8427e 0075c81830f0ed3ef3d1a48104fe9787"
+                    "frequent_rows_label": "d41d8cd98f00b204e9800998ecf8427e 2376c361df6f449a4ddb64851e7ab9a8",
+                    "frequent_rows_text": "d41d8cd98f00b204e9800998ecf8427e 0cda72407bc69cc6f35f9c33acbea412",
+                    "general_ui_settings_heading": "d41d8cd98f00b204e9800998ecf8427e 0075c81830f0ed3ef3d1a48104fe9787",
+                    "picker_set_auto": "d41d8cd98f00b204e9800998ecf8427e aced9d6a66babf0fc536c90cec7da2e7",
+                    "picker_set_label": "d41d8cd98f00b204e9800998ecf8427e 7db908de6fcb7c76fc97a722c6db70e1",
+                    "picker_set_native": "d41d8cd98f00b204e9800998ecf8427e 2558c8e7cca0627e10218721365b91a4",
+                    "picker_set_text": "d41d8cd98f00b204e9800998ecf8427e 241f72fdfa9ef200bc8c280a6ffc3017",
+                    "picker_set_twemoji": "d41d8cd98f00b204e9800998ecf8427e 148114231bf673466b1d766cf2e089b0",
+                    "show_category_buttons_label": "d41d8cd98f00b204e9800998ecf8427e 9aff96c6b4eff7bd44e2721a7956d47f",
+                    "show_category_buttons_text": "d41d8cd98f00b204e9800998ecf8427e d5b2178bf5e616d822385c76ec24fd6f",
+                    "show_preview_label": "d41d8cd98f00b204e9800998ecf8427e 25679f42eab2e9d9c5e6b91d9b9b24ae",
+                    "show_preview_text": "d41d8cd98f00b204e9800998ecf8427e 5592d5ec2e519ea377bda8916a4ff2d3",
+                    "show_recents_label": "d41d8cd98f00b204e9800998ecf8427e 76e86ba914f71b2ee3dfc4f3793d4488",
+                    "show_recents_text": "d41d8cd98f00b204e9800998ecf8427e 8e16c91bdda8f72c50f4aaca0a75b1d9",
+                    "show_search_label": "d41d8cd98f00b204e9800998ecf8427e 73e645dae8bd0cb13e071d8296fc5434",
+                    "show_search_text": "d41d8cd98f00b204e9800998ecf8427e 71e95630f9017cd8111be353f9de46a6",
+                    "show_variants_label": "d41d8cd98f00b204e9800998ecf8427e 541279f7ef8597d03bdd284d798f4d24",
+                    "show_variants_text": "d41d8cd98f00b204e9800998ecf8427e 872e46814425535b1a82bc144c58d699",
+                    "specify_categories_label": "d41d8cd98f00b204e9800998ecf8427e 615613bd06debabef2194015da859fdc",
+                    "specify_categories_text": "d41d8cd98f00b204e9800998ecf8427e 7f38a57776f0a7865c5007e4185d0545"
+                }
+            },
+            "forum": {
+                "composer": {
+                    "emoji_tooltip": "d41d8cd98f00b204e9800998ecf8427e 6c284b7bfca9fa430bd4766e878585a7",
+                    "picker_load_error": "d41d8cd98f00b204e9800998ecf8427e 12d1f76e8f5b6fb6f05269da589c6786",
+                    "picker_load_retry": "d41d8cd98f00b204e9800998ecf8427e ed7abe3ce03a238f04222a1eec48f1f5",
+                    "picker_loading": "d41d8cd98f00b204e9800998ecf8427e 090f3c68ac6ebdc271e79da0e2c8b455"
+                },
+                "emoji-mart": {
+                    "add_custom": "d41d8cd98f00b204e9800998ecf8427e ec3a96c1b1d2456299f163e6d3a68aca",
+                    "categories": {
+                        "activity": "d41d8cd98f00b204e9800998ecf8427e 61d19b36454995ba27358f1b2e5b8155",
+                        "custom": "d41d8cd98f00b204e9800998ecf8427e 40f490b5eb64d2befdc21caed4b69fb5",
+                        "flags": "d41d8cd98f00b204e9800998ecf8427e 698ff4f1241e8bf6ac93a7ad5e2cb184",
+                        "foods": "d41d8cd98f00b204e9800998ecf8427e 03f56f2e2c69b0632e49747cd9f9a25c",
+                        "frequent": "d41d8cd98f00b204e9800998ecf8427e 41c0381ee48dc8c1bf84077731ebf048",
+                        "nature": "d41d8cd98f00b204e9800998ecf8427e a0bf4de040cc3e596cce0d77267c7fc2",
+                        "objects": "d41d8cd98f00b204e9800998ecf8427e 424b3812376ac69be3fd5a63dd875c5f",
+                        "people": "d41d8cd98f00b204e9800998ecf8427e 4b42a05440745ac8309f17ef099eeb76",
+                        "places": "d41d8cd98f00b204e9800998ecf8427e 22bd8b907563c39f597d84e4f4696bd0",
+                        "symbols": "d41d8cd98f00b204e9800998ecf8427e 634b20a11d3abc1bc6b028338ee93512"
+                    },
+                    "category_search": "d41d8cd98f00b204e9800998ecf8427e 33bab0e0a89a746b553ed8ef8141dc77",
+                    "no_emojis_found_message": "d41d8cd98f00b204e9800998ecf8427e 8fe77152d1aeb2a58e68b101181af1d5",
+                    "no_emojis_found_title": "d41d8cd98f00b204e9800998ecf8427e 749285a0cfdd96adf7dbc85ab9fc7e67",
+                    "pick": "d41d8cd98f00b204e9800998ecf8427e 374af9ce114347ce055f535aea330ddc",
+                    "search_placeholder": "d41d8cd98f00b204e9800998ecf8427e 3a8a7a8a2dbbd97c1c1519c74198112d",
+                    "skin_tone_choose": "d41d8cd98f00b204e9800998ecf8427e 5ef973c051b925f372201b89f3661579",
+                    "skin_tone_dark": "d41d8cd98f00b204e9800998ecf8427e be4a56aafe1a16ad96d9f64155afe1e7",
+                    "skin_tone_default": "d41d8cd98f00b204e9800998ecf8427e d95e05d512aa01069896bba05fe0dc73",
+                    "skin_tone_light": "d41d8cd98f00b204e9800998ecf8427e c7e206a03eb924b8cf6f15e8c70f1f07",
+                    "skin_tone_medium": "d41d8cd98f00b204e9800998ecf8427e 83826a6a0fa13612be6dd4b7622d43db",
+                    "skin_tone_medium_dark": "d41d8cd98f00b204e9800998ecf8427e 9e8bfc8ba6e2cb084fac0d2fb97c07b2",
+                    "skin_tone_medium_light": "d41d8cd98f00b204e9800998ecf8427e 5e46b896a4a1e8ff4e1d460e1059f22e"
+                }
+            },
+            "ref": {
+                "emoji_categories": {
+                    "activity": "d41d8cd98f00b204e9800998ecf8427e 76868c4fd05f9a4372abc60dd36479a0",
+                    "custom": "d41d8cd98f00b204e9800998ecf8427e dc877eb6e90a72a7e0f7d0b1945012ab",
+                    "flags": "d41d8cd98f00b204e9800998ecf8427e cf2e358e9b9873b0280cbdadcbe77698",
+                    "foods": "d41d8cd98f00b204e9800998ecf8427e 9eba228571e3bd884ddde25974bf1ffd",
+                    "frequent": "d41d8cd98f00b204e9800998ecf8427e 3eec232f8f7f71c5b84d928f97ee1298",
+                    "nature": "d41d8cd98f00b204e9800998ecf8427e e15c7388e70f4d6774021aa8db453a3c",
+                    "objects": "d41d8cd98f00b204e9800998ecf8427e d6298ba8984e5ad2bb6829ea682fc567",
+                    "people": "d41d8cd98f00b204e9800998ecf8427e 18d9478b01ec312c3e036812d0608aac",
+                    "places": "d41d8cd98f00b204e9800998ecf8427e fd5a34acfed929066ad3a1ed05dd8a34",
+                    "symbols": "d41d8cd98f00b204e9800998ecf8427e 23b9eda5846a4017ec006a8b998cea72"
                 }
             }
         }
