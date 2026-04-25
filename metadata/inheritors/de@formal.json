@@ -944,16 +944,6 @@
             }
         }
     },
-    "blomstra-usercard-stats.json": {
-        "blomstra-usercard-stats": {
-            "forum": {
-                "user": {
-                    "discussion-count": "dfabf74071a987e7715f9ab370e596e3 dfabf74071a987e7715f9ab370e596e3",
-                    "post-count": "e46c3b1e50c9daa475550337a0c619ef e46c3b1e50c9daa475550337a0c619ef"
-                }
-            }
-        }
-    },
     "blomstra-web3.json": {
         "blomstra-web3": {
             "admin": {
@@ -11041,19 +11031,6 @@
                         "private_profile_heading": "427ca4beb83ade42461a2c193ab2a524 427ca4beb83ade42461a2c193ab2a524",
                         "private_profile_help": "7d22fb0128a658598cf4ecd672611719 7d22fb0128a658598cf4ecd672611719"
                     }
-                }
-            }
-        }
-    },
-    "huseyinfiliz-sort-changer.json": {
-        "huseyinfiliz-sort-changer": {
-            "admin": {
-                "settings": {
-                    "default_sort_label": "74161757acd09ac77cbadb6a27f3992e 74161757acd09ac77cbadb6a27f3992e",
-                    "sort_latest": "6cd681dbb9e869d3de7ba05f22846400 6cd681dbb9e869d3de7ba05f22846400",
-                    "sort_newest": "137dfd061c7dea15cd29565ffd5c1d91 137dfd061c7dea15cd29565ffd5c1d91",
-                    "sort_oldest": "29038574b40316bb5e0d4bcbf737c01f 29038574b40316bb5e0d4bcbf737c01f",
-                    "sort_top": "f47c9ff482a1aa29aab32273138f77bd f47c9ff482a1aa29aab32273138f77bd"
                 }
             }
         }
