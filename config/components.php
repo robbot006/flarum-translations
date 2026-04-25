@@ -1700,6 +1700,12 @@ return [
 			'pl',
 		],
 	],
+	'tryhackx-homepage-blocks' => [
+		'tag' => 'https://raw.githubusercontent.com/TryHackX/flarum-homepage-blocks/1.0.3/resources/locale/en.yml',
+		'__builtInLanguages' => [
+			'pl',
+		],
+	],
 	'umhelper-oauth-clerk' => [
 		'tag' => 'https://raw.githubusercontent.com/UMHelper/flarum-ext-oauth-clerk/1.0.1/locale/en.yml',
 	],
