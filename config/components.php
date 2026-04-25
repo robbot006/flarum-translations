@@ -1732,12 +1732,6 @@ return [
 			'fr',
 		],
 	],
-	'tohsakarat-tags-filter' => [
-		'tag' => 'https://raw.githubusercontent.com/tohsakrat/flarum-tags-filter/v1.0.6/locale/en.yml',
-		'__builtInLanguages' => [
-			'zh_Hans',
-		],
-	],
 	'tokenjenny-web3' => [
 		'tag' => 'https://raw.githubusercontent.com/tokenjenny/flarum-ext-web3/v0.0.2/resources/locale/en.yml',
 	],
