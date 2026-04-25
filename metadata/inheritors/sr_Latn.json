@@ -42,20 +42,6 @@
             }
         }
     },
-    "askvortsov-checklist.json": {
-        "askvortsov-checklist": {
-            "admin": {
-                "settings": {
-                    "cross_out_completed_items": "0d98f9382c4ed4fcbc02a30fa667bbfc 0d98f9382c4ed4fcbc02a30fa667bbfc"
-                }
-            },
-            "lib": {
-                "composer": {
-                    "checklist_tooltip": "604dd629e1dcae69d8c82af116ce333f 604dd629e1dcae69d8c82af116ce333f"
-                }
-            }
-        }
-    },
     "askvortsov-help-tags.json": {
         "askvortsov-help-tags": {
             "admin": {
