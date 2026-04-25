@@ -6947,16 +6947,20 @@
                 "custom_emojis_section": {
                     "edit_emoji": {
                         "delete_emoji_button": "685396b2e913c094e2fb0b64c87f34bf 685396b2e913c094e2fb0b64c87f34bf",
+                        "delete_emoji_confirmation": "d41d8cd98f00b204e9800998ecf8427e c4595ed0f6642a9c33707a1ddcfd6c03",
+                        "emoji_title_label": "d41d8cd98f00b204e9800998ecf8427e fd29c73987957a06e08b16bc22ffc671",
                         "modal_title": "47b813e888a3425ff65d49ec5412ccf6 47b813e888a3425ff65d49ec5412ccf6",
                         "path_or_url_label": "56da6281e8ee58adf208cf19c9bbada5 56da6281e8ee58adf208cf19c9bbada5",
                         "saved_message": "d0e0cc3a09e2861054b88bb47842e15a d0e0cc3a09e2861054b88bb47842e15a",
-                        "submit_button": "1e382d5477484d2b130acaf315f1fc5d 1e382d5477484d2b130acaf315f1fc5d"
+                        "submit_button": "1e382d5477484d2b130acaf315f1fc5d 1e382d5477484d2b130acaf315f1fc5d",
+                        "text_to_replace_label": "d41d8cd98f00b204e9800998ecf8427e d47c1f4ead3a39fd749ba757a60780b8"
                     },
                     "emoji_list": {
                         "load_more_button": "06dfbfd2a034badc35702d30d3e74402 06dfbfd2a034badc35702d30d3e74402"
                     },
                     "export_json_button": "853bb5b1bfea6ea34611b1e66b387560 853bb5b1bfea6ea34611b1e66b387560",
                     "heading_title": "b7b62ce4fa76b3b3a6f072aa7f1b6610 b7b62ce4fa76b3b3a6f072aa7f1b6610",
+                    "import_emojis_message": "d41d8cd98f00b204e9800998ecf8427e 8901dac33a91610717d70d7a938a9d37",
                     "import_json_button": "5706cea3187b293486750e01af00d971 5706cea3187b293486750e01af00d971"
                 },
                 "settings": {
@@ -6974,6 +6978,8 @@
                         "symbols": "634b20a11d3abc1bc6b028338ee93512 634b20a11d3abc1bc6b028338ee93512"
                     },
                     "emoji_settings_heading": "9aefe983eee2be1708e796f8728247d8 9aefe983eee2be1708e796f8728247d8",
+                    "frequent_rows_label": "d41d8cd98f00b204e9800998ecf8427e c85d2f724a15fd2a43f931db0781ead8",
+                    "frequent_rows_text": "d41d8cd98f00b204e9800998ecf8427e 22343f5f21963de83fc8b4d59eb7f064",
                     "general_ui_settings_heading": "d2cdb6e618a2bb0e5399e52498e5abfe d2cdb6e618a2bb0e5399e52498e5abfe",
                     "picker_set_auto": "3bf95af74cb95adb36da8c9c26ae4697 3bf95af74cb95adb36da8c9c26ae4697",
                     "picker_set_label": "fecbe066d24aa88977d759477e01ad6f fecbe066d24aa88977d759477e01ad6f",
@@ -6996,9 +7002,13 @@
             },
             "forum": {
                 "composer": {
-                    "emoji_tooltip": "3c5aeffc9126fde396beceb011e00711 3c5aeffc9126fde396beceb011e00711"
+                    "emoji_tooltip": "3c5aeffc9126fde396beceb011e00711 3c5aeffc9126fde396beceb011e00711",
+                    "picker_load_error": "d41d8cd98f00b204e9800998ecf8427e 8bd3e35bd1ac4e8b0d31a80713ffeb8e",
+                    "picker_load_retry": "d41d8cd98f00b204e9800998ecf8427e b1679143a137e2252d060a4d5f47cb98",
+                    "picker_loading": "d41d8cd98f00b204e9800998ecf8427e 130b0813d2f613bd95c2f8239bcc7123"
                 },
                 "emoji-mart": {
+                    "add_custom": "d41d8cd98f00b204e9800998ecf8427e 454e3f363b5f23928cf0f0427f604727",
                     "categories": {
                         "activity": "61d19b36454995ba27358f1b2e5b8155 61d19b36454995ba27358f1b2e5b8155",
                         "custom": "40f490b5eb64d2befdc21caed4b69fb5 40f490b5eb64d2befdc21caed4b69fb5",
@@ -7011,9 +7021,12 @@
                         "places": "22bd8b907563c39f597d84e4f4696bd0 22bd8b907563c39f597d84e4f4696bd0",
                         "symbols": "634b20a11d3abc1bc6b028338ee93512 634b20a11d3abc1bc6b028338ee93512"
                     },
+                    "category_search": "d41d8cd98f00b204e9800998ecf8427e 8c43138bc365cfe98f36382c08dd1b34",
                     "no_emojis_found_message": "542a3e74253fb3ef0546d52de64de2ed 542a3e74253fb3ef0546d52de64de2ed",
                     "no_emojis_found_title": "37b3fb0a0842c6c7a92bc04e703dbdcb 37b3fb0a0842c6c7a92bc04e703dbdcb",
+                    "pick": "d41d8cd98f00b204e9800998ecf8427e 3da4b76f4a10b6a6f9f34368ab379f5e",
                     "search_placeholder": "4474fbc0115b236a45eb9573889b2653 4474fbc0115b236a45eb9573889b2653",
+                    "skin_tone_choose": "d41d8cd98f00b204e9800998ecf8427e 74dfea0760b1920a62d63eaa56e61abc",
                     "skin_tone_dark": "e8ad273a49203705685b42a379367d2f e8ad273a49203705685b42a379367d2f",
                     "skin_tone_default": "eb6d8ae6f20283755b339c0dc273988b eb6d8ae6f20283755b339c0dc273988b",
                     "skin_tone_light": "1824e8e0307cbfdd1993511ab040075c 1824e8e0307cbfdd1993511ab040075c",

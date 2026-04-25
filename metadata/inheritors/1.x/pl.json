@@ -1908,8 +1908,33 @@
     "fof-badges.json": {
         "fof-badges": {
             "admin": {
-                "tabs": {
+                "category_enabled": "ed3d102957fcaa86567f6f3aabcfea9f ed3d102957fcaa86567f6f3aabcfea9f",
+                "create_category": "f3ba0683547fa1b42f9b1ed75d513e5d f3ba0683547fa1b42f9b1ed75d513e5d",
+                "enabled": "ed3d102957fcaa86567f6f3aabcfea9f ed3d102957fcaa86567f6f3aabcfea9f",
+                "headers": {
                     "badges": "467c96dd5e58280d07e2713587ebe4bc 467c96dd5e58280d07e2713587ebe4bc"
+                },
+                "permissions": {
+                    "moderate": "41cadd9bbf8a14d9f16e17733296a753 41cadd9bbf8a14d9f16e17733296a753"
+                },
+                "settings": {
+                    "save": "023b6d7a74e1a79351ea18f91d4fd19a 023b6d7a74e1a79351ea18f91d4fd19a",
+                    "show_badges_on_user_card": "8cbf5bd98f5e5bd2e9d6278dc3a8e92b 8cbf5bd98f5e5bd2e9d6278dc3a8e92b"
+                },
+                "tabs": {
+                    "badges": "467c96dd5e58280d07e2713587ebe4bc 467c96dd5e58280d07e2713587ebe4bc",
+                    "categories": "efcfe755debad10919b919b6b2be112f efcfe755debad10919b919b6b2be112f",
+                    "settings": "47285f94c98a64a95657836618447744 47285f94c98a64a95657836618447744"
+                },
+                "uncategorized": "e565f216a9a261168cc19bd1d11f79bc e565f216a9a261168cc19bd1d11f79bc"
+            },
+            "forum": {
+                "badges_title": "467c96dd5e58280d07e2713587ebe4bc 467c96dd5e58280d07e2713587ebe4bc",
+                "nav": {
+                    "badges": "467c96dd5e58280d07e2713587ebe4bc 467c96dd5e58280d07e2713587ebe4bc"
+                },
+                "user": {
+                    "badges_tab": "467c96dd5e58280d07e2713587ebe4bc 467c96dd5e58280d07e2713587ebe4bc"
                 }
             }
         }
