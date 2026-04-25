@@ -1569,9 +1569,6 @@ return [
 	'ralkage-word-counter' => [
 		'tag' => 'https://raw.githubusercontent.com/Ralkage/flarum-ext-word-counter/1.0.0/locale/en.yml',
 	],
-	'ramesh-dada-realtime' => [
-		'tag' => 'https://raw.githubusercontent.com/ramesh-dada/realtime/v100.2/resources/locale/en.yml',
-	],
 	'ramon-colored' => [
 		'tag' => 'https://raw.githubusercontent.com/ram0ng1/colored/1.2.0/resources/locale/en.yml',
 	],

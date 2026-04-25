@@ -59,6 +59,7 @@ return [
 	'malago/flarum-achievements',
 	'extiverse/mercury',
 	'ramesh-dada/flarum-gui-image-and-link',
+	'ramesh-dada/realtime',
 	/*
 	 * dead/private forks
 	 */
