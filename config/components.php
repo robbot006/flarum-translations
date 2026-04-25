@@ -1343,13 +1343,6 @@ return [
 			'it',
 		],
 	],
-	'malago-achievements' => [
-		'tag' => 'https://raw.githubusercontent.com/malago86/flarum-achievements/0.5.6/locale/en.yml',
-		'__builtInLanguages' => [
-			'es',
-			'es@formal',
-		],
-	],
 	'malago-ads' => [
 		'tag' => 'https://raw.githubusercontent.com/malago86/flarum-ads/0.3.2/resources/locale/en.yml',
 		'__builtInLanguages' => [

@@ -55,6 +55,7 @@ return [
 	'kyrne/evergreen',
 	'kyrne/whisper',
 	'xelson/flarum-ext-chat',
+	'malago/flarum-achievements',
 	/*
 	 * dead/private forks
 	 */
