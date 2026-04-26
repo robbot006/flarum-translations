@@ -1675,6 +1675,12 @@ return [
 			'pl',
 		],
 	],
+	'tryhackx-topic-rating' => [
+		'tag' => 'https://raw.githubusercontent.com/TryHackX/flarum-topic-rating/1.0.5/locale/en.yml',
+		'__builtInLanguages' => [
+			'pl',
+		],
+	],
 	'umhelper-oauth-clerk' => [
 		'tag' => 'https://raw.githubusercontent.com/UMHelper/flarum-ext-oauth-clerk/1.0.1/locale/en.yml',
 	],
