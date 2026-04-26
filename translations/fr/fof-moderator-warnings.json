@@ -30,7 +30,7 @@
                 "warning_button": "Avertir l'utilisateur"
             },
             "user": {
-                "warnings": ""
+                "warnings": "Avertissements"
             },
             "settings": {
                 "warning_notification_label": "Un modérateur m'a averti"
@@ -40,7 +40,7 @@
                 "invalid_strike_count": "Le nombre de sanctions doit être un entier compris entre 0 et 5."
             },
             "warning_controls": {
-                "delete_button": "Retirer",
+                "delete_button": "Supprimer",
                 "restore_button": "Restaurer",
                 "delete_forever_button": "Supprimer définitivement"
             },
@@ -51,8 +51,8 @@
                 "warnings_no_strikes": "Avertissements du modérateur : aucune sanction reçue"
             },
             "warning_list_item": {
-                "list_item_heading": "",
-                "list_item_heading_hidden": "",
+                "list_item_heading": "{strikes, plural, one {# sanction, {time}} other {# sanctions, {time}}}",
+                "list_item_heading_hidden": "{strikes, plural, one {# sanction, {time} (supprimée)} other {# sanctions, {time} (supprimées)}}",
                 "public_comment": "Avertissement",
                 "private_comment": "Commentaires visibles du modérateur",
                 "linked_post": "Message lié"

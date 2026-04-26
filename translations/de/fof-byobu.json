@@ -103,14 +103,14 @@
                     "heading": "Symboleinstellungen",
                     "help": "Diese Einstellungen betreffen die Symbole, die von byobu im Forum verwendet werden."
                 },
-                "badge-icon": "Byobu Diskussions Abzeichen",
-                "enable-make-public-option": "\"Öffentlich machen\" Funktion aktivieren",
+                "badge-icon": "Byobu-Diskussionmarkierung",
+                "enable-make-public-option": "„Öffentlich machen“ Funktion aktivieren",
                 "enable-make-public-option-help": "Fügt die Möglichkeit für diejenigen hinzu, die die Berechtigung haben, alle Empfänger zu entfernen, ein neues Thema zuzuweisen und die Diskussion öffentlich sichtbar zu machen (gemäß den Sichtbarkeitseinstellungen des ausgewählten Themas).",
                 "post-event-icon": "Byobu Post Ereignisse",
                 "delete_on_last_recipient_left": "PDs löschen, wenn der letzte Nutzer geht",
                 "delete_on_last_recipient_left_help": "Wenn diese Option aktiviert ist, werden die PDs dauerhaft aus der Datenbank gelöscht, wenn der letzte Nutzer sie verlässt. Andernfalls wird die PD sanft gelöscht/versteckt.",
-                "hide_from_all_discussions_page": "PDs von der Seite \"Alle Diskussionen\" ausblenden",
-                "hide_from_all_discussions_page_help": "Private Diskussionen sind nur über die Seite \"Private Diskussionen\" oder das Benutzerprofil zugänglich"
+                "hide_from_all_discussions_page": "PDs von der Seite „Alle Diskussionen“ ausblenden",
+                "hide_from_all_discussions_page_help": "Private Diskussionen sind nur über die Seite „Private Diskussionen“ oder das Benutzerprofil zugänglich"
             }
         },
         "email": {
@@ -121,23 +121,23 @@
                 "private_discussion_added": "[Private Diskussion] {display_name} hat dich zu einer privaten Diskussion hinzugefügt"
             },
             "body": {
-                "private_discussion_created": "",
-                "private_discussion_replied": "",
-                "recipient_removed": "",
-                "private_discussion_added": "",
-                "made_public": ""
+                "private_discussion_created": "{actor_display_name} hat eine neue private Diskussion mit dir als Empfänger gestartet: {discussion_title}.\n\nHier kannst du sie anzeigen:\n{discussion_url}\n\nMöglicherweise musst du dich zuerst anmelden, bevor du auf diesen Link zugreifen kannst.\n",
+                "private_discussion_replied": "{actor_display_name} hat in einer privaten Diskussion mit dir als Empfänger folgenden Beitrag gepostet: {discussion_title}.\n\nHier kannst du ihn ansehen:\n{post_url}\n\nMöglicherweise musst du dich zuerst anmelden, bevor du auf diesen Link zugreifen kannst.\n",
+                "recipient_removed": "{actor_display_name} hat die private Diskussion verlassen: {discussion_title}. Er/sie kann nun keine Inhalte mehr davon sehen.\n\nHier ansehen:\n{discussion_url}\n\nMöglicherweise musst du dich zuerst anmelden, bevor du auf diesen Link zugreifen kannst.\n",
+                "private_discussion_added": "{actor_display_name} hat dich zu einer bestehenden privaten Diskussion hinzugefügt: {discussion_title}.\n\nHier kannst du sie einsehen:\n{discussion_url}\n\nMöglicherweise musst du dich zuerst anmelden, bevor du auf diesen Link zugreifen kannst.\n",
+                "made_public": "{actor_display_name} hat alle Empfänger entfernt und die Diskussion öffentlich gemacht: {discussion_title}.\n\nHier ansehen:\n{discussion_url}\n\nMöglicherweise musst du dich zuerst anmelden, bevor du auf diesen Link zugreifen kannst.\n"
             }
         },
         "lib": {
             "gambits": {
                 "byobu": {
-                    "key": ""
+                    "key": "byobu"
                 },
                 "private": {
-                    "key": ""
+                    "key": "privat"
                 },
                 "allows-pd": {
-                    "key": ""
+                    "key": "pd-erlaubt"
                 }
             }
         }

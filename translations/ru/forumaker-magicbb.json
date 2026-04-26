@@ -8,10 +8,17 @@
                 "bb_spoiler": "Спойлер",
                 "bb_table": "Таблица",
                 "bb_info": "Оповещения",
+                "bb_audio": "Аудио",
                 "bb_image": "FoF Upload",
-                "bb_image_help": "Изображения по центру уменьшаются до 60 % ширины поста, а выровненные по сторонам — до 40 %",
+                "bb_image_help": "Добавляет кнопку для изменения размера картинок. Изображения по центру уменьшаются до 60% ширины поста, а выровненные по сторонам — до 40%",
                 "bb_iframe": "iframe",
                 "bb_iframe_help": "Разрешает вставку iframe из любого источника. Используйте осторожно — встроенный контент может содержать внешние скрипты. 🧹 После изменения этой настройки очистите кэш Flarum",
+                "bb_hide_login": "",
+                "bb_hide_login_help": "",
+                "bb_hide_reply": "",
+                "bb_hide_reply_help": "",
+                "bb_hide_like": "",
+                "bb_hide_like_help": "",
                 "toolbar_group": "Группировать кнопки MagicBB",
                 "toolbar_group_help": "Если включено, все кнопки MagicBB будут объединены внутри одной"
             },
@@ -19,10 +26,13 @@
                 "text": "Кнопки текста",
                 "content": "Кнопки контента",
                 "images": "Кнопки изображений",
-                "features": "Возможности"
+                "features": "Возможности",
+                "hide": ""
             },
             "permissions": {
-                "use_iframe": "Разрешить iframe"
+                "use_iframe": "Разрешить iframe",
+                "bypass_like": "",
+                "bypass_reply": ""
             }
         },
         "forum": {
@@ -33,8 +43,21 @@
                 "spoiler_button": "Добавить спойлер",
                 "table_button": "Добавить таблицу",
                 "info_button": "Добавить оповещение",
-                "image_button": "Добавить изображение",
-                "more_button": "Больше"
+                "audio_button": "Добавить аудио",
+                "image_button": "Добавить умный код изображения",
+                "more_button": "Больше",
+                "hide_login_button": "",
+                "hide_reply_button": "",
+                "hide_like_button": ""
+            },
+            "hide": {
+                "login_to_see": "",
+                "like_to_see": "",
+                "reply_to_see": "",
+                "like_link_fallback": "",
+                "login_to_see_simple": "",
+                "like_to_see_simple": "",
+                "reply_to_see_simple": ""
             }
         }
     }

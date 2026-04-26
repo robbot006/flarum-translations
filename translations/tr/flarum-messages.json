@@ -1,0 +1,100 @@
+{
+    "flarum-messages": {
+        "admin": {
+            "permissions": {
+                "send_messages_label": "Özel mesaj gönder",
+                "delete_own_messages_label": "Kendi mesajlarını silebilir"
+            }
+        },
+        "forum": {
+            "composer": {
+                "discard_confirmation": "Mesajınızı göndermediniz. Silmek istediğinizden emin misiniz?",
+                "placeholder": "Bir mesaj yazın...",
+                "recipients": "Alıcılar",
+                "submit_button": "Mesajı gönder",
+                "to": "Kime:"
+            },
+            "dialog_list": {
+                "load_more_button": "=> core.ref.load_more",
+                "mark_as_read_tooltip": "Okundu olarak işaretle",
+                "title": "Mesajlar",
+                "view_all": "Tüm mesajları görüntüle"
+            },
+            "dialog_section": {
+                "back_label": "Geri dön",
+                "cannot_reply_text": "Bu kullanıcı yanıt veremiyor",
+                "controls": {
+                    "details_button": "Detaylar"
+                },
+                "controls_toggle_label": "Sohbet kontrol işlemleri",
+                "details_modal": {
+                    "created_at": "Oluşturulma tarihi",
+                    "recipients": "Katılımcılar",
+                    "title": "Sohbet detayları"
+                }
+            },
+            "header": {
+                "dropdown_tooltip": "Mesajlar"
+            },
+            "index": {
+                "messages_link": "Mesajlar"
+            },
+            "index_sort": {
+                "latest_button": "En Son",
+                "newest_button": "En Yeni",
+                "oldest_button": "En eski"
+            },
+            "message_controls": {
+                "delete_button": "Sil",
+                "delete_confirmation": "Bu mesajı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz."
+            },
+            "messages_page": {
+                "cannot_send_message_button": "Mesaj Gönderilemiyor",
+                "empty_text": "Yeni mesaj yok",
+                "hero": {
+                    "title": "Mesajlar",
+                    "subtitle": "Diğer kullanıcılarla özel sohbetleriniz"
+                },
+                "mark_all_as_read_tooltip": "Tümünü okundu olarak işaretle",
+                "refresh_tooltip": "Yenile",
+                "send_message_button": "Mesaj Gönder",
+                "stream": {
+                    "load_previous_button": "Önceki mesajları yükle",
+                    "load_next_button": "Sonraki mesajları yükle",
+                    "start_of_the_conversation": "Sohbetin başlangıcı",
+                    "time_lapsed_text": "=> core.forum.post_stream.time_lapsed_text"
+                },
+                "title": "Mesajlar"
+            },
+            "recipient_selection_modal": {
+                "title": "Bu mesajın gönderileceği alıcıları seçin"
+            },
+            "settings": {
+                "notify_message_received_label": "Birisi bana mesaj gönderdiğinde"
+            },
+            "user_controls": {
+                "send_message_button": "Mesaj gönder",
+                "cannot_reply_text": "Bu kullanıcı yanıt veremiyor"
+            },
+            "notifications": {
+                "message_received_text": "{user} size bir mesaj gönderdi"
+            }
+        },
+        "email": {
+            "message_received": {
+                "subject": "{user_display_name} size bir mesaj gönderdi",
+                "plain": {
+                    "body": "{user_display_name} size yeni bir mesaj gönderdi.\n\n{url}\n\n---\n\n{content}\n"
+                },
+                "html": {
+                    "body": "{user_display_name} size [yeni bir mesaj]({url}) gönderdi."
+                }
+            }
+        },
+        "lib": {
+            "dialog": {
+                "title": "{username} ile sohbet"
+            }
+        }
+    }
+}

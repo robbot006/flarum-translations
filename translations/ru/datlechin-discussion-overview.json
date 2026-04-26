@@ -1,0 +1,12 @@
+{
+    "datlechin-discussion-overview": {
+        "forum": {
+            "created": "Создано",
+            "last_reply": "Последний ответ",
+            "replies": "Ответы",
+            "views": "Просмотры",
+            "users": "Пользователи",
+            "likes": "Лайки"
+        }
+    }
+}

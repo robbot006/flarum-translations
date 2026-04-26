@@ -1,0 +1,12 @@
+{
+    "datlechin-discussion-overview": {
+        "forum": {
+            "created": "Erstellt",
+            "last_reply": "Letzter Beitrag",
+            "replies": "Beiträge",
+            "views": "Aufrufe",
+            "users": "Benutzer",
+            "likes": "Gefällt das"
+        }
+    }
+}

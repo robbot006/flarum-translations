@@ -1,0 +1,14 @@
+{
+    "datlechin-silent-edit": {
+        "admin": {
+            "permissions": {
+                "clearLastEdit": "Wis informatie over de laatste bewerking"
+            }
+        },
+        "forum": {
+            "post_controls": {
+                "clear_last_edit_button": ""
+            }
+        }
+    }
+}

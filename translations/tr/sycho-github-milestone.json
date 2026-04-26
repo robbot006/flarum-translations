@@ -9,13 +9,13 @@
             "all": "=> sycho-github-milestone.ref.all"
         },
         "forum": {
-            "empty_list": "",
+            "empty_list": "Gösterilecek sorun veya çekme isteği yok.",
             "title": "Kilometre Taşı",
             "last_updated": "Son güncelleme {time}",
             "closed": "=> sycho-github-milestone.ref.closed",
             "open": "=> sycho-github-milestone.ref.open",
             "all": "=> sycho-github-milestone.ref.all",
-            "complete": "",
+            "complete": "<strong>%{progress}</strong> Tamamlandı",
             "load_more": "=> core.forum.discussion_list.load_more_button",
             "tasks_done": "{total} oranında {number}"
         },
