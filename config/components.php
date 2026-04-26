@@ -524,6 +524,12 @@ return [
 			'pl',
 		],
 	],
+	'tryhackx-magnet-link' => [
+		'tag' => 'https://raw.githubusercontent.com/TryHackX/flarum-magnet-link/2.0.8/resources/locale/en.yml',
+		'__builtInLanguages' => [
+			'pl',
+		],
+	],
 	'tryhackx-thumb-sliders' => [
 		'tag' => 'https://raw.githubusercontent.com/TryHackX/flarum-thumb-sliders/2.0.6/locale/en.yml',
 	],
