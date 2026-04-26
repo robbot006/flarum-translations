@@ -37,6 +37,7 @@
                 "title": "Pola",
                 "add": "Dodaj pole {field}",
                 "edit": "Edytuj pole {field}",
+                "delete-confirmation": "Czy jesteś pewien, że chcesz usunąć pole {field}? Ta operacje nie może zostać cofnięta.",
                 "name": "Nazwa pola",
                 "name-help": "Publicznie widoczna (nieprzetłumaczalna) etykieta pola.\n",
                 "description": "Opis pola",
@@ -68,9 +69,9 @@
         "lib": {
             "data": {
                 "masqueradeanswers": {
-                    "export_description": "",
-                    "delete_description": "",
-                    "anonymize_description": ""
+                    "export_description": "Eksportuje odpowiedzi użytkownika w polach profilu",
+                    "delete_description": "Usuwa wszystkie odpowiedzi w polach profilu z konta użytkownika",
+                    "anonymize_description": "=> flarum-gdpr.lib.data.masqueradeanswers.delete_description"
                 }
             }
         }

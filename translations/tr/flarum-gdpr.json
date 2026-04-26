@@ -20,7 +20,17 @@
                 },
                 "user_table_data": {
                     "title": "Kullanıcı Tablo Verisi",
-                    "help_text": "Çoğunlukla, <code>kullanıcı</code> tablosuna eklenen tüm sütunlar hem verileri dışa aktarmak hem de silmek amacıyla otomatik olarak işlenecektir.\nAncak aşağıda sıralanan bazı özel durumlar vardır.\n"
+                    "help_text": "Çoğunlukla, <code>kullanıcı</code> tablosuna eklenen tüm sütunlar hem verileri dışa aktarmak hem de silmek amacıyla otomatik olarak işlenecektir.\nAncak aşağıda sıralanan bazı özel durumlar vardır.\n",
+                    "column": "Sütun",
+                    "type": "Tür",
+                    "nullable": "Boş bırakılabilir",
+                    "pii": "KV",
+                    "redacted_on_export": "Dışa aktarımda gizlenir",
+                    "extension": "Uzantı",
+                    "yes": "Evet",
+                    "no": "Hayır",
+                    "pii_tooltip": "Bu sütun kişisel tanımlayıcı bilgi içerir ve anonim bağlamlarda (ör. anonimleştirilmiş olay yükleri) gizlenir.",
+                    "redacted_on_export_tooltip": "Bu sütunun değeri, kullanıcı verisi dışa aktarılırken silinir. Sütun dışa aktarımda görünmeye devam eder ancak değeri null olur."
                 }
             },
             "nav": {
@@ -63,6 +73,7 @@
                     "delete_description": "Kullanıcının avatarını dosya sisteminden siler.",
                     "export_description": "Kullanıcının avatarını dosya sisteminden alır ve dışa aktarma işlemine dahil eder."
                 },
+                "default_user_action": "İşlem yok, varsayılan kullanıcı tablosu veri işleme tarafından yönetilir.",
                 "discussions": {
                     "export_description": "Kullanıcının başlattığı tüm tartışmaları dışa aktarır. Veriler başlık ve oluşturma tarihiyle sınırlıdır."
                 },
@@ -145,6 +156,9 @@
                 "confirm": "{name} adlı kişinin hesabını {mode} modunda silmek istediğinizden emin misiniz?",
                 "title": "Silme isteğini işle",
                 "text": "{name} hesabının silinmesini talep etti.",
+                "requested_at": "Talep: {date}",
+                "confirmed_at": "Onay: {date}",
+                "eligible_at": "Otomatik işleme uygunluk: {date}",
                 "comments_label": "Yorumlar (isteğe bağlı)",
                 "anonymization_button": "Kullanıcıyı anonimleştir",
                 "deletion_button": "Kullanıcıyı sil"

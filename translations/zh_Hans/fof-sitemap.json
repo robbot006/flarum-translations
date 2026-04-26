@@ -24,6 +24,8 @@
                 "frequency_label": "重建站点地图频率",
                 "risky_performance_improvements": "改进性能（有一定风险）",
                 "risky_performance_improvements_help": "改进定时任务在数据量达到百万行时的运行速度，可能导致不兼容某些扩展程序。",
+                "column_pruning": "",
+                "column_pruning_help": "",
                 "include_priority": "在站点地图中包含优先级",
                 "include_priority_help": "Google会忽略优先级值，但其他搜索引擎（例如 Bing 和 Yandex）可能会使用这些值",
                 "include_changefreq": "在站点地图中包含修改频率值",

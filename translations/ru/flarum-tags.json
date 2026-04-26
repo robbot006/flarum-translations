@@ -106,7 +106,7 @@
         "validation": {
             "attributes": {
                 "name": "имя",
-                "slug": "",
+                "slug": "путь",
                 "is_hidden": "скрытый",
                 "description": "описание",
                 "color": "цвет",
