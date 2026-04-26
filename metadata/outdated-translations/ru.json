@@ -241,18 +241,6 @@
     "justoverclock-last-registered-users": {
         "justoverclock-last-registered-users.forum.welcomeText": "2025-05-05"
     },
-    "justoverclock-newsletter": {
-        "flarum-ext-newsletter.admin.listn": "2025-05-05",
-        "flarum-ext-newsletter.admin.listndesc": "2025-05-05",
-        "flarum-ext-newsletter.admin.pubacc": "2025-05-05",
-        "flarum-ext-newsletter.admin.pubaccdesc": "2025-05-05",
-        "flarum-ext-newsletter.forum.accept": "2025-05-05",
-        "flarum-ext-newsletter.forum.modaltext": "2025-05-05",
-        "flarum-ext-newsletter.forum.modalthanku": "2025-05-05",
-        "flarum-ext-newsletter.forum.prconsent": "2025-05-05",
-        "flarum-ext-newsletter.forum.submitbutton": "2025-05-05",
-        "flarum-ext-newsletter.forum.subscribe": "2025-05-05"
-    },
     "justoverclock-purify": {
         "flarum-ext-purify.admin.additem": "2025-05-05"
     },
