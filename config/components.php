@@ -524,6 +524,9 @@ return [
 			'pl',
 		],
 	],
+	'tryhackx-thumb-sliders' => [
+		'tag' => 'https://raw.githubusercontent.com/TryHackX/flarum-thumb-sliders/2.0.6/locale/en.yml',
+	],
 	'tryhackx-topic-rating' => [
 		'tag' => 'https://raw.githubusercontent.com/TryHackX/flarum-topic-rating/2.0.5/locale/en.yml',
 		'__builtInLanguages' => [
