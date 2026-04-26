@@ -17,15 +17,17 @@
             },
             "settings": {
                 "button-on-profile-label": "Schaltfläche „Folgen“ direkt in der Kopfzeile des Benutzerprofils anzeigen",
-                "stats-on-profile-label": "Follower- und Followerzahlen auf Nutzerprofilen anzeigen"
+                "stats-on-profile-label": "Zahlen für Follower und Gefolgte Benutzer auf Nutzerprofilen anzeigen"
             }
         },
         "forum": {
             "followed": "Gefolgt",
             "followers": "{count, plural, one {Follower} other {Followers}}",
             "profile_link": "=> ianm-follow-users.lib.following_link",
+            "followers_link": "Follower",
             "profile_page": {
-                "no_following": "Anscheinend folgst du niemandem."
+                "no_following": "Anscheinend folgst du niemandem.",
+                "no_followers": "Es sieht so aus, als hättest du noch keine Follower."
             },
             "user_controls": {
                 "follow_button": "=> ianm-follow-users.lib.follow",

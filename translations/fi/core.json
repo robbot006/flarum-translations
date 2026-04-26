@@ -42,7 +42,13 @@
                 "slug_driver_text": "Valitse ajuri mitä käytetään polkutunnuksen luomiseen tälle mallille.",
                 "title": "Yleiset",
                 "welcome_banner_heading": "Tervetulobanneri",
-                "welcome_banner_text": "Määritä teksti mikä näkyy keskustelulistauksessa olevassa bannerissa. Käytä tätä toivottaaksesi vieraat tervetulleeksi."
+                "welcome_banner_text": "Määritä teksti mikä näkyy keskustelulistauksessa olevassa bannerissa. Käytä tätä toivottaaksesi vieraat tervetulleeksi.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -54,15 +60,29 @@
                 "use_random_password": "Luo satunnainen salasana",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "Tyhjennä välimuisti",
                 "description": "Foorumisi yhdellä silmäyksellä.",
-                "info_button": "",
+                "info_button": "Järjestelmän tiedot",
                 "info_modal": {
-                    "title": "",
-                    "copy_button": "",
-                    "copy_success": "",
-                    "copy_error": ""
+                    "title": "Järjestelmän tiedot",
+                    "copy_button": "Kopioi leikepöydälle",
+                    "copy_success": "Järjestelmän tiedot kopioitu leikepöydälle",
+                    "copy_error": "Leikepöydälle kopiointi epäonnistui"
                 },
                 "io_error_message": "Tiedostoihin ei voitu kirjoittaa. Tarkista tiedostojen ja kansioiden oikeudet ja yritä uudelleen. Tai voit yrittää ajaa komentoriviltä.",
                 "status": {
@@ -136,11 +156,11 @@
                 "title": "=> core.ref.email"
             },
             "extension": {
-                "abandoned_no_replacement": "",
-                "abandoned_with_replacement": "",
+                "abandoned_no_replacement": "Tätä laajennusta ei enää ylläpidä sen tekijä, eikä se välttämättä saa päivityksiä.",
+                "abandoned_with_replacement": "Tämä laajennus on korvattu paketilla {replacement}. Harkitse siirtymistä korvaavaan pakettiin.",
                 "configure_scopes": "Määritä laajuudet (scopes)",
                 "confirm_purge": "Puhdistus poistaa kaikki tietokantamerkinnät ja liittyvät tiedostot tähän lisäosaan liittyen. Se ei poista lisäosan asennusta; se pitää tehdä Composerin kautta. Haluatko varmasti jatkaa?",
-                "deprecated": "",
+                "deprecated": "Käytöstä poistettu",
                 "disabled": "Poistettu käytöstä",
                 "enable_to_see": "Ota tämä lisäosa käyttää nähdäksesi ja muuttaaksesi asetuksia.",
                 "enabled": "Käytössä",
@@ -162,7 +182,7 @@
                     "no_readme": "Tällä lisäosalla ei näytä olevan README tiedostoa",
                     "title": "{extName} dokumentaatio"
                 },
-                "replaced": "",
+                "replaced": "Korvattu",
                 "confirm_uninstall": "Poistaminen poistaa kaikki tietokantamerkinnät ja tiedostot tähän lisäosaan liittyen. Haluatko varmasti jatkaa?",
                 "uninstall_button": "Poista asennus"
             },
@@ -184,6 +204,7 @@
                     "discussion": "Keskustelu",
                     "feature": "Ominaisuudet",
                     "formatting": "Muotoilu",
+                    "forum-widget": "",
                     "language": "Kielet",
                     "moderation": "Moderointi",
                     "other": "Muut lisäosat",
@@ -661,6 +682,7 @@
                 "csrf_token_mismatch_return_link": "Mene takaisin yrittääksesi uudelleen",
                 "invalid_confirmation_token": "Vahvistuslinkki on jo käytetty tai on virheellinen.",
                 "not_authenticated": "Sinulla ei ole oikeuksia tälle sivulle. Yritä uudelleen, kun olet kirjautunut sisään.",
+                "method_not_allowed": "",
                 "not_found": "Pyydettyä sivua ei löydy.",
                 "not_found_return_link": "Palaa takaisin {forum}",
                 "permission_denied": "Sinulla ei ole oikeuksia tälle sivulle.",
@@ -707,6 +729,12 @@
             "send_test": {
                 "subject": "Flarum foorumin sähköpostitesti",
                 "body": "Hei {username}!\n\nTämä on testiviesti, jotta näet, että toimiiko Flarum foorumin sähköpostiasetukset oikein.\n\nJos sinä teit tämän niin asetukset on oikein!\n\nJos sinä et tehnyt tätä niin voit poistaa tämän viestin.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

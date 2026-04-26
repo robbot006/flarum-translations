@@ -27,7 +27,7 @@
                 },
                 "genericResource": {
                     "comment": "Kommentar",
-                    "post": ""
+                    "post": "Beitrag"
                 },
                 "permissionGroup": {
                     "everyone": "=> core.admin.permissions_controls.everyone_button",
@@ -36,11 +36,11 @@
                 "noValue": "(kein Wert)",
                 "noReason": "(keine Begründung)",
                 "client": {
-                    "session": "",
+                    "session": "Websitzung",
                     "api_key": "API-Schlüssel",
-                    "access_token": "",
-                    "cli": "",
-                    "unknown": ""
+                    "access_token": "Zugriffstoken",
+                    "cli": "Kommandozeile",
+                    "unknown": "Unbekannter Client"
                 },
                 "controls": {
                     "hideRaw": "",

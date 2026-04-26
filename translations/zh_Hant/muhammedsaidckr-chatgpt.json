@@ -2,9 +2,9 @@
     "muhammedsaidckr-chatgpt": {
         "admin": {
             "settings": {
-                "api_key_label": "",
-                "api_key_help": "",
-                "base_uri_label": "",
+                "api_key_label": "API 金鑰",
+                "api_key_help": "從以下取得 OpenAI API 金鑰<a>openai.com</a>.",
+                "base_uri_label": "基礎網址",
                 "base_uri_help": "",
                 "model_label": "",
                 "model_help": "",
@@ -39,7 +39,13 @@
                 "models_fetched_success": "",
                 "fetch_models_error": "",
                 "models_last_fetched": "",
-                "models_never_fetched": ""
+                "models_never_fetched": "",
+                "custom_model_label": "",
+                "custom_model_help": "",
+                "gpt5_reasoning_effort_label": "",
+                "gpt5_reasoning_effort_help": "",
+                "gpt5_verbosity_label": "",
+                "gpt5_verbosity_help": ""
             },
             "permissions": {
                 "use_chatgpt_assistant_label": ""
