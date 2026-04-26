@@ -42,14 +42,14 @@
                 "notifications_info": "Um Benachrichtigungen zu versenden, füge einen Cron-Job hinzu: php flarum ad-management:send-notifications",
                 "image_settings_title": "Bildeinstellungen",
                 "notifications_title": "E-Mail-Benachrichtigungen",
-                "expiration_templates_title": "",
+                "expiration_templates_title": "Vorlagen für Ablauf-E-Mails",
                 "templates_placeholders_expiry": "Erlaubte Platzhalter: {forum_title}, {forum_url}, {owner_name}, {owner_username}, {ad_name}, {days_left}, {expiry_date}, {impressions}, {clicks}. Lasse das Feld leer, um die Standardvorlage zu verwenden.",
                 "expiration_subject_template": "Betreffvorlage",
-                "expiration_body_template": "",
+                "expiration_body_template": "Vorlage für Nachrichtenkörper",
                 "performance_templates_title": "Leistungsberichtvorlagen",
                 "templates_placeholders_performance": "Verfügbare Platzhalter: {forum_title}, {forum_url}, {owner_name}, {owner_username}, {ad_count}, {total_impressions}, {total_clicks}, {ctr}, {ad_lines}. Lasse das Feld leer, um die Standardvorlage zu verwenden.",
                 "performance_subject_template": "Betreffvorlage",
-                "performance_body_template": ""
+                "performance_body_template": "Vorlage für Nachrichtenkörper"
             },
             "cancel": "Abbrechen",
             "save": "Speichern",
@@ -62,7 +62,7 @@
                 "create": "Zone erstellen",
                 "edit": "Zone bearbeiten",
                 "name": "Zonenname",
-                "name_help": "",
+                "name_help": "Eindeutige Kennung (Kleinbuchstaben, keine Leerzeichen). Wird in Zonen-Tags verwendet.",
                 "label": "Anzeige-Bezeichnung",
                 "description": "Beschreibung",
                 "position": "Position",
@@ -79,9 +79,9 @@
                 "default_badge": "Standard",
                 "ads_count": "Anzeigen",
                 "dimensions": "Abmessungen",
-                "confirm_delete": "",
+                "confirm_delete": "Möchtest du diese Zone wirklich löschen? Alle Anzeigen in dieser Zone werden ebenfalls gelöscht.",
                 "zone_tag": "Zonentag: {tag}",
-                "shortcode_title": "",
+                "shortcode_title": "Beitrags-Shortcode:",
                 "shortcode_help": "Füge diesen Tag in einen beliebigen Beitrag oder eine Diskussion ein, um Anzeigen aus einer bestimmten Zone direkt im Text anzuzeigen.",
                 "positions": {
                     "header": "Kopfzeile",
@@ -105,25 +105,25 @@
                 "content_help": "Für HTML- und AdSense-Anzeigenformate. Füge deinen Anzeigencode hier ein.",
                 "image_url": "Bild-URL",
                 "link_url": "Link-URL",
-                "alt_text": "",
+                "alt_text": "Beschreibungstext",
                 "width": "Breite (px)",
                 "height": "Höhe (px)",
                 "is_active": "Aktiv",
                 "start_date": "Startdatum",
                 "end_date": "Enddatum",
-                "priority": "",
-                "priority_help": "",
-                "group_visibility": "",
-                "group_visibility_help": "",
-                "max_impressions": "",
-                "max_impressions_help": "",
-                "max_clicks": "",
-                "max_clicks_help": "",
+                "priority": "Priorität",
+                "priority_help": "Anzeigen mit höherer Priorität werden zuerst angezeigt. Der Standardwert ist 0.",
+                "group_visibility": "Gruppensichtbarkeit",
+                "group_visibility_help": "Durch Kommas getrennte Gruppen-IDs. Leer lassen, um allen Gruppen anzuzeigen.",
+                "max_impressions": "Maximale Impressionen",
+                "max_impressions_help": "Die Anzeige wird nach dieser Anzahl an Aufrufen deaktiviert. Für eine unbegrenzte Anzahl lasse das Feld leer.",
+                "max_clicks": "Maximale Klicks",
+                "max_clicks_help": "Die Anzeige wird nach dieser Anzahl an Klicks deaktiviert. Für eine unbegrenzte Anzahl lasse das Feld leer.",
                 "max_image_changes": "",
-                "owner": "",
-                "owner_help": "",
+                "owner": "Anzeigeninhaber",
+                "owner_help": "Benutzername des Inserenten. Leer lassen, wenn kein Inserent vorhanden ist.",
                 "empty": "Keine Werbebanner gefunden.",
-                "confirm_delete": "",
+                "confirm_delete": "Möchtest du diese Anzeige wirklich löschen?",
                 "status": "Status",
                 "pending_badge": "Ausstehend ({count})",
                 "approve": "Genehmigen",
@@ -147,7 +147,7 @@
                 "types": {
                     "image": "Bild",
                     "html": "HTML",
-                    "adsense": ""
+                    "adsense": "Google AdSense"
                 },
                 "stats": {
                     "impressions": "",
@@ -157,7 +157,7 @@
             },
             "analytics": {
                 "title": "",
-                "select_ad": "",
+                "select_ad": "Anzeige auswählen…",
                 "period": "Zeitraum",
                 "periods": {
                     "7d": "Letzte 7 Tage",
@@ -165,23 +165,23 @@
                     "90d": "Letzte 90 Tage"
                 },
                 "total_impressions": "",
-                "total_clicks": "",
-                "period_clicks": "",
+                "total_clicks": "Gesamtanzahl der Klicks (insgesamt)",
+                "period_clicks": "Klicks (Zeitraum)",
                 "ctr": "",
-                "clicks_by_day": "",
+                "clicks_by_day": "Klicks pro Tag",
                 "date": "Datum",
                 "clicks_header": "Klicks",
-                "no_data": ""
+                "no_data": "Für diesen Zeitraum liegen keine Analysedaten vor."
             }
         },
         "forum": {
             "nav": {
-                "my_ads": ""
+                "my_ads": "Meine Anzeigen"
             },
             "ads": {
-                "name": "",
-                "zone": "",
-                "select_zone": "",
+                "name": "Anzeigename",
+                "zone": "Zone",
+                "select_zone": "Zone auswählen…",
                 "image_url": "Bild-URL",
                 "link_url": "Link-URL",
                 "alt_text": "Bildbeschreibung"
@@ -196,8 +196,8 @@
                 "edit_image": "Bild ändern",
                 "image_changes_remaining": "{count} Bildwechsel verbleibend",
                 "no_changes_remaining": "Keine Bildwechsel verbleibend",
-                "submit_ad": "",
-                "submit_pending_notice": "",
+                "submit_ad": "Anzeige einreichen",
+                "submit_pending_notice": "Deine Anzeige wird vor der Veröffentlichung von einem Administrator geprüft.",
                 "cancel": "Abbrechen",
                 "status": {
                     "active": "Aktiv",
