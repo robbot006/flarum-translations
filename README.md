@@ -980,6 +980,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`sycho-profile-cover`](https://weblate.rob006.net/projects/flarum2/sycho-profile-cover) | [`sycho/flarum-profile-cover`](https://github.com/SychO9/flarum-profile-cover) |
 | [`tryhackx-advanced-pages`](https://weblate.rob006.net/projects/flarum2/tryhackx-advanced-pages) | [`tryhackx/flarum-advanced-pages`](https://github.com/TryHackX/flarum-advanced-pages) |
 | [`tryhackx-homepage-blocks`](https://weblate.rob006.net/projects/flarum2/tryhackx-homepage-blocks) | [`tryhackx/flarum-homepage-blocks`](https://github.com/TryHackX/flarum-homepage-blocks) |
+| [`tryhackx-magnet-link`](https://weblate.rob006.net/projects/flarum2/tryhackx-magnet-link) | [`tryhackx/flarum-magnet-link`](https://github.com/TryHackX/flarum-magnet-link) |
 | [`tryhackx-thumb-sliders`](https://weblate.rob006.net/projects/flarum2/tryhackx-thumb-sliders) | [`tryhackx/flarum-thumb-sliders`](https://github.com/TryHackX/flarum-thumb-sliders) |
 | [`tryhackx-topic-rating`](https://weblate.rob006.net/projects/flarum2/tryhackx-topic-rating) | [`tryhackx/flarum-topic-rating`](https://github.com/TryHackX/flarum-topic-rating) |
 | [`vlssu-cravatar`](https://weblate.rob006.net/projects/flarum2/vlssu-cravatar) | [`vlssu/flarum-cravatar`](https://github.com/vlssu/flarum-cravatar) |
