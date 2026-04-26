@@ -3,7 +3,8 @@
         "ekumanov-forum-widgets.admin.settings.section_display": "2026-04-05"
     },
     "fof-masquerade": {
-        "fof-masquerade.admin.fields.add": "2026-04-12"
+        "fof-masquerade.admin.fields.add": "2026-04-12",
+        "fof-masquerade.admin.general-options": "2026-04-26"
     },
     "fof-oauth": {
         "fof-oauth.admin.settings.fullscreen_popup_help": "2026-03-22",
@@ -56,5 +57,8 @@
     },
     "ianm-log-viewer": {
         "ianm-log-viewer.admin.viewer.file_size": "2026-03-15"
+    },
+    "ramon-avocado": {
+        "ramon-avocado.forum.tags.login_to_view": "2026-04-26"
     }
 }
