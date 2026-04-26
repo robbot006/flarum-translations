@@ -6783,6 +6783,58 @@
             }
         }
     },
+    "pianotell-flamoji.json": {
+        "pianotell-flamoji": {
+            "admin": {
+                "custom_emojis_section": {
+                    "edit_emoji": {
+                        "emoji_title_label": "114949e242c5056489acaa6c6adfd992 114949e242c5056489acaa6c6adfd992",
+                        "modal_title": "bce6a631066185ce35cbc8c3580f1aae bce6a631066185ce35cbc8c3580f1aae"
+                    },
+                    "export_json_button": "cedff34860cf7d15dcd871263374400c cedff34860cf7d15dcd871263374400c",
+                    "heading_title": "2167e340f996fba4919374863f55dcea 2167e340f996fba4919374863f55dcea",
+                    "import_emojis_message": "fe3cd8dd4884ef9a4ea25b9a21dafbe6 fe3cd8dd4884ef9a4ea25b9a21dafbe6",
+                    "import_json_button": "9821201539e18c4bed6020685f808b98 9821201539e18c4bed6020685f808b98"
+                },
+                "settings": {
+                    "auto_hide_label": "7002d0de5bede846974e12560069d403 7002d0de5bede846974e12560069d403",
+                    "auto_hide_text": "1f2cd996dcfe2617a542112c141dce64 1f2cd996dcfe2617a542112c141dce64",
+                    "category_settings_heading": "99821126e8327eb72817614b5f5b0086 99821126e8327eb72817614b5f5b0086",
+                    "emoji_categories": {
+                        "activity": "61d19b36454995ba27358f1b2e5b8155 61d19b36454995ba27358f1b2e5b8155",
+                        "flags": "698ff4f1241e8bf6ac93a7ad5e2cb184 698ff4f1241e8bf6ac93a7ad5e2cb184",
+                        "foods": "03f56f2e2c69b0632e49747cd9f9a25c 03f56f2e2c69b0632e49747cd9f9a25c",
+                        "nature": "a0bf4de040cc3e596cce0d77267c7fc2 a0bf4de040cc3e596cce0d77267c7fc2",
+                        "objects": "424b3812376ac69be3fd5a63dd875c5f 424b3812376ac69be3fd5a63dd875c5f",
+                        "people": "4b42a05440745ac8309f17ef099eeb76 4b42a05440745ac8309f17ef099eeb76",
+                        "places": "22bd8b907563c39f597d84e4f4696bd0 22bd8b907563c39f597d84e4f4696bd0",
+                        "symbols": "634b20a11d3abc1bc6b028338ee93512 634b20a11d3abc1bc6b028338ee93512"
+                    },
+                    "emoji_settings_heading": "4e38921fac5dc25e9656e1a0440534cc 4e38921fac5dc25e9656e1a0440534cc",
+                    "frequent_rows_label": "61c9237a2a0a2c2e9c77b1ffc618f15f 61c9237a2a0a2c2e9c77b1ffc618f15f",
+                    "frequent_rows_text": "9803c691de41d64cad44644019d7706f 9803c691de41d64cad44644019d7706f",
+                    "general_ui_settings_heading": "a6c7c772c2bb4f51344d86e99f1bf102 a6c7c772c2bb4f51344d86e99f1bf102",
+                    "picker_set_auto": "a19a72557f2bcc90a7ede3b68230782a a19a72557f2bcc90a7ede3b68230782a",
+                    "picker_set_label": "9e3d14f48fb190160b7958a0da01ab6f 9e3d14f48fb190160b7958a0da01ab6f",
+                    "picker_set_native": "38d9f76e564ab728caee62a70279cb18 38d9f76e564ab728caee62a70279cb18",
+                    "picker_set_text": "2a3148f69322b31bd6a17bd640b29954 2a3148f69322b31bd6a17bd640b29954",
+                    "picker_set_twemoji": "148114231bf673466b1d766cf2e089b0 148114231bf673466b1d766cf2e089b0",
+                    "show_category_buttons_label": "e9d0fbb655c907891a05253ec734e4cb e9d0fbb655c907891a05253ec734e4cb",
+                    "show_category_buttons_text": "2856f95c4cfa8cc757cbeefe7798aa9b 2856f95c4cfa8cc757cbeefe7798aa9b",
+                    "show_preview_label": "1d057e23ea8101e8260dac6cf883629c 1d057e23ea8101e8260dac6cf883629c",
+                    "show_preview_text": "4df418c451326b4b95877897bf1dd420 4df418c451326b4b95877897bf1dd420",
+                    "show_recents_label": "becbfbc5847fe15d2c1584e1bc468026 becbfbc5847fe15d2c1584e1bc468026",
+                    "show_recents_text": "afb309fa781816b07be0331c7315d2ea afb309fa781816b07be0331c7315d2ea",
+                    "show_search_label": "c86d99054b6a34152f4fccc8e201b113 c86d99054b6a34152f4fccc8e201b113",
+                    "show_search_text": "72360439a39abe7cd816d08d8b9c6b57 72360439a39abe7cd816d08d8b9c6b57",
+                    "show_variants_label": "44901f893d4200bd4d893a3e85c6c34a 44901f893d4200bd4d893a3e85c6c34a",
+                    "show_variants_text": "99c1b0726f9315c53248c01635c12a6f 99c1b0726f9315c53248c01635c12a6f",
+                    "specify_categories_label": "cbd903b8a6663aa9b457d3d41fc7cbdb cbd903b8a6663aa9b457d3d41fc7cbdb",
+                    "specify_categories_text": "487aee3d1a3bec10f83804f19c314b96 487aee3d1a3bec10f83804f19c314b96"
+                }
+            }
+        }
+    },
     "quasimo-carousel-grids.json": {
         "carousel-grids": {
             "admin": {
