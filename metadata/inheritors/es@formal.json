@@ -33,6 +33,68 @@
     "core.json": {
         "core": {
             "admin": {
+                "advanced": {
+                    "fontawesome": {
+                        "cdn_url_help": "4f33eb7caa35fa86f63210ea295cf096 4f33eb7caa35fa86f63210ea295cf096",
+                        "cdn_url_label": "fc552c64c198c5239fdd44f6bc4ad49c fc552c64c198c5239fdd44f6bc4ad49c",
+                        "config_override": {
+                            "help": "d0f3a4e8f02e6263366eec4599beb999 d0f3a4e8f02e6263366eec4599beb999",
+                            "label": "98c41089766f60a0ea1ac2ba67de8e25 98c41089766f60a0ea1ac2ba67de8e25"
+                        },
+                        "kit_url_help": "fcc065d1a5ca78487da0352291e452a9 fcc065d1a5ca78487da0352291e452a9",
+                        "kit_url_label": "14b1a8e682d81772ce4cb5a4d1730ae0 14b1a8e682d81772ce4cb5a4d1730ae0",
+                        "preview": {
+                            "button": "3726fb6ff8d89062ba443cdef8b70e5b 3726fb6ff8d89062ba443cdef8b70e5b",
+                            "fa5_fa6_label": "c80cbd62171d7e6de52021b7e6ac3e95 c80cbd62171d7e6de52021b7e6ac3e95",
+                            "fa7_label": "213440cb797c9d5ba1e757347377661c 213440cb797c9d5ba1e757347377661c",
+                            "help": "1e887d83969adc9b02ee08ba437c024c 1e887d83969adc9b02ee08ba437c024c",
+                            "label": "033c9b3919ed24ab4ba8e15161b32135 033c9b3919ed24ab4ba8e15161b32135",
+                            "pro_label": "8504aa349c18b94ca0149ea4ddb35378 8504aa349c18b94ca0149ea4ddb35378"
+                        },
+                        "section_label": "6d43ed1fc4486f554be298ea07d1bdb8 6d43ed1fc4486f554be298ea07d1bdb8",
+                        "source_cdn": "5e69a954115b4816c1e14f5095052d86 5e69a954115b4816c1e14f5095052d86",
+                        "source_help": "f8c1795526113091726a243937d65424 f8c1795526113091726a243937d65424",
+                        "source_kit": "a2dd7c85acf4eda5ea0989bf7b3faf39 a2dd7c85acf4eda5ea0989bf7b3faf39",
+                        "source_label": "c7dd86fd5f1c76a1e06c5d4b53c209eb c7dd86fd5f1c76a1e06c5d4b53c209eb",
+                        "source_local": "d8d10876ced1c17773c3047c0e3c316f d8d10876ced1c17773c3047c0e3c316f"
+                    },
+                    "maintenance": {
+                        "bisect": {
+                            "begin_button_text": "b942c3985bf00d9388ed4ae8577f6d80 b942c3985bf00d9388ed4ae8577f6d80",
+                            "continue_button_text": "673892b8f95823094e16d928c46ed4b6 673892b8f95823094e16d928c46ed4b6",
+                            "help": "786832b93b1f5479c3451c678813d30f 786832b93b1f5479c3451c678813d30f",
+                            "label": "9c8413ca5eca9b7d839d113354c44057 9c8413ca5eca9b7d839d113354c44057"
+                        },
+                        "bisect_modal": {
+                            "description": "8d3fb013cfc337985a9aebf885a0c919 8d3fb013cfc337985a9aebf885a0c919",
+                            "end_button": "53b0fb7bb6013135da5c085f1fc8b1c6 53b0fb7bb6013135da5c085f1fc8b1c6",
+                            "issue_question": "49e21253735098f5c18f6f92c68f6571 49e21253735098f5c18f6f92c68f6571",
+                            "issue_question_help": "6adcdf009e2b7648f125e69be76205dd 6adcdf009e2b7648f125e69be76205dd",
+                            "no_button": "bafd7322c6e97d25b6299b5d6fe8920b bafd7322c6e97d25b6299b5d6fe8920b",
+                            "result_description": "74308c157ca7e1c81936fa563fcfdeae 74308c157ca7e1c81936fa563fcfdeae",
+                            "start_button": "1130d1e045c895f7899088c1aeaa822d 1130d1e045c895f7899088c1aeaa822d",
+                            "steps_left": "02bae54cd2e02d3c491cffd0dfd19e29 02bae54cd2e02d3c491cffd0dfd19e29",
+                            "stop_button": "b8a90214585c541515844077b740b831 b8a90214585c541515844077b740b831",
+                            "title": "33336215ff60f566ca8706fdacdafb45 33336215ff60f566ca8706fdacdafb45",
+                            "total_steps": "93c136cd2893c3aee65bd38af77a3b1c 93c136cd2893c3aee65bd38af77a3b1c",
+                            "yes_button": "bdd207eedff4036f152f54509e9d3e90 bdd207eedff4036f152f54509e9d3e90"
+                        },
+                        "config_override": {
+                            "help": "8aaff080074864fb39f012dfb30d0c0a 8aaff080074864fb39f012dfb30d0c0a",
+                            "label": "d099cb162f66cff50fa789e7b8c25952 d099cb162f66cff50fa789e7b8c25952"
+                        },
+                        "help": "1bcbcb4592c1b43550bd61d4d81f381d 1bcbcb4592c1b43550bd61d4d81f381d",
+                        "options": {
+                            "high": "70704105f3cf81c63c751ec9b8f7f5ce 70704105f3cf81c63c751ec9b8f7f5ce",
+                            "low": "e7216dd0452e1498014916894f2d60c3 e7216dd0452e1498014916894f2d60c3",
+                            "none": "8ddd6cebeffb2ac59a8569aba18621c0 8ddd6cebeffb2ac59a8569aba18621c0",
+                            "safe": "1996e2ec704da82db8832e8f792cba2e 1996e2ec704da82db8832e8f792cba2e"
+                        },
+                        "safe_mode_extensions": "d19921bf04c8b57b7c75765bd60a2b12 d19921bf04c8b57b7c75765bd60a2b12",
+                        "safe_mode_extensions_override_help": "33af13aeef9a4661771c3e869263abe5 33af13aeef9a4661771c3e869263abe5",
+                        "section_label": "53ee60e03cff8e9ae06ceeec004ee262 53ee60e03cff8e9ae06ceeec004ee262"
+                    }
+                },
                 "appearance": {
                     "colored_header_label": "1adb8c9e5e6a37cb57b7a80ffe7e5659 1adb8c9e5e6a37cb57b7a80ffe7e5659",
                     "colors_heading": "f689ca9a61187570a3310d172438a189 f689ca9a61187570a3310d172438a189",
