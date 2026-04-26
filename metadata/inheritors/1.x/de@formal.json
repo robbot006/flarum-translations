@@ -7191,7 +7191,9 @@
         "ralkage-ad-management": {
             "admin": {
                 "ads": {
+                    "alt_text": "d41d8cd98f00b204e9800998ecf8427e 4ca1b1678fba4584e7f2c752ea59994f",
                     "approve": "bc0a4d936c666f68ea0b631701c25431 bc0a4d936c666f68ea0b631701c25431",
+                    "confirm_delete": "d41d8cd98f00b204e9800998ecf8427e 4067522f31845b58bf5a9ad10bfb22b7",
                     "content": "fe64fe9a53d6d9ab34d25e5800008364 fe64fe9a53d6d9ab34d25e5800008364",
                     "content_help": "d41d8cd98f00b204e9800998ecf8427e f0e3295f6d6e098003cfc782e1431f17",
                     "create": "1aac512253ffcfbd664ed23a56be4066 1aac512253ffcfbd664ed23a56be4066",
@@ -7205,12 +7207,22 @@
                         "pending_review": "962fe531ee710c594b45f3f311923daa 962fe531ee710c594b45f3f311923daa",
                         "rejected": "76bec9222b6c223f96d25f8b79492ca2 76bec9222b6c223f96d25f8b79492ca2"
                     },
+                    "group_visibility": "d41d8cd98f00b204e9800998ecf8427e 74cafe6888e115c49131c9e78fb8b111",
+                    "group_visibility_help": "d41d8cd98f00b204e9800998ecf8427e fd66ed2c024940a73417cb3a1b86f7c9",
                     "height": "4572e836f0edb6e0cc03f1fef94a3d31 4572e836f0edb6e0cc03f1fef94a3d31",
                     "image_url": "cca4b480249a498db9a8448f22acd483 cca4b480249a498db9a8448f22acd483",
                     "is_active": "c44e07cffb5cd991f28e866e8854b548 c44e07cffb5cd991f28e866e8854b548",
                     "link_url": "f0843b3894fd99c836ac13024a4551a1 f0843b3894fd99c836ac13024a4551a1",
+                    "max_clicks": "d41d8cd98f00b204e9800998ecf8427e 5a36fa6b569804f516c6d49221970856",
+                    "max_clicks_help": "d41d8cd98f00b204e9800998ecf8427e 5089c3a422be308e4697d6ab03d2b5b3",
+                    "max_impressions": "d41d8cd98f00b204e9800998ecf8427e eb0854333e4b78779f32174f1a71b626",
+                    "max_impressions_help": "d41d8cd98f00b204e9800998ecf8427e 7c4678ef477124ceeed522e985946a79",
                     "name": "a2aa847978c0deab115458e38b2d7ff8 a2aa847978c0deab115458e38b2d7ff8",
+                    "owner": "d41d8cd98f00b204e9800998ecf8427e cb4780c0d14249d93b44972c239e1841",
+                    "owner_help": "d41d8cd98f00b204e9800998ecf8427e cdefb538cafd9bbc2792b021279f4395",
                     "pending_badge": "156ae777fe81c4627d160ef67b5f91e3 156ae777fe81c4627d160ef67b5f91e3",
+                    "priority": "d41d8cd98f00b204e9800998ecf8427e c30f584de7e81f4232d4d2a5094228f5",
+                    "priority_help": "d41d8cd98f00b204e9800998ecf8427e 6c3931a07ccddf28a0f3cbd01cc215b3",
                     "reject": "5e17b361b014b8e27e56c46794c18049 5e17b361b014b8e27e56c46794c18049",
                     "select_zone": "18e0c52485f6552fa3787dc96fd98cae 18e0c52485f6552fa3787dc96fd98cae",
                     "start_date": "8791ab835d0a1d1d39c18ee8f04f6142 8791ab835d0a1d1d39c18ee8f04f6142",
@@ -7227,6 +7239,7 @@
                     "title": "0dd9a97f8cfe9ddfeb82c498d0bba024 0dd9a97f8cfe9ddfeb82c498d0bba024",
                     "type": "6fd1fbca2135e8db246d5a3b46a44578 6fd1fbca2135e8db246d5a3b46a44578",
                     "types": {
+                        "adsense": "d41d8cd98f00b204e9800998ecf8427e 0206e6040c8ff64b8d6ee5fef2ce1c90",
                         "html": "4c4ad5fca2e7a3f74dbb1ced00381aa4 4c4ad5fca2e7a3f74dbb1ced00381aa4",
                         "image": "0da3b78d9546e8fe0065cd3c9ed1879a 0da3b78d9546e8fe0065cd3c9ed1879a"
                     },
@@ -7234,14 +7247,19 @@
                     "zone": "4377cd254f90a1e79fc905095c8f090c 4377cd254f90a1e79fc905095c8f090c"
                 },
                 "analytics": {
+                    "clicks_by_day": "d41d8cd98f00b204e9800998ecf8427e b8d332315fbdbd0a3d5d22712de2e853",
                     "clicks_header": "25a57b94266ed563e8d30b41d16ceab6 25a57b94266ed563e8d30b41d16ceab6",
                     "date": "9ba51734ced032fd8ec25acfb387a23f 9ba51734ced032fd8ec25acfb387a23f",
+                    "no_data": "d41d8cd98f00b204e9800998ecf8427e 6a41009f77882988bf13ad3a0a99478e",
                     "period": "87f4a9356c7571ecad5a1bee62ed401a 87f4a9356c7571ecad5a1bee62ed401a",
+                    "period_clicks": "d41d8cd98f00b204e9800998ecf8427e a7f96377848dae7785c2cfbeb960ce2f",
                     "periods": {
                         "30d": "17fa2c3e631f956753a1e6dfa459cc41 17fa2c3e631f956753a1e6dfa459cc41",
                         "7d": "1bb8b155793c24cc942f185930716a62 1bb8b155793c24cc942f185930716a62",
                         "90d": "ee60686ad4376916ef69006689b0e4f3 ee60686ad4376916ef69006689b0e4f3"
-                    }
+                    },
+                    "select_ad": "d41d8cd98f00b204e9800998ecf8427e 8979838c1a7761424e92ad518ce92b1a",
+                    "total_clicks": "d41d8cd98f00b204e9800998ecf8427e 7c6e6910b366ab2216d23b140b4e8d4e"
                 },
                 "cancel": "4b97278b444c0203fc17d7b93a39f5c7 4b97278b444c0203fc17d7b93a39f5c7",
                 "nav": {
@@ -7267,12 +7285,15 @@
                     "default_max_image_changes_help": "5793ec88acebce6706a96e29eecfac91 5793ec88acebce6706a96e29eecfac91",
                     "enable_compression": "495085ee4dd886b6afdc4fb18807fa54 495085ee4dd886b6afdc4fb18807fa54",
                     "enable_compression_help": "9c952b9b38f53bafc1fe8183c5a45fca 9c952b9b38f53bafc1fe8183c5a45fca",
+                    "expiration_body_template": "d41d8cd98f00b204e9800998ecf8427e b7884898a4238a3cee1ebf9e77780e9e",
                     "expiration_reminder_days": "1e5f96875ba573f31a00498ffcc1dda6 1e5f96875ba573f31a00498ffcc1dda6",
                     "expiration_reminder_days_help": "cd3a4338375b2589b2ac5fab4415c3f9 cd3a4338375b2589b2ac5fab4415c3f9",
                     "expiration_subject_template": "d41d8cd98f00b204e9800998ecf8427e 865c8b3de0a684884f98d37b6180fed4",
+                    "expiration_templates_title": "d41d8cd98f00b204e9800998ecf8427e b0daee45eb6ac5f28047bb065de6b46e",
                     "image_settings_title": "96b22cab664cd1edeb26a54ccf4ccbda 96b22cab664cd1edeb26a54ccf4ccbda",
                     "notifications_info": "d41d8cd98f00b204e9800998ecf8427e 4b13a62f76da4c1c3fbf542292da67da",
                     "notifications_title": "17e80d5e0bf38952c3aaf08385fa13fc 17e80d5e0bf38952c3aaf08385fa13fc",
+                    "performance_body_template": "d41d8cd98f00b204e9800998ecf8427e b7884898a4238a3cee1ebf9e77780e9e",
                     "performance_subject_template": "d41d8cd98f00b204e9800998ecf8427e 865c8b3de0a684884f98d37b6180fed4",
                     "performance_templates_title": "d41d8cd98f00b204e9800998ecf8427e 34ab58442f581082c4e83753b968ad76",
                     "require_image_approval": "d41d8cd98f00b204e9800998ecf8427e 00fa2a368155a6e38d402a845c7fda29",
@@ -7298,6 +7319,7 @@
                 },
                 "zones": {
                     "ads_count": "d41d8cd98f00b204e9800998ecf8427e 60d441bc928fe885ac10754bf77120ec",
+                    "confirm_delete": "d41d8cd98f00b204e9800998ecf8427e e647623a32ad78f58ec37381383f2e41",
                     "create": "d41d8cd98f00b204e9800998ecf8427e e6527476238c8ae98b866b96e9f5b6af",
                     "default_badge": "d41d8cd98f00b204e9800998ecf8427e eb6d8ae6f20283755b339c0dc273988b",
                     "description": "d41d8cd98f00b204e9800998ecf8427e 35bedb45241d6b3f70fa6f56197c3361",
@@ -7314,6 +7336,7 @@
                     "max_height": "d41d8cd98f00b204e9800998ecf8427e 050f752cc1c6e123062ada190e36a669",
                     "max_width": "d41d8cd98f00b204e9800998ecf8427e e43bb2464a4464cb09568e39645812fb",
                     "name": "d41d8cd98f00b204e9800998ecf8427e ee755bfa035ab984f8312ec44ddaf9e7",
+                    "name_help": "d41d8cd98f00b204e9800998ecf8427e fc460284cfbbd6efe05558cbb87d8721",
                     "position": "d41d8cd98f00b204e9800998ecf8427e 52f5e0bc3859bc5f5e25130b6c7e8881",
                     "positions": {
                         "above_footer": "d41d8cd98f00b204e9800998ecf8427e f9b209bfc95d828b6a126490dd074085",
@@ -7325,6 +7348,7 @@
                         "sidebar": "d41d8cd98f00b204e9800998ecf8427e cc20e4f4f524f2c0b56f391df4e5c391"
                     },
                     "shortcode_help": "d41d8cd98f00b204e9800998ecf8427e 85de9f01530ec2d97bb8b172df6891b0",
+                    "shortcode_title": "d41d8cd98f00b204e9800998ecf8427e 608b3f8e26713bd1325e4562ea8b7551",
                     "sort_order": "d41d8cd98f00b204e9800998ecf8427e e7d64a1cff45ccc348e0aded803200ce",
                     "title": "d41d8cd98f00b204e9800998ecf8427e 5e21ccafc48a0d4e511053ad39c7ad41",
                     "zone_tag": "d41d8cd98f00b204e9800998ecf8427e f6ec953d52a32ffda74a5f0c396bb190"
@@ -7337,7 +7361,13 @@
                 "ads": {
                     "alt_text": "fc81ee7bad770b666c0967c72c729d3c fc81ee7bad770b666c0967c72c729d3c",
                     "image_url": "cca4b480249a498db9a8448f22acd483 cca4b480249a498db9a8448f22acd483",
-                    "link_url": "f0843b3894fd99c836ac13024a4551a1 f0843b3894fd99c836ac13024a4551a1"
+                    "link_url": "f0843b3894fd99c836ac13024a4551a1 f0843b3894fd99c836ac13024a4551a1",
+                    "name": "d41d8cd98f00b204e9800998ecf8427e 2eb6eb335f898b7a419b073813465d09",
+                    "select_zone": "d41d8cd98f00b204e9800998ecf8427e bc2f9b38eb9dbc8c8f6fd73b9c2b5a80",
+                    "zone": "d41d8cd98f00b204e9800998ecf8427e b3ff996fe5c77610359114835baf9b38"
+                },
+                "nav": {
+                    "my_ads": "d41d8cd98f00b204e9800998ecf8427e ec57de9b50abe82c7469a795c8fb93b3"
                 },
                 "page": {
                     "cancel": "4b97278b444c0203fc17d7b93a39f5c7 4b97278b444c0203fc17d7b93a39f5c7",
@@ -7357,6 +7387,8 @@
                         "rejected": "76bec9222b6c223f96d25f8b79492ca2 76bec9222b6c223f96d25f8b79492ca2",
                         "scheduled": "942313bd3e7044f94de76dd6dc53f9f5 942313bd3e7044f94de76dd6dc53f9f5"
                     },
+                    "submit_ad": "d41d8cd98f00b204e9800998ecf8427e 9d6369fd894f294f14efb12559c103d7",
+                    "submit_pending_notice": "d41d8cd98f00b204e9800998ecf8427e 6eb6deaf428fe915d6457191367819b3",
                     "title": "d41d8cd98f00b204e9800998ecf8427e 545f329e91bf9d683d90862bf6bce9b5"
                 }
             }
