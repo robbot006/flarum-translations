@@ -1,0 +1,12 @@
+{
+    "datlechin-discussion-overview": {
+        "forum": {
+            "created": "Loodud",
+            "last_reply": "Viimane vastus",
+            "replies": "Vastuseid",
+            "views": "Vaatamisi",
+            "users": "Kasutajaid",
+            "likes": "Meeldimisi"
+        }
+    }
+}

@@ -13,7 +13,8 @@
             }
         },
         "console": {
-            "scheduled_drafts_disabled": "Geplante Entwürfe sind derzeit in den Einstellungen deaktiviert."
+            "scheduled_drafts_disabled": "Geplante Entwürfe sind derzeit in den Einstellungen deaktiviert.",
+            "no_title_error": "Entwurf übersprungen: Titel der Diskussion fehlt."
         },
         "ref": {
             "schedule_draft": "Entwurf planen"
@@ -49,7 +50,8 @@
                 "schedule_button": "Planen",
                 "schedule_time_preview": "Dieser Entwurf wird automatisch am <b>{datetime}</b> veröffentlicht.",
                 "schedule_time_preview_formatter": "LLLL",
-                "schedule_time_preview_invalid": "Ungültiges Datum und/oder ungültige Zeit"
+                "schedule_time_preview_invalid": "Ungültiges Datum und/oder ungültige Zeit",
+                "no_title_error": "Für die Planung einer Veröffentlichung muss ein Diskussionstitel angegeben werden."
             },
             "user": {
                 "settings": {
@@ -65,8 +67,8 @@
     "fof-default-user-preferences": {
         "admin": {
             "settings": {
-                "draftAutosaveEnable": "",
-                "draftAutosaveInterval": ""
+                "draftAutosaveEnable": "Automatisches Speichern von Entwürfen standardmäßig aktivieren",
+                "draftAutosaveInterval": "Standardmäßiges Intervall für automatisches Speichern (Sekunden)"
             }
         }
     },

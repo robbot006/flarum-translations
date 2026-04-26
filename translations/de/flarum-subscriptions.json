@@ -20,7 +20,8 @@
                 "new_post_text": "{username} hat geschrieben"
             },
             "settings": {
-                "follow_after_reply_label": "Diskussionen automatisch folgen, an denen du teilgenommen hast",
+                "follow_after_reply_label": "Diskussionen automatisch folgen, an denen ich teilgenommen habe",
+                "follow_after_create_label": "Diskussionen, die ich erstelle, automatisch folgen",
                 "notify_for_all_posts_label": "Benachrichtige über jeden neuen Beitrag und nicht nur über den letzten in einer Diskussion",
                 "notify_new_post_label": "Jemand hat in einer Diskussion geantwortet, der du folgst"
             },
@@ -40,10 +41,10 @@
             "new_post": {
                 "subject": "[Neuer Beitrag] {title}",
                 "plain": {
-                    "body": ""
+                    "body": "{poster_display_name} hat gerade in einer Diskussion gepostet, der du folgst: {title}.\n\nUm die neue Aktivität anzuzeigen, klicke auf den folgenden Link:\n{url}\n\n---\n\n{content}\n\n---\n\nDu erhältst keine weiteren Benachrichtigungen zu dieser Diskussion, bis du auf dem neuesten Stand bist.\n"
                 },
                 "html": {
-                    "body": ""
+                    "body": "{poster_display_name} hat gerade in einer Diskussion gepostet, der du folgst: [{title}]({url}).\n\nDu erhältst keine weiteren Benachrichtigungen zu dieser Diskussion, bis du auf dem neuesten Stand bist.\n"
                 }
             }
         },
@@ -51,8 +52,8 @@
             "gambits": {
                 "discussions": {
                     "subscription": {
-                        "following_key": "",
-                        "ignoring_key": ""
+                        "following_key": "folgen",
+                        "ignoring_key": "ignorieren"
                     }
                 }
             }

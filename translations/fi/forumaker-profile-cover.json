@@ -1,0 +1,25 @@
+{
+    "forumaker-profile-cover": {
+        "admin": {
+            "thumbnails": "",
+            "thumbnails_help": "",
+            "max_size": "",
+            "permission": {
+                "set_cover": ""
+            }
+        },
+        "forum": {
+            "cover": "",
+            "edit_cover": "",
+            "notice": "",
+            "added": {
+                "success": "",
+                "error": ""
+            },
+            "removed": {
+                "success": "",
+                "error": ""
+            }
+        }
+    }
+}

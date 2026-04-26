@@ -1,0 +1,14 @@
+{
+    "datlechin-silent-edit": {
+        "admin": {
+            "permissions": {
+                "clearLastEdit": "清除編輯資訊"
+            }
+        },
+        "forum": {
+            "post_controls": {
+                "clear_last_edit_button": "清除編輯紀錄"
+            }
+        }
+    }
+}

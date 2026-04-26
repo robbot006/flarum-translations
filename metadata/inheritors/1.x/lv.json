@@ -1,4 +1,17 @@
 {
+    "acpl-lscache.json": {
+        "acpl-lscache": {
+            "admin": {
+                "cache_enabled_help": "23df7792258661fa17661fdd04f8ae29 23df7792258661fa17661fdd04f8ae29",
+                "cache_enabled_label": "927230d2f9968c819482e3d450b1034f 927230d2f9968c819482e3d450b1034f",
+                "clearing_cache_listener_label": "143f10392ab7a5d4937d7506aa72546d 143f10392ab7a5d4937d7506aa72546d",
+                "public_cache_ttl_help": "e6263c0a0a3cb725d3059ea4e1025e9b e6263c0a0a3cb725d3059ea4e1025e9b",
+                "public_cache_ttl_label": "9d5f8befbb2426563c44672f67b23462 9d5f8befbb2426563c44672f67b23462",
+                "serve_stale_help": "ad1d6ccbf63c506cd410cf3f8b36f5f6 ad1d6ccbf63c506cd410cf3f8b36f5f6",
+                "serve_stale_label": "636e4cdb377381ce858964cc7c4bd0f8 636e4cdb377381ce858964cc7c4bd0f8"
+            }
+        }
+    },
     "acpl-my-tags.json": {
         "acpl-my-tags": {
             "admin": {
@@ -742,6 +755,14 @@
             }
         }
     },
+    "datlechin-copy-links.json": {
+        "datlechin-copy-links": {
+            "forum": {
+                "copy_link_button": "009e67c5660d14af978abd76b1bfe200 009e67c5660d14af978abd76b1bfe200",
+                "link_copied_message": "001044c30a0bdb27bbe5df101af4111d 001044c30a0bdb27bbe5df101af4111d"
+            }
+        }
+    },
     "flarum-akismet.json": {
         "flarum-akismet": {
             "admin": {
@@ -883,6 +904,7 @@
                 "extensions": {
                     "check_why_it_failed_updating": "d3c707f3e26cc2d05ed83fbc02b6164e d3c707f3e26cc2d05ed83fbc02b6164e",
                     "install": "7a855e208a2d8989a3dac5c7ae1b8633 7a855e208a2d8989a3dac5c7ae1b8633",
+                    "install_help": "dd9df21f7b32358e037ab94aabd3a658 dd9df21f7b32358e037ab94aabd3a658",
                     "proceed": "5238adb860e25ad1fd8d758511fd7b45 5238adb860e25ad1fd8d758511fd7b45",
                     "remove": "57c595341a07229c822b7267de1d4519 57c595341a07229c822b7267de1d4519",
                     "successful_install": "5c2e97b1f9090d2f8e19e4bda9ee8bf3 5c2e97b1f9090d2f8e19e4bda9ee8bf3",
@@ -1404,6 +1426,34 @@
             "admin": {
                 "settings": {
                     "info": "abdde3fcb39b9ab05629bc2aed864353 abdde3fcb39b9ab05629bc2aed864353"
+                }
+            }
+        }
+    },
+    "fof-forum-statistics-widget.json": {
+        "fof-forum-statistics-widget": {
+            "admin": {
+                "permissions": {
+                    "view_discussions_count_label": "8fdb164eb88727bd4dd3c98115bd6c58 8fdb164eb88727bd4dd3c98115bd6c58",
+                    "view_lastest_member_label": "c9e67808d6c1cbc76965822f4f7d3bcd c9e67808d6c1cbc76965822f4f7d3bcd",
+                    "view_posts_count_label": "6d2bb6cf2f913c8fde778dd0a91441c4 6d2bb6cf2f913c8fde778dd0a91441c4",
+                    "view_users_count_label": "c8387b4d56e55aa683cb519f7f156c1c c8387b4d56e55aa683cb519f7f156c1c"
+                },
+                "settings": {
+                    "cache_duration_help": "c362fdb780f7995ea457eabf011f350f c362fdb780f7995ea457eabf011f350f",
+                    "cache_duration_label": "97abb5f7583f028cd41ab56242205fc2 97abb5f7583f028cd41ab56242205fc2",
+                    "flush_cache_on_new_registration_help": "8de3ebae0459e443516c1c8ae026ada2 8de3ebae0459e443516c1c8ae026ada2",
+                    "flush_cache_on_new_registration_label": "f6c548fb29ae2c68a40529420bead623 f6c548fb29ae2c68a40529420bead623",
+                    "widget_ignore_private_discussions_label": "a59a80fa9f8bdcd746809b8d2ea783e3 a59a80fa9f8bdcd746809b8d2ea783e3"
+                }
+            },
+            "forum": {
+                "navbar": {
+                    "discussions_count": "71e69caab6182c4f86274eb0c2b3461d 71e69caab6182c4f86274eb0c2b3461d",
+                    "latest_member": "8455f1db49aa209e5700a3ec3d7683b5 8455f1db49aa209e5700a3ec3d7683b5",
+                    "posts_count": "93f815d8ab5ff0e341cfea0821ebf321 93f815d8ab5ff0e341cfea0821ebf321",
+                    "users_count": "74a759d8c40e701453cbe64b3195e66a 74a759d8c40e701453cbe64b3195e66a",
+                    "widget_title": "eb355d1d4a1bd4bed3f7ec7e20fbfcac eb355d1d4a1bd4bed3f7ec7e20fbfcac"
                 }
             }
         }

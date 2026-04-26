@@ -1,0 +1,14 @@
+{
+    "datlechin-silent-edit": {
+        "admin": {
+            "permissions": {
+                "clearLastEdit": "Скрывать видимость последней правки"
+            }
+        },
+        "forum": {
+            "post_controls": {
+                "clear_last_edit_button": "Скрыть правку"
+            }
+        }
+    }
+}
