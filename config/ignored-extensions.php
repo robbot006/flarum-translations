@@ -62,6 +62,9 @@ return [
 	'ramesh-dada/realtime',
 	'nearata/flarum-ext-copy-code-to-clipboard',
 	'clarkwinkelmann/flarum-ext-vote-with-money',
+	// this one has conflicting name with justoverclock/flarum-ext-newsletter
+	// see https://github.com/rob006-software/flarum-translations/pull/1680
+	'justoverclock/newsletter',
 	/*
 	 * dead/private forks
 	 */
