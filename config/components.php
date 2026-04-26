@@ -362,6 +362,12 @@ return [
 			'ru',
 		],
 	],
+	'forumaker-yandex-smartcaptcha' => [
+		'tag' => 'https://raw.githubusercontent.com/forumaker/Yandex-SmartCaptcha/2.0.0/resources/locale/en.yml',
+		'__builtInLanguages' => [
+			'ru',
+		],
+	],
 	'huoxin-relative-url' => [
 		'beta' => 'https://raw.githubusercontent.com/huoxin233/flarum-ext-relative-url/2.0.0-beta.1/locale/en.yml',
 	],
