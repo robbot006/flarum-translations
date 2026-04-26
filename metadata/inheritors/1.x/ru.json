@@ -6788,8 +6788,17 @@
             "admin": {
                 "custom_emojis_section": {
                     "edit_emoji": {
+                        "delete_emoji_button": "293f7c1906ba163f90a4fae20bb0b2f5 293f7c1906ba163f90a4fae20bb0b2f5",
+                        "delete_emoji_confirmation": "aa5d3b880023aea66c6829b02f56eefd aa5d3b880023aea66c6829b02f56eefd",
                         "emoji_title_label": "114949e242c5056489acaa6c6adfd992 114949e242c5056489acaa6c6adfd992",
-                        "modal_title": "bce6a631066185ce35cbc8c3580f1aae bce6a631066185ce35cbc8c3580f1aae"
+                        "modal_title": "bce6a631066185ce35cbc8c3580f1aae bce6a631066185ce35cbc8c3580f1aae",
+                        "path_or_url_label": "14886226d1af81b206d9e9f0fefda299 14886226d1af81b206d9e9f0fefda299",
+                        "saved_message": "d0e0cc3a09e2861054b88bb47842e15a d0e0cc3a09e2861054b88bb47842e15a",
+                        "submit_button": "1e382d5477484d2b130acaf315f1fc5d 1e382d5477484d2b130acaf315f1fc5d",
+                        "text_to_replace_label": "bb2760a6dfd9b3383c1b8b921ea91c22 bb2760a6dfd9b3383c1b8b921ea91c22"
+                    },
+                    "emoji_list": {
+                        "load_more_button": "06dfbfd2a034badc35702d30d3e74402 06dfbfd2a034badc35702d30d3e74402"
                     },
                     "export_json_button": "cedff34860cf7d15dcd871263374400c cedff34860cf7d15dcd871263374400c",
                     "heading_title": "2167e340f996fba4919374863f55dcea 2167e340f996fba4919374863f55dcea",
@@ -6831,6 +6840,55 @@
                     "show_variants_text": "99c1b0726f9315c53248c01635c12a6f 99c1b0726f9315c53248c01635c12a6f",
                     "specify_categories_label": "cbd903b8a6663aa9b457d3d41fc7cbdb cbd903b8a6663aa9b457d3d41fc7cbdb",
                     "specify_categories_text": "487aee3d1a3bec10f83804f19c314b96 487aee3d1a3bec10f83804f19c314b96"
+                }
+            },
+            "forum": {
+                "composer": {
+                    "emoji_tooltip": "556ca937db08f741912659c9ecb2d7d2 556ca937db08f741912659c9ecb2d7d2",
+                    "picker_load_error": "a6353a0863f4985efff4fba5ef4855ac a6353a0863f4985efff4fba5ef4855ac",
+                    "picker_load_retry": "b914bbbdaa648da254438d014a74349d b914bbbdaa648da254438d014a74349d",
+                    "picker_loading": "4dc74daf200a4235768c1f68e73d4a4b 4dc74daf200a4235768c1f68e73d4a4b"
+                },
+                "emoji-mart": {
+                    "add_custom": "d1dac40d20a2d0925ede3b68cd1f0d65 d1dac40d20a2d0925ede3b68cd1f0d65",
+                    "categories": {
+                        "activity": "61d19b36454995ba27358f1b2e5b8155 61d19b36454995ba27358f1b2e5b8155",
+                        "custom": "40f490b5eb64d2befdc21caed4b69fb5 40f490b5eb64d2befdc21caed4b69fb5",
+                        "flags": "698ff4f1241e8bf6ac93a7ad5e2cb184 698ff4f1241e8bf6ac93a7ad5e2cb184",
+                        "foods": "03f56f2e2c69b0632e49747cd9f9a25c 03f56f2e2c69b0632e49747cd9f9a25c",
+                        "frequent": "41c0381ee48dc8c1bf84077731ebf048 41c0381ee48dc8c1bf84077731ebf048",
+                        "nature": "a0bf4de040cc3e596cce0d77267c7fc2 a0bf4de040cc3e596cce0d77267c7fc2",
+                        "objects": "424b3812376ac69be3fd5a63dd875c5f 424b3812376ac69be3fd5a63dd875c5f",
+                        "people": "4b42a05440745ac8309f17ef099eeb76 4b42a05440745ac8309f17ef099eeb76",
+                        "places": "22bd8b907563c39f597d84e4f4696bd0 22bd8b907563c39f597d84e4f4696bd0",
+                        "symbols": "634b20a11d3abc1bc6b028338ee93512 634b20a11d3abc1bc6b028338ee93512"
+                    },
+                    "category_search": "b2cf43cfbe063d2be94c7acad910f697 b2cf43cfbe063d2be94c7acad910f697",
+                    "no_emojis_found_message": "16e5155e977ce24ce6721fec5fba7b41 16e5155e977ce24ce6721fec5fba7b41",
+                    "no_emojis_found_title": "1316e47de321be863b2b7a923d0ff6b3 1316e47de321be863b2b7a923d0ff6b3",
+                    "pick": "04ea7c2f1553a2f1f645ad1c55871221 04ea7c2f1553a2f1f645ad1c55871221",
+                    "search_placeholder": "bfc95980634bf529e8a406db2c842b31 bfc95980634bf529e8a406db2c842b31",
+                    "skin_tone_choose": "64424f9f8cdb192b148d00e6c59be5ed 64424f9f8cdb192b148d00e6c59be5ed",
+                    "skin_tone_dark": "54744c2168ecfc3e21b1dd804cdab5a2 54744c2168ecfc3e21b1dd804cdab5a2",
+                    "skin_tone_default": "d3b9e440144ac3cb320cf4627f2e0e90 d3b9e440144ac3cb320cf4627f2e0e90",
+                    "skin_tone_light": "1cb6bc8199482790d7884504bd4bccc9 1cb6bc8199482790d7884504bd4bccc9",
+                    "skin_tone_medium": "605ba7cc5e104a6ea6afd91301dd4225 605ba7cc5e104a6ea6afd91301dd4225",
+                    "skin_tone_medium_dark": "917c79956b8b3c32df5c2952b3dd51ee 917c79956b8b3c32df5c2952b3dd51ee",
+                    "skin_tone_medium_light": "029378bab64c3de391f88da66cc291c2 029378bab64c3de391f88da66cc291c2"
+                }
+            },
+            "ref": {
+                "emoji_categories": {
+                    "activity": "010b2231dd089bc3a401f7abb44c1c58 010b2231dd089bc3a401f7abb44c1c58",
+                    "custom": "0f2f3df57898733c27edece110005605 0f2f3df57898733c27edece110005605",
+                    "flags": "39046696f3bdc8481fc0a9c58a68ae58 39046696f3bdc8481fc0a9c58a68ae58",
+                    "foods": "5926a62ce262997952eb0712dfd9a37b 5926a62ce262997952eb0712dfd9a37b",
+                    "frequent": "3bacb67dd9736bd12a074a45e8220827 3bacb67dd9736bd12a074a45e8220827",
+                    "nature": "8e2a56f9fc1c127ee991467bd5912e4c 8e2a56f9fc1c127ee991467bd5912e4c",
+                    "objects": "49063cecd92cde48f42cececba2c4ff3 49063cecd92cde48f42cececba2c4ff3",
+                    "people": "024412f39a099640a52a40042644f042 024412f39a099640a52a40042644f042",
+                    "places": "95ce1181c16df249751d7cee42c8a55a 95ce1181c16df249751d7cee42c8a55a",
+                    "symbols": "e4301a891b01dd7a95f4072b088f097c e4301a891b01dd7a95f4072b088f097c"
                 }
             }
         }
