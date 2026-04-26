@@ -45,65 +45,65 @@
                 "edit_emoji": {
                     "modal_title": "Добавить эмодзи",
                     "emoji_title_label": "Название эмодзи",
-                    "delete_emoji_confirmation": "",
-                    "text_to_replace_label": "",
-                    "path_or_url_label": "",
-                    "submit_button": "",
-                    "delete_emoji_button": "",
-                    "saved_message": ""
+                    "delete_emoji_confirmation": "Удалить этот эмодзи?",
+                    "text_to_replace_label": "Текст для замены",
+                    "path_or_url_label": "Путь или URL",
+                    "submit_button": "=> core.ref.save_changes",
+                    "delete_emoji_button": "Удалить эмодзи",
+                    "saved_message": "=> core.admin.settings.saved_message"
                 },
                 "emoji_list": {
-                    "load_more_button": ""
+                    "load_more_button": "=> core.forum.post_stream.load_more_button"
                 }
             }
         },
         "forum": {
             "composer": {
-                "emoji_tooltip": "",
-                "picker_loading": "",
-                "picker_load_error": "",
-                "picker_load_retry": ""
+                "emoji_tooltip": "Вставить эмодзи",
+                "picker_loading": "Загрузка эмодзи…",
+                "picker_load_error": "Не удалось загрузить окно выбора эмодзи. Пожалуйста, попробуйте ещё раз.",
+                "picker_load_retry": "Повторить"
             },
             "emoji-mart": {
-                "search_placeholder": "",
-                "no_emojis_found_title": "",
-                "no_emojis_found_message": "",
-                "pick": "",
-                "add_custom": "",
-                "category_search": "",
-                "skin_tone_choose": "",
-                "skin_tone_default": "",
-                "skin_tone_light": "",
-                "skin_tone_medium_light": "",
-                "skin_tone_medium": "",
-                "skin_tone_medium_dark": "",
-                "skin_tone_dark": "",
+                "search_placeholder": "Поиск",
+                "no_emojis_found_title": "Ничего не нашлось",
+                "no_emojis_found_message": "Эмодзи не найдены",
+                "pick": "Выберите эмодзи",
+                "add_custom": "Добавить пользовательский эмодзи",
+                "category_search": "Результаты поиска",
+                "skin_tone_choose": "Выберите тон кожи по умолчанию",
+                "skin_tone_default": "По умолчанию",
+                "skin_tone_light": "Светлый",
+                "skin_tone_medium_light": "Светло-средний",
+                "skin_tone_medium": "Средний",
+                "skin_tone_medium_dark": "Тёмно-средний",
+                "skin_tone_dark": "Тёмный",
                 "categories": {
-                    "frequent": "",
-                    "people": "",
-                    "nature": "",
-                    "foods": "",
-                    "activity": "",
-                    "places": "",
-                    "objects": "",
-                    "symbols": "",
-                    "flags": "",
-                    "custom": ""
+                    "frequent": "=> pianotell-flamoji.ref.emoji_categories.frequent",
+                    "people": "=> pianotell-flamoji.ref.emoji_categories.people",
+                    "nature": "=> pianotell-flamoji.ref.emoji_categories.nature",
+                    "foods": "=> pianotell-flamoji.ref.emoji_categories.foods",
+                    "activity": "=> pianotell-flamoji.ref.emoji_categories.activity",
+                    "places": "=> pianotell-flamoji.ref.emoji_categories.places",
+                    "objects": "=> pianotell-flamoji.ref.emoji_categories.objects",
+                    "symbols": "=> pianotell-flamoji.ref.emoji_categories.symbols",
+                    "flags": "=> pianotell-flamoji.ref.emoji_categories.flags",
+                    "custom": "=> pianotell-flamoji.ref.emoji_categories.custom"
                 }
             }
         },
         "ref": {
             "emoji_categories": {
-                "frequent": "",
-                "people": "",
-                "nature": "",
-                "foods": "",
-                "activity": "",
-                "places": "",
-                "objects": "",
-                "symbols": "",
-                "flags": "",
-                "custom": ""
+                "frequent": "Недавно использованные",
+                "people": "Смайлы и люди",
+                "nature": "Животные и природа",
+                "foods": "Еда и напитки",
+                "activity": "Активность",
+                "places": "Путешествия и места",
+                "objects": "Предметы",
+                "symbols": "Символы",
+                "flags": "Флаги",
+                "custom": "Пользовательские"
             }
         }
     }
