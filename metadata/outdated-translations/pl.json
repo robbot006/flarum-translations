@@ -20,6 +20,8 @@
         "fof-anti-spam.forum.message.spam": "2025-05-05"
     },
     "fof-best-answer": {
+        "fof-best-answer.admin.settings.allow_select_own_post": "2026-02-15",
+        "fof-best-answer.admin.settings.allow_select_own_post_help": "2026-02-15",
         "fof-best-answer.admin.settings.enable_all_tags_button": "2025-05-05",
         "fof-best-answer.admin.settings.enable_all_tags_reminder_button": "2025-05-05",
         "fof-best-answer.admin.settings.introduction": "2025-05-05"
@@ -56,6 +58,10 @@
         "fof-doorman.forum.email.body": "2025-12-07",
         "fof-doorman.forum.email.subject": "2025-12-07"
     },
+    "fof-forum-statistics-widget": {
+        "fof-forum-statistics-widget.admin.settings.widget_helper_text": "2026-04-19",
+        "fof-forum-statistics-widget.admin.settings.widget_order_label": "2026-04-19"
+    },
     "fof-geoip": {
         "fof-geoip.admin.settings.security_label": "2025-05-05",
         "fof-geoip.admin.settings.service_freegeoip_description": "2025-05-05",
@@ -63,6 +69,9 @@
         "fof-geoip.admin.settings.service_ipstack_description": "2025-05-05",
         "fof-geoip.admin.settings.service_ipstack_label": "2025-05-05",
         "fof-geoip.admin.settings.title": "2025-05-05"
+    },
+    "fof-github-sponsors": {
+        "fof-github-sponsors.admin.settings.desc": "2025-12-28"
     },
     "fof-impersonate": {
         "fof-impersonate.forum.modal.impersonate_username": "2025-05-05",
@@ -78,6 +87,12 @@
         "fof-links.admin.edit_link.members-label": "2025-05-05",
         "fof-links.admin.edit_link.visibility": "2025-05-05",
         "fof-links.admin.settings.show_icons_only_on_mobile": "2025-05-05"
+    },
+    "fof-move-posts": {
+        "fof-move-posts.forum.alerts.posts_moved": "2026-03-29"
+    },
+    "fof-open-collective": {
+        "fof-open-collective.admin.settings.desc": "2025-12-28"
     },
     "fof-upload": {
         "blomstra-gdpr.lib.data.uploads.anonymize_description": "2025-05-05",
@@ -96,6 +111,10 @@
         "fof-upload.forum.file_list.modal_empty_phone": "2025-05-05",
         "fof-upload.forum.file_list.release_to_upload": "2025-05-05",
         "fof-upload.forum.file_list.select_file_a11y_label": "2025-05-05"
+    },
+    "glowingblue-author-filter": {
+        "glowingblue-author-filter.forum.index_page.filter_user.keep_typing": "2026-02-15",
+        "glowingblue-author-filter.forum.index_page.filter_user.start_typing": "2026-02-15"
     },
     "ianm-follow-users": {
         "blomstra-gdpr.lib.data.followuser.anonymize_description": "2025-05-05",

@@ -1,0 +1,25 @@
+{
+    "glowingblue-author-filter": {
+        "admin": {
+            "settings": {
+                "intro": "Les utilisateurs ne disposant pas de l'autorisation <code>Rechercher des utilisateurs</code> ne verront pas le champ de recherche. Définissez cette autorisation sur <code>Tout le monde</code> pour tous les utilisateurs, ou selon le niveau d'accès que vous souhaitez.",
+                "min_length": "Nombre minimum de caractères pour lancer la recherche",
+                "result_count": "Nombre maximal de résultats dans la liste déroulante à saisie semi-automatique"
+            }
+        },
+        "forum": {
+            "index_page": {
+                "filter_user": {
+                    "accessible_label": "Filtrer par auteur",
+                    "all": "Tous",
+                    "label": "Filtrer par auteur : {text}",
+                    "search_label": "Rechercher des utilisateurs...",
+                    "no_results": "Aucun résultat",
+                    "remove_filter": "Supprimer le filtre par auteur",
+                    "start_typing": "Commencer à écrire...",
+                    "keep_typing": "Continuer à taper..."
+                }
+            }
+        }
+    }
+}

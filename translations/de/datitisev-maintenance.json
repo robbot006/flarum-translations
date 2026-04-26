@@ -2,17 +2,23 @@
     "datitisev-maintenance": {
         "admin": {
             "dashboard": {
-                "enable_maintenance_mode_button": "",
-                "disable_maintenance_mode_button": ""
+                "enable_maintenance_mode_button": "Wartungsmodus aktivieren",
+                "disable_maintenance_mode_button": "Wartungsmodus deaktivieren"
             },
             "settings": {
-                "title": "",
+                "title": "Wartungsmodus",
+                "status_enabled": "Wartungsmodus ist aktuell aktiviert",
+                "status_disabled": "Wartungsmodus ist aktuell deaktiviert",
+                "status_via_database": "(über die Datenbank)",
+                "status_via_config": "(über <code>config.php</code>)",
+                "status_force_disabled": "(über <code>config.php</code> zwangsweise deaktiviert)",
                 "settings_notice": "",
                 "allow_bypass_label": "",
                 "allow_bypass_hint": "",
                 "prefer_db_label": "",
                 "prefer_db_hint": "",
                 "active_label": "",
+                "force_disable_label": "",
                 "disable_admin_label": "",
                 "disable_api_label": "",
                 "title_label": "",

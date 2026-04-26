@@ -1,0 +1,18 @@
+{
+    "forumaker-magicread": {
+        "admin": {
+            "settings": {
+                "section_main": "Seaded",
+                "enable_readmore": "Loe lisa eelvaade profiili lehel",
+                "enable_pagination": "Lehekülgedeks jagmine vestluse sees",
+                "enable_counter": "Redaktoris kasutatud märkide arvu näitamine"
+            }
+        },
+        "forum": {
+            "read_more": "Loe lisa",
+            "counter": {
+                "label": "Kirjamärke"
+            }
+        }
+    }
+}

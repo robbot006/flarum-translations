@@ -350,7 +350,7 @@ return [
 			'class' => ReleaseGenerator::class,
 			'versionTemplate' => 'v4.Minor.Patch',
 		],
-		'maintainers' => ['qiaeru'],
+		'maintainers' => ['Wlork'],
 	],
 	'ga' => [
 		'type' => 'language',

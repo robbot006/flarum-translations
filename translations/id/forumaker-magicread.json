@@ -1,0 +1,18 @@
+{
+    "forumaker-magicread": {
+        "admin": {
+            "settings": {
+                "section_main": "Pengaturan",
+                "enable_readmore": "Baca lebih lanjut pratinjau di halaman profil",
+                "enable_pagination": "Paginasi dalam diskusi",
+                "enable_counter": "Penghitung karakter real-time di Editor"
+            }
+        },
+        "forum": {
+            "read_more": "Baca lebih lanjut",
+            "counter": {
+                "label": "Karakter"
+            }
+        }
+    }
+}

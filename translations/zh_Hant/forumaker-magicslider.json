@@ -1,0 +1,34 @@
+{
+    "capy-magic-slider": {
+        "admin": {
+            "settings": {
+                "section_display": "顯示器",
+                "section_desktop": "桌面",
+                "section_mobile": "行動裝置",
+                "section_behavior": "特徵",
+                "section_slides": "幻燈片",
+                "height": "",
+                "height_help": "",
+                "padding": "",
+                "padding_help": "",
+                "radius": "",
+                "radius_help": "",
+                "disable_mobile": "",
+                "disable_mobile_help": "",
+                "disable_desktop": "",
+                "disable_desktop_help": "",
+                "autoplay": "",
+                "autoplay_help": "",
+                "hide_on_tag_pages": "",
+                "hide_on_tag_pages_help": "",
+                "fit_to_layout": "",
+                "fit_to_layout_help": "",
+                "add_slide": "",
+                "image_placeholder": "",
+                "link_placeholder": "",
+                "new_tab": "",
+                "delete": ""
+            }
+        }
+    }
+}

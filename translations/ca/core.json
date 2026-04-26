@@ -42,7 +42,13 @@
                 "slug_driver_text": "Tria el controlador que s'utilitzarà per al slug d'aquest model.",
                 "title": "Bàsics",
                 "welcome_banner_heading": "Missatge de benvinguda",
-                "welcome_banner_text": "Configura el text que es mostra al \"banner\" de la pàgina \"Tots els debats\". Utilitza'l per donar la benvinguda als convidats al fòrum."
+                "welcome_banner_text": "Configura el text que es mostra al \"banner\" de la pàgina \"Tots els debats\". Utilitza'l per donar la benvinguda als convidats al fòrum.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -54,9 +60,30 @@
                 "use_random_password": "Crear contrasenya aleatòria",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "Netejar la memòria cau",
                 "description": "El teu fòrum d'un cop d'ull.",
+                "info_button": "",
+                "info_modal": {
+                    "title": "",
+                    "copy_button": "",
+                    "copy_success": "",
+                    "copy_error": ""
+                },
                 "io_error_message": "No s'ha pogut escriure al sistema de fitxers. Comprova els permisos del teu sistema de fitxers i torna-ho a provar. O prova a executar-ho des de la línia de comandaments.",
                 "status": {
                     "headers": {
@@ -129,8 +156,11 @@
                 "title": "=> core.ref.email"
             },
             "extension": {
+                "abandoned_no_replacement": "",
+                "abandoned_with_replacement": "",
                 "configure_scopes": "Configurar àmbits",
                 "confirm_purge": "La purga suprimirà totes les entrades de la base de dades i els actius relacionats amb l'extensió. No desinstal·larà l'extensió; això s'ha de fer mitjançant Composer. Segur que vols continuar?",
+                "deprecated": "",
                 "disabled": "Desactivada",
                 "enable_to_see": "Activa l'extensió per veure i canviar la configuració.",
                 "enabled": "Habilitada",
@@ -151,7 +181,8 @@
                     "button_label": "Llegiu-me",
                     "no_readme": "Aquesta extensió no té fitxer LLEGEIX-ME",
                     "title": "Documentació de {extName}"
-                }
+                },
+                "replaced": ""
             },
             "header": {
                 "get_help": "Obtenir ajuda",
@@ -171,6 +202,7 @@
                     "discussion": "Debat",
                     "feature": "Funcionalitats",
                     "formatting": "Format",
+                    "forum-widget": "",
                     "language": "Llengües",
                     "moderation": "Moderació",
                     "other": "Altres extensions",
@@ -647,6 +679,7 @@
                 "csrf_token_mismatch_return_link": "Torna enrere per provar-ho novament",
                 "invalid_confirmation_token": "Aquest enllaç de confirmació ja s'ha utilitzat o és invàlid.",
                 "not_authenticated": "No tens permisos per accedir a aquesta pàgina. Prova-ho novament després d'iniciar sessió.",
+                "method_not_allowed": "",
                 "not_found": "La pàgina sol·licitada no s'ha trobat.",
                 "not_found_return_link": "Tornar a {forum}",
                 "permission_denied": "No tens permisos per accedir a aquesta pàgina.",
@@ -693,6 +726,12 @@
             "send_test": {
                 "subject": "Prova de correu electrònic",
                 "body": "Hola {username}!\n\nAquesta és una prova d'enviament per confirmar que la teva configuració de correu electrònic funciona de forma correcta.\n\nSi l'has enviat tu, aquest correu confirma que la configuració funciona!\n\nSi no has estat tu, senzillament ignora aquest correu.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

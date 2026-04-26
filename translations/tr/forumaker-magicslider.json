@@ -1,0 +1,34 @@
+{
+    "capy-magic-slider": {
+        "admin": {
+            "settings": {
+                "section_display": "Görünüm",
+                "section_desktop": "Masaüstü",
+                "section_mobile": "Mobil",
+                "section_behavior": "Davranış",
+                "section_slides": "Slaytlar",
+                "height": "Yükseklik",
+                "height_help": "Bu ekran türü için sabit bir yükseklik",
+                "padding": "Dış boşluk",
+                "padding_help": "Slayt bloğunun etrafındaki boşluk",
+                "radius": "Kenar yuvarlaklığı",
+                "radius_help": "Köşe yuvarlama",
+                "disable_mobile": "Slaytları mobilde gizle",
+                "disable_mobile_help": "768px ve altındaki ekranlarda gizle",
+                "disable_desktop": "Slaytları masaüstünde gizle",
+                "disable_desktop_help": "768px'den geniş ekranlarda gizle",
+                "autoplay": "Geçiş süresi",
+                "autoplay_help": "Saniye cinsinden yazın. 0 girerseniz otomatik geçiş kapatılır",
+                "hide_on_tag_pages": "Etiket sayfalarında slaytları gizle",
+                "hide_on_tag_pages_help": "Etiket sayfalarında slayt yerine Flarum’un varsayılan etiket başlığını göster",
+                "fit_to_layout": "Slaytları ana düzen genişliğine hizala",
+                "fit_to_layout_help": "Etkinleştirildiğinde, slaytlar etiket veya tartışma listesinde ana içerik alanının genişliğine tam olarak kaplar",
+                "add_slide": "Slayt ekle",
+                "image_placeholder": "Görsel Bağlantısı",
+                "link_placeholder": "Bağlantı Adresi",
+                "new_tab": "Yeni sekmede aç",
+                "delete": "Sil"
+            }
+        }
+    }
+}

@@ -42,7 +42,13 @@
                 "slug_driver_text": "上記のURLで使用するスラッグを選択します。",
                 "title": "基本設定",
                 "welcome_banner_heading": "ウェルカムメッセージ",
-                "welcome_banner_text": "スレッド一覧ページの上部に表示されるテキストを設定します。これを使用してゲストを歓迎しましょう。"
+                "welcome_banner_text": "スレッド一覧ページの上部に表示されるテキストを設定します。これを使用してゲストを歓迎しましょう。",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -54,9 +60,30 @@
                 "use_random_password": "ランダムなパスワードを生成",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "キャッシュのクリア",
                 "description": "フォーラムの概況を確認します。",
+                "info_button": "",
+                "info_modal": {
+                    "title": "",
+                    "copy_button": "",
+                    "copy_success": "",
+                    "copy_error": ""
+                },
                 "io_error_message": "ファイルシステムに書き込むことが出来ませんでした。ファイルシステムの権限を確認して再度実行するか、コマンドラインからの実行をお試しください。",
                 "status": {
                     "headers": {
@@ -129,8 +156,11 @@
                 "title": "=> core.ref.email"
             },
             "extension": {
+                "abandoned_no_replacement": "",
+                "abandoned_with_replacement": "",
                 "configure_scopes": "権限設定",
                 "confirm_purge": "初期化は、この拡張機能に関連するすべてのデータベースとファイルを削除します。拡張機能自体は削除されません。拡張機能の削除はComposerで行う必要があります。本当に続行しますか？",
+                "deprecated": "",
                 "disabled": "無効",
                 "enable_to_see": "設定を確認、変更するには拡張機能を有効化してください。",
                 "enabled": "有効",
@@ -151,7 +181,8 @@
                     "button_label": "README",
                     "no_readme": "この拡張機能には README ファイルがありません",
                     "title": "{extName} 取扱説明書"
-                }
+                },
+                "replaced": ""
             },
             "header": {
                 "get_help": "ヘルプを開く",
@@ -171,6 +202,7 @@
                     "discussion": "会話",
                     "feature": "機能",
                     "formatting": "書式",
+                    "forum-widget": "",
                     "language": "言語",
                     "moderation": "管理",
                     "other": "その他",
@@ -647,6 +679,7 @@
                 "csrf_token_mismatch_return_link": "前のページに戻って再度お試しください",
                 "invalid_confirmation_token": "この確認用のリンクは使用済みか無効です。",
                 "not_authenticated": "このページにアクセスする権限がありません。ログイン後に再度お試しください。",
+                "method_not_allowed": "",
                 "not_found": "要求されたページが見つかりませんでした。",
                 "not_found_return_link": "{forum} へ戻る",
                 "permission_denied": "このページにアクセスする権限がありません。",
@@ -693,6 +726,12 @@
             "send_test": {
                 "subject": "Flarum テストメール",
                 "body": "{username}さん、こんにちは!\n\nこのメールは、Flarumのメール設定が正しく動作していることを確認するためのものです。\nもしあなたがこのメールを送信した場合、メール設定は正しく動作していることを意味します。\nもしこのメールに覚えがない場合は、このメールを無視してください。\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

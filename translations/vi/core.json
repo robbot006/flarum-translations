@@ -42,7 +42,13 @@
                 "slug_driver_text": "Chọn một trình điều khiển sử dụng để slug mô hình này.",
                 "title": "Cơ bản",
                 "welcome_banner_heading": "Biểu ngữ chào mừng",
-                "welcome_banner_text": "Thiết lập nội dung hiển thị trong biểu ngữ trên trang Cuộc thảo luận. Sử dụng cái này để chào mừng khách đến với diễn đàn của bạn."
+                "welcome_banner_text": "Thiết lập nội dung hiển thị trong biểu ngữ trên trang Cuộc thảo luận. Sử dụng cái này để chào mừng khách đến với diễn đàn của bạn.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -54,9 +60,30 @@
                 "use_random_password": "Tạo mật khẩu ngẫu nhiên",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "Xóa bộ nhớ đệm",
                 "description": "Diễn đàn của bạn trong nháy mắt.",
+                "info_button": "",
+                "info_modal": {
+                    "title": "",
+                    "copy_button": "",
+                    "copy_success": "",
+                    "copy_error": ""
+                },
                 "io_error_message": "Không thể ghi vào hệ thống tệp. Kiểm tra quyền đối với hệ thống tệp của bạn và thử lại. Hoặc thử chạy từ dòng lệnh.",
                 "status": {
                     "headers": {
@@ -129,8 +156,11 @@
                 "title": "=> core.ref.email"
             },
             "extension": {
+                "abandoned_no_replacement": "",
+                "abandoned_with_replacement": "",
                 "configure_scopes": "Cấu hình Phạm vi",
                 "confirm_purge": "Dọn dẹp sẽ xóa tất cả các mục nhập trong cơ sở dữ liệu và nội dung liên quan đến tiện ích mở rộng. Nó sẽ không gỡ tiện ích mở rộng; điều đó phải được thực hiện thông qua Composer. Bạn có chắc chắn muốn tiếp tục không?",
+                "deprecated": "",
                 "disabled": "Đã tắt",
                 "enable_to_see": "Kích hoạt tiện ích mở rộng để xem và thay đổi cài đặt.",
                 "enabled": "Đã bật",
@@ -152,6 +182,7 @@
                     "no_readme": "Tiện ích mở rộng này không có tệp README",
                     "title": "Tài liệu {extName}"
                 },
+                "replaced": "",
                 "confirm_uninstall": "Gỡ cài đặt sẽ xóa tất cả các mục nhập trong cơ sở dữ liệu và nội dung liên quan đến tiện ích mở rộng. Bạn có chắc chắn muốn tiếp tục không?",
                 "uninstall_button": "Gỡ cài đặt"
             },
@@ -173,6 +204,7 @@
                     "discussion": "Cuộc thảo luận",
                     "feature": "Tính năng",
                     "formatting": "Định dạng",
+                    "forum-widget": "",
                     "language": "Ngôn ngữ",
                     "moderation": "Kiểm duyệt",
                     "other": "Tiện ích mở rộng khác",
@@ -650,6 +682,7 @@
                 "csrf_token_mismatch_return_link": "Quay lại, để thử lại",
                 "invalid_confirmation_token": "Liên kết xác nhận này đã được sử dụng hoặc không hợp lệ.",
                 "not_authenticated": "Bạn không có quyền truy cập vào trang này. Hãy thử lại sau khi đăng nhập.",
+                "method_not_allowed": "",
                 "not_found": "Trang bạn yêu cầu không thể được tìm thấy.",
                 "not_found_return_link": "Quay lại {forum}",
                 "permission_denied": "Bạn không có quyền truy cập vào trang này.",
@@ -700,6 +733,12 @@
             "send_test": {
                 "subject": "Thử nghiệm email Flarum",
                 "body": "Chào {username}!\n\nĐây là email thử nghiệm để xác nhận rằng cấu hình email Flarum của bạn đang hoạt động bình thường.\n\nNếu đây là bạn, email này có nghĩa là cấu hình của bạn hoạt động!\n\nNếu đây không phải là bạn, vui lòng bỏ qua email này.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

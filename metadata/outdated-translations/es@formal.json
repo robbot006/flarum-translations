@@ -63,12 +63,16 @@
         "flarum-tags.forum.choose_tags.submit_button": "2025-05-05"
     },
     "fof-best-answer": {
+        "fof-best-answer.admin.settings.allow_select_own_post": "2026-02-15",
+        "fof-best-answer.admin.settings.allow_select_own_post_help": "2026-02-15",
         "fof-best-answer.admin.settings.enable_all_tags_button": "2025-05-05",
         "fof-best-answer.admin.settings.enable_all_tags_reminder_button": "2025-05-05",
         "fof-best-answer.admin.settings.introduction": "2025-05-05"
     },
     "fof-forum-statistics-widget": {
-        "fof-forum-statistics-widget.admin.settings.title": "2025-05-05"
+        "fof-forum-statistics-widget.admin.settings.title": "2025-05-05",
+        "fof-forum-statistics-widget.admin.settings.widget_helper_text": "2026-04-19",
+        "fof-forum-statistics-widget.admin.settings.widget_order_label": "2026-04-19"
     },
     "fof-links": {
         "fof-links.admin.links.about_text": "2025-05-05",
@@ -121,12 +125,5 @@
     },
     "kilowhat-audit-free": {
         "kilowhat-audit.forum.link.discussion-audit": "2025-05-05"
-    },
-    "the-turk-stickiest": {
-        "the-turk-stickiest.forum.discussion_controls.all_sticky_button": "2025-05-05",
-        "the-turk-stickiest.forum.discussion_controls.common_sticky_button": "2025-05-05",
-        "the-turk-stickiest.forum.discussion_controls.super_sticky_button": "2025-05-05",
-        "the-turk-stickiest.forum.discussion_controls.tag_sticky_button": "2025-05-05",
-        "the-turk-stickiest.forum.discussion_controls.unsticky_button": "2025-05-05"
     }
 }

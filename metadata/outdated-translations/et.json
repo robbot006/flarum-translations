@@ -7,6 +7,10 @@
     "fof-anti-spam": {
         "fof-anti-spam.admin.settings.stopforumspam.heading": "2025-10-19"
     },
+    "fof-best-answer": {
+        "fof-best-answer.admin.settings.allow_select_own_post": "2026-02-15",
+        "fof-best-answer.admin.settings.allow_select_own_post_help": "2026-02-15"
+    },
     "fof-doorman": {
         "fof-doorman.admin.doorkey_required": "2025-12-07",
         "fof-doorman.admin.invalid_doorkey": "2025-12-07",
@@ -39,9 +43,23 @@
         "fof-doorman.forum.email.body": "2025-12-07",
         "fof-doorman.forum.email.subject": "2025-12-07"
     },
+    "fof-forum-statistics-widget": {
+        "fof-forum-statistics-widget.admin.settings.widget_helper_text": "2026-04-19",
+        "fof-forum-statistics-widget.admin.settings.widget_order_label": "2026-04-19"
+    },
+    "fof-github-sponsors": {
+        "fof-github-sponsors.admin.settings.desc": "2025-12-28"
+    },
     "fof-horizon": {
         "fof-horizon.admin.stats.data.redis-cpu-sys": "2025-05-05",
         "fof-horizon.admin.stats.data.redis-cpu-user": "2025-05-05"
+    },
+    "fof-open-collective": {
+        "fof-open-collective.admin.settings.desc": "2025-12-28"
+    },
+    "glowingblue-author-filter": {
+        "glowingblue-author-filter.forum.index_page.filter_user.keep_typing": "2026-02-15",
+        "glowingblue-author-filter.forum.index_page.filter_user.start_typing": "2026-02-15"
     },
     "huseyinfiliz-modern-footer": {
         "huseyinfiliz-modern-footer.admin.settings.contact": "2025-05-05",
@@ -71,6 +89,15 @@
         "huseyinfiliz-modern-footer.admin.settings.title-2": "2025-05-05",
         "huseyinfiliz-modern-footer.admin.settings.title-3": "2025-05-05",
         "huseyinfiliz-modern-footer.admin.settings.title-4": "2025-05-05"
+    },
+    "ianm-translate": {
+        "ianm-translate.admin.settings.libre.api_key.help": "2026-02-08",
+        "ianm-translate.admin.settings.libre.api_key.label": "2026-02-08",
+        "ianm-translate.admin.settings.libre.port.help": "2026-02-08",
+        "ianm-translate.admin.settings.libre.port.label": "2026-02-08",
+        "ianm-translate.admin.settings.libre.url.help": "2026-02-08",
+        "ianm-translate.admin.settings.libre.url.label": "2026-02-08",
+        "ianm-translate.lib.providers.libre": "2026-02-08"
     },
     "neoncube-private-messages": {
         "neoncube-private-messages.admin.settings.message_recipient_background_color": "2025-05-05",

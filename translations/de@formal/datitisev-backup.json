@@ -17,9 +17,9 @@
                 "zip": "Zip-Archiv"
             },
             "settings_button": "Konfigurieren",
-            "delete_button": "",
-            "delete_confirmation": "",
-            "create_button": "",
+            "delete_button": "Löschen",
+            "delete_confirmation": "Möchtest du „{name}“ ({adapter}) wirklich löschen?",
+            "create_button": "Neuen Adapter hinzufügen",
             "required_package_button": "Einrichten",
             "you-need-for": {
                 "aliyun": "aliyuncs/aliyun-oss-flysystem",
@@ -40,7 +40,7 @@
             },
             "adapter-settings-modal": {
                 "title": "{adapter} konfigurieren",
-                "name_label": "",
+                "name_label": "Standortname",
                 "local": {
                     "target": {
                         "label": "Zielpfad",
@@ -81,12 +81,12 @@
                 },
                 "aws": {
                     "credentials-key": {
-                        "label": "",
-                        "description": ""
+                        "label": "Schlüssel",
+                        "description": "AWS-Anmeldedaten-Schlüssel"
                     },
                     "credentials-secret": {
-                        "label": "",
-                        "description": ""
+                        "label": "Secret",
+                        "description": "AWS-Anmeldedaten-Schlüssel"
                     },
                     "region": {
                         "label": "Region",
@@ -107,31 +107,31 @@
                 },
                 "dropbox": {
                     "key": {
-                        "label": ""
+                        "label": "App-Schlüssel"
                     },
                     "secret": {
-                        "label": ""
+                        "label": "App-Secret"
                     },
                     "refresh-token": {
-                        "label": "",
-                        "description": ""
+                        "label": "Aktualisierungstoken",
+                        "description": "Verwende die folgenden Felder, um das Aktualisierungstoken zu erhalten, oder befolge manuell die Anweisungen unter https://www.codemzy.com/blog/dropbox-long-lived-access-refresh-token#how-can-i-get-a-refresh-token-manually."
                     },
                     "help": {
-                        "obtain-access-code-label": "",
-                        "obtain-access-code-button": "",
-                        "obtain-refresh-token-label": "",
-                        "obtain-refresh-token-button": "",
-                        "obtain-refresh-token-success": ""
+                        "obtain-access-code-label": "Zugangscode erhalten (App-Schlüssel erforderlich)",
+                        "obtain-access-code-button": "Dropbox öffnen",
+                        "obtain-refresh-token-label": "Verwende den Zugriffscode, um ein Aktualisierungstoken zu erhalten (erfordert App-Schlüssel und Secret)",
+                        "obtain-refresh-token-button": "Code verwenden",
+                        "obtain-refresh-token-success": "Aktualisierungstoken erfolgreich abgerufen und oben aktualisiert! Speichere die Änderungen, um sie zu sichern."
                     }
                 },
                 "gdrive": {
                     "client-id": {
-                        "label": "",
-                        "description": ""
+                        "label": "Client-ID",
+                        "description": "Befolge die Anweisungen unter https://github.com/ivanvermeyen/laravel-google-drive-demo/blob/master/README/1-getting-your-dlient-id-and-secret.md, um ein Google-Projekt zu erstellen und deine Client-ID und deinen geheimen Client-Schlüssel abzurufen.\n"
                     },
                     "client-secret": {
-                        "label": "",
-                        "description": ""
+                        "label": "Client-Secret",
+                        "description": " "
                     },
                     "refresh-token": {
                         "label": "Token aktualisieren",
@@ -142,8 +142,8 @@
                         "description": "https://drive.google.com/drive/u/0/folders/ID"
                     },
                     "help": {
-                        "test_success_alert": "",
-                        "test_button": ""
+                        "test_success_alert": "Erfolgreich mit Google Drive verbunden! Speichere die Änderungen, um die Einstellungen zu übernehmen.",
+                        "test_button": "Verbindung testen"
                     }
                 },
                 "ftp": {

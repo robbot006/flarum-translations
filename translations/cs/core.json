@@ -42,7 +42,13 @@
                 "slug_driver_text": "Vyberte ovladač pro přepis názvu do URL pro tento model.",
                 "title": "Základní nastavení",
                 "welcome_banner_heading": "Uvítací banner",
-                "welcome_banner_text": "Nastavte text, který se zobrazí v banneru na stránce Všechny diskuse. Tento text použijte například k přivítání hostů na fóru."
+                "welcome_banner_text": "Nastavte text, který se zobrazí v banneru na stránce Všechny diskuse. Tento text použijte například k přivítání hostů na fóru.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -54,9 +60,30 @@
                 "use_random_password": "Generovat náhodné heslo",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "Vymazat mezipaměť",
                 "description": "Základní informace o fóru.",
+                "info_button": "",
+                "info_modal": {
+                    "title": "",
+                    "copy_button": "",
+                    "copy_success": "",
+                    "copy_error": ""
+                },
                 "io_error_message": "Do souborového systému nelze zapisovat. Zkontrolujte oprávnění souborového systému a zkuste to znovu. Nebo zkuste akci spustit z příkazového řádku.",
                 "status": {
                     "headers": {
@@ -129,8 +156,11 @@
                 "title": "=> core.ref.email"
             },
             "extension": {
+                "abandoned_no_replacement": "",
+                "abandoned_with_replacement": "",
                 "configure_scopes": "Konfigurace rozsahu",
                 "confirm_purge": "Vyčištění odstraní všechny záznamy z databáze a prostředky související s rozšířením. Rozšíření se neodinstaluje, to je nutné provést prostřednictvím nástroje Composer. Opravdu chcete pokračovat?",
+                "deprecated": "",
                 "disabled": "Zakázáno",
                 "enable_to_see": "Povolte rozšíření pro zobrazení a změnu jeho nastavení.",
                 "enabled": "Povoleno",
@@ -151,7 +181,8 @@
                     "button_label": "README",
                     "no_readme": "Vypadá to, že toto rozšíření nemá soubor README",
                     "title": "{extName} dokumentace"
-                }
+                },
+                "replaced": ""
             },
             "header": {
                 "get_help": "Získat pomoc",
@@ -171,6 +202,7 @@
                     "discussion": "Diskuze",
                     "feature": "Funkce",
                     "formatting": "Formátování",
+                    "forum-widget": "",
                     "language": "Jazyky",
                     "moderation": "Moderace",
                     "other": "Další rozšíření",
@@ -647,6 +679,7 @@
                 "csrf_token_mismatch_return_link": "Vrátit se zpět, a zkusit to znovu",
                 "invalid_confirmation_token": "Tento potvrzovací odkaz byl již použit nebo je neplatný.",
                 "not_authenticated": "K přístupu na tuto stránku nemáte oprávnění. Zkuste to znovu po přihlášení.",
+                "method_not_allowed": "",
                 "not_found": "Požadovaná stránka nebyla nalezena.",
                 "not_found_return_link": "Zpět na {forum}",
                 "permission_denied": "K přístupu na tuto stránku nemáte oprávnění.",
@@ -693,6 +726,12 @@
             "send_test": {
                 "subject": "Flarum testovací e-mail",
                 "body": "Ahoj {username}!\n\nToto je testovací e-mail, který potvrzuje, že vaše konfigurace e-mailu Flarum funguje správně.\n\nPokud jste to byli vy, znamená tento e-mail, že vaše konfigurace funguje!\n\nPokud jste to nebyli vy, ignorujte prosím tento e-mail.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

@@ -42,7 +42,13 @@
                 "slug_driver_text": "Sélectionnez un pilote qui sera utilisé pour l'identifiant texte unique de ce modèle.",
                 "title": "Essentiels",
                 "welcome_banner_heading": "Bannière de bienvenue",
-                "welcome_banner_text": "Personnalisez le texte qui s'affiche dans la bannière sur la page de la liste de toutes les discussions. Il vous permet d'accueillir les invités sur votre forum."
+                "welcome_banner_text": "Personnalisez le texte qui s'affiche dans la bannière sur la page de la liste de toutes les discussions. Il vous permet d'accueillir les invités sur votre forum.",
+                "abandoned_extensions_heading": "Extensions abandonnées",
+                "abandoned_extensions_text": "Flarum tient à jour une <a>liste communautaire des extensions abandonnées</a>. Lorsqu'une extension installée figure sur cette liste, elle est signalée dans le panneau d'administration.",
+                "abandoned_extensions_sync_button": "Vérifier maintenant",
+                "abandoned_extensions_sync_success": "La liste des extensions abandonnées a été mise à jour. {count} extension(s) installée(s) correspondante(s) trouvée(s).",
+                "abandoned_extensions_sync_error": "Impossible de récupérer la liste des extensions abandonnées. Veuillez réessayer plus tard.",
+                "abandoned_extensions_notify_admins_label": "Envoyer un courriel aux administrateurs lorsqu'une extension récemment abandonnée est détectée lors de la vérification hebdomadaire"
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -54,9 +60,30 @@
                 "use_random_password": "Générer un mot de passe aléatoire",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "{count, plural, one {# commentaire} other {# commentaires}}",
+                "description": "Dernières actualités et annonces de l'équipe de Flarum.",
+                "empty": "Aucune annonce trouvée.",
+                "load_error": "Impossible de charger les annonces. Veuillez réessayer plus tard.",
+                "about": "Dernières actualités et annonces issues de la communauté officielle de Flarum sur discuss.flarum.org.",
+                "hide": "Masquer les annonces",
+                "read_more": "En savoir plus",
+                "refresh": "Actualiser les annonces",
+                "retry": "Réessayer",
+                "show": "Afficher les annonces",
+                "title": "Annonces",
+                "view_all": "Tout afficher sur discuss.flarum.org"
+            },
             "dashboard": {
                 "clear_cache_button": "Effacer le cache",
                 "description": "Votre forum en un coup d'œil.",
+                "info_button": "Informations système",
+                "info_modal": {
+                    "title": "Informations système",
+                    "copy_button": "Copier dans le presse-papiers",
+                    "copy_success": "Informations système copiées dans le presse-papiers",
+                    "copy_error": "Échec de la copie dans le presse-papiers"
+                },
                 "io_error_message": "Impossible d'écrire dans le système de fichiers. Veuillez vérifier les permissions de votre système de fichiers puis réessayer. Vous pouvez également essayer d'écrire dans le système de fichiers par ligne de commande à partir de la console.",
                 "status": {
                     "headers": {
@@ -129,8 +156,11 @@
                 "title": "=> core.ref.email"
             },
             "extension": {
+                "abandoned_no_replacement": "Cette extension n'est plus maintenue par son auteur et pourrait ne plus recevoir de mises à jour.",
+                "abandoned_with_replacement": "Cette extension a été remplacée par {replacement}. Envisagez de migrer vers le paquet de remplacement.",
                 "configure_scopes": "Configurer Scopes",
                 "confirm_purge": "La purge supprime toutes les entrées de la base de données et les ressources liées à l'extension. Elle ne désinstallera pas l'extension ; cela doit être effectué depuis Composer. Êtes-vous sûr de vouloir continuer ?",
+                "deprecated": "Obsolète",
                 "disabled": "Désactivée",
                 "enable_to_see": "Activez l'extension pour afficher et modifier ses paramètres.",
                 "enabled": "Activée",
@@ -151,7 +181,8 @@
                     "button_label": "Lisez-moi",
                     "no_readme": "Cette extension ne semble pas avoir de fichier « Lisez-moi »",
                     "title": "Documentation de {extName}"
-                }
+                },
+                "replaced": "Remplacé"
             },
             "header": {
                 "get_help": "Obtenir de l'aide",
@@ -171,6 +202,7 @@
                     "discussion": "Discussion",
                     "feature": "Fonctionnalités",
                     "formatting": "Mise en page",
+                    "forum-widget": "Widgets du forum",
                     "language": "Langues",
                     "moderation": "Modération",
                     "other": "Autres extensions",
@@ -647,6 +679,7 @@
                 "csrf_token_mismatch_return_link": "Revenir en arrière pour réessayer",
                 "invalid_confirmation_token": "Ce lien de confirmation a déjà été utilisé ou est invalide.",
                 "not_authenticated": "Vous n'avez pas l'autorisation d'accéder à cette page. Veuillez réessayer après vous être connecté.",
+                "method_not_allowed": "Cette page ne prend pas en charge cette méthode de requête.",
                 "not_found": "La page que vous avez demandée est introuvable.",
                 "not_found_return_link": "Revenir à {forum}",
                 "permission_denied": "Vous n'avez pas l'autorisation d'accéder à cette page.",
@@ -693,6 +726,12 @@
             "send_test": {
                 "subject": "Courriel de test de Flarum",
                 "body": "Bonjour {username} !\n\nCeci est un courriel de test qui confirme que la configuration de la messagerie de Flarum fonctionne correctement.\n\nSi vous êtes bien à l'origine de cette action, ce courriel confirme que votre configuration est fonctionnelle !\n\nSi vous n'êtes pas à l'origine de cette action, veuillez ignorer ce courriel.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "Action requise : extension(s) abandonnée(s) détectée(s)",
+                "body": "Bonjour {username},\n\nLes extensions suivantes ont été signalées comme étant abandonnées :\n\n{extensions}\n\nVeuillez passer en revue ces extensions et envisager de migrer vers des alternatives, le cas échéant.\n",
+                "line_with_replacement": "- {package} (remplacement suggéré : {replacement})",
+                "line_no_replacement": "- {package} (aucun remplacement disponible)"
             }
         },
         "ref": {

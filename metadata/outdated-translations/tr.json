@@ -18,18 +18,6 @@
     "blomstra-payments": {
         "blomstra-payments.admin.edit-tag.select-bounty-description": "2025-05-05"
     },
-    "capybash-magicbb": {
-        "capybash-magicbb.admin.sections.content_help": "2025-10-19",
-        "capybash-magicbb.admin.sections.images_help": "2025-10-19",
-        "capybash-magicbb.admin.sections.text_help": "2025-10-19"
-    },
-    "capybash-magicslider": {
-        "capy-magic-slider.admin.settings.drag": "2025-10-26",
-        "capy-magic-slider.admin.settings.height_desktop": "2025-10-26",
-        "capy-magic-slider.admin.settings.height_desktop_help": "2025-10-26",
-        "capy-magic-slider.admin.settings.height_mobile": "2025-10-26",
-        "capy-magic-slider.admin.settings.height_mobile_help": "2025-10-26"
-    },
     "clarkwinkelmann-catch-the-fish": {
         "clarkwinkelmann-catch-the-fish.admin.settings.title": "2025-05-05"
     },
@@ -148,6 +136,8 @@
         "blomstra-gdpr.lib.data.bannedipdata.export_description": "2025-05-05"
     },
     "fof-best-answer": {
+        "fof-best-answer.admin.settings.allow_select_own_post": "2026-02-15",
+        "fof-best-answer.admin.settings.allow_select_own_post_help": "2026-02-15",
         "fof-best-answer.admin.settings.enable_all_tags_button": "2025-05-05",
         "fof-best-answer.admin.settings.enable_all_tags_reminder_button": "2025-05-05",
         "fof-best-answer.admin.settings.introduction": "2025-05-05",
@@ -199,6 +189,10 @@
         "blomstra-gdpr.lib.data.tagsubscription.anonymize_description": "2025-05-05",
         "blomstra-gdpr.lib.data.tagsubscription.export_description": "2025-05-05"
     },
+    "fof-forum-statistics-widget": {
+        "fof-forum-statistics-widget.admin.settings.widget_helper_text": "2026-04-19",
+        "fof-forum-statistics-widget.admin.settings.widget_order_label": "2026-04-19"
+    },
     "fof-gamification": {
         "fof-gamification.forum.user.points": "2025-05-05"
     },
@@ -209,6 +203,9 @@
         "fof-geoip.admin.settings.service_ipstack_description": "2025-05-05",
         "fof-geoip.admin.settings.service_ipstack_label": "2025-05-05",
         "fof-geoip.admin.settings.title": "2025-05-05"
+    },
+    "fof-github-sponsors": {
+        "fof-github-sponsors.admin.settings.desc": "2025-12-28"
     },
     "fof-horizon": {
         "fof-horizon.admin.stats.data.redis-cpu-sys": "2025-05-05",
@@ -228,6 +225,9 @@
         "fof-links.admin.edit_link.members-label": "2025-05-05",
         "fof-links.admin.edit_link.visibility": "2025-05-05",
         "fof-links.admin.settings.show_icons_only_on_mobile": "2025-05-05"
+    },
+    "fof-open-collective": {
+        "fof-open-collective.admin.settings.desc": "2025-12-28"
     },
     "fof-pretty-mail": {
         "fof-pretty-mail.admin.settings.help": "2025-05-05"
@@ -270,6 +270,10 @@
         "fof-upload.forum.file_list.release_to_upload": "2025-05-05",
         "fof-upload.forum.file_list.select_file_a11y_label": "2025-05-05"
     },
+    "glowingblue-author-filter": {
+        "glowingblue-author-filter.forum.index_page.filter_user.keep_typing": "2026-02-15",
+        "glowingblue-author-filter.forum.index_page.filter_user.start_typing": "2026-02-15"
+    },
     "ianm-boring-avatars": {
         "blomstra-gdpr.lib.data.boringavatar.anonymize_description": "2025-05-05",
         "blomstra-gdpr.lib.data.boringavatar.delete_description": "2025-05-05",
@@ -289,6 +293,15 @@
         "ianm-syndication.admin.settings.full-text.recommendation": "2025-05-05",
         "ianm-syndication.admin.settings.title": "2025-05-05"
     },
+    "ianm-translate": {
+        "ianm-translate.admin.settings.libre.api_key.help": "2026-02-08",
+        "ianm-translate.admin.settings.libre.api_key.label": "2026-02-08",
+        "ianm-translate.admin.settings.libre.port.help": "2026-02-08",
+        "ianm-translate.admin.settings.libre.port.label": "2026-02-08",
+        "ianm-translate.admin.settings.libre.url.help": "2026-02-08",
+        "ianm-translate.admin.settings.libre.url.label": "2026-02-08",
+        "ianm-translate.lib.providers.libre": "2026-02-08"
+    },
     "jeromegillard-map": {
         "jeromegillard-map.admin.settings.tiles_provider.link": "2025-05-05",
         "jeromegillard-map.admin.templates.markdown-osm": "2025-05-05",
@@ -304,18 +317,6 @@
     },
     "justoverclock-last-registered-users": {
         "justoverclock-last-registered-users.forum.welcomeText": "2025-05-05"
-    },
-    "justoverclock-newsletter": {
-        "flarum-ext-newsletter.admin.listn": "2025-05-05",
-        "flarum-ext-newsletter.admin.listndesc": "2025-05-05",
-        "flarum-ext-newsletter.admin.pubacc": "2025-05-05",
-        "flarum-ext-newsletter.admin.pubaccdesc": "2025-05-05",
-        "flarum-ext-newsletter.forum.accept": "2025-05-05",
-        "flarum-ext-newsletter.forum.modaltext": "2025-05-05",
-        "flarum-ext-newsletter.forum.modalthanku": "2025-05-05",
-        "flarum-ext-newsletter.forum.prconsent": "2025-05-05",
-        "flarum-ext-newsletter.forum.submitbutton": "2025-05-05",
-        "flarum-ext-newsletter.forum.subscribe": "2025-05-05"
     },
     "justoverclock-purify": {
         "flarum-ext-purify.admin.additem": "2025-05-05"
@@ -525,13 +526,6 @@
         "nearata-twofactor.forum.setup_modal.submit_button.enable": "2025-05-05",
         "nearata-twofactor.forum.setup_modal.title": "2025-05-05"
     },
-    "the-turk-stickiest": {
-        "the-turk-stickiest.forum.discussion_controls.all_sticky_button": "2025-05-05",
-        "the-turk-stickiest.forum.discussion_controls.common_sticky_button": "2025-05-05",
-        "the-turk-stickiest.forum.discussion_controls.super_sticky_button": "2025-05-05",
-        "the-turk-stickiest.forum.discussion_controls.tag_sticky_button": "2025-05-05",
-        "the-turk-stickiest.forum.discussion_controls.unsticky_button": "2025-05-05"
-    },
     "therealsujitk-gifs": {
         "therealsujitk.admin.gifs.giphyAPIkey": "2025-05-05",
         "therealsujitk.forum.gifs.label": "2025-05-05",
@@ -541,11 +535,6 @@
         "therealsujitk.forum.gifs.search": "2025-05-05",
         "therealsujitk.forum.gifs.searchbar": "2025-05-05",
         "therealsujitk.forum.gifs.title": "2025-05-05"
-    },
-    "tohsakarat-save-and-load-draft-automatically": {
-        "tohsakarat-save-and-load-draft-automatically.buttons.load": "2025-05-05",
-        "tohsakarat-save-and-load-draft-automatically.states.ask-for-load": "2025-05-05",
-        "tohsakarat-save-and-load-draft-automatically.states.ask-for-save": "2025-05-05"
     },
     "ziiven-pay-to-see": {
         "pay-to-see.forum.cancel": "2025-05-05",

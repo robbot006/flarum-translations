@@ -2,17 +2,17 @@
     "kilowhat-formulaire": {
         "admin": {
             "permissions": {
-                "heading": "",
+                "heading": "Formulaire",
                 "heading-advanced": "",
-                "fill": "",
-                "seeOwnUser": "",
-                "seeAnyUser": "",
-                "editOwnUser": "",
-                "editAnyUser": "",
-                "seeOwnDiscussion": "",
-                "seeAnyDiscussion": "",
-                "editOwnDiscussion": "",
-                "editAnyDiscussion": "",
+                "fill": "=> kilowhat-formulaire.ref.permissions.fill",
+                "seeOwnUser": "=> kilowhat-formulaire.ref.permissions.seeOwnUser",
+                "seeAnyUser": "=> kilowhat-formulaire.ref.permissions.seeAnyUser",
+                "editOwnUser": "=> kilowhat-formulaire.ref.permissions.editOwnUser",
+                "editAnyUser": "=> kilowhat-formulaire.ref.permissions.editAnyUser",
+                "seeOwnDiscussion": "=> kilowhat-formulaire.ref.permissions.seeOwnDiscussion",
+                "seeAnyDiscussion": "=> kilowhat-formulaire.ref.permissions.seeAnyDiscussion",
+                "editOwnDiscussion": "=> kilowhat-formulaire.ref.permissions.editOwnDiscussion",
+                "editAnyDiscussion": "=> kilowhat-formulaire.ref.permissions.editAnyDiscussion",
                 "create": "",
                 "moderate": "",
                 "export": "",
@@ -49,23 +49,36 @@
                 "uniformComposerLayout": "",
                 "uniformComposerLayoutHelp": "",
                 "noByobuFields": "",
-                "noByobuFieldsHelp": ""
+                "noByobuFieldsHelp": "",
+                "translateManually": "",
+                "translateManuallyHelp": "",
+                "translateWithTranslator": "",
+                "translateWithTranslatorHelp": "",
+                "replacementPatternLocale": "",
+                "replacementPatternLocaleHelp": "",
+                "replacementPatternLocaleOptions": {
+                    "auto": ""
+                }
             }
         },
         "forum": {
             "nav": {
-                "forms": ""
+                "forms": "=> kilowhat-formulaire.ref.manager"
+            },
+            "require-submission-alert": {
+                "message": "",
+                "action": ""
             },
             "form-index": {
                 "header": {
-                    "title": "",
+                    "title": "=> kilowhat-formulaire.ref.manager",
                     "documentation": "",
                     "discuss": ""
                 },
                 "tabs": {
-                    "standalone": "",
-                    "discussion": "",
-                    "user": ""
+                    "standalone": "=> kilowhat-formulaire.ref.type.standalone",
+                    "discussion": "=> kilowhat-formulaire.ref.type.discussion",
+                    "user": "=> kilowhat-formulaire.ref.type.user"
                 },
                 "empty": "",
                 "load-more": "",
@@ -87,15 +100,15 @@
                 "title": "",
                 "admin-only": "",
                 "permissions": {
-                    "fill": "",
-                    "seeOwnUser": "",
-                    "seeAnyUser": "",
-                    "editOwnUser": "",
-                    "editAnyUser": "",
-                    "seeOwnDiscussion": "",
-                    "seeAnyDiscussion": "",
-                    "editOwnDiscussion": "",
-                    "editAnyDiscussion": ""
+                    "fill": "=> kilowhat-formulaire.ref.permissions.fill",
+                    "seeOwnUser": "=> kilowhat-formulaire.ref.permissions.seeOwnUser",
+                    "seeAnyUser": "=> kilowhat-formulaire.ref.permissions.seeAnyUser",
+                    "editOwnUser": "=> kilowhat-formulaire.ref.permissions.editOwnUser",
+                    "editAnyUser": "=> kilowhat-formulaire.ref.permissions.editAnyUser",
+                    "seeOwnDiscussion": "=> kilowhat-formulaire.ref.permissions.seeOwnDiscussion",
+                    "seeAnyDiscussion": "=> kilowhat-formulaire.ref.permissions.seeAnyDiscussion",
+                    "editOwnDiscussion": "=> kilowhat-formulaire.ref.permissions.editOwnDiscussion",
+                    "editAnyDiscussion": "=> kilowhat-formulaire.ref.permissions.editAnyDiscussion"
                 }
             },
             "form-create": {
@@ -110,12 +123,13 @@
             "form-edit-header": {
                 "back": "",
                 "category": {
-                    "standalone": "",
-                    "discussion": "",
-                    "user": ""
+                    "standalone": "=> kilowhat-formulaire.ref.type.standalone",
+                    "discussion": "=> kilowhat-formulaire.ref.type.discussion",
+                    "user": "=> kilowhat-formulaire.ref.type.user"
                 },
                 "tabs": {
                     "template": "",
+                    "translate": "",
                     "placement": "",
                     "access": "",
                     "notifications": "",
@@ -133,6 +147,7 @@
                 "template-export": "",
                 "enable-expert-mode": "",
                 "disable-expert-mode": "",
+                "show-advanced-attributes": "",
                 "restore": "",
                 "hide": "",
                 "delete": "",
@@ -146,6 +161,7 @@
                 "warnings": {
                     "show-on-signup-invalid-permissions": "",
                     "show-on-composer-invalid-permissions": "",
+                    "require-submission-invalid-permissions": "",
                     "linked-form-is-draft": "",
                     "auto-link-permission-warning": ""
                 },
@@ -161,6 +177,10 @@
                         "discussion": "",
                         "discussionHelp": "",
                         "user": ""
+                    },
+                    "require-submission": {
+                        "switch": "",
+                        "warning": ""
                     },
                     "automatic-discussion": "",
                     "automatic-discussion-help": "",
@@ -189,6 +209,16 @@
                 "exiting-with-unsaved-data": "",
                 "preview": "",
                 "save-for-preview": ""
+            },
+            "show-advanced-attributes-modal": {
+                "title": "",
+                "toggle": "",
+                "close": "",
+                "attribute": {
+                    "key": "",
+                    "fillPermission": "",
+                    "translationKey": ""
+                }
             },
             "auto-discussion-options-modal": {
                 "title": "",
@@ -219,16 +249,19 @@
             },
             "permission-controls": {
                 "inherit": "",
-                "everyone_button": "",
+                "everyone_button": "=> core.admin.permissions_controls.everyone_button",
                 "disabled_members_button": "",
                 "members_button": ""
             },
             "template-editor": {
                 "add-field": "",
                 "title": "",
+                "titleTranslationKey": "",
                 "description": "",
+                "descriptionTranslationKey": "",
                 "key": "",
                 "fill-permission": "",
+                "contentTranslationKey": "",
                 "required": "",
                 "rich": "",
                 "min": "",
@@ -238,6 +271,7 @@
                 "regex": "",
                 "mime": "",
                 "other": "",
+                "defaultValue": "",
                 "duplicate": "",
                 "delete": "",
                 "missing-title": "",
@@ -258,7 +292,9 @@
             "options-editor": {
                 "columns": {
                     "title": "",
-                    "key": ""
+                    "titleTranslationKey": "",
+                    "key": "",
+                    "defaultValue": ""
                 },
                 "remove": "",
                 "new-placeholder": ""
@@ -280,6 +316,10 @@
             "choice": {
                 "other-label": "",
                 "other-placeholder": ""
+            },
+            "translate": {
+                "switch-tab-to-edit": "",
+                "option-heading": ""
             },
             "submission": {
                 "form-closed": "",
@@ -351,17 +391,19 @@
                     "none": ""
                 },
                 "meta-options": {
-                    "uid": "",
-                    "user_id": "",
-                    "user_username": "",
-                    "user_displayname": "",
-                    "user_email": "",
-                    "user_activated": "",
-                    "link_id": "",
-                    "locked_at": "",
-                    "created_at": "",
-                    "updated_at": "",
-                    "hidden_at": ""
+                    "uid": "=> kilowhat-formulaire.ref.submission-meta.uid",
+                    "user_id": "=> kilowhat-formulaire.ref.submission-meta.user_id",
+                    "user_username": "=> kilowhat-formulaire.ref.submission-meta.user_username",
+                    "user_displayname": "=> kilowhat-formulaire.ref.submission-meta.user_displayname",
+                    "user_email": "=> kilowhat-formulaire.ref.submission-meta.user_email",
+                    "user_activated": "=> kilowhat-formulaire.ref.submission-meta.user_activated",
+                    "user_joined_at": "=> kilowhat-formulaire.ref.submission-meta.user_joined_at",
+                    "user_groups": "=> kilowhat-formulaire.ref.submission-meta.user_groups",
+                    "link_id": "=> kilowhat-formulaire.ref.submission-meta.link_id",
+                    "locked_at": "=> kilowhat-formulaire.ref.submission-meta.locked_at",
+                    "created_at": "=> kilowhat-formulaire.ref.submission-meta.created_at",
+                    "updated_at": "=> kilowhat-formulaire.ref.submission-meta.updated_at",
+                    "hidden_at": "=> kilowhat-formulaire.ref.submission-meta.hidden_at"
                 },
                 "preview-primitives": {
                     "excel-date": "",
@@ -395,17 +437,19 @@
             "file-already-belongs-submission": "",
             "export": {
                 "meta": {
-                    "uid": "",
-                    "user_id": "",
-                    "user_username": "",
-                    "user_displayname": "",
-                    "user_email": "",
-                    "user_activated": "",
-                    "link_id": "",
-                    "locked_at": "",
-                    "created_at": "",
-                    "updated_at": "",
-                    "hidden_at": ""
+                    "uid": "=> kilowhat-formulaire.ref.submission-meta.uid",
+                    "user_id": "=> kilowhat-formulaire.ref.submission-meta.user_id",
+                    "user_username": "=> kilowhat-formulaire.ref.submission-meta.user_username",
+                    "user_displayname": "=> kilowhat-formulaire.ref.submission-meta.user_displayname",
+                    "user_email": "=> kilowhat-formulaire.ref.submission-meta.user_email",
+                    "user_activated": "=> kilowhat-formulaire.ref.submission-meta.user_activated",
+                    "user_joined_at": "=> kilowhat-formulaire.ref.submission-meta.user_joined_at",
+                    "user_groups": "=> kilowhat-formulaire.ref.submission-meta.user_groups",
+                    "link_id": "=> kilowhat-formulaire.ref.submission-meta.link_id",
+                    "locked_at": "=> kilowhat-formulaire.ref.submission-meta.locked_at",
+                    "created_at": "=> kilowhat-formulaire.ref.submission-meta.created_at",
+                    "updated_at": "=> kilowhat-formulaire.ref.submission-meta.updated_at",
+                    "hidden_at": "=> kilowhat-formulaire.ref.submission-meta.hidden_at"
                 }
             }
         },
@@ -442,6 +486,8 @@
                 "user_displayname": "",
                 "user_email": "",
                 "user_activated": "",
+                "user_joined_at": "",
+                "user_groups": "",
                 "link_id": "",
                 "locked_at": "",
                 "created_at": "",

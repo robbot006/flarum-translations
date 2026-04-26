@@ -2,13 +2,6 @@
     "acpl-lscache": {
         "acpl-lscache.admin.purge_all_success": "2025-05-05"
     },
-    "capybash-magicslider": {
-        "capy-magic-slider.admin.settings.drag": "2025-10-26",
-        "capy-magic-slider.admin.settings.height_desktop": "2025-10-26",
-        "capy-magic-slider.admin.settings.height_desktop_help": "2025-10-26",
-        "capy-magic-slider.admin.settings.height_mobile": "2025-10-26",
-        "capy-magic-slider.admin.settings.height_mobile_help": "2025-10-26"
-    },
     "clarkwinkelmann-passwordless": {
         "clarkwinkelmann-passwordless.mail.alternative": "2025-05-05",
         "clarkwinkelmann-passwordless.mail.expires": "2025-05-05",
@@ -80,6 +73,8 @@
         "blomstra-gdpr.lib.data.bannedipdata.export_description": "2025-05-05"
     },
     "fof-best-answer": {
+        "fof-best-answer.admin.settings.allow_select_own_post": "2026-02-15",
+        "fof-best-answer.admin.settings.allow_select_own_post_help": "2026-02-15",
         "fof-best-answer.admin.settings.enable_all_tags_button": "2025-05-05",
         "fof-best-answer.admin.settings.enable_all_tags_reminder_button": "2025-05-05",
         "fof-best-answer.admin.settings.introduction": "2025-05-05"
@@ -120,11 +115,18 @@
         "blomstra-gdpr.lib.data.tagsubscription.anonymize_description": "2025-05-05",
         "blomstra-gdpr.lib.data.tagsubscription.export_description": "2025-05-05"
     },
+    "fof-forum-statistics-widget": {
+        "fof-forum-statistics-widget.admin.settings.widget_helper_text": "2026-04-19",
+        "fof-forum-statistics-widget.admin.settings.widget_order_label": "2026-04-19"
+    },
     "fof-geoip": {
         "fof-geoip.admin.settings.security_label": "2025-05-05",
         "fof-geoip.admin.settings.service_ipstack_description": "2025-05-05",
         "fof-geoip.admin.settings.service_ipstack_label": "2025-05-05",
         "fof-geoip.admin.settings.title": "2025-05-05"
+    },
+    "fof-github-sponsors": {
+        "fof-github-sponsors.admin.settings.desc": "2025-12-28"
     },
     "fof-horizon": {
         "fof-horizon.admin.stats.data.redis-cpu-sys": "2025-05-05",
@@ -143,6 +145,9 @@
         "fof-links.admin.edit_link.guests-label": "2025-05-05",
         "fof-links.admin.edit_link.members-label": "2025-05-05",
         "fof-links.admin.edit_link.visibility": "2025-05-05"
+    },
+    "fof-open-collective": {
+        "fof-open-collective.admin.settings.desc": "2025-12-28"
     },
     "fof-profile-image-crop": {
         "fof-profile-image-crop.forum.modal.error.generic": "2025-05-05"
@@ -182,6 +187,10 @@
         "foskym-custom-levels.admin.settings.roundDesc": "2025-05-05",
         "foskym-custom-levels.lib.defaults.expFormula": "2025-05-05",
         "foskym-custom-levels.lib.defaults.levelFormula": "2025-05-05"
+    },
+    "glowingblue-author-filter": {
+        "glowingblue-author-filter.forum.index_page.filter_user.keep_typing": "2026-02-15",
+        "glowingblue-author-filter.forum.index_page.filter_user.start_typing": "2026-02-15"
     },
     "huseyinfiliz-modern-footer": {
         "huseyinfiliz-modern-footer.admin.settings.contact": "2025-05-05",
@@ -223,8 +232,15 @@
         "blomstra-gdpr.lib.data.followuser.export_description": "2025-05-05"
     },
     "ianm-translate": {
+        "ianm-translate.admin.settings.libre.api_key.help": "2026-02-08",
+        "ianm-translate.admin.settings.libre.api_key.label": "2026-02-08",
+        "ianm-translate.admin.settings.libre.port.help": "2026-02-08",
+        "ianm-translate.admin.settings.libre.port.label": "2026-02-08",
+        "ianm-translate.admin.settings.libre.url.help": "2026-02-08",
+        "ianm-translate.admin.settings.libre.url.label": "2026-02-08",
         "ianm-translate.forum.composer.multi-languages": "2025-05-05",
-        "ianm-translate.forum.manage-translations.poll.original-title": "2025-05-05"
+        "ianm-translate.forum.manage-translations.poll.original-title": "2025-05-05",
+        "ianm-translate.lib.providers.libre": "2026-02-08"
     },
     "ianm-twofactor": {
         "blomstra-gdpr.lib.data.twofactordata.delete_description": "2025-05-05",
@@ -233,18 +249,6 @@
     "justoverclock-auto-post-count-badge": {
         "justoverclock-auto-post-count-badge.admin.levelTree": "2025-05-05",
         "justoverclock-auto-post-count-badge.admin.levelTree-help": "2025-05-05"
-    },
-    "justoverclock-newsletter": {
-        "flarum-ext-newsletter.admin.listn": "2025-05-05",
-        "flarum-ext-newsletter.admin.listndesc": "2025-05-05",
-        "flarum-ext-newsletter.admin.pubacc": "2025-05-05",
-        "flarum-ext-newsletter.admin.pubaccdesc": "2025-05-05",
-        "flarum-ext-newsletter.forum.accept": "2025-05-05",
-        "flarum-ext-newsletter.forum.modaltext": "2025-05-05",
-        "flarum-ext-newsletter.forum.modalthanku": "2025-05-05",
-        "flarum-ext-newsletter.forum.prconsent": "2025-05-05",
-        "flarum-ext-newsletter.forum.submitbutton": "2025-05-05",
-        "flarum-ext-newsletter.forum.subscribe": "2025-05-05"
     },
     "justoverclock-purify": {
         "flarum-ext-purify.admin.additem": "2025-05-05"

@@ -42,7 +42,13 @@
                 "slug_driver_text": "इस मॉडल को स्लगिंग करने के लिए उपयोग किए जाने वाले ड्राइवर का चयन करें।",
                 "title": "मूल बातें",
                 "welcome_banner_heading": "स्वागत बैनर",
-                "welcome_banner_text": "सभी चर्चा पन्ने पर बैनर में प्रदर्शित होने वाले पाठ को कॉन्फ़िगर करें। अपने मंच पर मेहमानों का स्वागत करने के लिए इसका इस्तेमाल करें।"
+                "welcome_banner_text": "सभी चर्चा पन्ने पर बैनर में प्रदर्शित होने वाले पाठ को कॉन्फ़िगर करें। अपने मंच पर मेहमानों का स्वागत करने के लिए इसका इस्तेमाल करें।",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -54,9 +60,30 @@
                 "use_random_password": "यादृच्छिक पासवर्ड जनरेट करें",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "कैश को साफ़ करें",
                 "description": "आपका मंच एक नजर में।",
+                "info_button": "",
+                "info_modal": {
+                    "title": "",
+                    "copy_button": "",
+                    "copy_success": "",
+                    "copy_error": ""
+                },
                 "io_error_message": "फाइलसिस्टम को नहीं लिखा जा सका। अपनी फाइलसिस्टम अनुमतियों की जांच करें और पुनः प्रयास करें। या कमांड लाइन से चलाने का प्रयास करें।",
                 "status": {
                     "headers": {
@@ -129,8 +156,11 @@
                 "title": "=> core.ref.email"
             },
             "extension": {
+                "abandoned_no_replacement": "",
+                "abandoned_with_replacement": "",
                 "configure_scopes": "कार्यक्षेत्र कॉन्फ़िगर करें",
                 "confirm_purge": "पर्जिंग से सभी डेटाबेस प्रविष्टियां और एक्सटेंशन से संबंधित संपत्तियां निकल जाएंगी। यह एक्सटेंशन को अनइंस्टॉल नहीं करेगा; जो कम्पोसर के माध्यम से किया जाना चाहिए। क्या आप वाकई जारी रखना चाहते हो?",
+                "deprecated": "",
                 "disabled": "अक्षम",
                 "enable_to_see": "सेटिंग देखने और बदलने के लिए एक्सटेंशन सक्षम करें।",
                 "enabled": "सक्रिय",
@@ -152,6 +182,7 @@
                     "no_readme": "ऐसा लगता है कि इस एक्सटेंशन में कोई README फ़ाइल नहीं है",
                     "title": "{extName} प्रलेखन"
                 },
+                "replaced": "",
                 "confirm_uninstall": "अनइंस्टॉल करने से एक्सटेंशन से संबंधित सभी डेटाबेस प्रविष्टियां और संपत्तियां निकल जाएंगी। क्या आप वाकई जारी रखना चाहते हो?",
                 "uninstall_button": "स्थापना रद्द करें"
             },
@@ -173,6 +204,7 @@
                     "discussion": "विचार-विमर्श",
                     "feature": "विशेषताएं",
                     "formatting": "स्वरूपण",
+                    "forum-widget": "",
                     "language": "भाषाई",
                     "moderation": "चर्चा नियंत्रण",
                     "other": "अन्य एक्सटेंशन",
@@ -650,6 +682,7 @@
                 "csrf_token_mismatch_return_link": "पुन: प्रयास करने के लिए वापस जाएं",
                 "invalid_confirmation_token": "यह पुष्टिकरण लिंक पहले ही उपयोग किया जा चुका है या अमान्य है।",
                 "not_authenticated": "आपको इस पन्ने का उपयोग करने की अनुमति नहीं है। लॉग इन करने के बाद पुनः प्रयास करें।",
+                "method_not_allowed": "",
                 "not_found": "आपने जिस पन्ने का अनुरोध किया है वह नहीं मिल सका।",
                 "not_found_return_link": "{forum} पर लौटें",
                 "permission_denied": "आपको इस पन्ने को उपयोग करने की अनुमति नहीं है।",
@@ -700,6 +733,12 @@
             "send_test": {
                 "subject": "फ्लॉरुम ईमेल परीक्षण",
                 "body": "हे {username}!\n\nयह पुष्टि करने के लिए एक परीक्षण ईमेल है कि आपका फ्लॉरुम ईमेल कॉन्फ़िगरेशन ठीक से काम कर रहा है।\n\nअगर यह आप थे, तो इस ईमेल का मतलब है कि आपका कॉन्फ़िगरेशन काम करता है!\n\nयदि यह आप नहीं थे, तो कृपया इस ईमेल पर ध्यान न दें।\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

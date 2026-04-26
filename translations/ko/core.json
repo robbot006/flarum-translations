@@ -44,6 +44,12 @@
                 "title": "기본",
                 "welcome_banner_heading": "환영 배너",
                 "welcome_banner_text": "모든 토의 페이지의 배너에 표시되는 본문을 구성합니다. 포럼 방문자에 대한 환영 메시지로 사용됩니다.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": "",
                 "saved_message": "변경 사항이 저장되었습니다.",
                 "submit_button": "=> core.ref.save_changes"
             },
@@ -57,9 +63,30 @@
                 "use_random_password": "임의의 비밀번호 생성",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "캐시 삭제",
                 "description": "한눈에 보이는 당신의 포럼.",
+                "info_button": "",
+                "info_modal": {
+                    "title": "",
+                    "copy_button": "",
+                    "copy_success": "",
+                    "copy_error": ""
+                },
                 "io_error_message": "파일 시스템에 쓸 수 없습니다. 파일 시스템 권한을 확인하고 다시 시도하거나 명령줄에서 실행해 보세요.",
                 "status": {
                     "headers": {
@@ -141,8 +168,11 @@
                 "text": "포럼에서 이메일을 보내는 데 사용할 드라이버, 설정 및 주소를 구성합니다."
             },
             "extension": {
+                "abandoned_no_replacement": "",
+                "abandoned_with_replacement": "",
                 "configure_scopes": "범주 설정",
                 "confirm_purge": "완전한 제거는 이 확장에 관련된 모든 데이터베이스 항목과 파일들을 모두 삭제합니다. 정말 계속하시겠습니까?",
+                "deprecated": "",
                 "disabled": "비활성화됨",
                 "enable_to_see": "설정을 보고 변경하려면 이 확장을 켜주세요.",
                 "enabled": "활성화됨",
@@ -164,6 +194,7 @@
                     "no_readme": "이 확장은 README 파일이 없는것으로 보입니다",
                     "title": "{extName} 설명 문서"
                 },
+                "replaced": "",
                 "confirm_uninstall": "제거하는것은 이 확장에 관련된 모든 데이터베이스 항목과 파일들을 모두 삭제합니다. 정말 계속하시겠습니까?",
                 "uninstall_button": "제거"
             },
@@ -185,6 +216,7 @@
                     "discussion": "토의",
                     "feature": "기능",
                     "formatting": "형식",
+                    "forum-widget": "",
                     "language": "언어",
                     "moderation": "중재",
                     "other": "다른 확장",
@@ -695,6 +727,7 @@
                 "csrf_token_mismatch_return_link": "돌아간 후 다시 시도해 주세요",
                 "invalid_confirmation_token": "이 확인 링크는 이미 사용되었거나 잘못된 것입니다.",
                 "not_authenticated": "이 페이지에 접속할 수 있는 권한이 없습니다. 로그인 한 후 다시 시도하십시오.",
+                "method_not_allowed": "",
                 "not_found": "요청한 페이지를 찾을 수 없습니다.",
                 "not_found_return_link": "{forum}으로 돌아가기",
                 "permission_denied": "이 페이지에 접속할 수 있는 권한이 없습니다.",
@@ -741,6 +774,12 @@
             "send_test": {
                 "subject": "Flarum 이메일 테스트",
                 "body": "안녕하세요 {username}님!\n\nFlarum 이메일 구성이 제대로 작동하는지 확인하기 위하여 이 이메일을 전송하였습니다.\n\n귀하인 경우 설정된 이메일 구성이 제대로 작동한다는 것을 의미합니다!\n\n귀하가 아닌 경우 이 이메일을 무시해주세요.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

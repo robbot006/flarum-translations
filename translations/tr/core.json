@@ -42,7 +42,13 @@
                 "slug_driver_text": "Adres kısa adı için bir sürücü modeli seçin.",
                 "title": "Temel Öğeler",
                 "welcome_banner_heading": "Hoşgeldiniz Mesajı",
-                "welcome_banner_text": "Tüm Tartışmalar sayfasında görünecek karşılama yazısını ayarla. Ziyaretçileri karşılamak için bunu kullan."
+                "welcome_banner_text": "Tüm Tartışmalar sayfasında görünecek karşılama yazısını ayarla. Ziyaretçileri karşılamak için bunu kullan.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -54,9 +60,30 @@
                 "use_random_password": "Rastgele şifre oluştur",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "Önbelleği Temizle",
                 "description": "Bir bakışta forumun.",
+                "info_button": "Sistem Bilgisi",
+                "info_modal": {
+                    "title": "Sistem Bilgileri",
+                    "copy_button": "Panoya Kopyala",
+                    "copy_success": "Sistem bilgileri panoya kopyalandı",
+                    "copy_error": "Panoya kopyalanamadı"
+                },
                 "io_error_message": "Dosya sistemine yazılamadı. Dosya sistemi izinlerinizi kontrol edin ve tekrar deneyin veya komut satırından çalıştırmayı deneyin.",
                 "status": {
                     "headers": {
@@ -129,8 +156,11 @@
                 "title": "=> core.ref.email"
             },
             "extension": {
+                "abandoned_no_replacement": "Bu uzantı artık yazarı tarafından desteklenmiyor ve güncelleme almayabilir.",
+                "abandoned_with_replacement": "Bu uzantı {replacement} ile değiştirildi. Yeni pakete geçiş yapmayı değerlendirin.",
                 "configure_scopes": "Kapsamları Yapılandır",
                 "confirm_purge": "Temizleme, uzantıyla ilgili tüm veritabanı girdilerini ve varlıkları kaldıracaktır. Uzantıyı kaldırmaz; kaldırma işlemi Composer aracılığıyla yapılmalıdır. Devam etmek istediğine emin misin?",
+                "deprecated": "Kullanımdan Kaldırıldı",
                 "disabled": "Etkisizleştirildi",
                 "enable_to_see": "Ayarları görüntülemek ve değiştirmek için uzantıyı etkinleştirin.",
                 "enabled": "Etkin",
@@ -152,6 +182,7 @@
                     "no_readme": "Bu uzantı bir BENİ OKU dosyasına sahip değil",
                     "title": "{extName} belgeleri"
                 },
+                "replaced": "Değiştirildi",
                 "confirm_uninstall": "Kaldırma işlemi, uzantı ile ilgili tüm veritabanı girişlerini kaldıracaktır. Devam etmek istediğine emin misin?",
                 "uninstall_button": "Kaldır"
             },
@@ -173,6 +204,7 @@
                     "discussion": "Tartışma",
                     "feature": "Özellikler",
                     "formatting": "Biçimlendirme",
+                    "forum-widget": "",
                     "language": "Diller",
                     "moderation": "Moderasyon",
                     "other": "Diğer Uzantılar",
@@ -650,6 +682,7 @@
                 "csrf_token_mismatch_return_link": "Geri dön, tekrar dene",
                 "invalid_confirmation_token": "Bu onaylama bağlantısı zaten kullanılmış veya geçersiz.",
                 "not_authenticated": "Bu sayfaya erişim izniniz bulunmuyor. Giriş yaptıktan sonra tekrar deneyin.",
+                "method_not_allowed": "Bu sayfa bu istek yöntemini desteklemiyor.",
                 "not_found": "Aradığınız sayfa bulunamadı.",
                 "not_found_return_link": "{forum} forumuna geri dön",
                 "permission_denied": "Bu sayfaya erişmek için yetkiniz bulunmuyor.",
@@ -700,6 +733,12 @@
             "send_test": {
                 "subject": "Flarum Test Postası",
                 "body": "Merhaba {username}!\n\nBu, Flarum elektronik posta ayarlarının düzgün gerçekleştirildiğine dair bir iletidir.\n\nEğer bu senin tarafından gönderildiyse her şey yolunda demektir.\n\nEğer bu senin tarafından gönderilmediyse görmezden gelebilirsin.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {
@@ -723,7 +762,7 @@
             "extensions": "Uzantılar",
             "generic_confirmation_message": "Devam etmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
             "icon": "Simge",
-            "icon_text": "Herhangi bir <a>FontAwesome</a> simgesi adını <code>fas fa-</code> <em>öneki dahil</em> olarak girin.",
+            "icon_text": "<code>fas fa-</code> öneki <em>dahil</em>, herhangi bir <a>FontAwesome</a> ikon sınıfı adını girin.",
             "load_more": "Daha Fazla Yükle",
             "loading": "Yükleniyor...",
             "log_in": "Giriş Yap",

@@ -42,7 +42,13 @@
                 "slug_driver_text": "Wähle den Treiber, welcher die Foren-URLs mit einem \"Slug\" ausstattet.",
                 "title": "Grundeinstellungen",
                 "welcome_banner_heading": "Willkommensnachricht",
-                "welcome_banner_text": "Lege den Text fest, der auf der Seite \"Alle Diskussionen\" erscheint, um Besucher zu begrüßen."
+                "welcome_banner_text": "Lege den Text fest, der auf der Seite \"Alle Diskussionen\" erscheint, um Besucher zu begrüßen.",
+                "abandoned_extensions_heading": "Verwaiste Erweiterungen",
+                "abandoned_extensions_text": "Flarum führt eine <a>Community-Liste verwaister Erweiterungen</a>. Wenn eine installierte Erweiterung auf dieser Liste erscheint, wird sie im Admin-Panel markiert.",
+                "abandoned_extensions_sync_button": "Jetzt prüfen",
+                "abandoned_extensions_sync_success": "Liste der verwaisten Erweiterungen wurde aktualisiert. {count} installierte Erweiterung(en) wurden gefunden.",
+                "abandoned_extensions_sync_error": "Das Abrufen der Liste verwaister Erweiterungen ist fehlgeschlagen. Bitte versuche es später erneut.",
+                "abandoned_extensions_notify_admins_label": "Administratoren per E-Mail benachrichtigen, wenn bei der wöchentlichen Prüfung eine neue verwaiste Erweiterung erkannt wird"
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -54,9 +60,30 @@
                 "use_random_password": "Zufälliges Passwort erzeugen",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "{count, plural, one {# Kommentar} other {# Kommentare}}",
+                "description": "Aktuelle Neuigkeiten und Ankündigungen des Flarum-Teams.",
+                "empty": "Keine Ankündigungen gefunden.",
+                "load_error": "Die Ankündigungen konnten nicht geladen werden. Bitte versuche es später erneut.",
+                "about": "Aktuelle Nachrichten und Ankündigungen aus der offiziellen Flarum-Community unter discuss.flarum.org.",
+                "hide": "Ankündigungen ausblenden",
+                "read_more": "Weiterlesen",
+                "refresh": "Ankündigungen aktualisieren",
+                "retry": "Erneut versuchen",
+                "show": "Ankündigungen anzeigen",
+                "title": "Ankündigungen",
+                "view_all": "Alle auf discuss.flarum.org anzeigen"
+            },
             "dashboard": {
                 "clear_cache_button": "Cache leeren",
                 "description": "Dein Forum auf einen Blick.",
+                "info_button": "Systeminformationen",
+                "info_modal": {
+                    "title": "Systeminformationen",
+                    "copy_button": "In Zwischenablage kopieren",
+                    "copy_success": "Systeminformationen in Zwischenablage kopiert",
+                    "copy_error": "Kopieren in Zwischenablage fehlgeschlagen"
+                },
                 "io_error_message": "Es konnte nicht in das Dateisystem geschrieben werden. Überprüfe die Berechtigungen deines Dateisystems und versuche es erneut. Oder versuche es über die Kommandozeile auszuführen.",
                 "status": {
                     "headers": {
@@ -129,8 +156,11 @@
                 "title": "=> core.ref.email"
             },
             "extension": {
+                "abandoned_no_replacement": "Diese Erweiterung wird vom Autor nicht mehr gepflegt und erhält möglicherweise keine Updates mehr.",
+                "abandoned_with_replacement": "Diese Erweiterung wurde durch {replacement} ersetzt. Ziehe in Betracht, zum Ersatzpaket zu wechseln.",
                 "configure_scopes": "Bereiche konfigurieren",
                 "confirm_purge": "Die Bereinigung entfernt sämtliche Datenbankeinträge und Assets, die sich auf die Erweiterung beziehen. Die Erweiterung wird nicht deinstalliert; dies muss über Composer geschehen. Bist du sicher, dass du fortfahren willst?",
+                "deprecated": "Veraltet",
                 "disabled": "Deaktiviert",
                 "enable_to_see": "Aktiviere die Erweiterung, um Einstellungen einsehen und verändern zu können.",
                 "enabled": "Aktiviert",
@@ -152,6 +182,7 @@
                     "no_readme": "Diese Erweiterung scheint keine README-Datei zu haben",
                     "title": "Dokumentation von {extName}"
                 },
+                "replaced": "Ersetzt",
                 "confirm_uninstall": "Die Deinstallation entfernt alle Datenbankeinträge und Assets, die mit der Erweiterung in Verbindung stehen. Bist du sicher, dass du fortfahren möchtest?",
                 "uninstall_button": "Deinstallieren"
             },
@@ -173,6 +204,7 @@
                     "discussion": "Diskussion",
                     "feature": "Funktionen",
                     "formatting": "Formatierung",
+                    "forum-widget": "Forum-Widgets",
                     "language": "Sprachen",
                     "moderation": "Moderation",
                     "other": "Sonstige Erweiterungen",
@@ -650,6 +682,7 @@
                 "csrf_token_mismatch_return_link": "Gehe zurück um es erneut zu versuchen",
                 "invalid_confirmation_token": "Der Bestätigungslink wurde bereits verwendet oder ist ungültig.",
                 "not_authenticated": "Du hast keine Berechtigung, auf diese Seite zuzugreifen. Versuche dich erneut anzumelden.",
+                "method_not_allowed": "Diese Seite unterstützt diese Anforderungsmethode nicht.",
                 "not_found": "Die angeforderte Seite konnte nicht gefunden werden.",
                 "not_found_return_link": "Zurück zu {forum}",
                 "permission_denied": "Du hast keine Berechtigung, auf diese Seite zuzugreifen.",
@@ -700,6 +733,12 @@
             "send_test": {
                 "subject": "Flarum E-Mail Test",
                 "body": "Hallo {username}!\n\nDies ist eine Test E-Mail zur Überprüfung, ob deine Flarum E-Mail-Konfiguration richtig funktioniert.\n\nWenn du das warst, dann zeigt diese E-Mail an, dass deine Konfiguration funktioniert.\n\nWenn du das nicht warst, ignoriere diese E-Mail.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "Aktion erforderlich: Verwaiste Erweiterung(en) erkannt",
+                "body": "Hallo {username},\n\nDie folgenden installierte(n) Erweiterung(en) wurden als verwaist markiert:\n\n{extensions}\n\nBitte überprüfe diese Erweiterungen und erwäge den Wechsel zu Alternativen, sofern verfügbar.\n",
+                "line_with_replacement": "- {package} (empfohlener Ersatz: {replacement})",
+                "line_no_replacement": "- {package} (kein Ersatz verfügbar)"
             }
         },
         "ref": {

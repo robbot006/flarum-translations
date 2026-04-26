@@ -42,7 +42,13 @@
                 "slug_driver_text": "Select a driver to be used for slugging this model.",
                 "title": "Basics",
                 "welcome_banner_heading": "Welcome Banner",
-                "welcome_banner_text": "Configure the text that displays in the banner on the All Discussions page. Use this to welcome guests to your forum."
+                "welcome_banner_text": "Configure the text that displays in the banner on the All Discussions page. Use this to welcome guests to your forum.",
+                "abandoned_extensions_heading": "Abandoned Extensions",
+                "abandoned_extensions_text": "Flarum maintains a <a>community list of abandoned extensions</a>. When an installed extension appears on the list, it will be flagged in the admin panel.",
+                "abandoned_extensions_sync_button": "Check Now",
+                "abandoned_extensions_sync_success": "Abandoned extensions list updated. {count} matching installed extension(s) found.",
+                "abandoned_extensions_sync_error": "Failed to fetch the abandoned extensions list. Please try again later.",
+                "abandoned_extensions_notify_admins_label": "Email admins when a newly abandoned extension is detected during the weekly check"
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -54,9 +60,30 @@
                 "use_random_password": "Generate random password",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "{count, plural, one {# comment} other {# comments}}",
+                "description": "Latest news and announcements from the Flarum Team.",
+                "empty": "No announcements found.",
+                "load_error": "Could not load announcements. Please try again later.",
+                "about": "Latest news and announcements pulled from the official Flarum community at discuss.flarum.org.",
+                "hide": "Hide announcements",
+                "read_more": "Read more",
+                "refresh": "Refresh announcements",
+                "retry": "Try again",
+                "show": "Show announcements",
+                "title": "Announcements",
+                "view_all": "View all on discuss.flarum.org"
+            },
             "dashboard": {
                 "clear_cache_button": "Clear Cache",
                 "description": "Your forum at a glance.",
+                "info_button": "System Info",
+                "info_modal": {
+                    "title": "System Information",
+                    "copy_button": "Copy to Clipboard",
+                    "copy_success": "System information copied to clipboard",
+                    "copy_error": "Failed to copy to clipboard"
+                },
                 "io_error_message": "Could not write to filesystem. Check your filesystem permissions and try again. Or try running from the command line.",
                 "status": {
                     "headers": {
@@ -129,8 +156,11 @@
                 "title": "=> core.ref.email"
             },
             "extension": {
+                "abandoned_no_replacement": "This extension is no longer maintained by its author and may not receive updates.",
+                "abandoned_with_replacement": "This extension has been replaced by {replacement}. Consider migrating to the replacement package.",
                 "configure_scopes": "Configure Scopes",
                 "confirm_purge": "Purging will remove all database entries and assets related to the extension. It will not uninstall the extension; that must be done via Composer. Are you sure you want to continue?",
+                "deprecated": "Deprecated",
                 "disabled": "Disabled",
                 "enable_to_see": "Enable the extension to view and change settings.",
                 "enabled": "Enabled",
@@ -151,7 +181,8 @@
                     "button_label": "README",
                     "no_readme": "This extension does not appear to have a README file",
                     "title": "{extName} documentation"
-                }
+                },
+                "replaced": "Replaced"
             },
             "header": {
                 "get_help": "Get Help",
@@ -171,6 +202,7 @@
                     "discussion": "Discussion",
                     "feature": "Features",
                     "formatting": "Formatting",
+                    "forum-widget": "Forum Widgets",
                     "language": "Languages",
                     "moderation": "Moderation",
                     "other": "Other Extensions",
@@ -647,6 +679,7 @@
                 "csrf_token_mismatch_return_link": "Go back, to try again",
                 "invalid_confirmation_token": "This confirmation link has already been used or is invalid.",
                 "not_authenticated": "You do not have permission to access this page. Try again after logging in.",
+                "method_not_allowed": "This page does not support that request method.",
                 "not_found": "The page you requested could not be found.",
                 "not_found_return_link": "Return to {forum}",
                 "permission_denied": "You do not have permission to access this page.",
@@ -693,6 +726,12 @@
             "send_test": {
                 "subject": "Flarum Email Test",
                 "body": "Hey {username}!\n\nThis is a test email to confirm that your Flarum email configuration is working properly.\n\nIf this was you, this email means that your configuration works!\n\nIf this was not you, please ignore this email.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "Action required: abandoned extension(s) detected",
+                "body": "Hi {username},\n\nThe following installed extension(s) have been flagged as abandoned:\n\n{extensions}\n\nPlease review these extensions and consider migrating to alternatives where available.\n",
+                "line_with_replacement": "- {package} (suggested replacement: {replacement})",
+                "line_no_replacement": "- {package} (no replacement available)"
             }
         },
         "ref": {

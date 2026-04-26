@@ -42,7 +42,13 @@
                 "slug_driver_text": "Izvēlieties draiveri, kas tiks izmantots šī modeļa pārtraukšanai.",
                 "title": "Pamati",
                 "welcome_banner_heading": "Laipni lūdzam reklāmkarogs",
-                "welcome_banner_text": "Konfigurējiet tekstu, kas tiek rādīts lapas Visas diskusijas reklāmkarogā. Izmantojiet to, lai uzņemtu viesus savā forumā."
+                "welcome_banner_text": "Konfigurējiet tekstu, kas tiek rādīts lapas Visas diskusijas reklāmkarogā. Izmantojiet to, lai uzņemtu viesus savā forumā.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -54,9 +60,30 @@
                 "use_random_password": "Ģenerējiet nejaušu paroli",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "Iztīrīt kešatmiņu",
                 "description": "Jūsu forums īsumā.",
+                "info_button": "",
+                "info_modal": {
+                    "title": "",
+                    "copy_button": "",
+                    "copy_success": "",
+                    "copy_error": ""
+                },
                 "io_error_message": "Nevarēja ierakstīt failu sistēmā. Pārbaudiet failu sistēmas atļaujas un mēģiniet vēlreiz. Vai arī mēģiniet palaist no komandrindas.",
                 "status": {
                     "headers": {
@@ -129,8 +156,11 @@
                 "title": "=> core.ref.email"
             },
             "extension": {
+                "abandoned_no_replacement": "",
+                "abandoned_with_replacement": "",
                 "configure_scopes": "Konfigurēt jomas",
                 "confirm_purge": "Veicot iztīrīšanu, tiks noņemti visi ar paplašinājumu saistītie datu bāzes ieraksti un līdzekļi. Tas neatinstalēs paplašinājumu; kas jādara, izmantojot Composer. Vai tiešām vēlaties turpināt?",
+                "deprecated": "",
                 "disabled": "Atspējots",
                 "enable_to_see": "Iespējojiet paplašinājumu, lai skatītu un mainītu iestatījumus.",
                 "enabled": "Iespējots",
@@ -151,7 +181,8 @@
                     "button_label": "README",
                     "no_readme": "Šķiet, ka šim paplašinājumam nav README faila",
                     "title": "{extName} dokumentācija"
-                }
+                },
+                "replaced": ""
             },
             "header": {
                 "get_help": "Iegūt palīdzību",
@@ -171,6 +202,7 @@
                     "discussion": "Diskusija",
                     "feature": "Iespējas",
                     "formatting": "Formatēšana",
+                    "forum-widget": "",
                     "language": "Valodas",
                     "moderation": "modēracija",
                     "other": "Citi paplašinājumi",
@@ -647,6 +679,7 @@
                 "csrf_token_mismatch_return_link": "Atgriezies, lai mēģinātu vēlreiz",
                 "invalid_confirmation_token": "Šī apstiprinājuma saite jau ir izmantota vai nav derīga.",
                 "not_authenticated": "Tev nav atļaujas piekļūt šai lapai. Pēc pieteikšanās mēģini vēlreiz.",
+                "method_not_allowed": "",
                 "not_found": "Pieprasītā lapa nav atrasta.",
                 "not_found_return_link": "Atgriezties uz {forum}",
                 "permission_denied": "Tev nav atļaujat piekļūt šai lapai.",
@@ -693,6 +726,12 @@
             "send_test": {
                 "subject": "Flarum E-pasta tests",
                 "body": "Sveiki, {username}!\n\nŠis ir testa e-pasts, lai apstiprinātu, ka jūsu Flarum e-pasta konfigurācija darbojas pareizi.\n\nJa tas bijāt jūs, šis e-pasts nozīmē, ka jūsu konfigurācija darbojas!\n\nJa tas nebijāt jūs, lūdzu, ignorējiet šo e-pasta ziņojumu.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

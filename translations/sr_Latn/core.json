@@ -42,7 +42,13 @@
                 "slug_driver_text": "Izaberite upravljački program koji će se koristiti za spajanje ovog modela.",
                 "title": "Osnovno",
                 "welcome_banner_heading": "Baner dobrodošlice",
-                "welcome_banner_text": "Konfigurišite tekst koji se prikazuje u natpisu na stranici Sve diskusije. Koristite ovo za dobrodošlicu gostima na Vaš forum."
+                "welcome_banner_text": "Konfigurišite tekst koji se prikazuje u natpisu na stranici Sve diskusije. Koristite ovo za dobrodošlicu gostima na Vaš forum.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -54,9 +60,30 @@
                 "use_random_password": "Generiši nasumičnu šifru",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "Obriši keš",
                 "description": "Pregled vašeg foruma.",
+                "info_button": "",
+                "info_modal": {
+                    "title": "",
+                    "copy_button": "",
+                    "copy_success": "",
+                    "copy_error": ""
+                },
                 "io_error_message": "Nije moguće pisati po disku. Proverite dozvole i probajte ponovo. Takođe, možete pokušati da izvršite operaciju iz komandne linije.",
                 "status": {
                     "headers": {
@@ -129,8 +156,11 @@
                 "title": "=> core.ref.email"
             },
             "extension": {
+                "abandoned_no_replacement": "",
+                "abandoned_with_replacement": "",
                 "configure_scopes": "Konfigurišite opsege",
                 "confirm_purge": "Uklanjanje će izbrisati sve unose baze podataka i sredstva u vezi sa ekstenzijom. Neće deinstalirati ekstenziju; to se mora uraditi preko Composera. Da li ste sigurni da želite da nastavite?",
+                "deprecated": "",
                 "disabled": "Onemogućeno",
                 "enable_to_see": "Omogućite ekstenziju za pregled i promenu podešavanja.",
                 "enabled": "Omogućeno",
@@ -151,7 +181,8 @@
                     "button_label": "Pročitaj me",
                     "no_readme": "Ovaj dodatak nema pročitaj me datoteku",
                     "title": "{extName} dokumentacija"
-                }
+                },
+                "replaced": ""
             },
             "header": {
                 "get_help": "Traži pomoć",
@@ -171,6 +202,7 @@
                     "discussion": "Diskusije",
                     "feature": "Mogućnosti",
                     "formatting": "Formatiranje",
+                    "forum-widget": "",
                     "language": "Jezici",
                     "moderation": "Uređivanje",
                     "other": "Drugi dodaci",
@@ -647,6 +679,7 @@
                 "csrf_token_mismatch_return_link": "Vratite se nazad i pokušajte ponovo",
                 "invalid_confirmation_token": "Ovaj link za potvrdu je već iskorišćen ili je nevažeći.",
                 "not_authenticated": "Nemate prava da pristupite ovoj stranici. Prijavite se i pokušajte ponovo.",
+                "method_not_allowed": "",
                 "not_found": "Nije moguće pronaći stranicu koju ste tražili.",
                 "not_found_return_link": "Povratak na {forum}",
                 "permission_denied": "Nemate pravo da pristupite ovoj stranici.",
@@ -693,6 +726,12 @@
             "send_test": {
                 "subject": "Probni email",
                 "body": "Ćao {username}!\n\nOvo je probni email kojim se potvrđuje da tvoja konfiguracija emaila na forumu ispravno radi.\n\nAko si ovo ti, ovaj email znači da tvoja konfiguracija funkcioniše!\n\nAko nisi ti, molimo te da ignorišeš ovu poruku!\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

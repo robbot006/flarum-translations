@@ -2,34 +2,34 @@
     "kilowhat-audit": {
         "admin": {
             "permissions": {
-                "view": "",
-                "viewLimited": ""
+                "view": "Audit-Protokoll anzeigen",
+                "viewLimited": "Eingeschränktes Audit-Protokoll anzeigen"
             },
             "header": {
-                "title": "",
-                "free": "",
-                "pro": "",
-                "upgrade": ""
+                "title": "Audit",
+                "free": "Free",
+                "pro": "Pro",
+                "upgrade": "Upgrade auf Pro"
             },
             "limitedSettings": {
-                "configure": "",
-                "title": "",
-                "introduction": "",
-                "requiresExtension": ""
+                "configure": "Konfigurieren",
+                "title": "Einstellungen für eingeschränkten Zugriff",
+                "introduction": "Konfiguriere, was Benutzer mit eingeschränkten Zugriffsrechten sehen können",
+                "requiresExtension": "Benötigt die Erweiterung {extension}"
             },
             "settings": {
-                "limitedIpAddress": ""
+                "limitedIpAddress": "IP-Adresse anzeigen"
             }
         },
         "forum": {
             "link": {
-                "all-audit": "",
-                "discussion-audit": "",
+                "all-audit": "Audit-Protokoll",
+                "discussion-audit": "Audit-Protokoll",
                 "user-audit": "",
                 "actor-audit": ""
             },
             "modal": {
-                "all-title": "",
+                "all-title": "Audit-Protokoll",
                 "discussion-title": "",
                 "user-title": "",
                 "actor-title": ""
@@ -37,40 +37,40 @@
         },
         "lib": {
             "browser": {
-                "filterPlaceholder": "",
-                "filterApply": "",
-                "empty": "",
-                "loadMore": "",
-                "withoutActor": "",
+                "filterPlaceholder": "Protokolle filtern",
+                "filterApply": "Anwenden",
+                "empty": "Keine Ergebnisse",
+                "loadMore": "Mehr laden",
+                "withoutActor": "=> core.group.guest",
                 "deletedResource": {
-                    "discussion": "",
-                    "group": "",
-                    "post": "",
-                    "tag": "",
-                    "user": ""
+                    "discussion": "Diskussion #{id}",
+                    "group": "Gruppe #{id}",
+                    "post": "Beitrag #{id}",
+                    "tag": "Thema #{id}",
+                    "user": "Benutzer #{id}"
                 },
                 "genericResource": {
-                    "comment": "",
-                    "post": ""
+                    "comment": "Kommentar",
+                    "post": "Beitrag"
                 },
                 "permissionGroup": {
-                    "everyone": "",
-                    "members": ""
+                    "everyone": "=> core.admin.permissions_controls.everyone_button",
+                    "members": "=> core.admin.permissions_controls.members_button"
                 },
-                "noValue": "",
-                "noReason": "",
+                "noValue": "(kein Wert)",
+                "noReason": "(kein Grund)",
                 "client": {
                     "session": "",
-                    "api_key": "",
-                    "access_token": "",
-                    "cli": "",
-                    "unknown": ""
+                    "api_key": "API-Schlüssel",
+                    "access_token": "Zugriffstoken",
+                    "cli": "Kommandozeile",
+                    "unknown": "Unbekannter Client"
                 },
                 "controls": {
-                    "hideRaw": "",
-                    "showRaw": "",
-                    "filterActor": "",
-                    "filterIp": "",
+                    "hideRaw": "Rohprotokoll verbergen",
+                    "showRaw": "Rohprotokoll anzeigen",
+                    "filterActor": "Protokolleinträge dieses Akteurs anzeigen",
+                    "filterIp": "Protokolleinträge dieser IP anzeigen",
                     "filterClient": "",
                     "filterAction": "",
                     "filterUser": "",
@@ -79,9 +79,9 @@
                 "audit_log_cleared": "",
                 "cache_cleared": "",
                 "discussion": {
-                    "created": "",
+                    "created": "Hat Diskussion {discussion} begonnen",
                     "create_date_changed": "",
-                    "deleted": "",
+                    "deleted": "Hat Diskussion {discussion} gelöscht",
                     "hidden": "",
                     "locked": "",
                     "merged_away": "",
@@ -107,7 +107,7 @@
                 "permission_changed": "",
                 "post": {
                     "approved": "",
-                    "created": "",
+                    "created": "Hat Beitrag {post} in Diskussion {discussion} erstellt",
                     "create_date_changed": "",
                     "deleted": "",
                     "dismissed_flags": "",
@@ -115,38 +115,38 @@
                     "flagged": "",
                     "hidden": "",
                     "restored": "",
-                    "revised": "",
+                    "revised": "Hat den Beitrag {post} von {postuser} in {discussion} überarbeitet",
                     "user_changed": ""
                 },
-                "setting_changed": "",
+                "setting_changed": "Hat Einstellung {key} bearbeitet",
                 "setting_changed_with_values": "",
                 "tag": {
-                    "created": "",
-                    "deleted": "",
-                    "updated": ""
+                    "created": "Hat Thema {tag} erstellt",
+                    "deleted": "Hat Thema {tag} gelöscht",
+                    "updated": "Hat Thema {tag} aktualisiert"
                 },
                 "user": {
                     "activated": "",
                     "activated_with_email": "",
-                    "avatar_changed": "",
-                    "avatar_removed": "",
+                    "avatar_changed": "Hat Avatar von {username} geändert",
+                    "avatar_removed": "Hat Avatar von {username} entfernt",
                     "bio_changed": "",
                     "created": "",
-                    "deleted": "",
+                    "deleted": "Hat {username} gelöscht",
                     "email_changed": "",
                     "email_change_requested": "",
                     "groups_changed": "",
                     "impersonated": "",
-                    "logged_in": "",
-                    "logged_in_with_provider": "",
-                    "logged_out": "",
+                    "logged_in": "Im Konto von {username} angemeldet",
+                    "logged_in_with_provider": "Im Konto von {username} angemeldet mit {provider}",
+                    "logged_out": "Aus Konto von {username} abgemeldet",
                     "nickname_changed": "",
                     "nickname_requested": "",
                     "nickname_request_approved": "",
                     "nickname_request_rejected": "",
-                    "password_changed": "",
+                    "password_changed": "Hat Passwort von {username} geändert",
                     "password_change_requested": "",
-                    "provider_connected": "",
+                    "provider_connected": "Hat Provider {provider} mit Konto {username} verbunden",
                     "suspended": "",
                     "unsuspended": "",
                     "username_changed": "",

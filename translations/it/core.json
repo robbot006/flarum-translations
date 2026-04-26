@@ -42,7 +42,13 @@
                 "slug_driver_text": "Seleziona il driver che verrà utilizzato per creare uno slug di questo modello.",
                 "title": "Impostazioni di base",
                 "welcome_banner_heading": "Banner di benvenuto",
-                "welcome_banner_text": "Configura il testo da visualizzare sul banner. Apparirà nella pagina <b>Tutte le discussioni</b>."
+                "welcome_banner_text": "Configura il testo da visualizzare sul banner. Apparirà nella pagina <b>Tutte le discussioni</b>.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -54,9 +60,30 @@
                 "use_random_password": "Genera password casuale",
                 "username_placeholder": "=> core.ref.username"
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "Pulisci cache",
                 "description": "Il tuo forum a colpo d'occhio.",
+                "info_button": "",
+                "info_modal": {
+                    "title": "",
+                    "copy_button": "",
+                    "copy_success": "",
+                    "copy_error": ""
+                },
                 "io_error_message": "Impossibile scrivere nel filesystem. Controlla i permessi del tuo filesystem e riprova. Oppure prova a eseguire dalla riga di comando.",
                 "status": {
                     "headers": {
@@ -129,8 +156,11 @@
                 "title": "=> core.ref.email"
             },
             "extension": {
+                "abandoned_no_replacement": "",
+                "abandoned_with_replacement": "",
                 "configure_scopes": "Configura ambiti",
                 "confirm_purge": "L'eliminazione rimuoverà tutte le voci del database e le risorse relative all'estensione. Non disinstallerà l'estensione; che deve essere fatto tramite Composer. Sei sicuro di voler continuare?",
+                "deprecated": "",
                 "disabled": "Disabilitata",
                 "enable_to_see": "Abilita l'estensione per vedere e modificare le impostazioni.",
                 "enabled": "Abilitata",
@@ -152,6 +182,7 @@
                     "no_readme": "Questa estensione non sembra avere un file README",
                     "title": "{extName} documentazione"
                 },
+                "replaced": "",
                 "confirm_uninstall": "La disinstallazione rimuoverà tutte le voci del database e le risorse correlate all'estensione. Sei sicuro di voler continuare?",
                 "uninstall_button": "Disinstalla"
             },
@@ -173,6 +204,7 @@
                     "discussion": "Discussione",
                     "feature": "Funzionalità",
                     "formatting": "Formattazione",
+                    "forum-widget": "",
                     "language": "Lingue",
                     "moderation": "Moderazione",
                     "other": "Altre estensioni",
@@ -602,9 +634,9 @@
                 "mega_text": "M"
             },
             "datetime_formats": {
-                "humanTimeShort": "G MMM",
+                "humanTimeShort": "D MMM",
                 "humanTimeLong": "ll",
-                "scrubber": "MMMM AAAA"
+                "scrubber": "MMMM YYYY"
             },
             "series": {
                 "glue_text": ", ",
@@ -650,6 +682,7 @@
                 "csrf_token_mismatch_return_link": "Torna indietro e riprova",
                 "invalid_confirmation_token": "Questo link di conferma è già stato usato oppure non è valido.",
                 "not_authenticated": "Non hai i permessi necessari per accedere a questa pagina. Riprova dopo aver effettuato l'accesso.",
+                "method_not_allowed": "",
                 "not_found": "La pagina che hai richiesto non è stata trovata.",
                 "not_found_return_link": "Ritorna su {forum}",
                 "permission_denied": "Non hai i permessi necessari per accedere a questa pagina.",
@@ -700,6 +733,12 @@
             "send_test": {
                 "subject": "[Flarum] Email di prova",
                 "body": "Ciao {username}!\n\nQuesta è un'email di prova per confermarti che l'attuale configurazione sta funzionando correttamente.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

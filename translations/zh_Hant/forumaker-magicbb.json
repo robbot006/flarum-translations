@@ -1,0 +1,43 @@
+{
+    "forumaker-magicbb": {
+        "admin": {
+            "settings": {
+                "bb_center": "中心",
+                "bb_justify": "合法化",
+                "bb_color": "色彩",
+                "bb_spoiler": "",
+                "bb_table": "表格",
+                "bb_info": "",
+                "bb_audio": "",
+                "bb_image": "",
+                "bb_image_help": "",
+                "bb_iframe": "",
+                "bb_iframe_help": "",
+                "toolbar_group": "",
+                "toolbar_group_help": ""
+            },
+            "sections": {
+                "text": "",
+                "content": "",
+                "images": "",
+                "features": ""
+            },
+            "permissions": {
+                "use_iframe": ""
+            }
+        },
+        "forum": {
+            "composer": {
+                "center_button": "",
+                "justify_button": "",
+                "color_button": "",
+                "spoiler_button": "",
+                "table_button": "",
+                "info_button": "",
+                "audio_button": "",
+                "image_button": "",
+                "more_button": ""
+            }
+        }
+    }
+}

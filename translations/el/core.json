@@ -42,7 +42,13 @@
                 "slug_driver_text": "Επίλεξε ένα πρόγραμμα οδήγησης για τα Slugs αυτού του Model.",
                 "title": "Βασικές ρυθμίσεις",
                 "welcome_banner_heading": "Banner καλωσορίσματος",
-                "welcome_banner_text": "Διαμόρφωσε το κείμενο που εμφανίζεται στο Banner στην σελίδα Όλα τα θέματα. Χρησιμοποιήσέ το για να καλωσορίσεις του επισκέπτες του forum σου."
+                "welcome_banner_text": "Διαμόρφωσε το κείμενο που εμφανίζεται στο Banner στην σελίδα Όλα τα θέματα. Χρησιμοποιήσέ το για να καλωσορίσεις του επισκέπτες του forum σου.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "",
@@ -54,9 +60,30 @@
                 "use_random_password": "",
                 "username_placeholder": ""
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "Διαγραφή Cache",
                 "description": "Το forum σου με μια ματιά.",
+                "info_button": "",
+                "info_modal": {
+                    "title": "",
+                    "copy_button": "",
+                    "copy_success": "",
+                    "copy_error": ""
+                },
                 "io_error_message": "Δεν ήταν δυνατή η εγγραφή στο σύστημα αρχείων. Ελέγξτε τα δικαιώματα του συστήματος αρχείων και προσπαθήστε ξανά. Ή δοκιμάστε να το εκτελέσετε από τη γραμμή εντολών.",
                 "status": {
                     "headers": {
@@ -129,8 +156,11 @@
                 "title": "=> core.ref.email"
             },
             "extension": {
+                "abandoned_no_replacement": "",
+                "abandoned_with_replacement": "",
                 "configure_scopes": "Ρύθμιση των πεδίων εφαρμογής",
                 "confirm_purge": "Η εκκαθάριση θα αφαιρέσει όλες τις καταχωρήσεις στη βάση δεδομένων και τα στοιχεία που σχετίζονται με την επέκταση. ΔΕΝ θα απεγκαταστήσει την επέκταση, αυτό πρέπει να γίνει μέσω του Composer. Είστε σίγουροι ότι θέλετε να συνεχίσετε;",
+                "deprecated": "",
                 "disabled": "Απενεργοποιημένο",
                 "enable_to_see": "Ενεργοποίησε αυτό το πρόσθετο για να μπορείς να δείς και να αλλάξεις τις ρυθμίσιες του.",
                 "enabled": "Ενεργοποιημένο",
@@ -151,7 +181,8 @@
                     "button_label": "README",
                     "no_readme": "Αυτή η επέκταση δεν φαίνεται να έχει αρχείο README",
                     "title": "{extName} documentation"
-                }
+                },
+                "replaced": ""
             },
             "header": {
                 "get_help": "Ζήτησε βοήθεια",
@@ -171,6 +202,7 @@
                     "discussion": "Συζήτηση",
                     "feature": "Χαρακτηριστικά",
                     "formatting": "Μορφοποίηση",
+                    "forum-widget": "",
                     "language": "Γλώσσες",
                     "moderation": "Συντονισμός",
                     "other": "Άλλα πρόσθετα",
@@ -647,6 +679,7 @@
                 "csrf_token_mismatch_return_link": "Πηγαίντε πίσω, για να ξαναδοκιμάσετε",
                 "invalid_confirmation_token": "Αυτός ο σύνδεσμος επιβεβαίωσης χρησιμοποίηθηκε ήδη ή είναι λάθος.",
                 "not_authenticated": "Δεν έχετε πρόσβαση σε αυτή την σελίδα. Παρακαλώ συνδεθείτε και ξαναδοκιμάστε.",
+                "method_not_allowed": "",
                 "not_found": "Δεν ήταν δυνατή η εύρεση της σελίδας που ζητήσατε.",
                 "not_found_return_link": "Επιστροφή στο {forum}",
                 "permission_denied": "Δεν έχετε πρόσβαση σε αυτή την σελίδα.",
@@ -693,6 +726,12 @@
             "send_test": {
                 "subject": "Flarum Email Test",
                 "body": "Γειά σας {username}!\nΑυτό είναι ένα δοκιμαστικό email που επιβεβαιώνει ότι η ρυθμίσεις e-mail του Flarum λειτουργούν σωστά.\nΕάν ήσασταν εσείς, η λήψη αυτού του e-mail δείχνει ότι όλα λειτουργούν.\nΕάν δεν ήσασταν εσείς, αγνοήστε αυτό το email.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {

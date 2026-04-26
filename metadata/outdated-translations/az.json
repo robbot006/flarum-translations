@@ -24,6 +24,8 @@
         "flarum-tags.forum.choose_tags.submit_button": "2025-05-05"
     },
     "fof-best-answer": {
+        "fof-best-answer.admin.settings.allow_select_own_post": "2026-02-15",
+        "fof-best-answer.admin.settings.allow_select_own_post_help": "2026-02-15",
         "fof-best-answer.admin.settings.introduction": "2025-05-05"
     },
     "fof-links": {
@@ -41,9 +43,5 @@
         "fof-upload.forum.file_list.modal_empty_desktop": "2025-05-05",
         "fof-upload.forum.file_list.modal_empty_phone": "2025-05-05",
         "fof-upload.forum.file_list.release_to_upload": "2025-05-05"
-    },
-    "the-turk-stickiest": {
-        "the-turk-stickiest.forum.discussion_controls.all_sticky_button": "2025-05-05",
-        "the-turk-stickiest.forum.discussion_controls.common_sticky_button": "2025-05-05"
     }
 }

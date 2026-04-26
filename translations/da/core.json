@@ -42,7 +42,13 @@
                 "slug_driver_text": "Vælg en driver, der skal bruges til at slugge denne model.",
                 "title": "Grundlæggende",
                 "welcome_banner_heading": "Velkommen banner",
-                "welcome_banner_text": "Vælg den tekst, der vises i banneret på siden Alle diskussioner. Brug dette til at byde gæster velkommen til dit forum."
+                "welcome_banner_text": "Vælg den tekst, der vises i banneret på siden Alle diskussioner. Brug dette til at byde gæster velkommen til dit forum.",
+                "abandoned_extensions_heading": "",
+                "abandoned_extensions_text": "",
+                "abandoned_extensions_sync_button": "",
+                "abandoned_extensions_sync_success": "",
+                "abandoned_extensions_sync_error": "",
+                "abandoned_extensions_notify_admins_label": ""
             },
             "create_user": {
                 "email_placeholder": "",
@@ -54,9 +60,30 @@
                 "use_random_password": "",
                 "username_placeholder": ""
             },
+            "announcements": {
+                "comments_label": "",
+                "description": "",
+                "empty": "",
+                "load_error": "",
+                "about": "",
+                "hide": "",
+                "read_more": "",
+                "refresh": "",
+                "retry": "",
+                "show": "",
+                "title": "",
+                "view_all": ""
+            },
             "dashboard": {
                 "clear_cache_button": "Ryd cache",
                 "description": "En oversigt over dit forum.",
+                "info_button": "",
+                "info_modal": {
+                    "title": "",
+                    "copy_button": "",
+                    "copy_success": "",
+                    "copy_error": ""
+                },
                 "io_error_message": "",
                 "status": {
                     "headers": {
@@ -129,8 +156,11 @@
                 "title": "E-mail"
             },
             "extension": {
+                "abandoned_no_replacement": "",
+                "abandoned_with_replacement": "",
                 "configure_scopes": "Indstil scopes",
                 "confirm_purge": "",
+                "deprecated": "",
                 "disabled": "Slået fra",
                 "enable_to_see": "Slå udvidelsen til for at se og ændre i indstillingerne.",
                 "enabled": "Slået til",
@@ -151,7 +181,8 @@
                     "button_label": "README",
                     "no_readme": "Denne udvidelse ser ikke ud til at have en README-fil",
                     "title": "{extName} dokumentation"
-                }
+                },
+                "replaced": ""
             },
             "header": {
                 "get_help": "Få hjælp",
@@ -171,6 +202,7 @@
                     "discussion": "Diskussion",
                     "feature": "Funktioner",
                     "formatting": "Formatering",
+                    "forum-widget": "",
                     "language": "Sprog",
                     "moderation": "Moderering",
                     "other": "Andre udvidelser",
@@ -647,6 +679,7 @@
                 "csrf_token_mismatch_return_link": "Gå tilbage for at prøve igen",
                 "invalid_confirmation_token": "Dette bekræftelseslink er allerede blevet brugt eller er ugyldigt.",
                 "not_authenticated": "Du har ikke tilladelse til at tilgå denne side. Prøv igen efter at have logget ind.",
+                "method_not_allowed": "",
                 "not_found": "Siden du leder efter blev ikke fundet.",
                 "not_found_return_link": "Gå tilbage til {forum}",
                 "permission_denied": "Du har ikke tilladelse til at tilgå denne side.",
@@ -693,6 +726,12 @@
             "send_test": {
                 "subject": "Flarum Email Test",
                 "body": "Hej {username}!\n\nDette er en test-e-mail for at bekræfte, at din Flarum-e-mail-konfiguration fungerer korrekt.\n\nHvis dette var dig, betyder denne e-mail, at din konfiguration virker!\n\nHvis dette ikke var dig, bedes du ignorere denne e-mail.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "",
+                "body": "",
+                "line_with_replacement": "",
+                "line_no_replacement": ""
             }
         },
         "ref": {
