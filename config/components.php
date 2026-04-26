@@ -533,5 +533,21 @@ return [
 	'yippy-tag-with-themes' => [
 		'tag' => 'https://raw.githubusercontent.com/Yippy/flarum-tag-with-themes/v2.0.3/locale/en.yml',
 	],
+	'zephyrisle-zai' => [
+		'tag' => 'https://raw.githubusercontent.com/Zephyr-Isle/flarum-zai/v2.0.0/resources/locale/en.yml',
+		'__builtInLanguages' => [
+			'de',
+			'es',
+			'fr',
+			'it',
+			'ja',
+			'ko',
+			'pt',
+			'ru',
+			'th',
+			'vi',
+			'zh_Hans',
+		],
+	],
 	/* extensions list end */
 ];
