@@ -2,39 +2,62 @@
     "forumaker-magicbb": {
         "admin": {
             "settings": {
-                "bb_center": "",
-                "bb_justify": "",
-                "bb_color": "",
-                "bb_spoiler": "",
-                "bb_table": "",
-                "bb_info": "",
-                "bb_image": "",
-                "bb_image_help": "",
-                "bb_iframe": "",
-                "bb_iframe_help": "",
-                "toolbar_group": "",
-                "toolbar_group_help": ""
+                "bb_center": "Zentrieren",
+                "bb_justify": "Blocksatz",
+                "bb_color": "Farbe",
+                "bb_spoiler": "Spoiler",
+                "bb_table": "Tabelle",
+                "bb_info": "Warnhinweis",
+                "bb_audio": "Audio",
+                "bb_image": "FoF Upload",
+                "bb_image_help": "Fügt dem Editor eine neue Schaltfläche für die Bildausrichtung hinzu. Große, zentrierte Bilder werden automatisch auf 60 % der Beitragsbreite verkleinert, seitlich ausgerichtete Bilder auf bis zu 40 %.",
+                "bb_iframe": "iFrame",
+                "bb_iframe_help": "Ermöglicht das Einbetten von iFrames aus beliebigen Quellen. Mit Vorsicht verwenden – eingebettete Inhalte können externe Skripte enthalten. 🧹 Bitte leeren Sie nach dem Ändern dieser Einstellung den Flarum-Cache.",
+                "bb_hide_login": "Anmeldung",
+                "bb_hide_login_help": "Der Inhalt ist für Gäste verborgen und für alle angemeldeten Benutzer sichtbar",
+                "bb_hide_reply": "Antwort",
+                "bb_hide_reply_help": "Der Inhalt ist so lange verborgen bis der Benutzer in der Diskussion antwortet",
+                "bb_hide_like": "Like",
+                "bb_hide_like_help": "Der Inhalt ist so lange verborgen bis der Benutzer den Beitrag liked",
+                "toolbar_group": "MagicBB-Schaltflächen zusammenfassen",
+                "toolbar_group_help": "Wenn aktiviert, werden alle MagicBB-Schaltflächen im Editor zu einer einzigen Schaltfläche zusammengefasst."
             },
             "sections": {
-                "text": "",
-                "content": "",
-                "images": "",
-                "features": ""
+                "text": "Text-Formatierungen",
+                "content": "Inhalts-Formatierungen",
+                "images": "Bild-Formatierungen",
+                "features": "Funktionen",
+                "hide": "Schaltflächen ausblenden"
             },
             "permissions": {
-                "use_iframe": ""
+                "use_iframe": "iFrame erlauben",
+                "bypass_like": "Like-Anforderung umgehen",
+                "bypass_reply": "Antwort-Anforderung umgehen"
             }
         },
         "forum": {
             "composer": {
-                "center_button": "",
-                "justify_button": "",
-                "color_button": "",
-                "spoiler_button": "",
-                "table_button": "",
-                "info_button": "",
-                "image_button": "",
-                "more_button": ""
+                "center_button": "Zentrieren",
+                "justify_button": "Blocksatz",
+                "color_button": "Farbe hinzufügen",
+                "spoiler_button": "Spoiler hinzufügen",
+                "table_button": "Tabelle hinzufügen",
+                "info_button": "Warnung hinzufügen",
+                "audio_button": "Audio hinzufügen",
+                "image_button": "Smart-Image hinzufügen",
+                "more_button": "Mehr",
+                "hide_login_button": "Verborgen – Anmeldung erforderlich",
+                "hide_reply_button": "Verborgen – Antwort erforderlich",
+                "hide_like_button": "Verborgen – Like erforderlich"
+            },
+            "hide": {
+                "login_to_see": "Dieser Inhalt ist nach der {login} sichtbar",
+                "like_to_see": "Dieser Inhalt ist nach dem {like} des Beitrags sichtbar",
+                "reply_to_see": "Dieser Inhalt ist nach der {reply} sichtbar",
+                "like_link_fallback": "Like",
+                "login_to_see_simple": "Melde dich an, um diesen Inhalt anzuzeigen",
+                "like_to_see_simple": "Vergib einen Like an diesen Beitrag, um diesen Inhalt anzuzeigen",
+                "reply_to_see_simple": "Antworte in dieser Diskussion, um diesen Inhalt anzuzeigen"
             }
         }
     }

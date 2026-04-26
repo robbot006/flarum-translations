@@ -21,6 +21,7 @@
             },
             "settings": {
                 "follow_after_reply_label": "Suivre automatiquement les discussions auxquelles je réponds",
+                "follow_after_create_label": "Suivre automatiquement les discussions que je crée",
                 "notify_for_all_posts_label": "Notifier chaque nouveau message au lieu de ne notifier que le dernier message dans une discussion",
                 "notify_new_post_label": "Quelqu'un publie un message dans une discussion dont je suis abonné"
             },
@@ -40,10 +41,10 @@
             "new_post": {
                 "subject": "[Nouveau message] {title}",
                 "plain": {
-                    "body": ""
+                    "body": "{poster_display_name} vient de publier dans une discussion que vous suivez : {title}.\n\nPour voir la nouvelle activité, consultez le lien suivant :\n{url}\n\n---\n\n{content}\n\n---\n\nVous ne recevrez plus de notifications concernant cette discussion tant que vous ne serez pas à jour.\n"
                 },
                 "html": {
-                    "body": ""
+                    "body": "{poster_display_name} vient de publier un message dans une discussion que vous suivez : [{title}]({url}).\n\nVous ne recevrez plus de notifications concernant cette discussion tant que vous ne serez pas à jour.\n"
                 }
             }
         },
@@ -51,8 +52,8 @@
             "gambits": {
                 "discussions": {
                     "subscription": {
-                        "following_key": "",
-                        "ignoring_key": ""
+                        "following_key": "suivie",
+                        "ignoring_key": "ignorée"
                     }
                 }
             }

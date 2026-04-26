@@ -2,91 +2,99 @@
     "core": {
         "admin": {
             "advanced": {
-                "description": "",
+                "description": "Erweiterte Einstellungen für dein Forum konfigurieren.",
                 "maintenance": {
                     "bisect": {
-                        "begin_button_text": "",
-                        "continue_button_text": "",
-                        "label": "",
-                        "help": ""
+                        "begin_button_text": "Bisect starten",
+                        "continue_button_text": "Bisect fortsetzen",
+                        "label": "Erweiterungs-Bisect",
+                        "help": "Hilft dabei, diejenige Erweiterung zu identifizieren, die das von dir beobachtete Problem verursacht. Dadurch wird das Forum automatisch in den einfachen Wartungsmodus versetzt, bis der Vorgang abgeschlossen ist."
                     },
                     "bisect_modal": {
-                        "description": "",
-                        "end_button": "",
-                        "issue_question": "",
-                        "issue_question_help": "",
-                        "no_button": "",
-                        "result_description": "",
-                        "start_button": "",
-                        "stop_button": "",
-                        "steps_left": "",
-                        "total_steps": "",
-                        "title": "",
-                        "yes_button": ""
+                        "description": "Dadurch wird das Forum bis zum Abschluss des Vorgangs in den einfache Wartungsmodus versetzt. In jedem Schritt werden einige Erweiterungen deaktiviert, bis diejenige gefunden wurde, die das Problem verursacht. Sei also nicht überrascht, wenn Funktionen fehlen oder das Design des Themes anders ist. Lass diese Seite geöffnet und versuche, das Problem nach jedem Schritt auf einer separaten Seite zu reproduzieren. Du kannst jederzeit zu dieser Seite zurückkehren, wenn du sie versehentlich geschlossen hast.\n",
+                        "end_button": "Schließen und zur Erweiterungsseite gehen",
+                        "issue_question": "Tritt das Problem weiterhin auf?",
+                        "issue_question_help": "Versuche, das Problem auf einer separaten Seite zu reproduzieren, und antworte anhand des Ergebnisses.",
+                        "no_button": "Nein",
+                        "result_description": "Das Forum befindet sich nicht mehr im Wartungsmodus. Die Erweiterung „Bisect“ wurde beendet. Basierend auf deinen Antworten zu den einzelnen Schritten ist die Ursache des Problems die folgende Erweiterung:\n",
+                        "start_button": "Bisect starten",
+                        "stop_button": "Bisect beenden",
+                        "steps_left": "Verbleibende Schritte: {steps}",
+                        "total_steps": "Dafür sind {steps} Schritte nötig.",
+                        "title": "Erweiterungs-Bisect",
+                        "yes_button": "Ja"
                     },
                     "config_override": {
-                        "label": "",
-                        "help": ""
+                        "label": "Deine Datei <code>config.php</code> überschreibt diese Einstellungen.",
+                        "help": "Du kannst diese Einstellungen hier weiterhin ändern, sie werden jedoch erst wirksam, wenn du in deiner Datei <code>config.php</code> den Wert <code>offline</code> auf <code>0</code> setzst."
                     },
-                    "help": "",
+                    "help": "Versetze dein Forum in den Wartungsmodus, um zu verhindern, dass Benutzer darauf zugreifen können.",
                     "options": {
-                        "none": "",
-                        "high": "",
-                        "low": "",
-                        "safe": ""
+                        "none": "Keine Wartung.",
+                        "high": "Intensiver Wartungsmodus. Niemand kann auf das Forum zugreifen (kann nur über config.php aktiviert werden)",
+                        "low": "Einfacher Wartungsmodus. Administratoren können auf das Forum zugreifen.",
+                        "safe": "Abgesicherter Modus. Es werden keine Erweiterungen gestartet und nur Administratoren können auf das Forum zugreifen."
                     },
-                    "safe_mode_extensions": "",
-                    "safe_mode_extensions_override_help": "",
-                    "section_label": ""
+                    "safe_mode_extensions": "Erweiterungen, die im abgesicherten Modus gestartet werden dürfen",
+                    "safe_mode_extensions_override_help": "Diese Einstellung wird durch den Schlüssel <code>safe_mode_extensions</code> in deiner Datei <code>config.php</code> überschrieben. (<b>{extensions}</b>)",
+                    "section_label": "Wartung"
                 },
                 "fontawesome": {
-                    "section_label": "",
-                    "source_label": "",
-                    "source_help": "",
-                    "source_local": "",
-                    "source_cdn": "",
-                    "source_kit": "",
-                    "cdn_url_label": "",
-                    "cdn_url_help": "",
-                    "kit_url_label": "",
-                    "kit_url_help": "",
+                    "section_label": "FontAwesome-Symbole",
+                    "source_label": "Symbolquelle",
+                    "source_help": "Wähle aus, wie FontAwesome-Symbole geladen werden sollen. „Lokal“ verwendet gebündelte Schriftarten, „CDN“ lädt von einem CDN und „Kit“ verwendet FontAwesome-Kits mit benutzerdefinierten Symbolen.",
+                    "source_local": "Lokal (Gebündelt)",
+                    "source_cdn": "CDN",
+                    "source_kit": "FontAwesome-Kit",
+                    "cdn_url_label": "CDN-URL",
+                    "cdn_url_help": "Vollständige URL zur FontAwesome-CSS-Datei auf einem CDN",
+                    "kit_url_label": "Kit-URL",
+                    "kit_url_help": "Die URL deines FontAwesome-Kit-Skripts (von kit.fontawesome.com)",
                     "config_override": {
-                        "label": "",
-                        "help": ""
+                        "label": "Konfigurationsüberschreibung",
+                        "help": "Die FontAwesome-Einstellungen sind derzeit in deiner config.php-Datei festgelegt und können hier nicht geändert werden."
+                    },
+                    "preview": {
+                        "button": "Symbolvorschau",
+                        "label": "Symbolvorschau",
+                        "help": "Überprüfe deine FontAwesome-Konfiguration. Ein gerendertes Symbol bedeutet, dass diese Stufe verfügbar ist; ein durchgestrichenes Kästchen bedeutet, dass sie nicht geladen wurde.",
+                        "fa5_fa6_label": "FA5/FA6-Aliasse",
+                        "fa7_label": "FA7-Klassen",
+                        "pro_label": "Nur Pro"
                     }
                 },
                 "pgsql": {
-                    "search_configuration": ""
+                    "search_configuration": "Zu verwendende Suchkonfiguration"
                 },
                 "queue": {
-                    "section_label": "",
-                    "sync_info": "",
-                    "sync_help": "",
-                    "custom_driver": "",
-                    "retries_label": "",
-                    "retries_help": "",
-                    "memory_label": "",
-                    "memory_help": "",
-                    "timeout_label": "",
-                    "timeout_help": "",
-                    "rest_label": "",
-                    "rest_help": "",
-                    "backoff_label": "",
-                    "backoff_help": ""
+                    "section_label": "Warteschlange",
+                    "sync_info": "Dein Forum verwendet den synchronen Warteschlangentreiber. Aufträge werden sofort im Hauptprozess-Thread verarbeitet.",
+                    "sync_help": "Für eine bessere Leistung und Benutzererfahrung solltest du die Verwendung des Datenbank-Warteschlangentreibers in Betracht ziehen. Weitere Informationen findest du in der Dokumentation.",
+                    "custom_driver": "Dein Forum verwendet den {driver} Queue-Treiber, der von einer Erweiterung bereitgestellt wird.",
+                    "retries_label": "Job-Wiederholungsversuche",
+                    "retries_help": "Maximale Anzahl von Versuchen, einen Job auszuführen, bevor er als fehlgeschlagen markiert wird. Der Standardwert ist 1.",
+                    "memory_label": "Speicherlimit (MB)",
+                    "memory_help": "Maximaler Speicher, den der Queue-Worker vor dem Neustart verwenden kann. Der Standardwert beträgt 128 MB.",
+                    "timeout_label": "Zeitlimit für Jobs (Sekunden)",
+                    "timeout_help": "Maximaldauer, die ein einzelner Job ausgeführt werden kann. Der Standardwert beträgt 60 Sekunden.",
+                    "rest_label": "Restzeit (Sekunden)",
+                    "rest_help": "Zeit, die zwischen der Verarbeitung von Jobs gewartet werden soll. Der Standardwert ist 0 Sekunden.",
+                    "backoff_label": "Zurückstellen (Sekunden)",
+                    "backoff_help": "Zeit, die vor dem erneuten Versuch eines fehlgeschlagenen Jobs gewartet werden soll. Der Standardwert ist 0 Sekunden."
                 },
                 "search": {
-                    "section_label": "",
-                    "driver_heading": "",
-                    "driver_text": "",
+                    "section_label": "Suchtreiber",
+                    "driver_heading": "Treiber suchen: {model}",
+                    "driver_text": "Wähle einen Treiber, der für die Suche nach diesem Modell verwendet werden soll.",
                     "driver_options": {
-                        "default": ""
+                        "default": "Standard-Datenbanksuche"
                     },
-                    "no_other_drivers": ""
+                    "no_other_drivers": "Es sind noch keine Suchtreiber verfügbar. Installiere eine Suchtreiber-Erweiterung, um diese konfigurieren zu können."
                 },
-                "title": ""
+                "title": "Fortgeschritten"
             },
             "appearance": {
-                "allow_user_color_scheme_label": "",
+                "allow_user_color_scheme_label": "Benutzern die Auswahl ihres eigenen Farbschemas ermöglichen",
                 "colored_header_label": "Kopfzeile einfärben",
                 "colors_heading": "Farbgebung",
                 "colors_primary_label": "Primärfarbe",
@@ -108,14 +116,16 @@
                 "favicon_text": "Lade ein Bild hoch, welches als Favicon für das Forum verwendet wird.",
                 "logo_heading": "Logo",
                 "logo_text": "Lade ein Logo hoch, welches anstelle des Forum-Titels angezeigt wird.",
+                "logo_dark_mode_heading": "Logo für dunklen Modus",
+                "logo_dark_mode_text": "Lade ein alternatives Logo hoch, das angezeigt werden soll, wenn der Dunkle Modus aktiviert ist.",
                 "title": "Erscheinungsbild",
-                "color_scheme_label": "",
+                "color_scheme_label": "Farbschema (Standard)",
                 "color_schemes": {
-                    "auto_mode_label": "",
-                    "dark_hc_mode_label": "",
-                    "dark_mode_label": "",
-                    "light_hc_mode_label": "",
-                    "light_mode_label": ""
+                    "auto_mode_label": "System oder konfigurierte Einstellungen verwenden",
+                    "dark_hc_mode_label": "=> core.ref.dark_hc_mode_label",
+                    "dark_mode_label": "=> core.ref.dark_mode_label",
+                    "light_hc_mode_label": "=> core.ref.light_hc_mode_label",
+                    "light_mode_label": "=> core.ref.light_mode_label"
                 }
             },
             "basics": {
@@ -123,31 +133,43 @@
                 "default_language_heading": "Standardsprache",
                 "description": "Lege den Forentitel, die Sprache und weitere Grundeinstellungen fest.",
                 "display_name_driver_options": {
-                    "username": ""
+                    "username": "Benutzername"
                 },
                 "display_name_heading": "Anzeigename",
                 "display_name_text": "Wähle den Treiber, der verwendet wird, um den Anzeigenamen der Benutzer zu bestimmen. Standardmäßig wird der Benutzername angezeigt.",
-                "forum_description_heading": "Beschreibung des Forums",
-                "forum_description_text": "Kurze Beschreibung des Forums. Diese erscheint in den Meta-Tags für Suchmaschinen.",
-                "forum_title_heading": "Titel des Forums",
+                "avatar_driver_options": {
+                    "default": "Standard"
+                },
+                "avatar_driver_heading": "Benutzeravatar",
+                "avatar_driver_text": "Wähle einen Treiber aus, der für die Avatare der Benutzer verwendet werden soll, wenn kein vom Benutzer hochgeladener Avatar verfügbar ist. Standardmäßig wird kein Avatar angezeigt, wenn ein Benutzer keinen hochgeladen hat.",
+                "forum_description_heading": "Forumbeschreibung",
+                "forum_description_text": "Kurze Beschreibung des Forums. Diese erscheint in den Meta-Tags und wird in Suchmaschinen angezeigt.",
+                "forum_title_heading": "Forumtitel",
                 "home_page_heading": "Startseite",
                 "home_page_text": "Wähle die Seite aus, die Benutzer beim Besuch des Forums zuerst sehen.",
                 "show_language_selector_label": "Sprachauswahlmenü zeigen",
                 "slug_driver_options": {
                     "discussions": {
-                        "default": "",
-                        "utf8": ""
+                        "default": "ID mit Slug",
+                        "utf8": "ID mit UTF-8-Slug"
                     },
                     "users": {
-                        "default": "",
-                        "id": ""
+                        "default": "Benutzername",
+                        "id": "ID",
+                        "id_with_display_name": "ID mit Anzeigename"
                     }
                 },
                 "slug_driver_heading": "Slug-Treiber: {model}",
                 "slug_driver_text": "Wähle den Treiber, welcher die Foren-URLs mit einem \"Slug\" ausstattet.",
                 "title": "Grundeinstellungen",
                 "welcome_banner_heading": "Willkommensnachricht",
-                "welcome_banner_text": "Lege den Text fest, der auf der Seite \"Alle Diskussionen\" erscheint, um Besucher zu begrüßen."
+                "welcome_banner_text": "Lege den Text fest, der auf der Seite \"Alle Diskussionen\" erscheint, um Besucher zu begrüßen.",
+                "abandoned_extensions_heading": "Verwaiste Erweiterungen",
+                "abandoned_extensions_text": "Flarum führt eine <a>Community-Liste verwaister Erweiterungen</a>. Wenn eine installierte Erweiterung auf dieser Liste erscheint, wird sie im Admin-Panel markiert.",
+                "abandoned_extensions_sync_button": "Jetzt prüfen",
+                "abandoned_extensions_sync_success": "Liste der verwaisten Erweiterungen wurde aktualisiert. {count} installierte Erweiterung(en) wurden gefunden.",
+                "abandoned_extensions_sync_error": "Das Abrufen der Liste verwaister Erweiterungen ist fehlgeschlagen. Bitte versuche es später erneut.",
+                "abandoned_extensions_notify_admins_label": "Administratoren per E-Mail benachrichtigen, wenn bei der wöchentlichen Prüfung eine neue verwaiste Erweiterung erkannt wird"
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",
@@ -158,6 +180,20 @@
                 "title": "Neuen Benutzer anlegen",
                 "use_random_password": "Zufälliges Passwort erzeugen",
                 "username_placeholder": "=> core.ref.username"
+            },
+            "announcements": {
+                "comments_label": "{count, plural, one {# Kommentar} other {# Kommentare}}",
+                "description": "Aktuelle Neuigkeiten und Ankündigungen des Flarum-Teams.",
+                "empty": "Keine Ankündigungen gefunden.",
+                "load_error": "Die Ankündigungen konnten nicht geladen werden. Bitte versuche es später erneut.",
+                "about": "Aktuelle Nachrichten und Ankündigungen aus der offiziellen Flarum-Community unter discuss.flarum.org.",
+                "hide": "Ankündigungen ausblenden",
+                "read_more": "Weiterlesen",
+                "refresh": "Ankündigungen aktualisieren",
+                "retry": "Erneut versuchen",
+                "show": "Ankündigungen anzeigen",
+                "title": "Ankündigungen",
+                "view_all": "Alle auf discuss.flarum.org anzeigen"
             },
             "dashboard": {
                 "clear_cache_button": "Cache leeren",
@@ -183,8 +219,24 @@
                     }
                 },
                 "title": "Dashboard",
-                "toggle_advanced_page_button": "",
+                "toggle_advanced_page_button": "Erweiterte Seite umschalten",
                 "tools_button": "Werkzeuge"
+            },
+            "extensions-health-widget": {
+                "abandoned_no_replacement": "Kein Ersatz verfügbar",
+                "abandoned_with_replacement": "Ersetzt durch {replacement}",
+                "all_healthy": "Alle Erweiterungen sind in Ordnung.",
+                "section_abandoned_empty": "Es wurden keine Probleme festgestellt.",
+                "section_suggested_empty": "Keine Vorschläge.",
+                "section_disabled_empty": "Alle Erweiterungen sind aktiviert.",
+                "title": "Status der Erweiterungen",
+                "section_abandoned_heading": "Erfordern deine Aufmerksamkeit",
+                "section_abandoned_help": "Diese Erweiterungen werden nicht mehr gepflegt oder weisen möglicherweise Kompatibilitätsprobleme auf. Du solltest erwägen, sie zu aktualisieren, zu ersetzen oder zu entfernen.",
+                "section_suggested_heading": "Vorschläge für Erweiterungen",
+                "section_suggested_help": "Flarum-Erweiterungen können durch das Hinzufügen weiterer Erweiterungen oder Pakete optionale Zusatzfunktionen erhalten. Diese können zusätzliche Funktionen oder Integrationen ergänzen.",
+                "section_disabled_heading": "Deaktiviert",
+                "section_disabled_help": "Diese Erweiterungen sind installiert, aber derzeit nicht aktiviert. Aktiviere sie über die jeweilige Einstellungsseite oder entferne sie, wenn sie nicht mehr benötigt werden.",
+                "suggested_by": "Vorgeschlagen von {extension}"
             },
             "debug-warning": {
                 "detail": "Sofern der <code>Debugmodus</code> aktiv ist, wird Flarum seine <code>JavaScript</code> und <code>CSS</code> Ressourcen bei jedem Seitenabruf neu generieren und könnte zudem potenziell weitere Informationen preisgeben, etwa Datenbankgeheimnisse, Umgebungsvariablen usw.\n\nEs wird dringend empfohlen, den <code>debug</code> in deiner <code>config.php</code> Datei in einem Produktionskontext zu deaktivieren. Konsultiere die <link>Flarum Dokumentation</link> für zusätzliche Informationen.\n",
@@ -224,32 +276,38 @@
                 "driver_heading": "Treiber auswählen",
                 "driver_label": "Treiber",
                 "format": {
-                    "multipart_option": "",
-                    "plain_option": "",
-                    "html_option": ""
+                    "multipart_option": "Multipart (empfohlen)",
+                    "plain_option": "Klartext",
+                    "html_option": "HTML"
                 },
-                "format_heading": "",
-                "format_help": "",
+                "format_heading": "Format für ausgehende E-Mails",
+                "format_help": "Wähle das Format, in dem ausgehende E-Mails versendet werden sollen. Die empfohlene Option ist <code>multipart</code>, da dadurch der E-Mail-Client deines Benutzers das am besten geeignete Format anzeigen kann.",
                 "from_label": "Absenderadresse",
                 "mail_encryption_label": "Verschlüsselung",
-                "mail_encryption_tls_help": "",
-                "mail_encryption_ssl_help": "",
-                "mail_encryption_none_help": "",
+                "mail_encryption_tls_help": "Die Verbindung beginnt unverschlüsselt und wird auf TLS (STARTTLS) hochgestuft. Wird in der Regel mit Port 587 oder 25 verwendet.",
+                "mail_encryption_ssl_help": "Die Verbindung ist von Anfang an verschlüsselt (implizites TLS). Wird in der Regel mit Port 465 verwendet.",
+                "mail_encryption_none_help": "Keine Verschlüsselung. Nicht für den produktiven Einsatz empfohlen.",
                 "mail_host_label": "Host",
                 "mail_mailgun_domain_label": "Domäne",
                 "mail_mailgun_region_label": "Region",
                 "mail_mailgun_secret_label": "Geheimer Schlüssel",
                 "mail_password_label": "=> core.ref.password",
                 "mail_port_label": "Port",
+                "mail_postmark_message_stream_label": "Nachrichtenstream",
+                "mail_postmark_token_label": "Server-Token",
+                "mail_smtp_verify_peer_label": "SSL-Zertifikat überprüfen",
+                "mail_smtp_verify_peer_help": "Überprüfe das SSL-Zertifikat des Servers, wenn du TLS- oder SSL-Verschlüsselung verwendest. Deaktiviere diese Option nur, wenn dein Mailserver ein selbstsigniertes Zertifikat verwendet.",
                 "mail_username_label": "=> core.ref.username",
                 "mailgun_heading": "Mailgun Einstellungen",
+                "postmark_heading": "Postmark-Einstellungen",
+                "postmark_description": "E-Mails über die HTTP-API von Postmark versenden. Optional kann ein Nachrichtenstream angegeben werden, um einen anderen als den Standardstream zu verwenden.",
                 "not_sending_message": "Flarum sendet derzeit keine E-Mails. Bitte überprüfe die Korrektheit deiner E-Mail-Konfiguration.",
                 "send_test_mail_button": "Absenden",
                 "send_test_mail_heading": "Test-E-Mail senden",
                 "send_test_mail_success": "Test-E-Mail wurde erfolgreich versandt!",
                 "send_test_mail_text": "Versende eine E-Mail mit der gegebenen Konfiguration an deine Adresse, {email}.",
                 "smtp_heading": "SMTP Einstellungen",
-                "smtp_description": "",
+                "smtp_description": "Konfiguriere die SMTP-Verbindungseinstellungen. Gängige Konfigurationen: Port 587 mit TLS oder Port 465 mit SSL.",
                 "title": "=> core.ref.email"
             },
             "extension": {
@@ -257,7 +315,7 @@
                 "abandoned_with_replacement": "Diese Erweiterung wurde durch {replacement} ersetzt. Ziehe in Betracht, zum Ersatzpaket zu wechseln.",
                 "configure_scopes": "Bereiche konfigurieren",
                 "confirm_purge": "Die Bereinigung entfernt sämtliche Datenbankeinträge und Assets, die sich auf die Erweiterung beziehen. Die Erweiterung wird nicht deinstalliert; dies muss über Composer geschehen. Bist du sicher, dass du fortfahren willst?",
-                "database_driver_mismatch": "",
+                "database_driver_mismatch": "Diese Erweiterung unterstützt den von dir konfigurierten Datenbanktreiber nicht.",
                 "deprecated": "Veraltet",
                 "disabled": "Deaktiviert",
                 "enable_to_see": "Aktiviere die Erweiterung, um Einstellungen einsehen und verändern zu können.",
@@ -281,35 +339,46 @@
                     "title": "Dokumentation von {extName}"
                 },
                 "replaced": "Ersetzt",
-                "safe_mode_warning": ""
+                "reset_settings": {
+                    "button": "Einstellungen zurücksetzen",
+                    "cancel_button": "Abbrechen",
+                    "confirm_button": "Zurücksetzen",
+                    "warning": "Dieser Vorgang ist unwiderruflich. Die folgenden Einstellungen werden dauerhaft aus der Datenbank gelöscht und auf ihre Standardwerte zurückgesetzt. Die Daten dieser Erweiterung sind davon nicht betroffen.",
+                    "title": "Einstellungen zurücksetzen",
+                    "title_extension": "Einstellungen für {extensionTitle} zurücksetzen"
+                },
+                "safe_mode_warning": "Der abgesicherte Modus ist derzeit aktiviert. Erweiterungen werden nicht gestartet, sodass auf ihre Einstellungen nicht zugegriffen werden kann."
             },
             "header": {
                 "get_help": "Hilfe erhalten",
                 "log_out_button": "=> core.ref.log_out",
-                "search_placeholder": "",
-                "search_role_label": ""
+                "search_placeholder": "Suchen...",
+                "search_role_label": "Suche"
             },
             "loading": {
                 "title": "Bitte warten…"
             },
             "models": {
-                "discussions": "",
-                "posts": "",
-                "users": ""
+                "discussions": "=> core.ref.discussions",
+                "posts": "=> core.ref.posts",
+                "users": "=> core.ref.users"
             },
             "nav": {
-                "advanced_button": "",
-                "advanced_title": "",
+                "advanced_button": "=> core.admin.advanced.title",
+                "advanced_title": "=> core.admin.advanced.description",
                 "appearance_button": "=> core.admin.appearance.title",
                 "appearance_title": "=> core.admin.appearance.description",
                 "basics_button": "=> core.admin.basics.title",
                 "basics_title": "=> core.admin.basics.description",
                 "categories": {
+                    "analytics": "Analytik",
                     "authentication": "Authentifizierung",
                     "core": "Kernkonfiguration",
                     "discussion": "Diskussion",
                     "feature": "Funktionen",
                     "formatting": "Formatierung",
+                    "forum-widget": "Forum-Widgets",
+                    "infrastructure": "Infrastruktur",
                     "language": "Sprachen",
                     "moderation": "Moderation",
                     "other": "Sonstige Erweiterungen",
@@ -348,7 +417,7 @@
                 "post_without_throttle_label": "Mehrfachantworten ohne Wartezeit gestatten",
                 "read_heading": "Lesen",
                 "remove_scope_label": "Geltungsbereich {scope} entfernen",
-                "remove_scope_confirmation": "",
+                "remove_scope_confirmation": "Möchtest du den Bereich {scope} wirklich entfernen?",
                 "rename_discussions_label": "Diskussionen umbenennen",
                 "reply_to_discussions_label": "Auf Diskussionen antworten",
                 "search_users_label": "=> core.ref.search_users",
@@ -373,12 +442,12 @@
             },
             "search_source": {
                 "general": {
-                    "heading": ""
+                    "heading": "Allgemein"
                 }
             },
             "settings": {
                 "saved_message": "Deine Änderungen wurden gespeichert.",
-                "select_dropdown_custom_label": "",
+                "select_dropdown_custom_label": "Benutzerdefiniert",
                 "submit_button": "=> core.ref.save_changes"
             },
             "upload_image": {
@@ -408,8 +477,8 @@
                         "user_actions": {
                             "title": "Aktionen",
                             "edit_user": {
-                                "button": "",
-                                "tooltip": ""
+                                "button": "=> core.ref.edit",
+                                "tooltip": "{username} bearbeiten"
                             }
                         },
                         "user_id": {
@@ -485,7 +554,7 @@
                 "empty_text": "Es gibt noch keine Diskussionen in diesem Forum.",
                 "load_more_button": "=> core.ref.load_more",
                 "replied_text": "{username} {ago}",
-                "skip_discussion_list_pane": "",
+                "skip_discussion_list_pane": "Diskussionslistenabschnitt überspringen",
                 "started_text": "{username} {ago}",
                 "total_replies_a11y_label": "{count, plural, one {# Antwort} other {# Antworten}}",
                 "unread_replies_a11y_label": "{count, plural, one {# ungelesene Antwort} other {# ungelesene Antworten}}. Markiere ungelesene {count, plural, one {Antwort} other {Antworten}} als gelesen."
@@ -518,31 +587,31 @@
                 "mark_all_as_read_confirmation": "Bist du dir sicher, dass du alle Diskussionen als gelesen markieren willst?",
                 "mark_all_as_read_tooltip": "=> core.ref.mark_all_as_read",
                 "meta_title_text": "=> core.ref.all_discussions",
-                "refresh_tooltip": "",
+                "refresh_tooltip": "=> core.ref.refresh",
                 "start_discussion_button": "=> core.ref.start_a_discussion",
-                "skip_to_main_content": "",
+                "skip_to_main_content": "Zum Hauptinhalt springen",
                 "toggle_sidenav_dropdown_accessible_label": "Dropdown-Menü für die Navigation umschalten"
             },
             "index_sort": {
                 "latest_button": "Zuletzt",
-                "newest_button": "",
-                "oldest_button": "",
-                "relevance_button": "",
+                "newest_button": "=> core.ref.newest",
+                "oldest_button": "=> core.ref.oldest",
+                "relevance_button": "=> core.ref.relevance",
                 "toggle_dropdown_accessible_label": "Sortierung der Diskussionsliste ändern",
                 "top_button": "Meist diskutiert"
             },
             "log_in": {
                 "forgot_password_link": "Passwort vergessen?",
-                "invalid_login_message": "",
+                "invalid_login_message": "=> core.ref.invalid_login_message",
                 "password_placeholder": "=> core.ref.password",
-                "remember_me_label": "",
+                "remember_me_label": "=> core.ref.remember_me_label",
                 "sign_up_text": "Noch keinen Account? <a>Registrieren</a>",
                 "submit_button": "=> core.ref.log_in",
                 "title": "=> core.ref.log_in",
-                "username_or_email_placeholder": ""
+                "username_or_email_placeholder": "=> core.ref.username_or_email_placeholder"
             },
             "notifications": {
-                "delete_all_confirm": "",
+                "delete_all_confirm": "Möchtest du wirklich alle Benachrichtigungen löschen? Dieser Vorgang kann nicht rückgängig gemacht werden.",
                 "delete_all_tooltip": "Alle Benachrichtigungen löschen",
                 "discussion_renamed_text": "{username} hat den Titel geändert",
                 "empty_text": "Keine neuen Benachrichtigungen",
@@ -567,9 +636,9 @@
                 "toggle_dropdown_accessible_label": "Dropdown-Menü für Beitragsoptionen umschalten"
             },
             "post_list": {
-                "empty_text": "",
-                "in_discussion_text": "",
-                "load_more_button": ""
+                "empty_text": "Es sieht so aus, als gäbe es hier keine Beiträge.",
+                "in_discussion_text": "In {discussion}",
+                "load_more_button": "=> core.ref.load_more"
             },
             "post_scrubber": {
                 "now_link": "Neuester Beitrag",
@@ -585,13 +654,13 @@
                 "time_lapsed_text": "{period} später"
             },
             "posts_sort": {
-                "newest_button": "",
-                "oldest_button": "",
-                "relevance_button": ""
+                "newest_button": "=> core.ref.newest",
+                "oldest_button": "=> core.ref.oldest",
+                "relevance_button": "=> core.ref.relevance"
             },
             "posts": {
-                "meta_title_text": "",
-                "refresh_tooltip": ""
+                "meta_title_text": "Suchergebnisse veröffentlichen",
+                "refresh_tooltip": "=> core.ref.refresh"
             },
             "rename_discussion": {
                 "submit_button": "=> core.ref.rename",
@@ -636,19 +705,22 @@
                 "account_heading": "Konto",
                 "change_email_button": "=> core.ref.change_email",
                 "change_password_button": "=> core.ref.change_password",
-                "color_scheme_heading": "",
+                "color_scheme_heading": "Farbschema",
                 "color_schemes": {
-                    "auto_mode_label": "",
-                    "dark_hc_mode_label": "",
-                    "dark_mode_label": "",
-                    "light_hc_mode_label": "",
-                    "light_mode_label": ""
+                    "auto_mode_label": "Systemeinstellung",
+                    "dark_hc_mode_label": "=> core.ref.dark_hc_mode_label",
+                    "dark_mode_label": "=> core.ref.dark_mode_label",
+                    "light_hc_mode_label": "=> core.ref.light_hc_mode_label",
+                    "light_mode_label": "=> core.ref.light_mode_label"
                 },
                 "notification_checkbox_a11y_label_template": "Erhalte \"{description}\" Benachrichigungen über {method}",
                 "notifications_heading": "=> core.ref.notifications",
                 "notify_by_email_heading": "=> core.ref.email",
                 "notify_by_web_heading": "Web",
                 "notify_discussion_renamed_label": "Wenn jemand eine Diskussion ändert, die du gestartet hast",
+                "device_heading": "Geräte",
+                "haptic_feedback_help": "Nur auf unterstützten Mobilgeräten verfügbar",
+                "haptic_feedback_label": "Haptisches Feedback aktivieren",
                 "privacy_disclose_online_label": "Meinen Online-Status anzeigen",
                 "privacy_heading": "Privatsphäre",
                 "title": "=> core.ref.settings"
@@ -725,10 +797,10 @@
             },
             "error": {
                 "circular_dependencies_message": "Zirkuläre Abhängigkeiten erkannt: {extensions}. Prozess abgebrochen. Bitte deaktiviere eine der Erweiterungen und versuche es erneut.",
-                "db_error_message": "",
+                "db_error_message": "Datenbankabfrage fehlgeschlagen. Dies kann durch eine Inkompatibilität zwischen einer Erweiterung und deinem Datenbanktreiber verursacht werden.",
                 "dependent_extensions_message": "Die Erweiterung {extension} kann nicht deaktiviert werden, bis die folgenden abhängigen Erweiterungen deaktiviert wurden: {extensions}",
                 "extension_initialiation_failed_message": "{extension} konnte nicht initialisiert werden, überprüfe die Browser-Konsole für weitere Informationen.",
-                "extension_runtime_failed_message": "",
+                "extension_runtime_failed_message": "Bei der Ausführung von {extension} ist ein Fehler aufgetreten. Weitere Informationen findest du in der Browserkonsole.",
                 "generic_message": "Ups! Da ist was schief gelaufen. Bitte lade die Seite neu oder versuche es erneut.",
                 "generic_cross_origin_message": "Ups! Bei einer Cross-Origin-Anfrage ist etwas schief gelaufen. Bitte lade die Seite neu und versuche es erneut.",
                 "missing_dependencies_message": "Die Erweiterung {extension} kann nicht aktiviert werden, bis die folgenden abhängigen Erweiterungen aktiviert wurden: {extensions}",
@@ -740,45 +812,45 @@
             },
             "gambits": {
                 "group_keys": {
-                    "allows": "",
-                    "has": "",
-                    "is": ""
+                    "allows": "erlaubt",
+                    "has": "hat",
+                    "is": "ist"
                 },
                 "discussions": {
                     "author": {
-                        "key": "",
-                        "hint": ""
+                        "key": "autor",
+                        "hint": "Benutzername oder durch Kommas getrennte Liste von Benutzernamen"
                     },
                     "created": {
-                        "key": "",
-                        "hint": ""
+                        "key": "erstellt",
+                        "hint": "2020-12-31 oder 2020-12-31..2021-09-30"
                     },
                     "hidden": {
-                        "key": ""
+                        "key": "verborgen"
                     },
                     "unread": {
-                        "key": ""
+                        "key": "ungelesen"
                     }
                 },
                 "posts": {
                     "discussion": {
-                        "key": "",
-                        "hint": ""
+                        "key": "diskussion",
+                        "hint": "die ID der Diskussion"
                     }
                 },
                 "users": {
                     "email": {
-                        "key": "",
-                        "hint": ""
+                        "key": "email",
+                        "hint": "beispiel@rechner.local"
                     },
                     "group": {
-                        "key": "",
-                        "hint": ""
+                        "key": "gruppe",
+                        "hint": "Singular- oder Plural-Gruppennamen"
                     }
                 }
             },
             "input": {
-                "clear_button": ""
+                "clear_button": "Eingabe leeren"
             },
             "loading_indicator": {
                 "accessible_label": "=> core.ref.loading"
@@ -791,74 +863,74 @@
                 "close": "Schließen"
             },
             "multi_select": {
-                "placeholder": ""
+                "placeholder": "Mehrere Optionen auswählen"
             },
             "nav": {
                 "drawer_button": "Navigationsleiste öffnen"
             },
             "notices": {
-                "bisecting": "",
-                "bisecting_continue": "",
-                "maintenance_mode_low": "",
-                "maintenance_mode_safe": ""
+                "bisecting": "Ausführen eines Erweiterungs-Bisektionsprozesses, um festzustellen, welche Erweiterung ein Problem verursacht.",
+                "bisecting_continue": "Bisect fortsetzen",
+                "maintenance_mode_low": "Wegen Wartungsarbeiten nicht verfügbar. Nur Administratoren haben Zugriff auf das Forum.",
+                "maintenance_mode_safe": "Wegen Wartungsarbeiten im abgesicherten Modus. Nur Administratoren haben Zugriff auf das Forum, und es werden keine Erweiterungen gestartet."
             },
             "number_suffix": {
                 "kilo_text": "K",
                 "mega_text": "M"
             },
             "pagination": {
-                "back_button": "",
-                "first_button": "",
-                "go_to_page_textbox_a11y_label": "",
-                "last_button": "",
-                "next_button": "",
-                "page_counter": ""
+                "back_button": "Vorherige Seite",
+                "first_button": "Zur ersten Seite",
+                "go_to_page_textbox_a11y_label": "Direkt zur Seitennnummer springen",
+                "last_button": "Zur letzten Seite",
+                "next_button": "Nächste Seite",
+                "page_counter": "Seite {current} von {total}"
             },
             "search": {
-                "gambit_plus_button_a11y_label": "",
-                "gambit_minus_button_a11y_label": "",
-                "title": "",
-                "no_results_text": "",
-                "no_search_text": "",
-                "options_heading": "",
-                "placeholder": "",
-                "preview_heading": "",
-                "search_clear_button_accessible_label": ""
+                "gambit_plus_button_a11y_label": "Einen Positivfilter hinzufügen",
+                "gambit_minus_button_a11y_label": "Einen Negativfilter hinzufügen",
+                "title": "Suche",
+                "no_results_text": "Es sieht so aus, als gäbe es hier keine Ergebnisse.",
+                "no_search_text": "Du hast noch nicht nach etwas gesucht.",
+                "options_heading": "Suchoptionen",
+                "placeholder": "Suchen...",
+                "preview_heading": "Suchvorschau",
+                "search_clear_button_accessible_label": "Suchanfrage löschen"
             },
             "search_source": {
                 "discussions": {
-                    "all_button": "",
-                    "heading": ""
+                    "all_button": "Alle Diskussionen nach „{query}“ durchsuchen",
+                    "heading": "=> core.ref.discussions"
                 },
                 "posts": {
-                    "all_button": "",
-                    "heading": ""
+                    "all_button": "Alle Beiträge nach „{query}“ durchsuchen",
+                    "heading": "=> core.ref.posts"
                 },
                 "users": {
-                    "heading": ""
+                    "heading": "=> core.ref.users"
                 }
             },
             "series": {
-                "glue_text": ", ",
+                "glue_text": "، ",
                 "three_text": "{first}, {second}, und {third}",
                 "two_text": "{first} und {second}"
             },
             "user_selection_modal": {
-                "empty_results": "",
-                "max_items_to_select": "",
-                "search_placeholder": "",
-                "submit_button": "",
-                "title": ""
+                "empty_results": "Es wurden keine Benutzer gefunden, die deiner Suche entsprechen.",
+                "max_items_to_select": "{count, plural, one {Bis zu # Benutzer auswählen} other {Bis zu # Benutzer auswählen}}",
+                "search_placeholder": "=> core.ref.search_users",
+                "submit_button": "=> core.ref.okay",
+                "title": "Relevante Benutzer auswählen"
             },
             "username": {
                 "deleted_text": "[gelöscht]"
             },
             "datetime_formats": {
-                "fullTime": "",
+                "fullTime": "LLLL",
                 "humanTimeShort": "D. MMM",
                 "humanTimeLong": "ll",
                 "scrubber": "MMMM YYYY",
-                "userListJoinDate": ""
+                "userListJoinDate": "LLL"
             }
         },
         "views": {
@@ -895,9 +967,10 @@
                 "csrf_token_mismatch": "Du warst zu lange inaktiv.",
                 "csrf_token_mismatch_return_link": "Gehe zurück um es erneut zu versuchen",
                 "invalid_confirmation_token": "Der Bestätigungslink wurde bereits verwendet oder ist ungültig.",
-                "maintenance_mode_link": "",
-                "maintenance_mode_message": "",
-                "maintenance_mode_title": "",
+                "maintenance_mode_link": "Administrator-Anmeldung",
+                "maintenance_mode_message": "Dieses Forum ist derzeit wegen Wartungsarbeiten nicht verfügbar. Bitte versuche es später erneut.",
+                "maintenance_mode_title": "Wartung",
+                "method_not_allowed": "Diese Seite unterstützt diese Anforderungsmethode nicht.",
                 "not_authenticated": "Du hast keine Berechtigung, auf diese Seite zuzugreifen. Versuche dich erneut anzumelden.",
                 "not_found": "Die angeforderte Seite konnte nicht gefunden werden.",
                 "not_found_return_link": "Zurück zu {forum}",
@@ -910,7 +983,7 @@
                 "previous_page_button": "=> core.ref.previous_page"
             },
             "layout": {
-                "skip_to_content": ""
+                "skip_to_content": "Zum Inhalt springen"
             },
             "log_out": {
                 "log_out_button": "=> core.ref.log_out",
@@ -918,12 +991,12 @@
                 "title": "=> core.ref.log_out"
             },
             "log_in": {
-                "invalid_login_message": "",
-                "username_or_email_placeholder": "",
-                "password_placeholder": "",
-                "remember_me_label": "",
-                "submit_button": "",
-                "title": ""
+                "invalid_login_message": "=> core.ref.invalid_login_message",
+                "username_or_email_placeholder": "=> core.ref.username_or_email_placeholder",
+                "password_placeholder": "=> core.ref.password",
+                "remember_me_label": "=> core.ref.remember_me_label",
+                "submit_button": "=> core.ref.log_in",
+                "title": "=> core.ref.log_in"
             },
             "reset_password": {
                 "confirm_password_label": "Neues Passwort bestätigen",
@@ -932,17 +1005,17 @@
                 "title": "=> core.ref.reset_your_password"
             },
             "unsubscribe_email": {
-                "title": "",
-                "return_to_forum": "",
-                "confirm_button": "",
-                "immediate_helptext": "",
-                "confirm_message": "",
-                "success_message": "",
-                "invalid_message": ""
+                "title": "Bestätigung der Abmeldung",
+                "return_to_forum": "Zurück zu {forumTitle}",
+                "confirm_button": "Bestätigen",
+                "immediate_helptext": "Sobald du bestätigest, wirst du sofort abgemeldet.",
+                "confirm_message": "Du hast darum gebeten, sich von den E-Mail-Benachrichtigungen „{type}” von {forumTitle} abzumelden.",
+                "success_message": "Du hast dich erfolgreich von den Benachrichtigungen zu „{type}“ aus {forumTitle} abgemeldet. Wenn du diese wieder erhalten möchtest, aktualisiere bitte deine Einstellungen ({settingsLink}).",
+                "invalid_message": "Dieser Abmeldelink ist ungültig oder wurde bereits verwendet. Für Änderungen an deinen E-Mail-Benachrichtigungen von {forumTitle} überprüfe bitte deine Einstellungen ({settingsLink})."
             }
         },
         "api": {
-            "invalid_username_message": "",
+            "invalid_username_message": "Der Benutzername darf nur Buchstaben, Zahlen und Bindestriche enthalten. Mindestens ein Buchstabe muss enthalten sein.",
             "invalid_filter_type": {
                 "must_be_numeric_message": "Der {filter} Filter muss numerisch sein.",
                 "must_not_be_array_message": "Der {filter} Filter darf kein Array sein.",
@@ -950,39 +1023,46 @@
             }
         },
         "email": {
-            "greeting": "",
-            "signoff": "",
+            "greeting": "Hallo {displayName},",
+            "signoff": "Das {forumTitle}-Team",
             "informational": {
-                "default_title": "",
-                "footer": "",
-                "footer_plain": ""
+                "default_title": "Information",
+                "footer": "Diese E-Mail wurde als Informationsdienstleistung in Bezug auf dein Konto bei [{forumTitle}]({forumUrl}) an {userEmail} gesendet.",
+                "footer_plain": "Diese E-Mail wurde als Informationsdienstleistung in Bezug auf dein Konto bei {forumTitle} an {userEmail} gesendet."
             },
             "notification": {
-                "default_title": "",
+                "default_title": "Benachrichtigung",
                 "footer": {
-                    "main_text": "",
-                    "main_text_plain": "",
-                    "unsubscribe_text": "",
-                    "unsubscribe_text_plain": "",
-                    "settings_text": "",
-                    "settings_text_plain": ""
+                    "main_text": "Diese E-Mail wurde an {E-Mail-Adresse} gesendet, da du Benachrichtigungen vom Typ „{Typ}” auf [{Forumstitel}]({Forum-URL}) abonniert hast.",
+                    "main_text_plain": "Diese E-Mail wurde an {email} gesendet, da du Benachrichtigungen vom Typ „{type}” auf {forumTitle} abonniert hast.",
+                    "unsubscribe_text": "Wenn du diese Art von Benachrichtigungen nicht mehr erhalten möchtest, [melde dich hier ab]({unsubscribeLink}).",
+                    "unsubscribe_text_plain": "Wenn du diese Art von Benachrichtigungen nicht mehr erhalten möchtest, kannst du dich hier abmelden: {unsubscribeLink}",
+                    "settings_text": "Verwalte deine Benachrichtigungseinstellungen [hier]({settingsLink}).",
+                    "settings_text_plain": "Verwalte deine Benachrichtigungseinstellungen hier: {settingsLink}"
                 }
             },
             "activate_account": {
                 "subject": "Aktivierung deines neuen Kontos",
-                "body": ""
+                "body": "Jemand (hoffentlich du!) hat sich mit dieser E-Mail-Adresse bei {forum} angemeldet.\n\nWenn du das warst, klicke einfach auf den folgenden Link, um dein Konto zu aktivieren:\n{url}\n\nWenn du dich nicht angemeldet haben, ignoriere diese E-Mail bitte.\n"
             },
             "confirm_email": {
                 "subject": "Bestätigung deiner E-Mail-Adresse",
-                "body": ""
+                "body": "Jemand (hoffentlich du!) hat seine E-Mail-Adresse im {forum} in diese geändert.\n\nWenn du das warst, klicke einfach auf den folgenden Link, um deine E-Mail-Adresse zu bestätigen:\n{url}\n\nWenn du das nicht warst, ignoriere bitte diese E-Mail.\n"
             },
             "reset_password": {
                 "subject": "Zurücksetzung deines Passwortes",
-                "body": ""
+                "body": "Jemand (hoffentlich du!) hat eine Anfrage zum Zurücksetzen des Passworts für dein Konto bei {forum} gestellt.\n\nWenn du das warst, klicke auf den folgenden Link, um dein Passwort zurückzusetzen:\n{url}\n\nWenn du dein Passwort nicht ändern möchtest, ignoriere diese E-Mail einfach, dann geschieht nichts weiter.\n"
             },
             "send_test": {
                 "subject": "Flarum E-Mail Test",
-                "body": ""
+                "body": "Dies ist eine Test-E-Mail, um zu überprüfen, ob deine Flarum-E-Mail-Konfiguration ordnungsgemäß funktioniert.\n\nWenn du der Absender warst, bedeutet diese E-Mail, dass deine Konfiguration funktioniert!\n\nWenn du nicht der Absender warst, ignoriere diese E-Mail bitte.\n"
+            },
+            "abandoned_extensions": {
+                "subject": "Aktion erforderlich: Verwaiste Erweiterung(en) erkannt",
+                "body_intro": "Folgende installierte Erweiterung(en) wurde(n) als veraltet markiert:",
+                "body_outro": "Bitte prüfe diese Erweiterungen und erwäge gegebenenfalls eine Umstellung auf Alternativen, sofern diese verfügbar sind.",
+                "line_with_replacement": "{package} (vorgeschlagener Ersatz: {replacement})",
+                "line_no_replacement": "{package} (Kein Ersatz verfügbar)"
             }
         },
         "ref": {
@@ -997,21 +1077,21 @@
             "custom_footer_title": "Individuelle Fußzeile bearbeiten",
             "custom_header_text": "Füge eigenen HTML-Code hinzu, der über der Flarum-Kopfzeile eingefügt wird.",
             "custom_header_title": "Individuelle Kopfzeile bearbeiten",
-            "dark_hc_mode_label": "",
-            "dark_mode_label": "",
+            "dark_hc_mode_label": "Dunkler Modus mit hohem Kontrast",
+            "dark_mode_label": "Dunkler Modus",
             "delete": "Löschen",
             "delete_forever": "Endgültig löschen",
             "discussions": "Diskussionen",
-            "edit": "Ändern",
+            "edit": "Bearbeiten",
             "edit_user": "Benutzer bearbeiten",
             "email": "E-Mail",
             "extensions": "Erweiterungen",
             "generic_confirmation_message": "Bist du sicher, dass du fortfahren willst? Diese Aktion kann nicht rückgängig gemacht werden.",
             "icon": "Symbol",
-            "icon_text": "Gebe den Namen des <a>FontAwesome</a>-Symbols ein, aber <em>mit</em> dem Prefix <code>fas fa-</code>.",
-            "invalid_login_message": "",
-            "light_hc_mode_label": "",
-            "light_mode_label": "",
+            "icon_text": "Gebe den Namen der <a>FontAwesome</a>-Symbolklasse ein, aber <em>mit</em> dem Präfix (z. B. <code>fas fa-flag</code> oder <code>fa-solid fa-flag</code>).",
+            "invalid_login_message": "Deine Anmeldedaten waren falsch.",
+            "light_hc_mode_label": "Heller Modus mit hohem Kontrast",
+            "light_mode_label": "Heller Modus",
             "load_more": "Mehr laden",
             "loading": "Ladevorgang läuft…",
             "log_in": "Anmelden",
@@ -1019,20 +1099,20 @@
             "mark_all_as_read": "Alle als gelesen markieren",
             "never": "Nie",
             "new_token": "Neuer Token",
-            "newest": "",
+            "newest": "Neueste",
             "next_page": "Nächste Seite",
             "notifications": "Benachrichtigungen",
             "okay": "Okay",
-            "oldest": "",
+            "oldest": "Älteste",
             "password": "Passwort",
             "posts": "Beiträge",
             "previous_page": "Vorherige Seite",
-            "relevance": "",
-            "remember_me_label": "",
+            "relevance": "Relevanz",
+            "remember_me_label": "Angemeldet bleiben",
             "remove": "Entfernen",
             "rename": "Umbenennen",
             "reply": "Antworten",
-            "refresh": "",
+            "refresh": "Aktualisieren",
             "reset_your_password": "Dein Passwort zurücksetzen",
             "restore": "Wiederherstellen",
             "save_changes": "Änderungen speichern",
@@ -1043,7 +1123,7 @@
             "some_others": "{count, plural, one {# weiterem} other {# weiteren}}",
             "start_a_discussion": "Diskussion starten",
             "username": "Benutzername",
-            "username_or_email_placeholder": "",
+            "username_or_email_placeholder": "Benutzername oder E-Mail",
             "users": "Benutzer",
             "view": "Anzeigen",
             "write_a_reply": "Eine Antwort schreiben…",

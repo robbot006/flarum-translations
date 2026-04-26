@@ -1,0 +1,100 @@
+{
+    "flarum-messages": {
+        "admin": {
+            "permissions": {
+                "send_messages_label": "Envoyer des messages privés",
+                "delete_own_messages_label": "Supprimer ses propres messages"
+            }
+        },
+        "forum": {
+            "composer": {
+                "discard_confirmation": "Vous n'avez pas envoyé votre message. Êtes-vous sûr de vouloir l'abandonner ?",
+                "placeholder": "Rédigez un message...",
+                "recipients": "Destinataires",
+                "submit_button": "Envoyer le message",
+                "to": "À :"
+            },
+            "dialog_list": {
+                "load_more_button": "=> core.ref.load_more",
+                "mark_as_read_tooltip": "Marquer comme lue",
+                "title": "Messages",
+                "view_all": "Afficher tous les messages"
+            },
+            "dialog_section": {
+                "back_label": "Revenir en arrière",
+                "cannot_reply_text": "Cet utilisateur ne peut pas répondre",
+                "controls": {
+                    "details_button": "Informations"
+                },
+                "controls_toggle_label": "Actions de contrôle de la conversation",
+                "details_modal": {
+                    "created_at": "Date de création",
+                    "recipients": "Participants",
+                    "title": "Détails de la conversation"
+                }
+            },
+            "header": {
+                "dropdown_tooltip": "Messages"
+            },
+            "index": {
+                "messages_link": "Messages"
+            },
+            "index_sort": {
+                "latest_button": "Activité",
+                "newest_button": "Nouveauté",
+                "oldest_button": "Ancienneté"
+            },
+            "message_controls": {
+                "delete_button": "Supprimer",
+                "delete_confirmation": "Êtes-vous sûr de vouloir supprimer ce message ? Cette action est irréversible."
+            },
+            "messages_page": {
+                "cannot_send_message_button": "Impossible d'envoyer un message",
+                "empty_text": "Aucun nouveau message",
+                "hero": {
+                    "title": "Messages",
+                    "subtitle": "Vos conversations privées avec d'autres utilisateurs"
+                },
+                "mark_all_as_read_tooltip": "Tout marquer comme lu",
+                "refresh_tooltip": "Actualiser",
+                "send_message_button": "Envoyer un message",
+                "stream": {
+                    "load_previous_button": "Charger les messages précédents",
+                    "load_next_button": "Charger les messages suivants",
+                    "start_of_the_conversation": "Début de la conversation",
+                    "time_lapsed_text": "=> core.forum.post_stream.time_lapsed_text"
+                },
+                "title": "Messages"
+            },
+            "recipient_selection_modal": {
+                "title": "Sélectionnez les destinataires de ce message"
+            },
+            "settings": {
+                "notify_message_received_label": "Quelqu'un m'a envoyé un message"
+            },
+            "user_controls": {
+                "send_message_button": "Envoyer un message",
+                "cannot_reply_text": "Cet utilisateur ne peut pas répondre"
+            },
+            "notifications": {
+                "message_received_text": "{user} vous a envoyé un message"
+            }
+        },
+        "email": {
+            "message_received": {
+                "subject": "{user_display_name} vous a envoyé un message",
+                "plain": {
+                    "body": "{user_display_name} vous a envoyé un nouveau message.\n\n{url}\n\n---\n\n{content}\n"
+                },
+                "html": {
+                    "body": "{user_display_name} vous a envoyé un [nouveau message]({url})."
+                }
+            }
+        },
+        "lib": {
+            "dialog": {
+                "title": "Messagerie {nom d'utilisateur}"
+            }
+        }
+    }
+}

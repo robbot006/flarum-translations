@@ -1,0 +1,44 @@
+{
+    "fof-recaptcha": {
+        "admin": {
+            "settings": {
+                "help_text": "Hanki Google reCAPTCHA tunnukset <a>täältä</a>.",
+                "secret_key_label": "Salainen avain (secret key)",
+                "site_key_label": "Sivuston avain (site key)",
+                "type_label": "reCAPTCHAn tyyppi",
+                "type_help": "",
+                "type_options": {
+                    "checkbox": "",
+                    "invisible": "",
+                    "v3": ""
+                },
+                "v3_threshold_label": "",
+                "v3_threshold_help": "",
+                "signup": "=> core.forum.sign_up.title",
+                "signin": "=> core.forum.log_in.title",
+                "forgot": "=> core.forum.forgot_password.title"
+            },
+            "test": {
+                "title": "Testaa reCAPTCHAa",
+                "help_text": "Tämä testi käyttää syötettyjä arvoja. Lataathan testin uudelleen, jos muokkaat asetuksia ja älä unohda tallentaa asetuksia, kunnes testi onnistuu.\nAlla olevat eivät välttämättä vaikuta tallennettuihin asetuksiin.\n",
+                "success_message": "Onnistui! reCAPTCHA on oikein määritetty.",
+                "load_test_button": "Lataa",
+                "submit_button": "Lähetä",
+                "reload_button": "Lataa uudelleen"
+            },
+            "permissions": {
+                "post_without_captcha": "Luo viestejä ja keskusteluita ilman captchaa"
+            }
+        },
+        "lib": {
+            "error": "",
+            "not_completed": "",
+            "rejected": "",
+            "unknown_error": ""
+        }
+    },
+    "validation": {
+        "recaptcha": "reCAPTCHA tarkastus epäonnistui.",
+        "recaptcha-unknown": "Tuntematon virhe tapahtui reCAPTCHA validoidessa ({errors})."
+    }
+}

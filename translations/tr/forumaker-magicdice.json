@@ -2,25 +2,25 @@
     "forumaker-magic-dice": {
         "admin": {
             "settings": {
-                "section_main": "",
-                "clearOnEdit": ""
+                "section_main": "Ayarlar",
+                "clearOnEdit": "Gönderi düzenlemede yeni numaralar oluştur"
             }
         },
         "forum": {
             "tooltip": {
-                "preview": ""
+                "preview": "Kaydederken rastgele zar at"
             },
             "composer": {
-                "rollDie": ""
+                "rollDie": "Zar"
             },
             "settings": {
                 "diceSkin": {
-                    "heading": "",
-                    "classic": "",
-                    "circle": "",
-                    "hc": "",
-                    "gradient": "",
-                    "neon": ""
+                    "heading": "Zar stili",
+                    "classic": "Klasik",
+                    "circle": "Yörünge",
+                    "hc": "Kontrast",
+                    "gradient": "Gün Batımı",
+                    "neon": "Neon"
                 }
             }
         }
