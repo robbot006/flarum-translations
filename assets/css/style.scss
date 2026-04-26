@@ -7,6 +7,12 @@ $section-headings-color: #e7672e;
 
 @import "{{ site.theme }}";
 
+// fix color of link in header
 .page-header .project-name a {
 	color: $header-heading-color;
+}
+
+// disable horizontal scroll for too wide tables - this is more pragmatic in practice that partially visible table
+.main-content table {
+	overflow: visible;
 }
