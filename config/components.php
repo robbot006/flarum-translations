@@ -524,6 +524,12 @@ return [
 			'pl',
 		],
 	],
+	'tryhackx-topic-rating' => [
+		'tag' => 'https://raw.githubusercontent.com/TryHackX/flarum-topic-rating/2.0.5/locale/en.yml',
+		'__builtInLanguages' => [
+			'pl',
+		],
+	],
 	'vlssu-cravatar' => [
 		'tag' => 'https://raw.githubusercontent.com/vlssu/flarum-cravatar/v0.3.0/resources/locale/en.yml',
 		'__builtInLanguages' => [
