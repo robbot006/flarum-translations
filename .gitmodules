@@ -1,0 +1,9 @@
+[submodule "master"]
+    path = master
+    url = https://github.com/rob006-software/flarum-translations.git
+    branch = master
+[submodule "flarum2"]
+    path = flarum2
+    url = https://github.com/rob006-software/flarum-translations.git
+    branch = flarum2
+

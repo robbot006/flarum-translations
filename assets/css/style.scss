@@ -1,0 +1,8 @@
+---
+---
+
+$header-bg-color: lighten(#e7672e, 15%);
+$header-bg-color-secondary: darken(#e7672e, 15%);
+$section-headings-color: #e7672e;
+
+@import "{{ site.theme }}";
