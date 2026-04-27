@@ -2,7 +2,7 @@
     "core": {
         "admin": {
             "advanced": {
-                "description": "",
+                "description": "Määritä foorumisi lisäasetukset.",
                 "maintenance": {
                     "bisect": {
                         "begin_button_text": "",
