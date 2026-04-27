@@ -2,7 +2,7 @@
     "core": {
         "admin": {
             "advanced": {
-                "description": "",
+                "description": "Editar ajustes avanzados para tu foro.",
                 "maintenance": {
                     "bisect": {
                         "begin_button_text": "Iniciar bisección",
@@ -64,16 +64,16 @@
                     }
                 },
                 "pgsql": {
-                    "search_configuration": ""
+                    "search_configuration": "Buscar configuración para usar"
                 },
                 "queue": {
-                    "section_label": "",
-                    "sync_info": "",
-                    "sync_help": "",
-                    "custom_driver": "",
-                    "retries_label": "",
-                    "retries_help": "",
-                    "memory_label": "",
+                    "section_label": "Cola",
+                    "sync_info": "Tu foro está usando controlador de cola síncrono. Jobs se procesan inmediatamente en el hilo principal del proceso.",
+                    "sync_help": "Para un mejor rendimiento y experiencia de usuario, considere usar el controlador de cola de base de datos. Obtenga más información en la documentación.",
+                    "custom_driver": "Tu foro está utilizando el controlador de cola {driver}, que es proporcionado por una extensión.",
+                    "retries_label": "Reintentos Job",
+                    "retries_help": "Número máximo de intentos de job antes de que falle. Por defecto 1",
+                    "memory_label": "Límite de memoria (MB)",
                     "memory_help": "",
                     "timeout_label": "",
                     "timeout_help": "",
