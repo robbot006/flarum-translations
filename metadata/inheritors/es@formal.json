@@ -128,7 +128,11 @@
                 },
                 "appearance": {
                     "color_schemes": {
-                        "auto_mode_label": "6e2bae78f6768cb685fe97d103be5de8 6e2bae78f6768cb685fe97d103be5de8"
+                        "auto_mode_label": "6e2bae78f6768cb685fe97d103be5de8 6e2bae78f6768cb685fe97d103be5de8",
+                        "dark_hc_mode_label": "419f5f7c2b8154342d06dbb3f4104bd0 419f5f7c2b8154342d06dbb3f4104bd0",
+                        "dark_mode_label": "4bdf407d3da21fee3ad69c580a2e0eea 4bdf407d3da21fee3ad69c580a2e0eea",
+                        "light_hc_mode_label": "ab663364403223d4ab59f2f21331ec68 ab663364403223d4ab59f2f21331ec68",
+                        "light_mode_label": "da4030a393234fd3992c9797deb6a795 da4030a393234fd3992c9797deb6a795"
                     },
                     "colored_header_label": "1adb8c9e5e6a37cb57b7a80ffe7e5659 1adb8c9e5e6a37cb57b7a80ffe7e5659",
                     "colors_heading": "f689ca9a61187570a3310d172438a189 f689ca9a61187570a3310d172438a189",
@@ -157,8 +161,16 @@
                     "abandoned_extensions_notify_admins_label": "af9a76617e191c161e6acbc4582291e1 af9a76617e191c161e6acbc4582291e1",
                     "abandoned_extensions_sync_error": "d284386cec05f1eb47f2f19b23a85307 d284386cec05f1eb47f2f19b23a85307",
                     "all_discussions_label": "fa93b126d1b9a3781a8facaff4f045ff fa93b126d1b9a3781a8facaff4f045ff",
+                    "avatar_driver_heading": "f03a4b785af4e4be8a52d8fa37fc4a53 f03a4b785af4e4be8a52d8fa37fc4a53",
+                    "avatar_driver_options": {
+                        "default": "8aa3e38143a38c8d16df57d49ef4a5ac 8aa3e38143a38c8d16df57d49ef4a5ac"
+                    },
+                    "avatar_driver_text": "3d731064fabca540163cef92e36600cb 3d731064fabca540163cef92e36600cb",
                     "default_language_heading": "b6aa8a0b71130b7c407aa69e7903829d b6aa8a0b71130b7c407aa69e7903829d",
                     "description": "20599b4921b3516a8ca56388c457b3b4 3a8fdd217295a87cce636be29f9ed99f",
+                    "display_name_driver_options": {
+                        "username": "c608989162655fa7eec07b16e211da01 c608989162655fa7eec07b16e211da01"
+                    },
                     "display_name_heading": "bd24806ecd9c899cce6d33f11c275d4a 8079083328c5a9e795f6b9a8bb5e2984",
                     "display_name_text": "74864039877076ce9eb48d0092f2de0b 3866b1adb6019f7511e073bd62e6045f",
                     "forum_description_heading": "8516a0ef75890e8b0841a3677955edf3 8516a0ef75890e8b0841a3677955edf3",
