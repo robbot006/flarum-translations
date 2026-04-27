@@ -5,96 +5,96 @@
                 "description": "Määritä foorumisi lisäasetukset.",
                 "maintenance": {
                     "bisect": {
-                        "begin_button_text": "",
-                        "continue_button_text": "",
-                        "label": "",
-                        "help": ""
+                        "begin_button_text": "Aloita vianhaku",
+                        "continue_button_text": "Jatka vianhakua",
+                        "label": "Lisäosan vianhaku",
+                        "help": "Auttaa tunnistamaan ongelman aiheuttavan laajennuksen. Tämä asettaa foorumin automaattisesti ylläpitotilaan (matala) prosessin ajaksi."
                     },
                     "bisect_modal": {
-                        "description": "",
-                        "end_button": "",
-                        "issue_question": "",
-                        "issue_question_help": "",
-                        "no_button": "",
-                        "result_description": "",
-                        "start_button": "",
-                        "stop_button": "",
-                        "steps_left": "",
-                        "total_steps": "",
-                        "title": "",
-                        "yes_button": ""
+                        "description": "Tämä asettaa foorumin ylläpitotilaan (matala) prosessin ajaksi. Jokaisessa vaiheessa osa laajennuksista poistetaan käytöstä, kunnes ongelman aiheuttaja löytyy. Älä siis hämmästy, jos joitain toimintoja puuttuu tai teeman ulkoasu on erilainen. Pidä tämä sivu auki ja yritä toistaa ongelma jokaisen vaiheen jälkeen erillisellä sivulla. Voit aina palata tälle sivulle, vaikka sulkisit sen vahingossa.\n",
+                        "end_button": "Sulje ja mene lisäosan sivulle",
+                        "issue_question": "Toistuuko tämä ongelma?",
+                        "issue_question_help": "Koita toistaa ongelma eri sivulla ja vastaa perustuen tuloksiin.",
+                        "no_button": "Ei",
+                        "result_description": "Foorumi ei ole enää ylläpitotilassa. Laajennusten vianhaku on päättynyt. Vastaustesi perusteella ongelman aiheuttaja on seuraava laajennus:\n",
+                        "start_button": "Aloita vianhaku",
+                        "stop_button": "Pysäytä vianhaku",
+                        "steps_left": "Vaihetta jäljellä: {steps}",
+                        "total_steps": "Tämä sisältää {steps} vaihetta.",
+                        "title": "Lisäosan vianhaku",
+                        "yes_button": "Kyllä"
                     },
                     "config_override": {
-                        "label": "",
-                        "help": ""
+                        "label": "Sinun <code>config.php</code> tiedosto yliajaa nämä asetukset.",
+                        "help": "Voit edelleen muuttaa näitä asetuksia täällä, mutta ne eivät tule voimaan ennen kuin asetat <code>config.php</code>-tiedostossa arvon <code>offline</code> muotoon <code>0</code>."
                     },
-                    "help": "",
+                    "help": "Aseta foorumisi huoltotilaan, jotta käyttäjät eivät pääse sinne.",
                     "options": {
-                        "none": "",
-                        "high": "",
-                        "low": "",
-                        "safe": ""
+                        "none": "Ei huoltotilaa.",
+                        "high": "Korkea huoltotila. Kukaan ei voi päästä foorumille (voi vain pistää päälle config.php tiedostossa)",
+                        "low": "Matala huoltotila. Ylläpito pääsee foorumille.",
+                        "safe": "Vikasietotila. Laajennuksia ei ladata ja vain ylläpitäjät voivat käyttää foorumia."
                     },
-                    "safe_mode_extensions": "",
-                    "safe_mode_extensions_override_help": "",
-                    "section_label": ""
+                    "safe_mode_extensions": "Vikasietotilassa ladattavat laajennukset",
+                    "safe_mode_extensions_override_help": "Tämä asetus on ohitettu <code>config.php</code>-tiedoston <code>safe_mode_extensions</code>-avaimella. (<b>{extensions}</b>)",
+                    "section_label": "Huolto"
                 },
                 "fontawesome": {
-                    "section_label": "",
-                    "source_label": "",
-                    "source_help": "",
-                    "source_local": "",
-                    "source_cdn": "",
-                    "source_kit": "",
-                    "cdn_url_label": "",
-                    "cdn_url_help": "",
-                    "kit_url_label": "",
-                    "kit_url_help": "",
+                    "section_label": "FontAwesome ikonit",
+                    "source_label": "Ikonin lähde",
+                    "source_help": "Valitse, miten FontAwesome-kuvakkeet ladataan. Paikallinen käyttää pakettiin sisältyviä fontteja, CDN lataa sisällönjakeluverkosta ja Kit käyttää FontAwesome Kit -paketteja mukautetuilla kuvakkeilla.",
+                    "source_local": "Paikallinen (sisällytetty)",
+                    "source_cdn": "CDN",
+                    "source_kit": "FontAwesome Kit",
+                    "cdn_url_label": "CDN osoite",
+                    "cdn_url_help": "Täysi osoite FontAwesome CSS tiedostoon CDN:ssä",
+                    "kit_url_label": "Kitin osoite",
+                    "kit_url_help": "Sinun FontAwesome kitin skriptin osoite (kit.fontawesome.com sivulta)",
                     "config_override": {
-                        "label": "",
-                        "help": ""
+                        "label": "Määrityksen yliajo",
+                        "help": "FontAwesome-asetukset on määritetty config.php-tiedostossa eikä niitä voi muuttaa täällä."
                     },
                     "preview": {
-                        "button": "",
-                        "label": "",
-                        "help": "",
-                        "fa5_fa6_label": "",
-                        "fa7_label": "",
-                        "pro_label": ""
+                        "button": "Esikatsele ikoneita",
+                        "label": "Ikonin esikatselu",
+                        "help": "Tarkista FontAwesome-asetuksesi. Näkyvä kuvake tarkoittaa, että kyseinen taso on käytettävissä; rikkinäinen ruutu tarkoittaa, että sitä ei ole ladattu.",
+                        "fa5_fa6_label": "FA5/FA6-aliakset",
+                        "fa7_label": "FA7 luokat",
+                        "pro_label": "Vain Pro"
                     }
                 },
                 "pgsql": {
-                    "search_configuration": ""
+                    "search_configuration": "Etsi käytettäviä asetuksia"
                 },
                 "queue": {
-                    "section_label": "",
-                    "sync_info": "",
-                    "sync_help": "",
-                    "custom_driver": "",
-                    "retries_label": "",
-                    "retries_help": "",
-                    "memory_label": "",
-                    "memory_help": "",
-                    "timeout_label": "",
-                    "timeout_help": "",
-                    "rest_label": "",
-                    "rest_help": "",
-                    "backoff_label": "",
-                    "backoff_help": ""
+                    "section_label": "Jono",
+                    "sync_info": "Foorumisi käyttää synkronista jonoajuria. Tehtävät käsitellään välittömästi pääprosessin säikeessä.",
+                    "sync_help": "Paremman suorituskyvyn ja käyttäjäkokemuksen saavuttamiseksi harkitse tietokantajonoajurin käyttöä. Lue lisää dokumentaatiosta.",
+                    "custom_driver": "Foorumisi käyttää {driver}-jonoajuria, jonka tarjoaa laajennus.",
+                    "retries_label": "Jonon työn uudelleenyritykset",
+                    "retries_help": "Kuinka monta kertaa jonon työ yrittää uudelleen ennen kuin se merkataan epäonnistunseeksi. Oletus on 1.",
+                    "memory_label": "Muisti raja (MB)",
+                    "memory_help": "Maksimimäärä muistia minkä jonon työntekijä voi käyttää ennen kuin se uudelleenkäynnistetään. Oletus on 128 MB.",
+                    "timeout_label": "Työn aikakatkaisu (sekuntia)",
+                    "timeout_help": "Maksimi aika kauanko yksittäinen jonon työ voi olla käynnissä ennen aikakatkaisua. Oletus on 60 sekuntia.",
+                    "rest_label": "Lepo aika (sekuntia)",
+                    "rest_help": "Aika mikä odotetaan ennen työn aloitusta. Oletus on 0 sekuntia.",
+                    "backoff_label": "Uudelleenyrityksen viive (sekuntia)",
+                    "backoff_help": "Aika ennen epäonnistuneen tehtävän uudelleenyritystä. Oletus on 0 sekuntia."
                 },
                 "search": {
-                    "section_label": "",
-                    "driver_heading": "",
-                    "driver_text": "",
+                    "section_label": "Haun ajurit",
+                    "driver_heading": "Haun ajuri: {model}",
+                    "driver_text": "Valitse tämän mallin haulle ajuri jota käytetään.",
                     "driver_options": {
-                        "default": ""
+                        "default": "Oletus tietokantahaku"
                     },
-                    "no_other_drivers": ""
+                    "no_other_drivers": "Hakuajureita ei ole vielä saatavilla. Asenna hakuajurilaajennus voidaksesi määrittää sen."
                 },
-                "title": ""
+                "title": "Lisäasetukset"
             },
             "appearance": {
-                "allow_user_color_scheme_label": "",
+                "allow_user_color_scheme_label": "Salli käyttäjien määrittää oma väriteema",
                 "colored_header_label": "Värillinen yläosa",
                 "colors_heading": "Värit",
                 "colors_primary_label": "Ensisijainen väri",
@@ -116,16 +116,16 @@
                 "favicon_text": "Siirrä kuva, jota käytetään foorumin faviconina.",
                 "logo_heading": "Logo",
                 "logo_text": "Siirrä kuva, jota käytetään foorumin logona tekstin sijaan.",
-                "logo_dark_mode_heading": "",
-                "logo_dark_mode_text": "",
+                "logo_dark_mode_heading": "Tumman teeman logo",
+                "logo_dark_mode_text": "Siirrä toissijainen logo, jota käytetään, kun tumma teema on käytössä.",
                 "title": "Ulkoasu",
-                "color_scheme_label": "",
+                "color_scheme_label": "Väriteema (oletus)",
                 "color_schemes": {
-                    "auto_mode_label": "",
-                    "dark_hc_mode_label": "",
-                    "dark_mode_label": "",
-                    "light_hc_mode_label": "",
-                    "light_mode_label": ""
+                    "auto_mode_label": "Järjestelmän tai määritetty käyttäjäasetus",
+                    "dark_hc_mode_label": "=> core.ref.dark_hc_mode_label",
+                    "dark_mode_label": "=> core.ref.dark_mode_label",
+                    "light_hc_mode_label": "=> core.ref.light_hc_mode_label",
+                    "light_mode_label": "=> core.ref.light_mode_label"
                 }
             },
             "basics": {
@@ -133,30 +133,30 @@
                 "default_language_heading": "Oletuskieli",
                 "description": "Määritä foorumin otsikko, kieli ja muita perusasetuksia.",
                 "display_name_driver_options": {
-                    "username": ""
+                    "username": "Käyttäjätunnus"
                 },
                 "display_name_heading": "Käyttäjän näyttönimi",
                 "display_name_text": "Valitse ajuri mitä käytetään käyttäjän nimen näyttämiseen. Oletuksena näytetään käyttäjätunnus.",
                 "avatar_driver_options": {
-                    "default": ""
+                    "default": "Oletus"
                 },
-                "avatar_driver_heading": "",
-                "avatar_driver_text": "",
+                "avatar_driver_heading": "Käyttäjän avatar",
+                "avatar_driver_text": "Valitse ajuri, jota käytetään käyttäjien avatareille, kun käyttäjän itse lataamaa avataria ei ole saatavilla. Oletuksena avataria ei näytetä, jos käyttäjä ei ole ladannut sellaista.",
                 "forum_description_heading": "Foorumin kuvaus",
-                "forum_description_text": "Syötä lyhyt lause tai kaksi, joka kuvaa yhteisöäsi. Tätä käytetään meta kuvauksessa ja näkyy hakukoneille.",
+                "forum_description_text": "Syötä lyhyt lause tai kaksi, joka kuvaa foorumiasi. Tätä käytetään meta kuvauksessa ja näkyy hakukoneille.",
                 "forum_title_heading": "Foorumin otsikko",
                 "home_page_heading": "Kotisivu",
                 "home_page_text": "Valitse sivu minkä käyttäjät näkevät, kun he vierailevat foorumillasi.",
                 "show_language_selector_label": "Näytä kielivalikko",
                 "slug_driver_options": {
                     "discussions": {
-                        "default": "",
-                        "utf8": ""
+                        "default": "ID slugin kanssa",
+                        "utf8": "ID UTF-8 slugin kanssa"
                     },
                     "users": {
-                        "default": "",
-                        "id": "",
-                        "id_with_display_name": ""
+                        "default": "Käyttäjätunnus",
+                        "id": "ID",
+                        "id_with_display_name": "ID näyttönimen kanssa"
                     }
                 },
                 "slug_driver_heading": "Polkutunnunnuksen ajuri: {model}",
@@ -165,11 +165,11 @@
                 "welcome_banner_heading": "Tervetulobanneri",
                 "welcome_banner_text": "Määritä teksti mikä näkyy keskustelulistauksessa olevassa bannerissa. Käytä tätä toivottaaksesi vieraat tervetulleeksi.",
                 "abandoned_extensions_heading": "Hylätyt lisäosat",
-                "abandoned_extensions_text": "Flarum ylläpitää <a>yhteisöllistä listaa hylätyistä laajennuksista</a>. Kun asennettu laajennus esiintyy listalla, se merkitään hallintapaneelissa hylätyksi.",
+                "abandoned_extensions_text": "Flarum ylläpitää <a>yhteisöllistä listaa hylätyistä laajennuksista</a>. Kun asennettu laajennus esiintyy listalla, se merkitään hallintapaneelissa.",
                 "abandoned_extensions_sync_button": "Tarkista nyt",
-                "abandoned_extensions_sync_success": "Hylättyjen lisäosien lista päivitetty {count} lisäosaa löytyi.",
-                "abandoned_extensions_sync_error": "Hylättyjen lisäosien listan haku epäonnistui. Yritä myöhemmin uudelleen.",
-                "abandoned_extensions_notify_admins_label": "Lähetä ylläpitäjille sähköposti, kun hylättyjä lisäosia löytyi viikottaisen tarkastuksen aikana"
+                "abandoned_extensions_sync_success": "Hylättyjen laajennusten lista päivitetty. {count} vastaava asennettu laajennus löydetty.",
+                "abandoned_extensions_sync_error": "Hylättyjen laajennusten listan hakeminen epäonnistui. Yritä myöhemmin uudelleen.",
+                "abandoned_extensions_notify_admins_label": "Lähetä sähköposti ylläpitäjille, kun viikoittaisen tarkistuksen aikana havaitaan uusi hylätty laajennus"
             },
             "create_user": {
                 "email_placeholder": "=> core.ref.email",

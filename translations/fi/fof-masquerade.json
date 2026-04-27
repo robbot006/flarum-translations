@@ -34,7 +34,7 @@
             },
             "fields": {
                 "title": "Kentät",
-                "create": "",
+                "create": "Luo kenttä",
                 "edit": "Muokkaa kenttää {field}",
                 "delete-confirmation": "Haluatko varmasti poistaa kentän {field}? Tätä ei voi peruuttaa.",
                 "name": "Kentän nimi",
@@ -49,7 +49,7 @@
                 "icon": "Ikoni",
                 "icon-help": "Näyttää ikonin käyttäjän syöttämän arvon edessä. Tarkista saatavilla olevat ikonit <a>FontAwesomin sivuilta</a>. Käytä ikonien nimiä \"fa-\" alun kanssa kuten \"fas fa-info\".\n",
                 "force-user-to-completion": "Pakota käyttäjä täyttämään profiili",
-                "hide-empty-fields": "",
+                "hide-empty-fields": "Piilota tyhjät kentät",
                 "options": "Vaihtoehdot",
                 "option-new": "Uusi vaihtoehto",
                 "option-comma-warning": "Vaihtoehdon tunniste ei voi sisältää pilkkuja (\",\").",
@@ -67,7 +67,7 @@
         "lib": {
             "gambits": {
                 "answer": {
-                    "key": ""
+                    "key": "vastaus"
                 }
             }
         }

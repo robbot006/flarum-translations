@@ -5,7 +5,7 @@
                 "front_button": "Etusivu"
             },
             "badge": {
-                "frontpage_tooltip": ""
+                "frontpage_tooltip": "Asetettu etusivuksi"
             },
             "post_controls": {
                 "push_to_front_button": "",
