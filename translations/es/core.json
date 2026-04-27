@@ -121,7 +121,7 @@
                 "title": "Apariencia",
                 "color_scheme_label": "",
                 "color_schemes": {
-                    "auto_mode_label": "",
+                    "auto_mode_label": "Sistema de usuario o preferencia configurada",
                     "dark_hc_mode_label": "",
                     "dark_mode_label": "",
                     "light_hc_mode_label": "",
