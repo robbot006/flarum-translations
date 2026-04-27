@@ -2316,6 +2316,13 @@
                 },
                 "votes": "d1377b72c3ac883de405c1bb82e3961e d1377b72c3ac883de405c1bb82e3961e"
             }
+        },
+        "lib": {
+            "gambits": {
+                "hot": {
+                    "key": "d9edcc7223ff33e92fe0074c336347be d9edcc7223ff33e92fe0074c336347be"
+                }
+            }
         }
     },
     "fof-html-errors.json": {
