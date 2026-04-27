@@ -2240,7 +2240,8 @@
                 },
                 "links": {
                     "create_button": "11a4216227da6440de79870713345e2c 11a4216227da6440de79870713345e2c",
-                    "links": "5896aca7dc96e09326671ce00a619af7 5896aca7dc96e09326671ce00a619af7"
+                    "links": "5896aca7dc96e09326671ce00a619af7 5896aca7dc96e09326671ce00a619af7",
+                    "preconfigured": "d41d8cd98f00b204e9800998ecf8427e 0fddd717ca65876d4991bc87bc8398bd"
                 },
                 "settings": {
                     "show_icons_only_on_tablet": "8493ebf98d5d000a9240849e6e7c4c03 8493ebf98d5d000a9240849e6e7c4c03"

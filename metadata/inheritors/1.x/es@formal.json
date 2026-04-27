@@ -33,6 +33,20 @@
     "core.json": {
         "core": {
             "admin": {
+                "announcements": {
+                    "about": "d41d8cd98f00b204e9800998ecf8427e d3af3c0e83217fcff6d952f5319573b9",
+                    "comments_label": "d41d8cd98f00b204e9800998ecf8427e fe7a44a9c43fdb17903a469d5bab4873",
+                    "description": "d41d8cd98f00b204e9800998ecf8427e fe60d958f7ff6a19503084538a3ae699",
+                    "empty": "d41d8cd98f00b204e9800998ecf8427e 6a4eaf3e25fc47481b27629a24fd8ce8",
+                    "hide": "d41d8cd98f00b204e9800998ecf8427e 001441e67eb0db5602d692f2a2a13e84",
+                    "load_error": "d41d8cd98f00b204e9800998ecf8427e 81e2b6f36163ae2e23b450715fe5efb1",
+                    "read_more": "d41d8cd98f00b204e9800998ecf8427e dddd1391873cb9fdce723b99baff5325",
+                    "refresh": "d41d8cd98f00b204e9800998ecf8427e 8bee2c7211591342e4af38d3346fa145",
+                    "retry": "d41d8cd98f00b204e9800998ecf8427e 178b7dd3201a721c86cbd0f7457b3d9d",
+                    "show": "d41d8cd98f00b204e9800998ecf8427e bc981e25174758e232bf8c9715b1a3f8",
+                    "title": "d41d8cd98f00b204e9800998ecf8427e 3781419dee1e743238ceaf1192df35df",
+                    "view_all": "d41d8cd98f00b204e9800998ecf8427e 33480cab9eacb1fbd8d250a7fa681da7"
+                },
                 "appearance": {
                     "colored_header_label": "1adb8c9e5e6a37cb57b7a80ffe7e5659 1adb8c9e5e6a37cb57b7a80ffe7e5659",
                     "colors_heading": "f689ca9a61187570a3310d172438a189 f689ca9a61187570a3310d172438a189",
@@ -58,6 +72,8 @@
                     "title": "e3f16d429e0a1ca97e64c05bb042dd57 e3f16d429e0a1ca97e64c05bb042dd57"
                 },
                 "basics": {
+                    "abandoned_extensions_notify_admins_label": "d41d8cd98f00b204e9800998ecf8427e af9a76617e191c161e6acbc4582291e1",
+                    "abandoned_extensions_sync_error": "d41d8cd98f00b204e9800998ecf8427e d284386cec05f1eb47f2f19b23a85307",
                     "all_discussions_label": "fa93b126d1b9a3781a8facaff4f045ff fa93b126d1b9a3781a8facaff4f045ff",
                     "default_language_heading": "b6aa8a0b71130b7c407aa69e7903829d b6aa8a0b71130b7c407aa69e7903829d",
                     "description": "3a8fdd217295a87cce636be29f9ed99f 3a8fdd217295a87cce636be29f9ed99f",
@@ -88,6 +104,13 @@
                 "dashboard": {
                     "clear_cache_button": "06d1fdd7bba404fd439dec78b26e394a 06d1fdd7bba404fd439dec78b26e394a",
                     "description": "d702282558ba3f77422bae2be3c501d7 d702282558ba3f77422bae2be3c501d7",
+                    "info_button": "d41d8cd98f00b204e9800998ecf8427e 86f5aa0d9b9eb76556d7b74f96b47721",
+                    "info_modal": {
+                        "copy_button": "d41d8cd98f00b204e9800998ecf8427e 39fbef1476fe693592f7ff222698d308",
+                        "copy_error": "d41d8cd98f00b204e9800998ecf8427e 798c4d7c8cdcc386f66d838319615959",
+                        "copy_success": "d41d8cd98f00b204e9800998ecf8427e 9f393c234201157dbedb5abbaf593504",
+                        "title": "d41d8cd98f00b204e9800998ecf8427e 86f5aa0d9b9eb76556d7b74f96b47721"
+                    },
                     "io_error_message": "7911be8265ea56fffba7601c1d511836 7911be8265ea56fffba7601c1d511836",
                     "status": {
                         "headers": {
@@ -810,6 +833,14 @@
             },
             "ref": {
                 "date_of_birth": "a5cba1f241897d9143b9ccb5c9f45340 a5cba1f241897d9143b9ccb5c9f45340"
+            }
+        }
+    },
+    "datlechin-copy-links.json": {
+        "datlechin-copy-links": {
+            "forum": {
+                "copy_link_button": "d41d8cd98f00b204e9800998ecf8427e f739386a1b672a1c4ffa58ea3dbfbb07",
+                "link_copied_message": "d41d8cd98f00b204e9800998ecf8427e 0c0b70d5eef68d9fe5c98ce6b69f9257"
             }
         }
     },
@@ -3898,6 +3929,36 @@
             "required_without_all": "2ad6f65c58837a0e477228ee16c4c38b 2ad6f65c58837a0e477228ee16c4c38b",
             "unique": "bd37ec21493099b1aeef5f66f7a8ffad bd37ec21493099b1aeef5f66f7a8ffad",
             "uploaded": "50123d48ee7802483b50fd14c6798b83 50123d48ee7802483b50fd14c6798b83"
+        }
+    },
+    "yippy-tag-with-themes.json": {
+        "yippy-tag-with-themes": {
+            "admin": {
+                "helps": {
+                    "design_default": "d41d8cd98f00b204e9800998ecf8427e 43d577750c1465fd8088c45e11f95056",
+                    "display_themes": "d41d8cd98f00b204e9800998ecf8427e fb616096fe164f348542c97b7f4b71e2"
+                },
+                "labels": {
+                    "design_default": "d41d8cd98f00b204e9800998ecf8427e 03b19ebd82dbb2ac1f72ce539ae2baa3",
+                    "display_themes": "d41d8cd98f00b204e9800998ecf8427e 0942724a23aed9a9b6554249f3b94900"
+                },
+                "options": {
+                    "design_options": {
+                        "basic": "d41d8cd98f00b204e9800998ecf8427e 597ae7ece2303cd8c0f1275138c47ba0",
+                        "basic_tab": "d41d8cd98f00b204e9800998ecf8427e 703a0ac09d447d29b24e3926ace916b2",
+                        "basic_tag": "d41d8cd98f00b204e9800998ecf8427e bddf783262689bf3bfe5f95797e128fc",
+                        "none": "d41d8cd98f00b204e9800998ecf8427e 35fe6410e9704386416cfdf9e0aea69d",
+                        "sticky_note": "d41d8cd98f00b204e9800998ecf8427e 7b314f49dd254b914dcd0de20154d3e6",
+                        "sticky_note_banner": "d41d8cd98f00b204e9800998ecf8427e 56528626768abbe159b74a8b8ccd6629",
+                        "sticky_note_outline": "d41d8cd98f00b204e9800998ecf8427e 479a9267937bad8da2b0383b25c8ae17",
+                        "sticky_note_outline_banner": "d41d8cd98f00b204e9800998ecf8427e 13bc390453b233bb1722857cff632401",
+                        "sticky_note_outline_tab": "d41d8cd98f00b204e9800998ecf8427e b02df43cf57ece81f470368f3b7a5b08",
+                        "sticky_note_outline_tag": "d41d8cd98f00b204e9800998ecf8427e 69f63fc390851962d899ff3cbe95fdbe",
+                        "sticky_note_tab": "d41d8cd98f00b204e9800998ecf8427e 4c0a138330a1b97be2f2e52cd3f48940",
+                        "sticky_note_tag": "d41d8cd98f00b204e9800998ecf8427e 76a329503d9b840de293ca7741da55d1"
+                    }
+                }
+            }
         }
     }
 }
