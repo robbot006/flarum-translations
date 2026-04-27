@@ -41,7 +41,7 @@
             "suspended": {
                 "subject": "Tu cuenta ha sido suspendida",
                 "plain": {
-                    "body": ""
+                    "body": "Has sido suspendido por la siguiente razón:\n\n---\n{suspension_message}\n---\n"
                 },
                 "html": {
                     "body": ""
