@@ -3636,6 +3636,14 @@
             }
         }
     },
+    "fof-photoswipe.json": {
+        "fof-photoswipe": {
+            "forum": {
+                "close_title": "d41d8cd98f00b204e9800998ecf8427e d6d130f1071ec6c08b15659539f45520",
+                "zoom_title": "d41d8cd98f00b204e9800998ecf8427e 91a7d0863934120eafa1906185ef8c8a"
+            }
+        }
+    },
     "fof-polls.json": {
         "fof-polls": {
             "admin": {
