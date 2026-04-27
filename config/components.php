@@ -1426,7 +1426,6 @@ return [
 		],
 	],
 	'muhammedsaidckr-gemini' => [
-		'tag' => 'https://raw.githubusercontent.com/muhammedsaidckr/flarum-gemini/v1.0.4/locale/en.yml',
 		'__builtInLanguages' => [
 			'tr',
 		],
