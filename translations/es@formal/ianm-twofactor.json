@@ -95,7 +95,7 @@
             "status_type": {
                 "enabled": "activado",
                 "disabled": "desactivado",
-                "device_changed": ""
+                "device_changed": "dispositivo cambiado"
             }
         },
         "views": {
