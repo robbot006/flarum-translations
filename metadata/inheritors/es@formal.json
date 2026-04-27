@@ -127,6 +127,9 @@
                     "view_all": "33480cab9eacb1fbd8d250a7fa681da7 33480cab9eacb1fbd8d250a7fa681da7"
                 },
                 "appearance": {
+                    "color_schemes": {
+                        "auto_mode_label": "6e2bae78f6768cb685fe97d103be5de8 6e2bae78f6768cb685fe97d103be5de8"
+                    },
                     "colored_header_label": "1adb8c9e5e6a37cb57b7a80ffe7e5659 1adb8c9e5e6a37cb57b7a80ffe7e5659",
                     "colors_heading": "f689ca9a61187570a3310d172438a189 f689ca9a61187570a3310d172438a189",
                     "colors_primary_label": "fe459cbba84a74b454305879ffe1159b fe459cbba84a74b454305879ffe1159b",
