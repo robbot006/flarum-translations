@@ -348,6 +348,11 @@
                 }
             },
             "email": {
+                "abandoned_extensions": {
+                    "line_no_replacement": "d41d8cd98f00b204e9800998ecf8427e 491edde1b433cfa410f7cd95832ae485",
+                    "line_with_replacement": "d41d8cd98f00b204e9800998ecf8427e f5ba6f08357954c8a482891035dc1fa1",
+                    "subject": "d41d8cd98f00b204e9800998ecf8427e 95253b401efcb3ef98acf44f16ea194f"
+                },
                 "activate_account": {
                     "subject": "1b42bd899c12c1d81f8581de2cab8ecd 1b42bd899c12c1d81f8581de2cab8ecd"
                 },
