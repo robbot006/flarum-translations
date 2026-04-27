@@ -35,7 +35,7 @@
             },
             "nav": {
                 "gdpr_button": "GDPR integraatiot",
-                "gdpr_title": ""
+                "gdpr_title": "=> flarum-gdpr.admin.gdpr_page.description"
             },
             "permissions": {
                 "process_erasure": "Käsittele tyhjennys pyynnöt",
@@ -64,8 +64,8 @@
                 "columns": {
                     "user_actions": {
                         "data_export": {
-                            "button": "",
-                            "tooltip": ""
+                            "button": "Vienti",
+                            "tooltip": "Vienti käyttäjälle {username}"
                         }
                     }
                 }
@@ -109,25 +109,25 @@
         "email": {
             "confirm_erasure": {
                 "subject": "Vahvista tilisi tyhjennys pyyntö",
-                "body": ""
+                "body": "Joku (toivottavasti sinä) on juuri pyytänyt tilin `{display_name}` poistamista.\n\nVahvistaaksesi toiminnon, seuraa alla olevaa linkkiä, jonka jälkeen pyyntösi käsitellään tiimimme toimesta.\n\n{erasure_confirm_url}\n"
             },
             "erasure_completed": {
                 "deletion": {
                     "subject": "Tilin poisto suoritettu",
-                    "body": ""
+                    "body": "Tämä on automaattinen, lopullinen ilmoitus siitä, että tilisi on poistettu.\n"
                 },
                 "anonymization": {
                     "subject": "Tilin anonymisointi suoritettu",
-                    "body": ""
+                    "body": "Tämä on automaattinen, lopullinen ilmoitus siitä, että tilisi on anonymisoitu.\n"
                 }
             },
             "erasure_cancelled": {
                 "subject": "Tilin tyhjennyspyyntö peruttu",
-                "body": ""
+                "body": "Tämä on automaattinen ilmoitus siitä, että pyyntösi peruuttaa tilin poistaminen on käsitelty.\n\nTiliäsi ei enää poisteta.\n"
             },
             "export_available": {
                 "subject": "Datan vienti on saatavilla",
-                "body": ""
+                "body": "Pyysit tilitietojen vientiä käyttäjälle {username}. Vienti on luotu onnistuneesti ja on nyt saatavilla:\n\n{url}\n\nVienti on saatavilla {destroys_at} asti.\n"
             }
         },
         "forum": {
