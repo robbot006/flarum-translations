@@ -3639,7 +3639,10 @@
     "fof-photoswipe.json": {
         "fof-photoswipe": {
             "forum": {
+                "arrow_next_title": "d41d8cd98f00b204e9800998ecf8427e 6a12c73caa4e099533998ae1cf2d879c",
+                "arrow_prev_title": "d41d8cd98f00b204e9800998ecf8427e 937be4eb97acb35c45d90404f495825a",
                 "close_title": "d41d8cd98f00b204e9800998ecf8427e d6d130f1071ec6c08b15659539f45520",
+                "error_msg": "d41d8cd98f00b204e9800998ecf8427e 802efa007c2bdabc1b458980006bcd9e",
                 "zoom_title": "d41d8cd98f00b204e9800998ecf8427e 91a7d0863934120eafa1906185ef8c8a"
             }
         }
