@@ -36,7 +36,7 @@
                 "title": "Kentät",
                 "create": "",
                 "edit": "Muokkaa kenttää {field}",
-                "delete-confirmation": "",
+                "delete-confirmation": "Haluatko varmasti poistaa kentän {field}? Tätä ei voi peruuttaa.",
                 "name": "Kentän nimi",
                 "name-help": "Julkisesti näkyvillä oleva (ei käännettävä) kentän tunniste.\n",
                 "description": "Kentän kuvaus",
