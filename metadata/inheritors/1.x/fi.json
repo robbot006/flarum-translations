@@ -4655,6 +4655,16 @@
             }
         }
     },
+    "fof-usercard-stats.json": {
+        "fof-usercard-stats": {
+            "forum": {
+                "user": {
+                    "discussion-count": "d41d8cd98f00b204e9800998ecf8427e c4b838ba84cd01443fd0b8aaf91f6e79",
+                    "post-count": "d41d8cd98f00b204e9800998ecf8427e 8f023f9b6d6e2debb433ba7830d58f2d"
+                }
+            }
+        }
+    },
     "fof-username-request.json": {
         "fof-username-request": {
             "admin": {
