@@ -1875,12 +1875,21 @@
             "email": {
                 "no_reason_given": "e87222a6af463ba01684c96257470a4d e87222a6af463ba01684c96257470a4d",
                 "suspended": {
+                    "html": {
+                        "body": "0d4f7ae41644df0ae34b0407deff10bb 0d4f7ae41644df0ae34b0407deff10bb"
+                    },
                     "plain": {
-                        "body": "63fb956912bb1fb16158a0720c717904 63fb956912bb1fb16158a0720c717904"
+                        "body": "6776a75f8e1596a12412bd348fc8cb48 6776a75f8e1596a12412bd348fc8cb48"
                     },
                     "subject": "8048ea5d4edf9cc554b8777531bbfa15 8048ea5d4edf9cc554b8777531bbfa15"
                 },
                 "unsuspended": {
+                    "html": {
+                        "body": "201f82ae4fb514bfb9689eda7d43aff9 201f82ae4fb514bfb9689eda7d43aff9"
+                    },
+                    "plain": {
+                        "body": "f76cb8288c990483f10d9293e16702b3 f76cb8288c990483f10d9293e16702b3"
+                    },
                     "subject": "77b3a9a8f14a9dd3270787ca3ae2d54f 77b3a9a8f14a9dd3270787ca3ae2d54f"
                 }
             },
@@ -1913,6 +1922,15 @@
                 },
                 "user_controls": {
                     "suspend_button": "ae5a0df38ed361ddd0650acb81ce1c0e ae5a0df38ed361ddd0650acb81ce1c0e"
+                }
+            },
+            "lib": {
+                "gambits": {
+                    "users": {
+                        "suspended": {
+                            "key": "8af1bbfe9c814b1f31bc42e6296c0808 8af1bbfe9c814b1f31bc42e6296c0808"
+                        }
+                    }
                 }
             }
         }
@@ -2448,6 +2466,14 @@
                     "following_none_label": "c2b7927faa73f9f639de8389ee34c245 c2b7927faa73f9f639de8389ee34c245",
                     "following_page_default_label": "4f49b315ab7e7aa753b953c01be2828d 4f49b315ab7e7aa753b953c01be2828d",
                     "following_tags_label": "186170da9a7c0ef08f1154991cf808dd 186170da9a7c0ef08f1154991cf808dd"
+                }
+            },
+            "email": {
+                "newDiscussionInTag": {
+                    "plain": {
+                        "body": "3d58fe0c61450cd618c23e7f3a480e71 3d58fe0c61450cd618c23e7f3a480e71"
+                    },
+                    "subject": "b856b1d5c838e1c3e990572b8bda948f b856b1d5c838e1c3e990572b8bda948f"
                 }
             },
             "forum": {
