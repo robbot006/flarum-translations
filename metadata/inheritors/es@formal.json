@@ -34,6 +34,7 @@
         "core": {
             "admin": {
                 "advanced": {
+                    "description": "d63854a2b5faa3946e13818fe4fcca18 d63854a2b5faa3946e13818fe4fcca18",
                     "fontawesome": {
                         "cdn_url_help": "4f33eb7caa35fa86f63210ea295cf096 4f33eb7caa35fa86f63210ea295cf096",
                         "cdn_url_label": "fc552c64c198c5239fdd44f6bc4ad49c fc552c64c198c5239fdd44f6bc4ad49c",
@@ -93,6 +94,18 @@
                         "safe_mode_extensions": "d19921bf04c8b57b7c75765bd60a2b12 d19921bf04c8b57b7c75765bd60a2b12",
                         "safe_mode_extensions_override_help": "33af13aeef9a4661771c3e869263abe5 33af13aeef9a4661771c3e869263abe5",
                         "section_label": "53ee60e03cff8e9ae06ceeec004ee262 53ee60e03cff8e9ae06ceeec004ee262"
+                    },
+                    "pgsql": {
+                        "search_configuration": "2bf9511ed8d5e3d5b3bb40f582a1054d 2bf9511ed8d5e3d5b3bb40f582a1054d"
+                    },
+                    "queue": {
+                        "custom_driver": "e076c5f8990fee1f6f539a50eacb51f0 e076c5f8990fee1f6f539a50eacb51f0",
+                        "memory_label": "bee1a25c277de2ed73b956b8504f387f bee1a25c277de2ed73b956b8504f387f",
+                        "retries_help": "ae1083bd48f4bf85de5ef5525923a3ed ae1083bd48f4bf85de5ef5525923a3ed",
+                        "retries_label": "3a945b722ebe2fcc7f4da00bdb41bdc7 3a945b722ebe2fcc7f4da00bdb41bdc7",
+                        "section_label": "574e8583f71bb54162df1c1aadde2f28 574e8583f71bb54162df1c1aadde2f28",
+                        "sync_help": "94dfb91afd97ea79d2c46f75eab40bb2 94dfb91afd97ea79d2c46f75eab40bb2",
+                        "sync_info": "353f67a49e47e0d6e5b59555a2eb9838 353f67a49e47e0d6e5b59555a2eb9838"
                     }
                 },
                 "announcements": {
