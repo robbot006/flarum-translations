@@ -1,11 +1,11 @@
 {
     "validation": {
-        "accepted": "",
-        "accepted_if": "",
-        "active_url": "",
-        "after": "",
-        "after_or_equal": "",
-        "alpha": "",
+        "accepted": "Kenttä :attribute on hyväksyttävä.",
+        "accepted_if": "Kenttä :attribute on hyväksyttävä, kun :other on :value.",
+        "active_url": "Kentän :attribute on oltava kelvollinen URL-osoite.",
+        "after": "Kentän :attribute on oltava :date-päivämäärän jälkeinen päivämäärä.",
+        "after_or_equal": "Kentän :attribute on oltava :date-päivämäärän jälkeinen tai sama päivämäärä.",
+        "alpha": "Kenttä :attribute saa sisältää vain kirjaimia.",
         "alpha_dash": "",
         "alpha_num": "",
         "array": "",
