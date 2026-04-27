@@ -537,6 +537,13 @@
                 "invalid_username_message": "74222f7286b7c8ce0142f5befb76d7d0 d41d8cd98f00b204e9800998ecf8427e"
             },
             "email": {
+                "abandoned_extensions": {
+                    "body_intro": "5edf1b3662e7e8e3289155cc5042fd94 5edf1b3662e7e8e3289155cc5042fd94",
+                    "body_outro": "28cf0b6342bbc95750f99e07748246ed 28cf0b6342bbc95750f99e07748246ed",
+                    "line_no_replacement": "491edde1b433cfa410f7cd95832ae485 491edde1b433cfa410f7cd95832ae485",
+                    "line_with_replacement": "f5ba6f08357954c8a482891035dc1fa1 f5ba6f08357954c8a482891035dc1fa1",
+                    "subject": "95253b401efcb3ef98acf44f16ea194f 95253b401efcb3ef98acf44f16ea194f"
+                },
                 "activate_account": {
                     "body": "97a422437a95c4fa6d17d638f00fc798 d41d8cd98f00b204e9800998ecf8427e",
                     "subject": "1b42bd899c12c1d81f8581de2cab8ecd 5ab3bd8dd594dad02eec615ed24f0956"
@@ -563,11 +570,11 @@
                     }
                 },
                 "reset_password": {
-                    "body": "36b0e179ea431bb537f2ae0fad3104a7 e48323e76eb8a0bfc63afd60947e95bb",
+                    "body": "daa4e18667705b022b012002e100573d d41d8cd98f00b204e9800998ecf8427e",
                     "subject": "a9a63211bf45068ee17dbbeedfc22194 a9a63211bf45068ee17dbbeedfc22194"
                 },
                 "send_test": {
-                    "body": "1b221912bb929a3a147e8f5f9ff761a7 5cbe4ed67e096441d23252fee5abd9f9",
+                    "body": "21a7319a4f4be0b7cda364fa9d166198 d41d8cd98f00b204e9800998ecf8427e",
                     "subject": "f7985e289284a9d1c57c8c976750bc6e f7985e289284a9d1c57c8c976750bc6e"
                 },
                 "signoff": "39d2b9116659977e1a9fa6bf1bd3523a 39d2b9116659977e1a9fa6bf1bd3523a"
@@ -1031,6 +1038,8 @@
                 "custom_footer_title": "f0c92471c36eac2fc6f5ad9d39d04a61 f0c92471c36eac2fc6f5ad9d39d04a61",
                 "custom_header_text": "f503cd547af813af8ef1c3a270eb7fe6 f503cd547af813af8ef1c3a270eb7fe6",
                 "custom_header_title": "33790c15a04174ba6304cf298fae8c3a 33790c15a04174ba6304cf298fae8c3a",
+                "dark_hc_mode_label": "4013d6d657ef9ab722b892731ae7fa81 4013d6d657ef9ab722b892731ae7fa81",
+                "dark_mode_label": "661a5ebb21cc02ea3210257d3a32f7db 661a5ebb21cc02ea3210257d3a32f7db",
                 "delete": "5b5c9f9dc839dcc858b3c4371b014930 5b5c9f9dc839dcc858b3c4371b014930",
                 "delete_forever": "0c75cbd0c3d66ac8b175cfaa61f1f9dd 0c75cbd0c3d66ac8b175cfaa61f1f9dd",
                 "discussions": "c38059b9665c79c4cb0d6d2dca445454 c38059b9665c79c4cb0d6d2dca445454",
