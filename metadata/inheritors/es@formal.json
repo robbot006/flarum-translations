@@ -2470,10 +2470,31 @@
             },
             "email": {
                 "newDiscussionInTag": {
+                    "html": {
+                        "body": "7471a06b9d8da24fe719d7c415a3528b 7471a06b9d8da24fe719d7c415a3528b"
+                    },
                     "plain": {
                         "body": "3d58fe0c61450cd618c23e7f3a480e71 3d58fe0c61450cd618c23e7f3a480e71"
                     },
                     "subject": "b856b1d5c838e1c3e990572b8bda948f b856b1d5c838e1c3e990572b8bda948f"
+                },
+                "newDiscussionTag": {
+                    "html": {
+                        "body": "90e4045a4d7d36e2fe00bc22f6d325c9 90e4045a4d7d36e2fe00bc22f6d325c9"
+                    },
+                    "plain": {
+                        "body": "fee46a1c5710859ad284034816c6c8f9 fee46a1c5710859ad284034816c6c8f9"
+                    },
+                    "subject": "b6bf6c869bf5d1c56f783fd8254e0ab6 b6bf6c869bf5d1c56f783fd8254e0ab6"
+                },
+                "newPostInTag": {
+                    "html": {
+                        "body": "b54bbaa230bf1c3c192ab55147c7e38c b54bbaa230bf1c3c192ab55147c7e38c"
+                    },
+                    "plain": {
+                        "body": "7271a07d6aed47ff53b465c25e1434a5 7271a07d6aed47ff53b465c25e1434a5"
+                    },
+                    "subject": "52a41baab96abf3b57df5004e0a769cc 52a41baab96abf3b57df5004e0a769cc"
                 }
             },
             "forum": {
