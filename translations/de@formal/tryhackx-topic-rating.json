@@ -22,10 +22,10 @@
         },
         "forum": {
             "tooltip": {
-                "login_required": "",
-                "activation_required": "",
+                "login_required": "Du musst angemeldet sein, um eine Bewertung abzugeben.",
+                "activation_required": "Dein Konto muss aktiviert sein, um eine Bewertung abzugeben.",
                 "rate_this": "Diese Diskussion bewerten",
-                "rate_first": "",
+                "rate_first": "Sei der Erste, der eine Bewertung abgibt!",
                 "your_rating": "Deine Bewertung:"
             },
             "rating_count": "Bewertungen: {count}",
@@ -38,13 +38,13 @@
             },
             "reset_modal": {
                 "title": "Alle Bewertungen zurücksetzen",
-                "message": "",
+                "message": "Möchtest du wirklich alle {count} Bewertungen für diese Diskussion löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
                 "confirm": "Bewertungen zurücksetzen",
-                "cancel": ""
+                "cancel": "Abbrechen"
             },
             "ratings_modal": {
-                "title": "",
-                "empty": "",
+                "title": "Bewertungen ({count})",
+                "empty": "Noch keine Bewertungen.",
                 "deleted_user": "[gelöscht]",
                 "updated_prefix": "aktualisiert "
             }
