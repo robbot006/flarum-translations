@@ -57,11 +57,11 @@
                 },
                 "basics": {
                     "abandoned_extensions_heading": "3b78decb0f91be44efe45bed3ed90107 3b78decb0f91be44efe45bed3ed90107",
-                    "abandoned_extensions_notify_admins_label": "2636bcffe4b50dffdf3f3961516b371f 2636bcffe4b50dffdf3f3961516b371f",
+                    "abandoned_extensions_notify_admins_label": "2636bcffe4b50dffdf3f3961516b371f e2cd302180db46325ed4d7c25e35d42b",
                     "abandoned_extensions_sync_button": "273c9cce9c8e89fe7581bab3d54e5ff8 273c9cce9c8e89fe7581bab3d54e5ff8",
-                    "abandoned_extensions_sync_error": "f9f5bf108032e763a1c4b9c3a3dca7cb f9f5bf108032e763a1c4b9c3a3dca7cb",
-                    "abandoned_extensions_sync_success": "8ec758fc8bd75cc0ba0a36df693661c2 8ec758fc8bd75cc0ba0a36df693661c2",
-                    "abandoned_extensions_text": "9c0b73c2d49459e9916d715d986f1b73 9c0b73c2d49459e9916d715d986f1b73",
+                    "abandoned_extensions_sync_error": "f9f5bf108032e763a1c4b9c3a3dca7cb 7a681267042cefcdd8fb5d27f2601899",
+                    "abandoned_extensions_sync_success": "8ec758fc8bd75cc0ba0a36df693661c2 5f3b7eb2b6587a5b1614c52b894aaa61",
+                    "abandoned_extensions_text": "9c0b73c2d49459e9916d715d986f1b73 540f1fef11df64d0726b676fa2536877",
                     "all_discussions_label": "fa93b126d1b9a3781a8facaff4f045ff fa93b126d1b9a3781a8facaff4f045ff",
                     "default_language_heading": "a887cbe37a1a2f121bacdf43b756b3da a887cbe37a1a2f121bacdf43b756b3da",
                     "description": "6b0c6a208e5bf40e0a0ff53882075ced 6b0c6a208e5bf40e0a0ff53882075ced",
@@ -5152,7 +5152,7 @@
                 "tooltipDisclist": "b0d9189d7a13f021ae8d04fb9b749389 b0d9189d7a13f021ae8d04fb9b749389",
                 "tooltipMentions": "89686929e591feabbe5c93fe2fc8ed34 89686929e591feabbe5c93fe2fc8ed34",
                 "tooltipProfile": "0c70f376afc3abdc10ec06a83819c15d 0c70f376afc3abdc10ec06a83819c15d",
-                "wback": "ddfb0836f5d3f669ecc4afd8ff18083c ddfb0836f5d3f669ecc4afd8ff18083c",
+                "wback": "ddfb0836f5d3f669ecc4afd8ff18083c 136ca4e4f59c6e30592de6275e51a35b",
                 "welcomeguest": "5420117af2559c2e33411dc97704578a 5420117af2559c2e33411dc97704578a"
             }
         }
