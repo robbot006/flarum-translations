@@ -72,8 +72,12 @@
                     "title": "e3f16d429e0a1ca97e64c05bb042dd57 e3f16d429e0a1ca97e64c05bb042dd57"
                 },
                 "basics": {
+                    "abandoned_extensions_heading": "d41d8cd98f00b204e9800998ecf8427e 9d532047dc1499641a2bfe530ff2049f",
                     "abandoned_extensions_notify_admins_label": "d41d8cd98f00b204e9800998ecf8427e af9a76617e191c161e6acbc4582291e1",
+                    "abandoned_extensions_sync_button": "d41d8cd98f00b204e9800998ecf8427e 92819bfe0066aee192c9946128fdae81",
                     "abandoned_extensions_sync_error": "d41d8cd98f00b204e9800998ecf8427e d284386cec05f1eb47f2f19b23a85307",
+                    "abandoned_extensions_sync_success": "d41d8cd98f00b204e9800998ecf8427e c646b297b1f1729db80fc5021d46b5a9",
+                    "abandoned_extensions_text": "d41d8cd98f00b204e9800998ecf8427e e06676ee53b5fc33acbfd8d7b3fa9d3c",
                     "all_discussions_label": "fa93b126d1b9a3781a8facaff4f045ff fa93b126d1b9a3781a8facaff4f045ff",
                     "default_language_heading": "b6aa8a0b71130b7c407aa69e7903829d b6aa8a0b71130b7c407aa69e7903829d",
                     "description": "3a8fdd217295a87cce636be29f9ed99f 3a8fdd217295a87cce636be29f9ed99f",
@@ -183,8 +187,11 @@
                     "title": "7638203591a5ee0b0f5773ae124b708b 7638203591a5ee0b0f5773ae124b708b"
                 },
                 "extension": {
+                    "abandoned_no_replacement": "d41d8cd98f00b204e9800998ecf8427e 0bb3408ba10aca28b1bd29fbcf98a5a0",
+                    "abandoned_with_replacement": "d41d8cd98f00b204e9800998ecf8427e 1f16bb011c5a3050d35075e35082f81e",
                     "configure_scopes": "bb2eb70783a648777ae57913b888bce5 bb2eb70783a648777ae57913b888bce5",
                     "confirm_purge": "4c1f81e8e8af9aeb6080b82554303df0 4c1f81e8e8af9aeb6080b82554303df0",
+                    "deprecated": "d41d8cd98f00b204e9800998ecf8427e a0056de267fd0bd5e038b8ea7d399a5d",
                     "disabled": "e2249ed9f45123b131ac477fd102c4f8 e2249ed9f45123b131ac477fd102c4f8",
                     "enable_to_see": "6b0a8eac14db991befc5da46821c36a0 6b0a8eac14db991befc5da46821c36a0",
                     "enabled": "d13ba3564d21561af0f9cf0f247a148a d13ba3564d21561af0f9cf0f247a148a",
@@ -205,7 +212,8 @@
                         "button_label": "818dad221b03be5a0209455618c123dc 818dad221b03be5a0209455618c123dc",
                         "no_readme": "927bd8b21dd95e7a23a1456d6de8e40f 927bd8b21dd95e7a23a1456d6de8e40f",
                         "title": "0eed9c9d301fe7bb594b7a65865b6a03 0eed9c9d301fe7bb594b7a65865b6a03"
-                    }
+                    },
+                    "replaced": "d41d8cd98f00b204e9800998ecf8427e 63e10930a6f1a1e3dc06eb1687cb446b"
                 },
                 "header": {
                     "get_help": "8e19376f06c354ed26fd617b0c3b08d0 8e19376f06c354ed26fd617b0c3b08d0",
