@@ -1296,6 +1296,7 @@
         "flarum-emoji": {
             "admin": {
                 "settings": {
+                    "cdn_help": "5a68623c07695d53af3366afc12b73da 5a68623c07695d53af3366afc12b73da",
                     "cdn_label": "40d4527b5584447e49c211b97fa86966 40d4527b5584447e49c211b97fa86966"
                 }
             },
@@ -1748,8 +1749,23 @@
                     "controls_toggle_label": "765e888275e17e6fbb54a3c9a5d8d88a 765e888275e17e6fbb54a3c9a5d8d88a",
                     "details_modal": {
                         "created_at": "4777e05c24f22fb50d474443745bbc33 4777e05c24f22fb50d474443745bbc33",
-                        "recipients": "51de192486141829182c495ea512737e 51de192486141829182c495ea512737e"
+                        "recipients": "51de192486141829182c495ea512737e 51de192486141829182c495ea512737e",
+                        "title": "b8641044b75118a6bffc5ef8a890fd5b b8641044b75118a6bffc5ef8a890fd5b"
                     }
+                },
+                "header": {
+                    "dropdown_tooltip": "efc88d828a8038d29aef619b99394a50 efc88d828a8038d29aef619b99394a50"
+                },
+                "index": {
+                    "messages_link": "efc88d828a8038d29aef619b99394a50 efc88d828a8038d29aef619b99394a50"
+                },
+                "index_sort": {
+                    "latest_button": "a644c14cb2a1a305ee62baf6852cdeb2 a644c14cb2a1a305ee62baf6852cdeb2",
+                    "newest_button": "3c2158380d5f2f7754a10cd638739a5b 3c2158380d5f2f7754a10cd638739a5b",
+                    "oldest_button": "0b4bd3257b272e35ac93b58747ea4605 0b4bd3257b272e35ac93b58747ea4605"
+                },
+                "message_controls": {
+                    "delete_button": "a96f30f0a23d371e93131a420a328180 a96f30f0a23d371e93131a420a328180"
                 }
             }
         }
