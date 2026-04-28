@@ -6,13 +6,13 @@
                 "secret_key_label": "Clave Secreta",
                 "site_key_label": "Clave de Sitio",
                 "type_label": "Tipo de reCAPTCHA",
-                "type_help": "",
+                "type_help": "El tipo seleccionado debe coincidir con el tipo de sus credenciales reCAPTCHA. Tanto la casilla de verificación como la opción Invisible son reCAPTCHA v2; la versión v3 se basa en la puntuación y se ejecuta de forma silenciosa.",
                 "type_options": {
-                    "checkbox": "",
-                    "invisible": "",
-                    "v3": ""
+                    "checkbox": "Casilla de verificación v2",
+                    "invisible": "v2 Invisible",
+                    "v3": "v3 (basado en score)"
                 },
-                "v3_threshold_label": "",
+                "v3_threshold_label": "reCAPTCHA v3 score threshold",
                 "v3_threshold_help": "",
                 "signup": "=> core.forum.sign_up.title",
                 "signin": "=> core.forum.log_in.title",

@@ -1315,7 +1315,7 @@
                     "add_label": "4072d90e5edc526641b2ec7cb94f57aa 4072d90e5edc526641b2ec7cb94f57aa",
                     "add_modal": {
                         "host_label": "c2ca16d048ec66e04bca283eab048ec2 c2ca16d048ec66e04bca283eab048ec2",
-                        "host_placeholder": "4b4593d84f25ba345de4fe947151c8d9 4b4593d84f25ba345de4fe947151c8d9",
+                        "host_placeholder": "c12c11b437620b49dbe3226bbabe9f18 d41d8cd98f00b204e9800998ecf8427e",
                         "submit_button": "30cc00aea30ec70b7c1292b6458181c0 30cc00aea30ec70b7c1292b6458181c0",
                         "token_label": "459a6f79ad9b13cbcb5f692d2cc7a94d 459a6f79ad9b13cbcb5f692d2cc7a94d",
                         "type_label": "4f427c1457e02bce80e83252111fd27d 4f427c1457e02bce80e83252111fd27d",
@@ -1385,7 +1385,7 @@
                 "extensions": {
                     "check_why_it_failed_updating": "ab9db3a2140860bebc9c8fdeffcb0f65 ab9db3a2140860bebc9c8fdeffcb0f65",
                     "install": "05ede41df9b950550bd07f020756da3c 05ede41df9b950550bd07f020756da3c",
-                    "install_help": "48f5764bfc190ab9504dd1e83db8463d 863804c7286469973c0d775e22c2d682",
+                    "install_help": "e956a435bc1f91bb723ec328aa15b464 863804c7286469973c0d775e22c2d682",
                     "proceed": "c7c4d0a8f1b69075310936463b2d218a c7c4d0a8f1b69075310936463b2d218a",
                     "remove": "a588267ffe962a7913db9d656d205468 a588267ffe962a7913db9d656d205468",
                     "successful_install": "19cca7123ccd8be9f417fc7e2274ad96 19cca7123ccd8be9f417fc7e2274ad96",
@@ -1408,7 +1408,7 @@
                     "update": "2e7be17f876ce903bc63690b2ab8cb40 2e7be17f876ce903bc63690b2ab8cb40"
                 },
                 "minor_update_confirmation": {
-                    "content": "6e26a373c09c73424c1304b3301d27e0 6e26a373c09c73424c1304b3301d27e0"
+                    "content": "884633186ddbb8c533056542f38543d7 d41d8cd98f00b204e9800998ecf8427e"
                 },
                 "sections": {
                     "queue": {
@@ -3522,7 +3522,14 @@
                     "signin": "635451b1aa6992d3fb7d46a501cfa546 635451b1aa6992d3fb7d46a501cfa546",
                     "signup": "ee92ad3cf509197cabcdd01db6f2677a ee92ad3cf509197cabcdd01db6f2677a",
                     "site_key_label": "bf96a2c0cef306c856a3ae9d6c84e1f8 bf96a2c0cef306c856a3ae9d6c84e1f8",
-                    "type_label": "b54dd34eff3576640f724872552a5462 b54dd34eff3576640f724872552a5462"
+                    "type_help": "aea3831cab5713848aa6eeca49a72d45 aea3831cab5713848aa6eeca49a72d45",
+                    "type_label": "b54dd34eff3576640f724872552a5462 b54dd34eff3576640f724872552a5462",
+                    "type_options": {
+                        "checkbox": "52a6ebc597d1924a1d17f750d2fa2177 52a6ebc597d1924a1d17f750d2fa2177",
+                        "invisible": "a597cc1dc7c7cf43f32acb4e5ba81059 a597cc1dc7c7cf43f32acb4e5ba81059",
+                        "v3": "2e9b5c26acc7ccc70cd81927b140d6dd 2e9b5c26acc7ccc70cd81927b140d6dd"
+                    },
+                    "v3_threshold_label": "fcdc9a6fae4813b4d5f0838374e3ff03 fcdc9a6fae4813b4d5f0838374e3ff03"
                 },
                 "test": {
                     "help_text": "a5df57f5d0b30f36b4d8839921bc08b6 a5df57f5d0b30f36b4d8839921bc08b6",
