@@ -2094,6 +2094,12 @@
                     "view_users_count_label": "256a4684e288169e4837593ce8c2dac7 256a4684e288169e4837593ce8c2dac7"
                 },
                 "settings": {
+                    "cache_duration_help": "d41d8cd98f00b204e9800998ecf8427e d17c5ac483e9234133ff07b2fdd70826",
+                    "cache_duration_label": "d41d8cd98f00b204e9800998ecf8427e 96dd9dcc3cc4d3c3a355c9340d278557",
+                    "classic_look_help": "d41d8cd98f00b204e9800998ecf8427e 179f90f666e4ff52cd1a153dd5be5e3c",
+                    "classic_look_label": "d41d8cd98f00b204e9800998ecf8427e f9b5a59614ddc6cea3eb942df04f054b",
+                    "flush_cache_on_new_registration_help": "d41d8cd98f00b204e9800998ecf8427e ed8fe4874d7efa3f29bc0339a03a2062",
+                    "flush_cache_on_new_registration_label": "d41d8cd98f00b204e9800998ecf8427e 3c8de55295f2df28e76116094e4f8995",
                     "widget_ignore_private_discussions_label": "a75bf2fc5d1227e8a298a0e067ca6cb8 a75bf2fc5d1227e8a298a0e067ca6cb8"
                 }
             },
@@ -3673,6 +3679,34 @@
                     "edit_button": "ef485eb67ac89238a4fede745a0ae94c ef485eb67ac89238a4fede745a0ae94c",
                     "empty_text": "a10f21c076a69b3eb748559f6acc7680 a10f21c076a69b3eb748559f6acc7680",
                     "header_label": "9de5f929c9ec545cb2f3413a275917b8 9de5f929c9ec545cb2f3413a275917b8"
+                }
+            }
+        }
+    },
+    "ianm-oauth-reddit.json": {
+        "fof-oauth": {
+            "admin": {
+                "settings": {
+                    "providers": {
+                        "reddit": {
+                            "client_id_label": "d41d8cd98f00b204e9800998ecf8427e f48ded7c5d322b9943a3c74b53834a75",
+                            "client_secret_label": "d41d8cd98f00b204e9800998ecf8427e 01c7fcf3b9b4c96d29fe46d731d47e3f",
+                            "description": "d41d8cd98f00b204e9800998ecf8427e e0329ade563e7f11ee942fe15d97e699"
+                        }
+                    }
+                }
+            },
+            "forum": {
+                "log_in": {
+                    "with_reddit_button": "d41d8cd98f00b204e9800998ecf8427e 625db5950e116b42b8d60e995c02ab39"
+                },
+                "providers": {
+                    "reddit": "d41d8cd98f00b204e9800998ecf8427e bc4daa78912f7062fdde64e6d19d9c2d"
+                }
+            },
+            "lib": {
+                "providers": {
+                    "reddit": "d41d8cd98f00b204e9800998ecf8427e b632c55a33530d1433e29ffc09ba1151"
                 }
             }
         }
