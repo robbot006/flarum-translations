@@ -3127,6 +3127,18 @@
             }
         }
     },
+    "fof-news-widget.json": {
+        "fof-news-widget": {
+            "admin": {
+                "settings": {
+                    "add_line": "135c205c2b0f84c3f6ef9203e5f0d7f3 135c205c2b0f84c3f6ef9203e5f0d7f3",
+                    "html_warning": "7a1340bca6ee647b29ad68f5f453b30d 7a1340bca6ee647b29ad68f5f453b30d",
+                    "lines": "2800c82767e50285d9de167d74bf9ba4 2800c82767e50285d9de167d74bf9ba4",
+                    "remove_line": "6039424aedb64e75cf497c99fd38a6d8 6039424aedb64e75cf497c99fd38a6d8"
+                }
+            }
+        }
+    },
     "fof-oauth.json": {
         "fof-oauth": {
             "admin": {
