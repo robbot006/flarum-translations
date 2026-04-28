@@ -860,6 +860,16 @@
             }
         }
     },
+    "datlechin-scroll-buttons.json": {
+        "datlechin-flarum-scroll-buttons": {
+            "admin": {
+                "scroll_to_bottom_help": "d41d8cd98f00b204e9800998ecf8427e fda0924ea3615e61ca29aaafec966e0e",
+                "scroll_to_bottom_label": "d41d8cd98f00b204e9800998ecf8427e 29c3585aa2ff490d04c0be96232212e6",
+                "scroll_to_top_help": "d41d8cd98f00b204e9800998ecf8427e db15afa9a71d09d710b92eaee8c93f9a",
+                "scroll_to_top_label": "d41d8cd98f00b204e9800998ecf8427e ebc1ab803240e1acd5b37e318e8b5a1d"
+            }
+        }
+    },
     "flarum-akismet.json": {
         "flarum-akismet": {
             "admin": {
@@ -2522,6 +2532,17 @@
         }
     },
     "fof-masquerade.json": {
+        "flarum-gdpr": {
+            "lib": {
+                "data": {
+                    "masqueradeanswers": {
+                        "anonymize_description": "d41d8cd98f00b204e9800998ecf8427e d0b07823df1b38938bc0e849e0e0dce8",
+                        "delete_description": "d41d8cd98f00b204e9800998ecf8427e 0afb5b49fd4b3623d4042ba14bf0eb9a",
+                        "export_description": "d41d8cd98f00b204e9800998ecf8427e 538ff0466ae14598a92df856ee331b5b"
+                    }
+                }
+            }
+        },
         "fof-masquerade": {
             "admin": {
                 "buttons": {
@@ -2531,6 +2552,7 @@
                 },
                 "fields": {
                     "add": "01c18f4348826d41fb7f142c9c51bc2c 01c18f4348826d41fb7f142c9c51bc2c",
+                    "delete-confirmation": "d41d8cd98f00b204e9800998ecf8427e 43365c8a6d198d2edbde6ce953f9ae3a",
                     "description": "ef918abfb53ea5bc4fde3764e4c199de ef918abfb53ea5bc4fde3764e4c199de",
                     "description-help": "d1560278a1da030af31c41ed467fdee9 d1560278a1da030af31c41ed467fdee9",
                     "edit": "37d015812d61cd77708cdea97b608529 37d015812d61cd77708cdea97b608529",
@@ -3757,6 +3779,15 @@
                 "hidden": "048d3f4bfea1f40ca4510609b114d12d 048d3f4bfea1f40ca4510609b114d12d",
                 "renamed": "a595d48c373e7c620caf2e69c7433ab1 a595d48c373e7c620caf2e69c7433ab1",
                 "restored": "9dbeda49426cec418586b3ee46c666d6 9dbeda49426cec418586b3ee46c666d6"
+            }
+        }
+    },
+    "huoxin-relative-url.json": {
+        "huoxin-relative-url": {
+            "admin": {
+                "internal_domains_help": "d41d8cd98f00b204e9800998ecf8427e b640c5a06e83a51244518eddb2274480",
+                "internal_domains_label": "d41d8cd98f00b204e9800998ecf8427e 845c1faf53907113324df9a4fb073e92",
+                "internal_domains_placeholder": "d41d8cd98f00b204e9800998ecf8427e 0fa30fba3003ce1234714aef7b1a2ade"
             }
         }
     },
