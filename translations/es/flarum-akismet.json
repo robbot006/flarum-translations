@@ -8,7 +8,7 @@
                 "delete_blatant_spam_help": "Si Akismet determina que el comentario es spam descarado, en lugar de marcarlo como spam, elimina automáticamente la publicación"
             },
             "permissions": {
-                "bypass_akismet": ""
+                "bypass_akismet": "Omitir Akismet"
             }
         },
         "forum": {
