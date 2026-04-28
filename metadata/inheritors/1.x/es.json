@@ -2423,6 +2423,17 @@
             }
         }
     },
+    "fof-news-widget.json": {
+        "fof-news-widget": {
+            "admin": {
+                "settings": {
+                    "add_line": "d41d8cd98f00b204e9800998ecf8427e 135c205c2b0f84c3f6ef9203e5f0d7f3",
+                    "html_warning": "d41d8cd98f00b204e9800998ecf8427e 7a1340bca6ee647b29ad68f5f453b30d",
+                    "lines": "d41d8cd98f00b204e9800998ecf8427e 2800c82767e50285d9de167d74bf9ba4"
+                }
+            }
+        }
+    },
     "fof-oauth.json": {
         "fof-oauth": {
             "admin": {
