@@ -34,9 +34,9 @@
             },
             "fields": {
                 "title": "Campos",
-                "create": "",
+                "create": "Crear campo",
                 "edit": "Editar campo {field}",
-                "delete-confirmation": "",
+                "delete-confirmation": "¿Seguro que deseas borrar el campo {field}? Esto no se puede deshacer.",
                 "name": "Nombre",
                 "name-help": "Nombre visible del campo.\n",
                 "description": "Descripción",
@@ -49,7 +49,7 @@
                 "icon": "Icono",
                 "icon-help": "Introduce el nombre de alguna clase de <a>FontAwesome</a>, <em>incluyendo</em> el prefijo <code>fas fa-</code>.\n",
                 "force-user-to-completion": "Obligar al usuario a completar el perfil",
-                "hide-empty-fields": "",
+                "hide-empty-fields": "Esconder campos vacíos",
                 "options": "Opciones",
                 "option-new": "Nueva opción",
                 "option-comma-warning": "La etiqueta de cualquier opción no puede contener comas (\",\").",
@@ -67,7 +67,7 @@
         "lib": {
             "gambits": {
                 "answer": {
-                    "key": ""
+                    "key": "respuesta"
                 }
             }
         }
@@ -76,9 +76,9 @@
         "lib": {
             "data": {
                 "masqueradeanswers": {
-                    "export_description": "",
-                    "delete_description": "",
-                    "anonymize_description": ""
+                    "export_description": "Exportar el campo respuestas del perfil del usuario",
+                    "delete_description": "Borrar todos los campos con respuestas del perfil del usuario",
+                    "anonymize_description": "=> flarum-gdpr.lib.data.masqueradeanswers.delete_description"
                 }
             }
         }
