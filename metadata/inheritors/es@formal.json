@@ -15,6 +15,49 @@
             }
         }
     },
+    "acpl-mobile-tab.json": {
+        "acpl-mobile-tab": {
+            "admin": {
+                "active_items": "f1b2aa7a6a2993408f1f9f1ee8c720dd f1b2aa7a6a2993408f1f9f1ee8c720dd",
+                "available_items": "37ff49f566f20b4b7919e84a89f00b04 37ff49f566f20b4b7919e84a89f00b04",
+                "create_new_item_button": "7477fbfdae188298f16f690d775bc637 7477fbfdae188298f16f690d775bc637",
+                "edit_item": {
+                    "delete_button": "a96f30f0a23d371e93131a420a328180 a96f30f0a23d371e93131a420a328180",
+                    "delete_item_confirmation": "0c889909c9c8bf267ce872777f52632f 0c889909c9c8bf267ce872777f52632f",
+                    "icon": "cd64fe56d8b92ec5d1181732eb19507c cd64fe56d8b92ec5d1181732eb19507c",
+                    "icon_help": "1c535d785a290126a1aec1e193e0ee1a 1c535d785a290126a1aec1e193e0ee1a",
+                    "is_internal_checkbox": "b74eaff8537d553f1de7dfa9ed2a6c4f b74eaff8537d553f1de7dfa9ed2a6c4f",
+                    "label": "dca074dfe9ee9df94eed9179670d8e0f dca074dfe9ee9df94eed9179670d8e0f",
+                    "label_placeholder": "2e56e1ecf3b0515588538922ce1486d9 2e56e1ecf3b0515588538922ce1486d9",
+                    "modal_title": "7dafc40e584ac5d917f0ee9ed03fc788 7dafc40e584ac5d917f0ee9ed03fc788",
+                    "open_new_tab_checkbox": "4130647f827f8da85adb001768ed1a3e 4130647f827f8da85adb001768ed1a3e",
+                    "path": "ac70412e939d72a9234cdebb1af5867b ac70412e939d72a9234cdebb1af5867b",
+                    "submit_button": "012ab35864bdc68e8a87fd59525c47be 012ab35864bdc68e8a87fd59525c47be",
+                    "url": "e6b391a8d2c4d45902a23a8b6585703d e6b391a8d2c4d45902a23a8b6585703d"
+                },
+                "scroll_settings": {
+                    "threshold_help": "225192c241c8af880270503aa499b5bc 225192c241c8af880270503aa499b5bc",
+                    "threshold_label": "b6d203c024fd4fae5f51ed5f4eab39a1 b6d203c024fd4fae5f51ed5f4eab39a1",
+                    "toggle_label": "fb4f9b843f297bcd303565c14550d1bf fb4f9b843f297bcd303565c14550d1bf"
+                }
+            },
+            "lib": {
+                "item": {
+                    "all_discussions": "c38059b9665c79c4cb0d6d2dca445454 c38059b9665c79c4cb0d6d2dca445454",
+                    "categories": "010725dd136c913eed2ec1e23476fd13 010725dd136c913eed2ec1e23476fd13",
+                    "fof-byobu": "a961a5181876c026e9e0eb72edafb028 a961a5181876c026e9e0eb72edafb028",
+                    "home": "bf89f6756d11a04ddc3bbac67a272020 bf89f6756d11a04ddc3bbac67a272020",
+                    "log_in": "33f5491540cc60260c748dfffc281ba1 33f5491540cc60260c748dfffc281ba1",
+                    "messages": "efc88d828a8038d29aef619b99394a50 efc88d828a8038d29aef619b99394a50",
+                    "notifications": "ad56bdfef5980c9cd3ea007a070213dd ad56bdfef5980c9cd3ea007a070213dd",
+                    "profile": "326ffa2886c30eac51d2b3f126866732 326ffa2886c30eac51d2b3f126866732",
+                    "search": "113f74280bedb6175d4537bb4270b63c 113f74280bedb6175d4537bb4270b63c",
+                    "session": "89918b82e49675e82d079e381efd5a84 89918b82e49675e82d079e381efd5a84",
+                    "tags": "01a3f33d387ecdb0a4905540494da949 01a3f33d387ecdb0a4905540494da949"
+                }
+            }
+        }
+    },
     "acpl-my-tags.json": {
         "acpl-my-tags": {
             "admin": {
@@ -1410,7 +1453,32 @@
                 "minor_update_confirmation": {
                     "content": "884633186ddbb8c533056542f38543d7 d41d8cd98f00b204e9800998ecf8427e"
                 },
+                "required_php_functions": "d26425a027dc15f0bf5490749dc9cc3e d26425a027dc15f0bf5490749dc9cc3e",
                 "sections": {
+                    "discover": {
+                        "description": "544852cb9dd42b9b8ddac6c0a6b40348 544852cb9dd42b9b8ddac6c0a6b40348",
+                        "empty_results": "2dd46569a6ae73d9d31506337909d43a 2dd46569a6ae73d9d31506337909d43a",
+                        "extension": {
+                            "badges": {
+                                "abandoned": "1e8cbbde6473e1643c3645a360ef8040 1e8cbbde6473e1643c3645a360ef8040",
+                                "flarum": "48a0c5639eafe653dac27d0b60eef2a9 48a0c5639eafe653dac27d0b60eef2a9",
+                                "fof": "452663d962a39fd717cef21fd425ec1c 452663d962a39fd717cef21fd425ec1c"
+                            },
+                            "downloads": "226f4998b857833b2ce00cf066074aab 226f4998b857833b2ce00cf066074aab"
+                        },
+                        "search": "7ae8b43332fae10e1930f45401046425 7ae8b43332fae10e1930f45401046425",
+                        "server_error": "0d3929c14ad3826a004275afc64e49b3 0d3929c14ad3826a004275afc64e49b3",
+                        "sort": {
+                            "top": "caff36d8d8f7755612a56609e879a6d5 caff36d8d8f7755612a56609e879a6d5"
+                        },
+                        "tabs": {
+                            "discover": "050b4feb7016bf5b20666aa3c61af53f 050b4feb7016bf5b20666aa3c61af53f",
+                            "extensions": "9432c84505cb7fcb79b10c739881b145 9432c84505cb7fcb79b10c739881b145",
+                            "languages": "c88b33a3250b4e28f34e1ececba69206 c88b33a3250b4e28f34e1ececba69206",
+                            "themes": "3594f6d01dfe9c3095ef72977d0d7f02 3594f6d01dfe9c3095ef72977d0d7f02"
+                        },
+                        "title": "9432c84505cb7fcb79b10c739881b145 9432c84505cb7fcb79b10c739881b145"
+                    },
                     "queue": {
                         "columns": {
                             "details": "87a8f15ee88c476dade47165f407c51b 87a8f15ee88c476dade47165f407c51b",
@@ -1446,13 +1514,17 @@
                         },
                         "task_just_started": "5ed6534e1d80c216cb3eba602664fb78 5ed6534e1d80c216cb3eba602664fb78",
                         "title": "574e8583f71bb54162df1c1aadde2f28 574e8583f71bb54162df1c1aadde2f28"
+                    },
+                    "settings": {
+                        "description": "e4b135ac28134ac07efd084f54ba8a21 e4b135ac28134ac07efd084f54ba8a21",
+                        "title": "22e2f40def920c61a27d7aa7013ce79c 22e2f40def920c61a27d7aa7013ce79c"
                     }
                 },
                 "settings": {
                     "access_warning": "d2ac78068e2d50ffb1f970b071dd1167 34e2c334db9391c41d6825fcf6fc3aee",
                     "debug_mode_warning": "a2d90ba67deddb480a81c75bab4471d1 36681a7c7aeb32306408b83f566e721b",
                     "queue_jobs": "29794e26849f345dbb1d269f62c7a7cd 29794e26849f345dbb1d269f62c7a7cd",
-                    "queue_jobs_help": "3152e491d5b2520f888204dd044289af 8ff8bdb45b0be5304eb511e275e9884a",
+                    "queue_jobs_help": "5fa7b8fdf4a2b1edeea0b21724af1abf d41d8cd98f00b204e9800998ecf8427e",
                     "task_retention_days": "fcd07302cf56d5bb2843a5b04292f004 fcd07302cf56d5bb2843a5b04292f004",
                     "task_retention_days_help": "7e0fa2e5960df345bd5a06e7929e0765 7e0fa2e5960df345bd5a06e7929e0765",
                     "title": "0ca86c85cafc43a4dbda7ed0736850c0 0ca86c85cafc43a4dbda7ed0736850c0"
@@ -1464,7 +1536,7 @@
                     "global_update_successful": "dc8c978e281b0a2ffd250997a36c9c44 dc8c978e281b0a2ffd250997a36c9c44",
                     "last_update_checked_at": "81135b4cb6e846456f169812eeebcba6 81135b4cb6e846456f169812eeebcba6",
                     "run_global_update": "ce1cf4ce723e6ef740bec100da436266 ce1cf4ce723e6ef740bec100da436266",
-                    "up_to_date": "b6f05f64ab901b15d660f8bf22c7fcb8 b6f05f64ab901b15d660f8bf22c7fcb8",
+                    "up_to_date": "46f589e920aa18d259d04655e6f7f45e d41d8cd98f00b204e9800998ecf8427e",
                     "updater_help": "748e1b5516b289fc9c94ad11430a9214 856d1f8ea38ec962b9fc81b66834e75e",
                     "updater_title": "a562f0a5e46a68cc8acc13802a6bfe96 a562f0a5e46a68cc8acc13802a6bfe96"
                 },
@@ -1521,6 +1593,56 @@
             "ref": {
                 "flag_post": "ade1cf937748925a2b75a2651dd36369 ade1cf937748925a2b75a2651dd36369",
                 "flagged_posts": "374a820a845e30dcebaf6b9682339db0 374a820a845e30dcebaf6b9682339db0"
+            }
+        }
+    },
+    "flarum-gdpr.json": {
+        "flarum-gdpr": {
+            "admin": {
+                "gdpr_page": {
+                    "data_types": {
+                        "anonymize_description": "c1ee10563d0193b94ac0590bd23375cd c1ee10563d0193b94ac0590bd23375cd",
+                        "delete_description": "7fb21a98c50ff67192ef5a4351ca33ba 7fb21a98c50ff67192ef5a4351ca33ba",
+                        "export_description": "be25912241743d457d859711c21236f8 be25912241743d457d859711c21236f8",
+                        "extension": "6bf5c6122b4f10cd75b8e33a45345d78 6bf5c6122b4f10cd75b8e33a45345d78",
+                        "help_text": "f543664dc368416b6de47bc77c7367f2 f543664dc368416b6de47bc77c7367f2",
+                        "title": "7aa9e99e1cb104d44a4c1d7a09e48527 7aa9e99e1cb104d44a4c1d7a09e48527",
+                        "type": "4f427c1457e02bce80e83252111fd27d 4f427c1457e02bce80e83252111fd27d"
+                    },
+                    "description": "da25e24988351df7f08dd016573a1575 da25e24988351df7f08dd016573a1575",
+                    "heading": "df7baa0078f5108b15288741bf8702b7 df7baa0078f5108b15288741bf8702b7",
+                    "settings": {
+                        "extension_settings_button": "4627c6279530e8164368e387c2c02f26 4627c6279530e8164368e387c2c02f26",
+                        "heading": "4627c6279530e8164368e387c2c02f26 4627c6279530e8164368e387c2c02f26",
+                        "help_text": "9994dcf8f149d5a7751bbaf1fcb58051 9994dcf8f149d5a7751bbaf1fcb58051"
+                    },
+                    "user_table_data": {
+                        "column": "99bb6b501ab09beed894e857376b9a4f 99bb6b501ab09beed894e857376b9a4f",
+                        "extension": "6bf5c6122b4f10cd75b8e33a45345d78 6bf5c6122b4f10cd75b8e33a45345d78",
+                        "help_text": "c6ed1d077c92d79e830240b19397ba78 c6ed1d077c92d79e830240b19397ba78",
+                        "no": "bafd7322c6e97d25b6299b5d6fe8920b bafd7322c6e97d25b6299b5d6fe8920b",
+                        "nullable": "79c383947ddb5e89f10a9136f6acf606 79c383947ddb5e89f10a9136f6acf606",
+                        "pii": "7b5eb471694ac78273e516b7e3fb78c9 7b5eb471694ac78273e516b7e3fb78c9",
+                        "pii_tooltip": "8d2fcff0116af3b540fc1aafe1c518aa 8d2fcff0116af3b540fc1aafe1c518aa",
+                        "redacted_on_export": "13585ef8d9eac16a106bb1e33d47ea8c 13585ef8d9eac16a106bb1e33d47ea8c",
+                        "redacted_on_export_tooltip": "43d8040c6e10fcec3b65e6d7e9b9f7c0 43d8040c6e10fcec3b65e6d7e9b9f7c0",
+                        "title": "29b7ebad020dfd2d1656f72a2034dd58 29b7ebad020dfd2d1656f72a2034dd58",
+                        "type": "4f427c1457e02bce80e83252111fd27d 4f427c1457e02bce80e83252111fd27d",
+                        "yes": "29bf7a323f1088692c1ad29f08f4f573 29bf7a323f1088692c1ad29f08f4f573"
+                    }
+                },
+                "nav": {
+                    "gdpr_button": "ed9d7ec327c8be63a2eaab39251699b8 ed9d7ec327c8be63a2eaab39251699b8",
+                    "gdpr_title": "5c183591fd6b52758938e4b3d98b5564 5c183591fd6b52758938e4b3d98b5564"
+                },
+                "permissions": {
+                    "process_erasure": "30d62b6f1674df05edb8b58fec936537 30d62b6f1674df05edb8b58fec936537",
+                    "process_export_for_others": "3c31953e9d90ad74d9904d461dc97ba5 3c31953e9d90ad74d9904d461dc97ba5",
+                    "see_anonymized_user_badges": "97835253c9bb2ca47cc2ce4d2c3166f9 97835253c9bb2ca47cc2ce4d2c3166f9"
+                },
+                "settings": {
+                    "allow_anonymization": "3eec2ef4bb0d3b8632ecc1d1ff34e785 3eec2ef4bb0d3b8632ecc1d1ff34e785"
+                }
             }
         }
     },
