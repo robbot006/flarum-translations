@@ -868,6 +868,9 @@
                     "delete_blatant_spam_help": "d41d8cd98f00b204e9800998ecf8427e d7afe67743c63dc3f65c9fc6656d6def",
                     "delete_blatant_spam_label": "d41d8cd98f00b204e9800998ecf8427e af362f2e939beaa4c2523be665ec0af8",
                     "title": "55aa4f4e3903b7f2c707525d2fe6a052 55aa4f4e3903b7f2c707525d2fe6a052"
+                },
+                "permissions": {
+                    "bypass_akismet": "d41d8cd98f00b204e9800998ecf8427e 75dc6c4c1558d02cb58468b2a27fa393"
                 }
             },
             "forum": {
@@ -1150,7 +1153,7 @@
                 },
                 "post": {
                     "like_link": "f88c70634ad1fa2b1ebb38efeab0879e f88c70634ad1fa2b1ebb38efeab0879e",
-                    "liked_by_self_text": "a1e6fabd76f7bd910a99829c2f45d313 a1e6fabd76f7bd910a99829c2f45d313",
+                    "liked_by_self_text": "a1e6fabd76f7bd910a99829c2f45d313 9b47e55c71c030c4dfa8799d8da09f82",
                     "liked_by_text": "89023e954dce9aa8b581d7e6eaf20f12 89023e954dce9aa8b581d7e6eaf20f12",
                     "others_link": "dae504cea1fdf7bf7bddb02da1aa7ba1 dae504cea1fdf7bf7bddb02da1aa7ba1",
                     "unlike_link": "c25b630bcea8ac5633bf059af4fad3ae c25b630bcea8ac5633bf059af4fad3ae",
