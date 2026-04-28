@@ -2,7 +2,7 @@
     "fof-online-users-widget": {
         "admin": {
             "settings": {
-                "cache_ttl": "",
+                "cache_ttl": "Tiempo de almacenamiento en caché de la lista de usuarios (en segundos)",
                 "last_seen_interval": "",
                 "max_users": ""
             },
