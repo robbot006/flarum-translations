@@ -2434,10 +2434,11 @@
             },
             "email": {
                 "body": {
-                    "private_discussion_added": "dec91a26b787d93bb4e577be8d4b5573 dec91a26b787d93bb4e577be8d4b5573",
-                    "private_discussion_created": "a72febfe6c691883e267660bc50d0157 a72febfe6c691883e267660bc50d0157",
-                    "private_discussion_replied": "4d3521cfc59eb8133a7b3b73b3b7e4da 4d3521cfc59eb8133a7b3b73b3b7e4da",
-                    "recipient_removed": "66b87a924e1c402409e1f0e62265bdb3 66b87a924e1c402409e1f0e62265bdb3"
+                    "made_public": "d1afc195eafa326d482f8976a340b04a d1afc195eafa326d482f8976a340b04a",
+                    "private_discussion_added": "bf2f90be07758901494937af5eb38d48 d41d8cd98f00b204e9800998ecf8427e",
+                    "private_discussion_created": "3b429f6809565b4200d354c3dd9d6e12 d41d8cd98f00b204e9800998ecf8427e",
+                    "private_discussion_replied": "4e7f96d727c974cc2080b2c1b8cba734 d41d8cd98f00b204e9800998ecf8427e",
+                    "recipient_removed": "3dc35a66914a5aca11ae12d73bdea70c d41d8cd98f00b204e9800998ecf8427e"
                 },
                 "subject": {
                     "private_discussion_added": "5c62c79f653140499e932efd4877914d 5c62c79f653140499e932efd4877914d",
@@ -2526,6 +2527,19 @@
                     "dropdown_label": "9725177aba9bda3582b882b59e05b745 9725177aba9bda3582b882b59e05b745",
                     "settings": {
                         "block_pd": "1453a3fc895bc80ced97096c1b619bdb 1453a3fc895bc80ced97096c1b619bdb"
+                    }
+                }
+            },
+            "lib": {
+                "gambits": {
+                    "allows-pd": {
+                        "key": "0a2558de9eb2b7914d50fdc9f7acd3b1 0a2558de9eb2b7914d50fdc9f7acd3b1"
+                    },
+                    "byobu": {
+                        "key": "9326d04113ad8d70a38a1e68fdb10922 9326d04113ad8d70a38a1e68fdb10922"
+                    },
+                    "private": {
+                        "key": "9e287ff16eda75b62b6f65aa61b7656b 9e287ff16eda75b62b6f65aa61b7656b"
                     }
                 }
             }
@@ -2788,6 +2802,12 @@
                     "view_users_count_label": "256a4684e288169e4837593ce8c2dac7 256a4684e288169e4837593ce8c2dac7"
                 },
                 "settings": {
+                    "cache_duration_help": "d17c5ac483e9234133ff07b2fdd70826 d17c5ac483e9234133ff07b2fdd70826",
+                    "cache_duration_label": "96dd9dcc3cc4d3c3a355c9340d278557 96dd9dcc3cc4d3c3a355c9340d278557",
+                    "classic_look_help": "179f90f666e4ff52cd1a153dd5be5e3c 179f90f666e4ff52cd1a153dd5be5e3c",
+                    "classic_look_label": "f9b5a59614ddc6cea3eb942df04f054b f9b5a59614ddc6cea3eb942df04f054b",
+                    "flush_cache_on_new_registration_help": "ed8fe4874d7efa3f29bc0339a03a2062 ed8fe4874d7efa3f29bc0339a03a2062",
+                    "flush_cache_on_new_registration_label": "3c8de55295f2df28e76116094e4f8995 3c8de55295f2df28e76116094e4f8995",
                     "widget_ignore_private_discussions_label": "a75bf2fc5d1227e8a298a0e067ca6cb8 a75bf2fc5d1227e8a298a0e067ca6cb8"
                 }
             },
@@ -4434,6 +4454,34 @@
                     "edit_button": "ef485eb67ac89238a4fede745a0ae94c ef485eb67ac89238a4fede745a0ae94c",
                     "empty_text": "a10f21c076a69b3eb748559f6acc7680 a10f21c076a69b3eb748559f6acc7680",
                     "header_label": "9de5f929c9ec545cb2f3413a275917b8 9de5f929c9ec545cb2f3413a275917b8"
+                }
+            }
+        }
+    },
+    "ianm-oauth-reddit.json": {
+        "fof-oauth": {
+            "admin": {
+                "settings": {
+                    "providers": {
+                        "reddit": {
+                            "client_id_label": "f48ded7c5d322b9943a3c74b53834a75 f48ded7c5d322b9943a3c74b53834a75",
+                            "client_secret_label": "01c7fcf3b9b4c96d29fe46d731d47e3f 01c7fcf3b9b4c96d29fe46d731d47e3f",
+                            "description": "e0329ade563e7f11ee942fe15d97e699 e0329ade563e7f11ee942fe15d97e699"
+                        }
+                    }
+                }
+            },
+            "forum": {
+                "log_in": {
+                    "with_reddit_button": "625db5950e116b42b8d60e995c02ab39 625db5950e116b42b8d60e995c02ab39"
+                },
+                "providers": {
+                    "reddit": "bc4daa78912f7062fdde64e6d19d9c2d bc4daa78912f7062fdde64e6d19d9c2d"
+                }
+            },
+            "lib": {
+                "providers": {
+                    "reddit": "b632c55a33530d1433e29ffc09ba1151 b632c55a33530d1433e29ffc09ba1151"
                 }
             }
         }
