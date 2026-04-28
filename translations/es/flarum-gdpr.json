@@ -2,48 +2,48 @@
     "flarum-gdpr": {
         "admin": {
             "gdpr_page": {
-                "heading": "",
-                "description": "",
+                "heading": "GDPR Resúmen de Datos",
+                "description": "Estado de las distintas acciones e integraciones del GDPR",
                 "data_types": {
-                    "title": "",
-                    "help_text": "",
-                    "type": "",
-                    "export_description": "",
-                    "anonymize_description": "",
-                    "delete_description": "",
-                    "extension": ""
+                    "title": "Tipos de Datos",
+                    "help_text": "Estos son los tipos de datos registrados actualmente. Cada tipo se muestra junto con sus acciones asociadas de exportación, anonimización y eliminación. Si una extensión maneja datos sujetos al GDPR, debe registrar sus tipos de datos en <code>flarum/gdpr</code>.\nLos datos almacenados en la tabla <code>user</code> se gestionan por separado; consulte los datos de la tabla de usuarios a continuación.\n",
+                    "type": "Tipo",
+                    "export_description": "Acción Exportar",
+                    "anonymize_description": "Acción Anonimizar",
+                    "delete_description": "Acción borrar",
+                    "extension": "Extensión"
                 },
                 "settings": {
-                    "heading": "",
-                    "help_text": "",
-                    "extension_settings_button": ""
+                    "heading": "Ajustes GDPR",
+                    "help_text": "¿Buscas los ajustes GDPR? Se encuentran en la página de la extensión.",
+                    "extension_settings_button": "Ajustes GDPR"
                 },
                 "user_table_data": {
-                    "title": "",
-                    "help_text": "",
-                    "column": "",
-                    "type": "",
-                    "nullable": "",
-                    "pii": "",
-                    "redacted_on_export": "",
-                    "extension": "",
-                    "yes": "",
-                    "no": "",
-                    "pii_tooltip": "",
-                    "redacted_on_export_tooltip": ""
+                    "title": "Datos Tabla User",
+                    "help_text": "En su mayor parte, cualquier columna agregada a la tabla <code>user</code>, tanto para exportar datos como para eliminarlos.\nSin embargo, existen algunos casos especiales, que se detallan a continuación.\n",
+                    "column": "Columna",
+                    "type": "Tipo",
+                    "nullable": "Valor nulo",
+                    "pii": "PII",
+                    "redacted_on_export": "Información censurada en la exportación",
+                    "extension": "Extensión",
+                    "yes": "Si",
+                    "no": "No",
+                    "pii_tooltip": "Esta columna se considera información de identificación personal y se eliminará en contextos anonimizados (ej. anonymized event payloads).",
+                    "redacted_on_export_tooltip": "El valor de esta columna se borra (se establece en nulo) al generar una exportación de datos de usuario. La columna sigue apareciendo en la exportación con un valor nulo."
                 }
             },
             "nav": {
-                "gdpr_button": "",
-                "gdpr_title": ""
+                "gdpr_button": "Integraciones GDPR",
+                "gdpr_title": "=> flarum-gdpr.admin.gdpr_page.description"
             },
             "permissions": {
-                "process_erasure": "",
-                "process_export_for_others": "",
-                "see_anonymized_user_badges": ""
+                "process_erasure": "Tramitar solicitudes de borrado",
+                "process_export_for_others": "Solicitar y recibir exportaciones de datos para otros usuarios",
+                "see_anonymized_user_badges": "Ver insignias de usuario anonimizadas"
             },
             "settings": {
-                "allow_anonymization": "",
+                "allow_anonymization": "Permitir el anonimato para las solicitudes de eliminación",
                 "allow_anonymization_help": "",
                 "allow_deletion": "",
                 "allow_deletion_help": "",
