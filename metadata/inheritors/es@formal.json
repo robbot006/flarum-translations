@@ -2535,7 +2535,8 @@
         "fof-default-group": {
             "admin": {
                 "settings": {
-                    "info": "7ea936b1dc3e579b410854b998ac5573 7ea936b1dc3e579b410854b998ac5573"
+                    "info": "7ea936b1dc3e579b410854b998ac5573 7ea936b1dc3e579b410854b998ac5573",
+                    "label": "4b4c62078cea1ddbb654a2e04a469ccb 4b4c62078cea1ddbb654a2e04a469ccb"
                 }
             }
         }
@@ -2797,6 +2798,17 @@
                     "posts_count": "0a16aa4a2df22261704d8c338617d7fa 0a16aa4a2df22261704d8c338617d7fa",
                     "users_count": "e0fafa92afcd463f628d1446802995a0 e0fafa92afcd463f628d1446802995a0",
                     "widget_title": "f66aff29ba32abe0bbc83b1a84c15016 f66aff29ba32abe0bbc83b1a84c15016"
+                }
+            }
+        }
+    },
+    "fof-forum-widgets-core.json": {
+        "fof-forum-widgets-core": {
+            "admin": {
+                "cache_not_writable_warning": "3462c64a4c6554a0da5c387bdebe6744 3462c64a4c6554a0da5c387bdebe6744",
+                "settings": {
+                    "prefer_data_with_initial_load": "dd2380e3474369c7db0e0285a40630a1 dd2380e3474369c7db0e0285a40630a1",
+                    "prefer_data_with_initial_load_help": "2357ce0a30ed6b94b1ec3e2b8db6a3d0 2357ce0a30ed6b94b1ec3e2b8db6a3d0"
                 }
             }
         }
@@ -3529,7 +3541,8 @@
                         "invisible": "a597cc1dc7c7cf43f32acb4e5ba81059 a597cc1dc7c7cf43f32acb4e5ba81059",
                         "v3": "2e9b5c26acc7ccc70cd81927b140d6dd 2e9b5c26acc7ccc70cd81927b140d6dd"
                     },
-                    "v3_threshold_label": "fcdc9a6fae4813b4d5f0838374e3ff03 fcdc9a6fae4813b4d5f0838374e3ff03"
+                    "v3_threshold_help": "24ccf33d50beaa3f3499420c6f4a70ed 24ccf33d50beaa3f3499420c6f4a70ed",
+                    "v3_threshold_label": "c11cce62952ba5f60f0025e47924e85e c11cce62952ba5f60f0025e47924e85e"
                 },
                 "test": {
                     "help_text": "a5df57f5d0b30f36b4d8839921bc08b6 a5df57f5d0b30f36b4d8839921bc08b6",
@@ -3539,6 +3552,12 @@
                     "success_message": "9fc224553a754ca3f9f05463d274621a 9fc224553a754ca3f9f05463d274621a",
                     "title": "0e01bbec846f30bdc5563be1534f41e1 0e01bbec846f30bdc5563be1534f41e1"
                 }
+            },
+            "lib": {
+                "error": "1571c7cd0c94183e003a4b29e3fe556b 1571c7cd0c94183e003a4b29e3fe556b",
+                "not_completed": "ddb1e717dede7a44beb72ab55b2c32ab ddb1e717dede7a44beb72ab55b2c32ab",
+                "rejected": "348d762f38bbbc2e40b0dfdf0dbf3132 348d762f38bbbc2e40b0dfdf0dbf3132",
+                "unknown_error": "7b6f4675038cfa816ab867ebc9b6ee3c 7b6f4675038cfa816ab867ebc9b6ee3c"
             }
         },
         "validation": {
@@ -3778,11 +3797,12 @@
                     "disable-download-logging": "d414946fe0e6f8e772f810ec89db909a d414946fe0e6f8e772f810ec89db909a",
                     "disable-hotlink-protection": "3741881bbd8b04b801eeed9a695808cd 3741881bbd8b04b801eeed9a695808cd",
                     "download_templates": "6644656462e1bfa0b0279b585aed5889 6644656462e1bfa0b0279b585aed5889",
-                    "mime_types": "40ee986c3a5e05152429b13398b38766 40ee986c3a5e05152429b13398b38766",
+                    "mime_types": "c1612ec3e36bb1b5f6f5a82cef6de3c4 d41d8cd98f00b204e9800998ecf8427e",
                     "resize": "3a9881e929315557e1424661b7522751 3a9881e929315557e1424661b7522751",
                     "s3_acl": "376593a36816159b1ba5437ae541f0d0 376593a36816159b1ba5437ae541f0d0",
                     "s3_compatible_storage": "e563430d458996bda21bd5739624e9f5 e563430d458996bda21bd5739624e9f5",
                     "s3_instance_profile": "7af8140b4d73cb4f7426efa5ca180c7b 7af8140b4d73cb4f7426efa5ca180c7b",
+                    "thumbnails": "ad71ba13c0548b551e7f1eae78d137f8 ad71ba13c0548b551e7f1eae78d137f8",
                     "watermark": "03690fe7dc37df7a9239be8c707301d1 03690fe7dc37df7a9239be8c707301d1"
                 },
                 "inspect-mime": {
