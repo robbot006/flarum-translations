@@ -47,7 +47,7 @@
                 "validation": "Validación",
                 "validation-help": "Consulta las <a>reglas de validación de Laravel</a>. Ej: \"string|min:5\" o \"url\".\n",
                 "icon": "Icono",
-                "icon-help": "Introduce el nombre de alguna clase de <a>FontAwesome</a>, <em>incluyendo</em> el prefijo <code>fas fa-</code>.\n",
+                "icon-help": "Muestra un ícono delante de los valores introducidos por el usuario. Para consultar los íconos disponibles, visite el <a>sitio web de FontAwesome</a>. Utilice nombres de íconos con el prefijo \"fa-\", como \"fas fa-info\".\n",
                 "force-user-to-completion": "Obligar al usuario a completar el perfil",
                 "hide-empty-fields": "Esconder campos vacíos",
                 "options": "Opciones",
