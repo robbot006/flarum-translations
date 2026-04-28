@@ -865,6 +865,8 @@
             "admin": {
                 "akismet_settings": {
                     "api_key_label": "d876ff8da67c3731ae25d8335a4168b4 d876ff8da67c3731ae25d8335a4168b4",
+                    "delete_blatant_spam_help": "d41d8cd98f00b204e9800998ecf8427e d7afe67743c63dc3f65c9fc6656d6def",
+                    "delete_blatant_spam_label": "d41d8cd98f00b204e9800998ecf8427e af362f2e939beaa4c2523be665ec0af8",
                     "title": "55aa4f4e3903b7f2c707525d2fe6a052 55aa4f4e3903b7f2c707525d2fe6a052"
                 }
             },
