@@ -3575,7 +3575,14 @@
         "fof-online-users-widget": {
             "admin": {
                 "settings": {
-                    "cache_ttl": "1619ad11395e217158424bf61bf32b47 1619ad11395e217158424bf61bf32b47"
+                    "cache_ttl": "1619ad11395e217158424bf61bf32b47 1619ad11395e217158424bf61bf32b47",
+                    "last_seen_interval": "ab118dc3af153167c2a4756bca811ed2 ab118dc3af153167c2a4756bca811ed2"
+                }
+            },
+            "forum": {
+                "widget": {
+                    "empty": "c2b9eaac84983bb62110c9614fe3a777 c2b9eaac84983bb62110c9614fe3a777",
+                    "title": "01dac21c6443dda2ef9e717358c9249a 01dac21c6443dda2ef9e717358c9249a"
                 }
             }
         }

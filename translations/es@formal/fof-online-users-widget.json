@@ -3,7 +3,7 @@
         "admin": {
             "settings": {
                 "cache_ttl": "Tiempo de almacenamiento en caché de la lista de usuarios (en segundos)",
-                "last_seen_interval": "",
+                "last_seen_interval": "Intervalo de última conexión para considerar a un usuario en línea (en minutos)",
                 "max_users": ""
             },
             "permissions": {
@@ -12,8 +12,8 @@
         },
         "forum": {
             "widget": {
-                "title": "",
-                "empty": ""
+                "title": "Usuarios en línea",
+                "empty": "No hay usuarios en línea."
             }
         }
     }
