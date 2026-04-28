@@ -2,7 +2,7 @@
     "flarum-emoji": {
         "admin": {
             "settings": {
-                "cdn_label": "",
+                "cdn_label": "Dirección mirror CDN",
                 "cdn_help": ""
             }
         },
