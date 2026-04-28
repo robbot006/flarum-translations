@@ -2,34 +2,34 @@
     "flarum-messages": {
         "admin": {
             "permissions": {
-                "send_messages_label": "",
-                "delete_own_messages_label": ""
+                "send_messages_label": "Enviar mensajes privados",
+                "delete_own_messages_label": "Borrar mensajes propios"
             }
         },
         "forum": {
             "composer": {
-                "discard_confirmation": "",
-                "placeholder": "",
-                "recipients": "",
-                "submit_button": "",
-                "to": ""
+                "discard_confirmation": "No enviaste tu mensaje. ¿Seguro que lo vas a descartar?",
+                "placeholder": "Escribe un mensaje...",
+                "recipients": "Destinatarios",
+                "submit_button": "Enviar mensaje",
+                "to": "Para:"
             },
             "dialog_list": {
-                "load_more_button": "",
-                "mark_as_read_tooltip": "",
-                "title": "",
-                "view_all": ""
+                "load_more_button": "=> core.ref.load_more",
+                "mark_as_read_tooltip": "Marcar como leído",
+                "title": "Mensajes",
+                "view_all": "Ver todos los mensajes"
             },
             "dialog_section": {
-                "back_label": "",
-                "cannot_reply_text": "",
+                "back_label": "Volver",
+                "cannot_reply_text": "Este usuario no puede responder",
                 "controls": {
-                    "details_button": ""
+                    "details_button": "Detalles"
                 },
-                "controls_toggle_label": "",
+                "controls_toggle_label": "Acciones de control de diálogo",
                 "details_modal": {
-                    "created_at": "",
-                    "recipients": "",
+                    "created_at": "Fecha de creación",
+                    "recipients": "Participantes",
                     "title": ""
                 }
             },
