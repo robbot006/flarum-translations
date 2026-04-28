@@ -1242,6 +1242,8 @@
             "admin": {
                 "akismet_settings": {
                     "api_key_label": "e90848de6ed45e745a3368edff05a6a6 d876ff8da67c3731ae25d8335a4168b4",
+                    "delete_blatant_spam_help": "d7afe67743c63dc3f65c9fc6656d6def d7afe67743c63dc3f65c9fc6656d6def",
+                    "delete_blatant_spam_label": "af362f2e939beaa4c2523be665ec0af8 af362f2e939beaa4c2523be665ec0af8",
                     "title": "55aa4f4e3903b7f2c707525d2fe6a052 55aa4f4e3903b7f2c707525d2fe6a052"
                 }
             },
@@ -1766,7 +1768,8 @@
                     "release-discussion-updates-help": "6e7b37149a1e40082db36963969ca77b 6e7b37149a1e40082db36963969ca77b",
                     "release-discussion-updates-interval": "e55120ad71458effd14173bfadc55555 e55120ad71458effd14173bfadc55555",
                     "release-discussion-updates-interval-help": "fbdb576cbb7d684b87feb9bef9f1dd5b fbdb576cbb7d684b87feb9bef9f1dd5b",
-                    "typing-indicator": "03dfec002965ec828adb76739ff4afc6 03dfec002965ec828adb76739ff4afc6"
+                    "typing-indicator": "03dfec002965ec828adb76739ff4afc6 03dfec002965ec828adb76739ff4afc6",
+                    "typing-indicator-help": "0255ab46bff2acfe525d598f5a027997 0255ab46bff2acfe525d598f5a027997"
                 }
             },
             "forum": {
