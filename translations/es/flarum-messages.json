@@ -30,22 +30,22 @@
                 "details_modal": {
                     "created_at": "Fecha de creación",
                     "recipients": "Participantes",
-                    "title": ""
+                    "title": "Detalles de la conversación"
                 }
             },
             "header": {
-                "dropdown_tooltip": ""
+                "dropdown_tooltip": "Mensajes"
             },
             "index": {
-                "messages_link": ""
+                "messages_link": "Mensajes"
             },
             "index_sort": {
-                "latest_button": "",
-                "newest_button": "",
-                "oldest_button": ""
+                "latest_button": "Últimos",
+                "newest_button": "Nuevos",
+                "oldest_button": "Viejos"
             },
             "message_controls": {
-                "delete_button": "",
+                "delete_button": "Borrar",
                 "delete_confirmation": ""
             },
             "messages_page": {
