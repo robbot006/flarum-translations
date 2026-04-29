@@ -38,7 +38,7 @@
                 "expiration_reminder_days": "Ablauferinnerung (Tage)",
                 "expiration_reminder_days_help": "Sendet E-Mail-Erinnerungen an Anzeigeninhaber so viele Tage vor Ablauf ihrer Anzeige. Setze den Wert auf 0, um diese Funktion zu deaktivieren.",
                 "send_performance_reports": "Leistungsberichte senden",
-                "send_performance_reports_help": "Füge beim Versenden von Benachrichtigungs-E-Mails Leistungsberichten (Impressionen, Klicks, Klickrate) hinzu.",
+                "send_performance_reports_help": "Füge beim Versenden von Benachrichtigungs-E-Mails Leistungsberichten (Aufrufe, Klicks, Klickrate) hinzu.",
                 "notifications_info": "Um Benachrichtigungen zu versenden, füge einen Cron-Job hinzu: php flarum ad-management:send-notifications",
                 "image_settings_title": "Bildeinstellungen",
                 "notifications_title": "E-Mail-Benachrichtigungen",
@@ -115,11 +115,11 @@
                 "priority_help": "Anzeigen mit höherer Priorität werden zuerst angezeigt. Der Standardwert ist 0.",
                 "group_visibility": "Gruppensichtbarkeit",
                 "group_visibility_help": "Durch Kommas getrennte Gruppen-IDs. Leer lassen, um allen Gruppen anzuzeigen.",
-                "max_impressions": "Maximale Impressionen",
+                "max_impressions": "Maximale Aufrufe",
                 "max_impressions_help": "Die Anzeige wird nach dieser Anzahl an Aufrufen deaktiviert. Für eine unbegrenzte Anzahl lasse das Feld leer.",
                 "max_clicks": "Maximale Klicks",
                 "max_clicks_help": "Die Anzeige wird nach dieser Anzahl an Klicks deaktiviert. Für eine unbegrenzte Anzahl lasse das Feld leer.",
-                "max_image_changes": "",
+                "max_image_changes": "Maximale Anzahl Bildänderungen",
                 "owner": "Anzeigeninhaber",
                 "owner_help": "Benutzername des Inserenten. Leer lassen, wenn kein Inserent vorhanden ist.",
                 "empty": "Keine Werbebanner gefunden.",
@@ -128,9 +128,9 @@
                 "pending_badge": "Ausstehend ({count})",
                 "approve": "Genehmigen",
                 "reject": "Ablehnen",
-                "approve_image": "",
-                "reject_image": "",
-                "pending_image_badge": "",
+                "approve_image": "Bildänderung genehmigen",
+                "reject_image": "Bildänderung ablehnen",
+                "pending_image_badge": "Bild ausstehend",
                 "statuses": {
                     "active": "Aktiv",
                     "inactive": "Inaktiv",
@@ -150,13 +150,13 @@
                     "adsense": "Google AdSense"
                 },
                 "stats": {
-                    "impressions": "",
+                    "impressions": "Aufrufe",
                     "clicks": "Klicks",
-                    "ctr": ""
+                    "ctr": "Klickrate"
                 }
             },
             "analytics": {
-                "title": "",
+                "title": "Analytics",
                 "select_ad": "Anzeige auswählen…",
                 "period": "Zeitraum",
                 "periods": {
@@ -164,10 +164,10 @@
                     "30d": "Letzte 30 Tage",
                     "90d": "Letzte 90 Tage"
                 },
-                "total_impressions": "",
+                "total_impressions": "Gesamtanzahl der Aufrufe (insgesamt)",
                 "total_clicks": "Gesamtanzahl der Klicks (insgesamt)",
                 "period_clicks": "Klicks (Zeitraum)",
-                "ctr": "",
+                "ctr": "Klickrate",
                 "clicks_by_day": "Klicks pro Tag",
                 "date": "Datum",
                 "clicks_header": "Klicks",
