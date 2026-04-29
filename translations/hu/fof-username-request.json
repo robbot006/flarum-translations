@@ -72,7 +72,7 @@
             },
             "pending_requests": {
                 "empty_text": "Nem található névmódosítási kérés.",
-                "group_label": "",
+                "group_label": "Kérések",
                 "nickname_item_text": "{name} becenév-módosítást kért",
                 "nickname_exerpt": "Kért becenév: {requestedName}",
                 "tooltip": "=> fof-username-request.ref.name_change_requests",
