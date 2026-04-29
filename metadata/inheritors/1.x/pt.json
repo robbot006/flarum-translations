@@ -2468,6 +2468,13 @@
             }
         }
     },
+    "walsgit-discussion-cards.json": {
+        "walsgit_discussion_cards": {
+            "forum": {
+                "replies": "2338b2b1c03b3a3051d25b46394f6a55 2338b2b1c03b3a3051d25b46394f6a55"
+            }
+        }
+    },
     "walsgit-recycle-bin.json": {
         "walsgit-recycle-bin": {
             "admin": {

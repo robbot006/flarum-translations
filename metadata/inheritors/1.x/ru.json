@@ -7847,6 +7847,24 @@
             "uploaded": "f84289686379bbbeff3078bc73cfc397 f84289686379bbbeff3078bc73cfc397"
         }
     },
+    "walsgit-discussion-cards.json": {
+        "walsgit_discussion_cards": {
+            "admin": {
+                "settings": {
+                    "general": {
+                        "allowedTags_help": "5bd90b001e92ab13b77589efbc900328 5bd90b001e92ab13b77589efbc900328",
+                        "allowedTags_label": "d926cd34b3886c0567bd3e4a8e3a8540 d926cd34b3886c0567bd3e4a8e3a8540",
+                        "onIndexPage_label": "e3ad3a3876db3d59afd5adf0ee3fc362 e3ad3a3876db3d59afd5adf0ee3fc362",
+                        "where_info": "15024227577e0f99f2810492965fc51a 15024227577e0f99f2810492965fc51a",
+                        "where_title": "1e890c6985cb8948189edad38c2220ca 1e890c6985cb8948189edad38c2220ca"
+                    }
+                }
+            },
+            "forum": {
+                "replies": "440b1c24686f5680799b748acca06a09 440b1c24686f5680799b748acca06a09"
+            }
+        }
+    },
     "walsgit-recycle-bin.json": {
         "walsgit-recycle-bin": {
             "admin": {

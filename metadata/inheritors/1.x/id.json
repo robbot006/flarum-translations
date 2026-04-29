@@ -7133,6 +7133,99 @@
             }
         }
     },
+    "walsgit-discussion-cards.json": {
+        "walsgit_discussion_cards": {
+            "admin": {
+                "errors": {
+                    "desktopCardWidth": "72f114f1629990dbb9fe92421b37ff27 72f114f1629990dbb9fe92421b37ff27",
+                    "primaryCards": "56a623e57564287cc35ed0b087122c6f 56a623e57564287cc35ed0b087122c6f",
+                    "tabletCardWidth": "ed8304775af8b558a455a5bdb997d741 ed8304775af8b558a455a5bdb997d741"
+                },
+                "settings": {
+                    "general": {
+                        "allowRepostLinks_help": "912530201116efa3b4a8383f2425059d 912530201116efa3b4a8383f2425059d",
+                        "allowRepostLinks_label": "2b825b8209dbcf66446c1b081a3cec37 2b825b8209dbcf66446c1b081a3cec37",
+                        "allowedTags_help": "233ad410e083dcc959382a37acb53fba 233ad410e083dcc959382a37acb53fba",
+                        "allowedTags_label": "a1f1a5c2576cd4e5027df318b6def404 a1f1a5c2576cd4e5027df318b6def404",
+                        "blogExtension_notActivated": "b4573737b7a9bbfd1ef7eb2e336eb8ac b4573737b7a9bbfd1ef7eb2e336eb8ac",
+                        "blogExtension_notInstalled": "b09e78df128e34007e2d4ae242458937 b09e78df128e34007e2d4ae242458937",
+                        "blogExtension_title_end": "3e26adccbc088d0c091d53b928bbf1d6 3e26adccbc088d0c091d53b928bbf1d6",
+                        "blogExtension_title_start": "6f30aa0fea20cecdb4e124374ffe0990 6f30aa0fea20cecdb4e124374ffe0990",
+                        "cardOptions_info": "cc20eb0cb37d5c730b7e80a17af40bce cc20eb0cb37d5c730b7e80a17af40bce",
+                        "cardOptions_title": "964384f1a5f46fc941527655a5b2bcd7 964384f1a5f46fc941527655a5b2bcd7",
+                        "defaultImage_info": "b3e6458f05799a355a19a57d3d2dc9a2 b3e6458f05799a355a19a57d3d2dc9a2",
+                        "defaultImage_title": "ec48cc91bec4fe9f929c73c127ec2405 ec48cc91bec4fe9f929c73c127ec2405",
+                        "desktopCardWidth_help": "fb7e8b32c8b77068834526abd855cc07 fb7e8b32c8b77068834526abd855cc07",
+                        "desktopCardWidth_label": "27917af35786c4a974bc61f8008fbe19 27917af35786c4a974bc61f8008fbe19",
+                        "markReadCards_help": "bca9093bc9b60c4f5d5de2dcc45dd424 bca9093bc9b60c4f5d5de2dcc45dd424",
+                        "markReadCards_label": "94fd43bc248cb86efd8bf86cb1d9c63d 94fd43bc248cb86efd8bf86cb1d9c63d",
+                        "onIndexPage_help": "2e3e08371b1885893b0708fd1fd197c3 2e3e08371b1885893b0708fd1fd197c3",
+                        "onIndexPage_label": "53251c7d584af90505dd5393a2e82570 53251c7d584af90505dd5393a2e82570",
+                        "otherOptions_info": "dff301ce1a8d52c5ca29fee9388f0ed2 dff301ce1a8d52c5ca29fee9388f0ed2",
+                        "otherOptions_title": "2985e7af6508068f6a398949b8797b4f 2985e7af6508068f6a398949b8797b4f",
+                        "previewText_help": "74617bd8198da3556b00ab98b0754237 74617bd8198da3556b00ab98b0754237",
+                        "previewText_label": "6759ad97bb4c33501d4a907d11cfa112 6759ad97bb4c33501d4a907d11cfa112",
+                        "primaryCardOptions_info": "c59ede9b85bd4e254811a652bbfaf5fd c59ede9b85bd4e254811a652bbfaf5fd",
+                        "primaryCardOptions_title": "d0790d9064141a9dec976567ecc947b3 d0790d9064141a9dec976567ecc947b3",
+                        "primaryCards_help": "46e977be418f848287555300883d4b55 46e977be418f848287555300883d4b55",
+                        "primaryCards_label": "ea09ba58a2bdab0db438072624e94194 ea09ba58a2bdab0db438072624e94194",
+                        "repostExtension_notActivated": "6cb026313de633f66def2da6a244ed72 6cb026313de633f66def2da6a244ed72",
+                        "repostExtension_notInstalled": "06e82e941603052ffb99d3d1d01c979f 06e82e941603052ffb99d3d1d01c979f",
+                        "repostExtension_title_end": "be163eb9f59ab2a129e94552857018bb be163eb9f59ab2a129e94552857018bb",
+                        "repostExtension_title_start": "6f30aa0fea20cecdb4e124374ffe0990 6f30aa0fea20cecdb4e124374ffe0990",
+                        "showAuthor_help": "5c6633d1e83a24794ed9e8e7aff14894 5c6633d1e83a24794ed9e8e7aff14894",
+                        "showAuthor_label": "6e8b449777d9e9484be418b18371715d 6e8b449777d9e9484be418b18371715d",
+                        "showBadges_help": "fcf72298c88af34d46d2351e2b0ca7f9 fcf72298c88af34d46d2351e2b0ca7f9",
+                        "showBadges_label": "eef1049d8fc43030d683066238bbf3b0 eef1049d8fc43030d683066238bbf3b0",
+                        "showLastPostInfo_help": "68490725221a269dcef3dd1f661aaae5 68490725221a269dcef3dd1f661aaae5",
+                        "showLastPostInfo_label": "7c022f61620812ca8124fc85f1b7a751 7c022f61620812ca8124fc85f1b7a751",
+                        "showRepliesOnRight_help": "b77f1398938b0778ffd87e45c46ef01e b77f1398938b0778ffd87e45c46ef01e",
+                        "showRepliesOnRight_label": "3ef82d32ce83291a234c46c1e12d71c8 3ef82d32ce83291a234c46c1e12d71c8",
+                        "showReplies_help": "19063c57bdffcd7309dcb2fb5b213723 19063c57bdffcd7309dcb2fb5b213723",
+                        "showReplies_label": "540ca256c51340d9703c500d1423f5a8 540ca256c51340d9703c500d1423f5a8",
+                        "showViews_help": "1d3862517c93822e745355e384ec4885 1d3862517c93822e745355e384ec4885",
+                        "showViews_label": "c3bb5a9c3a20332143014b27a47d28cd c3bb5a9c3a20332143014b27a47d28cd",
+                        "showViews_title_end": "e4285a666c9580b5077f1bf7d3686ecc e4285a666c9580b5077f1bf7d3686ecc",
+                        "showViews_title_or": "087cd61ed5a8c6b074c7e3d07afd23d6 087cd61ed5a8c6b074c7e3d07afd23d6",
+                        "showViews_title_start": "6f30aa0fea20cecdb4e124374ffe0990 6f30aa0fea20cecdb4e124374ffe0990",
+                        "tabletCardWidth_help": "7cd79bbcf997f18be61c42afb128ff18 7cd79bbcf997f18be61c42afb128ff18",
+                        "tabletCardWidth_label": "978d99d13b34bfa93cf4f9b56cd66eb4 978d99d13b34bfa93cf4f9b56cd66eb4",
+                        "useBlogImages_help": "a10a734588bbce1466a535188487159a a10a734588bbce1466a535188487159a",
+                        "useBlogImages_label": "fc64bbb1a72a9cba69876f1e52e52ae8 fc64bbb1a72a9cba69876f1e52e52ae8",
+                        "useBlogSummary_help": "cc03d3d6f827516d26347c5c5651de81 cc03d3d6f827516d26347c5c5651de81",
+                        "useBlogSummary_label": "07070f749364ad62273e537c9008d5ca 07070f749364ad62273e537c9008d5ca",
+                        "viewsExtension_notActivated": "b8ddd3805e04e8eda874a9670f9aa8b0 b8ddd3805e04e8eda874a9670f9aa8b0",
+                        "viewsExtension_notInstalled": "1536cb7165b84604f2b89c61638f52c9 1536cb7165b84604f2b89c61638f52c9",
+                        "where_info": "5972f53483e8f522028c6a4bf94446fe 5972f53483e8f522028c6a4bf94446fe",
+                        "where_title": "1150a4c2031cdd68d8f6da0e06d67446 1150a4c2031cdd68d8f6da0e06d67446"
+                    }
+                },
+                "tag_modal": {
+                    "desktopCardWidth_help": "d05b1d6c84e83aacdfee655d46343cc8 d05b1d6c84e83aacdfee655d46343cc8",
+                    "desktopCardWidth_label": "27917af35786c4a974bc61f8008fbe19 27917af35786c4a974bc61f8008fbe19",
+                    "intro_text": "87a654207047e7004717b01b2ca0040f 87a654207047e7004717b01b2ca0040f",
+                    "primaryCards_help": "2c43b58437759944f25b038c0a938556 2c43b58437759944f25b038c0a938556",
+                    "primaryCards_label": "ea09ba58a2bdab0db438072624e94194 ea09ba58a2bdab0db438072624e94194",
+                    "submit_button": "d44370283a1a96ea51797c649c336c04 d44370283a1a96ea51797c649c336c04",
+                    "tabletCardWidth_help": "963c1615650b5ae979e4038e87035b55 963c1615650b5ae979e4038e87035b55",
+                    "tabletCardWidth_label": "978d99d13b34bfa93cf4f9b56cd66eb4 978d99d13b34bfa93cf4f9b56cd66eb4",
+                    "title": "3343c6fd5d772450de13fc8e3c1a5e20 3343c6fd5d772450de13fc8e3c1a5e20"
+                },
+                "tags": {
+                    "activation_button": "343403bbdf27f0f109716759575a0c00 343403bbdf27f0f109716759575a0c00",
+                    "deactivation_button": "5b74c52021dd0ad40375447a416d0c9d 5b74c52021dd0ad40375447a416d0c9d",
+                    "defaultImage_info": "5a1ab6647960229a2c7931351880cb0b 5a1ab6647960229a2c7931351880cb0b",
+                    "defaultImage_title": "9c965d9aab0f91819a23eb85f99cf41a 9c965d9aab0f91819a23eb85f99cf41a",
+                    "options_button": "4af6dd1cd01be7c3dbed59490eb43b60 4af6dd1cd01be7c3dbed59490eb43b60",
+                    "options_heading": "6e044fd212ecd07d21da8adeed2fa4b1 6e044fd212ecd07d21da8adeed2fa4b1"
+                }
+            },
+            "forum": {
+                "replies": "4322cc6249027a81b508362a9c770a31 4322cc6249027a81b508362a9c770a31",
+                "unreadReplies": "3edf6bb9b01c76cf250a1084ac57a188 3edf6bb9b01c76cf250a1084ac57a188"
+            }
+        }
+    },
     "walsgit-recycle-bin.json": {
         "walsgit-recycle-bin": {
             "admin": {
