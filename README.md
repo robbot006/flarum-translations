@@ -984,6 +984,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`tryhackx-thumb-sliders`](https://weblate.rob006.net/projects/flarum2/tryhackx-thumb-sliders) | [`tryhackx/flarum-thumb-sliders`](https://github.com/TryHackX/flarum-thumb-sliders) |
 | [`tryhackx-topic-rating`](https://weblate.rob006.net/projects/flarum2/tryhackx-topic-rating) | [`tryhackx/flarum-topic-rating`](https://github.com/TryHackX/flarum-topic-rating) |
 | [`vlssu-cravatar`](https://weblate.rob006.net/projects/flarum2/vlssu-cravatar) | [`vlssu/flarum-cravatar`](https://github.com/vlssu/flarum-cravatar) |
+| [`walsgit-discussion-cards`](https://weblate.rob006.net/projects/flarum2/walsgit-discussion-cards) | [`walsgit/flarum-discussion-cards`](https://github.com/WalsGit/flarum-discussion-cards) |
 | [`walsgit-recycle-bin`](https://weblate.rob006.net/projects/flarum2/walsgit-recycle-bin) | [`walsgit/recycle-bin`](https://github.com/WalsGit/recycle-bin) |
 | [`yippy-auth-ldap`](https://weblate.rob006.net/projects/flarum2/yippy-auth-ldap) | [`yippy/flarum-ext-auth-ldap`](https://github.com/Yippy/flarum-ext-auth-ldap) |
 | [`yippy-tag-with-themes`](https://weblate.rob006.net/projects/flarum2/yippy-tag-with-themes) | [`yippy/flarum-tag-with-themes`](https://github.com/Yippy/flarum-tag-with-themes) |
