@@ -8247,10 +8247,16 @@
                     "http_only_label": "b8c808945f2c2077184aebadc2912819 b8c808945f2c2077184aebadc2912819",
                     "max_trackers_help": "2ee7a901244045650accad2a0fff8ae0 2ee7a901244045650accad2a0fff8ae0",
                     "max_trackers_label": "a46c7a6870cd2fde08177a10acea080d a46c7a6870cd2fde08177a10acea080d",
+                    "rename_enabled_help": "0c14e130b1a26bd0843a6c2e390d67a7 0c14e130b1a26bd0843a6c2e390d67a7",
+                    "rename_enabled_label": "20945fc096e4fc98248ef69e60ed94e3 20945fc096e4fc98248ef69e60ed94e3",
                     "scraper_enabled_help": "765c214b1197adcef09557903bc0a564 765c214b1197adcef09557903bc0a564",
                     "scraper_enabled_label": "84e8c0235375e3b9c065dad55bde5980 84e8c0235375e3b9c065dad55bde5980",
+                    "self_interval_help": "7bdb77e2fba51c5e2f01a24c5d327194 7bdb77e2fba51c5e2f01a24c5d327194",
+                    "self_interval_label": "abc9147522060d81370487e5f7c7a09d abc9147522060d81370487e5f7c7a09d",
                     "tooltip_enabled_help": "49819d49ae12cfee26a77bc56f9f406a 49819d49ae12cfee26a77bc56f9f406a",
                     "tooltip_enabled_label": "96e198285a4166de57e4b67b62d15a71 96e198285a4166de57e4b67b62d15a71",
+                    "tooltip_max_magnets_help": "3541b5e054f6e810d8eb31d0da81adb5 3541b5e054f6e810d8eb31d0da81adb5",
+                    "tooltip_max_magnets_label": "6a29d4966abbe466ff151cd722d0e56a 6a29d4966abbe466ff151cd722d0e56a",
                     "tracker_timeout_help": "a6c8f7c7130207525bc7df878e992249 a6c8f7c7130207525bc7df878e992249",
                     "tracker_timeout_label": "e299e590f91a6bb25dfd471f2c3d6b88 e299e590f91a6bb25dfd471f2c3d6b88"
                 },
@@ -8272,13 +8278,40 @@
                     "tooltip": "461780624cf64f55fb6813539fbca3a8 461780624cf64f55fb6813539fbca3a8"
                 },
                 "email_not_confirmed": "0cc65c06d324524ae56af99b9d506a58 0cc65c06d324524ae56af99b9d506a58",
+                "errors": {
+                    "invalid_magnet": "8454da52471e6dd497de733b21ad77af 8454da52471e6dd497de733b21ad77af",
+                    "load_failed": "de4519953923bdd8286238c34c939826 de4519953923bdd8286238c34c939826",
+                    "no_http_trackers": "acab0ed4ce537d0132ae584b14d62089 acab0ed4ce537d0132ae584b14d62089",
+                    "no_response": "c950d23cc1ead0abd9671e22603bd547 c950d23cc1ead0abd9671e22603bd547",
+                    "no_trackers": "f08514cbda2645aadac81381e97371db f08514cbda2645aadac81381e97371db",
+                    "scraper_error": "1c90e8b5db024a56a87227e3710c1d44 1c90e8b5db024a56a87227e3710c1d44"
+                },
                 "guest_not_allowed": "a537b2ae63bceb8667d32a9a649e49c5 a537b2ae63bceb8667d32a9a649e49c5",
+                "leeches": "1a57a11ac754b8f4d63d5cf0631fd2b0 1a57a11ac754b8f4d63d5cf0631fd2b0",
+                "loading": "40028e6e837ae7e52fd32cbbf0fd7aa0 40028e6e837ae7e52fd32cbbf0fd7aa0",
                 "login": "ecff6ecb514e3e1b66f8b07d8b78bafe ecff6ecb514e3e1b66f8b07d8b78bafe",
                 "or": "55c4e4828c1b00e077512c9b5abff931 55c4e4828c1b00e077512c9b5abff931",
                 "permission_denied": "42eb373a9e877e25870289dc8aef35cb 42eb373a9e877e25870289dc8aef35cb",
                 "refresh": "f24a7cd31f46d70254c4aaa0bd502a70 f24a7cd31f46d70254c4aaa0bd502a70",
                 "register": "e402136bbbf3f32728e0bdcc50cfb792 e402136bbbf3f32728e0bdcc50cfb792",
-                "size": "4232e6a84d0e70bb69236dd4d4611817 4232e6a84d0e70bb69236dd4d4611817"
+                "rename": {
+                    "cancel": "4b97278b444c0203fc17d7b93a39f5c7 4b97278b444c0203fc17d7b93a39f5c7",
+                    "label": "c99bd35a92ba30de2eabe88e633473ff c99bd35a92ba30de2eabe88e633473ff",
+                    "modal_title": "3b03e8036cb4c5f0ce6ff9582f478f20 3b03e8036cb4c5f0ce6ff9582f478f20",
+                    "restore": "4256fd1d90fdfb36a2a3f0ba9e3731bd 4256fd1d90fdfb36a2a3f0ba9e3731bd",
+                    "save": "b97d23bf800ff592f7afe97a29921271 b97d23bf800ff592f7afe97a29921271",
+                    "tooltip": "3b03e8036cb4c5f0ce6ff9582f478f20 3b03e8036cb4c5f0ce6ff9582f478f20"
+                },
+                "seeds": "84bcab50aeba4807b24ac90fb1caeccf 84bcab50aeba4807b24ac90fb1caeccf",
+                "size": "4232e6a84d0e70bb69236dd4d4611817 4232e6a84d0e70bb69236dd4d4611817",
+                "tooltip": {
+                    "header": "09ee5e3d6d86c6e0ba8c8aee0360f5b3 09ee5e3d6d86c6e0ba8c8aee0360f5b3",
+                    "loading": "40028e6e837ae7e52fd32cbbf0fd7aa0 40028e6e837ae7e52fd32cbbf0fd7aa0",
+                    "no_magnets": "84c2e0f6365c9c56de44cab410bf2a24 84c2e0f6365c9c56de44cab410bf2a24"
+                }
+            },
+            "permissions": {
+                "viewMagnetLinks": "451780c9c01fbf8a00a5e300bbfae7fa 451780c9c01fbf8a00a5e300bbfae7fa"
             }
         }
     },

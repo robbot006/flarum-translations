@@ -25,10 +25,10 @@
                 "click_tracking_help": "Erfassen und anzeigen, wie oft auf jeden Magnet-Link geklickt wurde.",
                 "tooltip_enabled_label": "Tooltip für Diskussion aktivieren",
                 "tooltip_enabled_help": "Statistiken zu Magnet-Links anzeigen, wenn man mit der Maus über Beiträge in der Diskussionsliste fährt.",
-                "tooltip_max_magnets_label": "",
-                "tooltip_max_magnets_help": "",
-                "rename_enabled_label": "",
-                "rename_enabled_help": "",
+                "tooltip_max_magnets_label": "Maximale Anzahl von Magnets im Tooltip",
+                "tooltip_max_magnets_help": "Maximale Anzahl der Magnet-Links, die im Tooltip der Diskussion angezeigt werden. Setze den Wert auf 0, um die Anzahl nicht zu begrenzen.",
+                "rename_enabled_label": "Benutzerdefinierte Torrent-Namen aktivieren",
+                "rename_enabled_help": "Erlaube den Autoren von Beiträgen, die Anzeigenamen von Magnet-Links in ihren eigenen Beiträgen umzubenennen.",
                 "ban_enabled_label": "Spamschutz aktivieren",
                 "ban_enabled_help": "Sperre IP-Adressen vorübergehend, die innerhalb kurzer Zeit zu viele Magnet-Links anklicken, um Manipulationen der Klickzahlen zu verhindern.",
                 "ban_time_label": "Sperrdauer (Minuten)",
@@ -37,8 +37,8 @@
                 "ban_interval_help": "Zeitfenster für die Zählung der Klicks, um festzustellen, ob eine IP-Adresse gesperrt werden soll.",
                 "ban_interval_count_label": "Sperrschwelle",
                 "ban_interval_count_help": "Anzahl der Klicks innerhalb des Zeitfensters, die eine Sperre auslösen.",
-                "self_interval_label": "",
-                "self_interval_help": ""
+                "self_interval_label": "Intervall zwischen Selbstklicks (Tage)",
+                "self_interval_help": "Wie lange es dauert, bis dieselbe IP-Adresse die Klickzahl für denselben Magnet-Link erneut erhöhen kann."
             },
             "support": {
                 "button": "Unterstütze die Entwicklung",
@@ -49,9 +49,9 @@
             }
         },
         "forum": {
-            "loading": "",
-            "seeds": "",
-            "leeches": "",
+            "loading": "Magnetdaten werden geladen...",
+            "seeds": "Seeds:",
+            "leeches": "Leeches:",
             "completed": "Heruntergeladen:",
             "clicks": "Klicks:",
             "size": "Größe:",
@@ -69,29 +69,29 @@
                 "invalid": "Ungültiger Magnet-Link. Der Link muss mit „magnet:“ beginnen."
             },
             "tooltip": {
-                "header": "",
-                "loading": "",
-                "no_magnets": ""
+                "header": "Magnet-Links",
+                "loading": "Magnetdaten werden geladen...",
+                "no_magnets": "In dieser Diskussion gibt es keine Magnet-Links"
             },
             "rename": {
-                "tooltip": "",
-                "modal_title": "",
-                "label": "",
-                "save": "",
-                "cancel": "",
-                "restore": ""
+                "tooltip": "Torrent umbenennen",
+                "modal_title": "Torrent umbenennen",
+                "label": "Benutzerdefinierter Name:",
+                "save": "Speichern",
+                "cancel": "Abbrechen",
+                "restore": "Ursprünglichen Namen wiederherstellen"
             },
             "errors": {
-                "invalid_magnet": "",
-                "no_trackers": "",
-                "no_http_trackers": "",
-                "no_response": "",
-                "scraper_error": "",
-                "load_failed": ""
+                "invalid_magnet": "Ungültiges Magnet-Link-Format",
+                "no_trackers": "Der Magnet-Link enthält keine Tracker",
+                "no_http_trackers": "Es sind keine HTTP(S)-Tracker verfügbar",
+                "no_response": "Kein Tracker hat geantwortet",
+                "scraper_error": "Es konnte keine Verbindung zu den Trackern hergestellt werden",
+                "load_failed": "Magnetdaten konnten nicht geladen werden"
             }
         },
         "permissions": {
-            "viewMagnetLinks": ""
+            "viewMagnetLinks": "Magnet-Links anzeigen"
         }
     }
 }
