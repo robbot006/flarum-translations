@@ -63,28 +63,28 @@
         "ipv4": "El campo :attribute debe ser una dirección IPv4 válida.",
         "ipv6": "El campo :attribute debe ser una dirección IPv6 válida.",
         "json": "El campo :attribute debe es un string JSON válido.",
-        "lowercase": "",
+        "lowercase": "El campo :attribute debe estar en minúsculas.",
         "lt": {
-            "array": "",
-            "file": "",
-            "numeric": "",
-            "string": ""
+            "array": "El campo :attribute debe contener menos de :value ítems.",
+            "file": "El campo :attribute debe tener menos de :value kilobytes.",
+            "numeric": "El campo :attribute debe ser menos de :value.",
+            "string": "El campo :attribute debe tener menos de :value caracteres."
         },
         "lte": {
-            "array": "",
-            "file": "",
-            "numeric": "",
-            "string": ""
+            "array": "El campo :attribute no debe contener más de :value ítems.",
+            "file": "El campo :attribute debe ser menor o igual a :value kilobytes.",
+            "numeric": "El campo :attribute debe ser menor o igual a :value.",
+            "string": "El campo :attribute debe ser menor o igual a :value caracteres."
         },
-        "mac_address": "",
+        "mac_address": "El campo :attribute debe ser una dirección MAC válida.",
         "max": {
-            "array": "",
-            "file": "",
-            "numeric": "",
-            "string": ""
+            "array": "El campo :attribute no debe tener más de :max ítems.",
+            "file": "El campo :attribute no debe superar los :max kilobytes.",
+            "numeric": "El campo :attribute no debe superar :max.",
+            "string": "El campo :attribute no debe superar :max caracteres."
         },
-        "max_digits": "",
-        "mimes": "",
+        "max_digits": "El campo :attribute no debe tener más de :max dígitos.",
+        "mimes": "El campo :attribute debe ser un archivo de tipo: :values.",
         "mimetypes": "",
         "min": {
             "array": "",
