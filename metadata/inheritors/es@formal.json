@@ -5300,25 +5300,28 @@
             "ipv4": "1fbfdaa7fc5009f683225040d852be41 d41d8cd98f00b204e9800998ecf8427e",
             "ipv6": "093d068e810fdc8b97f457c2e8db06ff d41d8cd98f00b204e9800998ecf8427e",
             "json": "f7900a543f4d8cfac1e6f9e50e238488 d41d8cd98f00b204e9800998ecf8427e",
+            "lowercase": "2430336051c04201b8485cc085ea730f 2430336051c04201b8485cc085ea730f",
             "lt": {
-                "array": "09a4da9154077cfeeb1a8267234dbcad 09a4da9154077cfeeb1a8267234dbcad",
-                "file": "63dbcd445dfec41327f6e6b425c1f44c 63dbcd445dfec41327f6e6b425c1f44c",
-                "numeric": "4a571e51adda44374b29b9be4d36205c 4a571e51adda44374b29b9be4d36205c",
-                "string": "51a982d9b1da272cc823caea4aaed9a8 51a982d9b1da272cc823caea4aaed9a8"
+                "array": "6bc72505640219f910087809b476e252 d41d8cd98f00b204e9800998ecf8427e",
+                "file": "22889a2e50ddbc3f9beea8257b141ce9 d41d8cd98f00b204e9800998ecf8427e",
+                "numeric": "60c102fa29981f1e42b71eeeabc7c61e d41d8cd98f00b204e9800998ecf8427e",
+                "string": "d68dcc1404e0a534116eb7dea2d96463 d41d8cd98f00b204e9800998ecf8427e"
             },
             "lte": {
-                "array": "4d27c7e6741860d7e87a600456264da6 4d27c7e6741860d7e87a600456264da6",
-                "file": "9d45f7f490396b70fd87b1f4a8ad4b49 9d45f7f490396b70fd87b1f4a8ad4b49",
-                "numeric": "c91d9cea730d339d9e9de3d007fdd664 c91d9cea730d339d9e9de3d007fdd664",
-                "string": "67f059427a626637464b2f3f0424958b 67f059427a626637464b2f3f0424958b"
+                "array": "18f9542e4165d3a7e3f3d7a9be938116 d41d8cd98f00b204e9800998ecf8427e",
+                "file": "a3df4ff1afdf4147f15fcfcf5f17e5aa d41d8cd98f00b204e9800998ecf8427e",
+                "numeric": "1790ebdc885ce01f9fe0373b871e69eb d41d8cd98f00b204e9800998ecf8427e",
+                "string": "510297f23dcd6ca0471856db6fe37b89 d41d8cd98f00b204e9800998ecf8427e"
             },
+            "mac_address": "967fc533edd4fd7005969d5cf3efbeb5 967fc533edd4fd7005969d5cf3efbeb5",
             "max": {
-                "array": "5f49cc40ff2c7a8daf9cce395e6fa384 5f49cc40ff2c7a8daf9cce395e6fa384",
-                "file": "02ae9014b254a5c037c6541b3bd115bb 02ae9014b254a5c037c6541b3bd115bb",
-                "numeric": "1aaf243efefad65615b0dcee3c9fb68d 1aaf243efefad65615b0dcee3c9fb68d",
-                "string": "94f4913b91dae5e0b0f61f15c364c93a 94f4913b91dae5e0b0f61f15c364c93a"
+                "array": "28f193fb7c7e235197168dc4b924ca9c d41d8cd98f00b204e9800998ecf8427e",
+                "file": "c8b01881fd2960ed931bcb0ff175797f d41d8cd98f00b204e9800998ecf8427e",
+                "numeric": "3e8c367555cbff4704b8cab71ec11325 d41d8cd98f00b204e9800998ecf8427e",
+                "string": "6aa66b56f5d4059e19eb9f8d91d86e85 d41d8cd98f00b204e9800998ecf8427e"
             },
-            "mimes": "63a4ab90763c29333c28c0dd41c5b2ab 63a4ab90763c29333c28c0dd41c5b2ab",
+            "max_digits": "dfeee02b19b5d20f5e7a5a5c57824025 dfeee02b19b5d20f5e7a5a5c57824025",
+            "mimes": "de5040776c483e2ed17806fae2f8fd74 d41d8cd98f00b204e9800998ecf8427e",
             "mimetypes": "63a4ab90763c29333c28c0dd41c5b2ab 63a4ab90763c29333c28c0dd41c5b2ab",
             "min": {
                 "array": "83160778bbd317e95a25a6b46302956c 83160778bbd317e95a25a6b46302956c",

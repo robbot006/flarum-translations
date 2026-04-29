@@ -63,7 +63,7 @@
         "ipv4": "",
         "ipv6": "",
         "json": "",
-        "lowercase": "",
+        "lowercase": "El campo :attribute debe estar en minúsculas.",
         "lt": {
             "array": "",
             "file": "",
@@ -76,14 +76,14 @@
             "numeric": "",
             "string": ""
         },
-        "mac_address": "",
+        "mac_address": "El campo :attribute debe ser una dirección MAC válida.",
         "max": {
             "array": "",
             "file": "",
             "numeric": "",
             "string": ""
         },
-        "max_digits": "",
+        "max_digits": "El campo :attribute no debe tener más de :max dígitos.",
         "mimes": "",
         "mimetypes": "",
         "min": {
