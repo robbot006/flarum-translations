@@ -270,6 +270,4 @@
 
 ## Dead branches
 
-| Extension | Pull request |
-| --- | --- |
-| `nauhyuh-migration-tool` | [![#1458 (open)](https://img.shields.io/badge/PR-%231458-brightgreen)](https://github.com/rob006-software/flarum-translations/pull/1458) |
+There are no dead branches.
