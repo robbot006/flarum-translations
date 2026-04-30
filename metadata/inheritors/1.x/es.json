@@ -897,6 +897,21 @@
             }
         }
     },
+    "ekumanov-inline-audio.json": {
+        "ekumanov-inline-audio": {
+            "admin": {
+                "settings": {
+                    "auto_play": "d41d8cd98f00b204e9800998ecf8427e 266075633e3d29f8a4a882e4fb1712e9",
+                    "show_download_button": "d41d8cd98f00b204e9800998ecf8427e 88c76395f9ac7fa8c581e1299859ace0",
+                    "show_right_click_download": "d41d8cd98f00b204e9800998ecf8427e 9035acbc596010e67ee87ad1fc6cbd3e",
+                    "strip_upload_prefix": "d41d8cd98f00b204e9800998ecf8427e eb05a448b947fa654f82532f21f7c609"
+                }
+            },
+            "forum": {
+                "bbcode_description": "d41d8cd98f00b204e9800998ecf8427e e6febcabfa374efa72b7a7be7b85f16f"
+            }
+        }
+    },
     "ekumanov-new-posts-notice.json": {
         "ekumanov-new-posts-notice": {
             "forum": {
