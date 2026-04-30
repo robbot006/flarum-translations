@@ -54,33 +54,33 @@
             },
             "clear-cache": {
                 "text": "Las nuevas traducciones aún no se han aplicado. Nota: borrar caché puede ralentizar momentáneamente el foro.\n",
-                "button": ""
+                "button": "Limpiar caché"
             },
             "coverage": {
                 "column-options": {
-                    "locale": "",
-                    "namespace": ""
+                    "locale": "Por idioma",
+                    "namespace": "Por frontend"
                 },
                 "total-options": {
-                    "percent": "",
-                    "count": ""
+                    "percent": "Por ciento",
+                    "count": "Contar"
                 },
                 "columns": {
-                    "namespace": "",
-                    "total": "",
-                    "all-except-admin": "",
-                    "all-frontends": ""
+                    "namespace": "Namespace",
+                    "total": "Total",
+                    "all-except-admin": "Foro y otros frontends",
+                    "all-frontends": "Mostrar todos los frontends"
                 },
                 "count": {
-                    "percent": "",
-                    "total": "",
-                    "details": ""
+                    "percent": "{percent} %",
+                    "total": "{translated} / {total}",
+                    "details": "{total} total / {original} original / {custom} personalizado"
                 },
-                "all-namespaces": "",
-                "apply-missing-filter": ""
+                "all-namespaces": "Todos",
+                "apply-missing-filter": "Mostrar traducciones faltantes que coinciden"
             },
             "export": {
-                "title": "",
+                "title": "Exportar",
                 "warning": "",
                 "locale": "",
                 "locale-all": "",
@@ -102,18 +102,18 @@
                 "override-existing": "",
                 "submit": "",
                 "results": "",
-                "results-with-ignore": ""
+                "results-with-ignore": "La importación ha finalizado. Se han importado los strings {imported}, se han ignorado los strings existentes {ignored} y se han omitido los strings idénticos {identical}. La página se actualizará para mostrar las nuevas traducciones.\n"
             },
             "known-namespace": {
-                "core": "",
-                "validation": ""
+                "core": "Flarum Core",
+                "validation": "Errores de Validación"
             },
             "known-frontend": {
-                "forum": "",
-                "admin": "",
-                "lib": "",
-                "ref": "",
-                "api": ""
+                "forum": "Foro",
+                "admin": "Admin",
+                "lib": "Biblioteca (Lib)(utilizada tanto en el foro como en la administración)",
+                "ref": "Referencia (Ref)(reutilizada en otras claves)",
+                "api": "API"
             }
         }
     }
