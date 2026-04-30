@@ -77,6 +77,9 @@ return [
 	'ekumanov-inline-audio' => [
 		'tag' => 'https://raw.githubusercontent.com/ekumanov/flarum-ext-inline-audio/v2.8.0/locale/en.yml',
 	],
+	'ekumanov-markdown-tables' => [
+		'tag' => 'https://raw.githubusercontent.com/ekumanov/flarum-ext-markdown-tables/v1.0.0/locale/en.yml',
+	],
 	'ekumanov-new-posts-notice' => [
 		'tag' => 'https://raw.githubusercontent.com/ekumanov/flarum-ext-new-posts-notice/v2.2.1/locale/en.yml',
 	],
