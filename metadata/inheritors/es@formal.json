@@ -3426,7 +3426,18 @@
                     }
                 },
                 "export": {
-                    "title": "7531cff475ec622c6f853b863aa68de2 7531cff475ec622c6f853b863aa68de2"
+                    "download": "e8659e5ef809d8de7d6dbbb1a765853c e8659e5ef809d8de7d6dbbb1a765853c",
+                    "include-all": "d2d3c92a4bc39014023ac95f81113c7c d2d3c92a4bc39014023ac95f81113c7c",
+                    "include-originals": "d9a5427c83d45fb2abaa0ba863683b38 d9a5427c83d45fb2abaa0ba863683b38",
+                    "locale": "93ff1dfd26d9054980703cb905285b2e 93ff1dfd26d9054980703cb905285b2e",
+                    "locale-all": "562ed3efcaa573dbc7614d2550a339ef 562ed3efcaa573dbc7614d2550a339ef",
+                    "namespace": "b3ba0fe968ce39dcfc6fe8cc0f1b02da b3ba0fe968ce39dcfc6fe8cc0f1b02da",
+                    "namespace-all": "32630ca913d01c4fee71bbe8ef28edea 32630ca913d01c4fee71bbe8ef28edea",
+                    "output": "29e2c839350a514859d039c310a4b5b6 29e2c839350a514859d039c310a4b5b6",
+                    "output-empty": "2e4088abb12724f15a011e0e16218f4d 2e4088abb12724f15a011e0e16218f4d",
+                    "output-loading": "fc9f0426ea50dad3e500a126d5eef7d6 fc9f0426ea50dad3e500a126d5eef7d6",
+                    "title": "7531cff475ec622c6f853b863aa68de2 7531cff475ec622c6f853b863aa68de2",
+                    "warning": "fc1ae8c4df5a4fa11978d36a7391cab5 fc1ae8c4df5a4fa11978d36a7391cab5"
                 },
                 "filters": {
                     "for-extension": "7f20630a2eaac1b0ec635b0981228f08 7f20630a2eaac1b0ec635b0981228f08",
@@ -3453,7 +3464,15 @@
                     "with-own-translations": "c1df296be9a61ed046652b3c1c807b69 c1df296be9a61ed046652b3c1c807b69"
                 },
                 "import": {
-                    "results-with-ignore": "9c6cdb6a606dd81dd5e7e172d6e57361 9c6cdb6a606dd81dd5e7e172d6e57361"
+                    "input": "3e24d614c0210c3f7b3fc12544c7710e 3e24d614c0210c3f7b3fc12544c7710e",
+                    "input-placeholder": "caf01778ecdd4cd981959ae4d670ea83 caf01778ecdd4cd981959ae4d670ea83",
+                    "locale": "8fa90e6871c8640c9e25a7db68faac1d 8fa90e6871c8640c9e25a7db68faac1d",
+                    "locale-all": "562ed3efcaa573dbc7614d2550a339ef 562ed3efcaa573dbc7614d2550a339ef",
+                    "override-existing": "f424e26fad825315852db7df4f824296 f424e26fad825315852db7df4f824296",
+                    "results": "9db4b8ae6763d250941742dc264de5a2 9db4b8ae6763d250941742dc264de5a2",
+                    "results-with-ignore": "9c6cdb6a606dd81dd5e7e172d6e57361 9c6cdb6a606dd81dd5e7e172d6e57361",
+                    "submit": "0b7253f352fa390d7d68365ac7dcae5e 0b7253f352fa390d7d68365ac7dcae5e",
+                    "title": "0b7253f352fa390d7d68365ac7dcae5e 0b7253f352fa390d7d68365ac7dcae5e"
                 },
                 "known-frontend": {
                     "admin": "e3afed0047b08059d0fada10f400c1e5 e3afed0047b08059d0fada10f400c1e5",
