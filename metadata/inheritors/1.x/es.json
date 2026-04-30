@@ -880,6 +880,9 @@
             "forum": {
                 "post": {
                     "posted_on_text": "d41d8cd98f00b204e9800998ecf8427e fb4f223357605e9c1bb9805b70007cab"
+                },
+                "settings": {
+                    "privacy_disclose_posted_on_label": "d41d8cd98f00b204e9800998ecf8427e c354465da8129a501529fc27cf731a13"
                 }
             }
         }
@@ -2093,6 +2096,15 @@
                     "settings": {
                         "block_pd": "1453a3fc895bc80ced97096c1b619bdb 1453a3fc895bc80ced97096c1b619bdb"
                     }
+                }
+            }
+        }
+    },
+    "fof-clockwork.json": {
+        "fof-clockwork": {
+            "admin": {
+                "dashboard": {
+                    "button_label": "d41d8cd98f00b204e9800998ecf8427e eddcbb8f45eefec90882206f4d5d4daa"
                 }
             }
         }
@@ -4291,6 +4303,15 @@
         },
         "validation": {
             "hcaptcha": "8335f4dda72a92bc7ef9d389bc4e3644 8335f4dda72a92bc7ef9d389bc4e3644"
+        }
+    },
+    "ralkage-word-counter.json": {
+        "ralkage-word-counter": {
+            "forum": {
+                "composer": {
+                    "word_counter": "d41d8cd98f00b204e9800998ecf8427e 1491ad676155ae32594423f916c1146d"
+                }
+            }
         }
     },
     "sycho-private-facade.json": {
