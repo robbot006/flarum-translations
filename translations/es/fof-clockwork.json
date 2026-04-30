@@ -2,12 +2,12 @@
     "fof-clockwork": {
         "admin": {
             "dashboard": {
-                "section_label": "",
-                "button_label": ""
+                "section_label": "Clockwork",
+                "button_label": "Abrir Clockwork"
             },
             "settings": {
-                "section_label": "",
-                "disable_auth_label": "",
+                "section_label": "Ajustes",
+                "disable_auth_label": "Deshabilitar la autenticación",
                 "disable_auth_help": "",
                 "disable_auth_warning": ""
             }
