@@ -1,24 +1,24 @@
 {
     "forumaker-profile-cover": {
         "admin": {
-            "thumbnails": "",
-            "thumbnails_help": "",
-            "max_size": "",
+            "thumbnails": "Crear miniaturas",
+            "thumbnails_help": "Crea una versión reducida de la foto de portada utilizada en vistas compactas como tarjetas de usuario y listados de directorio",
+            "max_size": "Tamaño máximo de la foto de portada (KB)",
             "permission": {
-                "set_cover": ""
+                "set_cover": "Establecer Foto de Portada"
             }
         },
         "forum": {
-            "cover": "",
-            "edit_cover": "",
-            "notice": "",
+            "cover": "Foto de Portada",
+            "edit_cover": "Editar Foto de Portada",
+            "notice": "Tamaño máximo: {size}",
             "added": {
-                "success": "",
-                "error": ""
+                "success": "Foto de Portada actualizada",
+                "error": "No se pudo cargar la imagen"
             },
             "removed": {
-                "success": "",
-                "error": ""
+                "success": "Foto de Portada borrada",
+                "error": "No pudo ser borrada la Foto de Portada, intente de nuevo"
             }
         }
     }
