@@ -1330,6 +1330,21 @@
             }
         }
     },
+    "ekumanov-inline-audio.json": {
+        "ekumanov-inline-audio": {
+            "admin": {
+                "settings": {
+                    "auto_play": "266075633e3d29f8a4a882e4fb1712e9 266075633e3d29f8a4a882e4fb1712e9",
+                    "show_download_button": "88c76395f9ac7fa8c581e1299859ace0 88c76395f9ac7fa8c581e1299859ace0",
+                    "show_right_click_download": "9035acbc596010e67ee87ad1fc6cbd3e 9035acbc596010e67ee87ad1fc6cbd3e",
+                    "strip_upload_prefix": "eb05a448b947fa654f82532f21f7c609 eb05a448b947fa654f82532f21f7c609"
+                }
+            },
+            "forum": {
+                "bbcode_description": "e6febcabfa374efa72b7a7be7b85f16f e6febcabfa374efa72b7a7be7b85f16f"
+            }
+        }
+    },
     "ekumanov-new-posts-notice.json": {
         "ekumanov-new-posts-notice": {
             "forum": {
@@ -2872,7 +2887,9 @@
                     "section_label": "e350a55fd905d2c929be81d398988fff e350a55fd905d2c929be81d398988fff"
                 },
                 "settings": {
+                    "disable_auth_help": "29164738de7de06d96b298db6e5bec17 29164738de7de06d96b298db6e5bec17",
                     "disable_auth_label": "7c14e4edf44e81d32509b3fcce01a57f 7c14e4edf44e81d32509b3fcce01a57f",
+                    "disable_auth_warning": "21b6f41f582457aa49a601f7b2c18eab 21b6f41f582457aa49a601f7b2c18eab",
                     "section_label": "9b8c5566f1323d88d3192d269523bcbe 9b8c5566f1323d88d3192d269523bcbe"
                 }
             }
