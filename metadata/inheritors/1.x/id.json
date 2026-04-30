@@ -7167,7 +7167,7 @@
                         "previewText_label": "6759ad97bb4c33501d4a907d11cfa112 6759ad97bb4c33501d4a907d11cfa112",
                         "primaryCardOptions_info": "c59ede9b85bd4e254811a652bbfaf5fd c59ede9b85bd4e254811a652bbfaf5fd",
                         "primaryCardOptions_title": "d0790d9064141a9dec976567ecc947b3 d0790d9064141a9dec976567ecc947b3",
-                        "primaryCards_help": "46e977be418f848287555300883d4b55 46e977be418f848287555300883d4b55",
+                        "primaryCards_help": "46e977be418f848287555300883d4b55 8f96d6753fadf277d16bac82e127d91a",
                         "primaryCards_label": "ea09ba58a2bdab0db438072624e94194 ea09ba58a2bdab0db438072624e94194",
                         "repostExtension_notActivated": "6cb026313de633f66def2da6a244ed72 6cb026313de633f66def2da6a244ed72",
                         "repostExtension_notInstalled": "06e82e941603052ffb99d3d1d01c979f 06e82e941603052ffb99d3d1d01c979f",
@@ -7198,6 +7198,9 @@
                         "viewsExtension_notInstalled": "1536cb7165b84604f2b89c61638f52c9 1536cb7165b84604f2b89c61638f52c9",
                         "where_info": "5972f53483e8f522028c6a4bf94446fe 5972f53483e8f522028c6a4bf94446fe",
                         "where_title": "1150a4c2031cdd68d8f6da0e06d67446 1150a4c2031cdd68d8f6da0e06d67446"
+                    },
+                    "statsToolsBanner": {
+                        "refreshStats": "d41d8cd98f00b204e9800998ecf8427e 001ef9c33d0539f0e0d06d96faaa659c"
                     }
                 },
                 "tag_modal": {
