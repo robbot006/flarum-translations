@@ -2564,6 +2564,66 @@
             }
         }
     },
+    "fof-linguist.json": {
+        "fof-linguist": {
+            "admin": {
+                "buttons": {
+                    "apply": "d41d8cd98f00b204e9800998ecf8427e f0ed2dc3460afc54a4dc243009b3e282",
+                    "copy-original": "d41d8cd98f00b204e9800998ecf8427e 89b2af78385a9048b29d8d38f80763d9",
+                    "delete-all": "d41d8cd98f00b204e9800998ecf8427e 8974d051ff12d89963f0e8d58d5e7c09",
+                    "delete-all-confirm": "d41d8cd98f00b204e9800998ecf8427e 6fd9435ee2f7a1788c5c5399d55f95c0",
+                    "delete-redundant": "d41d8cd98f00b204e9800998ecf8427e d1afcd42770e238fb7d30a0401d6f11a",
+                    "delete-redundant-confirm": "d41d8cd98f00b204e9800998ecf8427e c0de792f5610abeeedc8756ed47f4832",
+                    "load-more": "d41d8cd98f00b204e9800998ecf8427e f59d1bfc515cb81756b8bee89188a9f5",
+                    "reset": "d41d8cd98f00b204e9800998ecf8427e 0e293e3dbd01a6e51461dc261acf9b6e"
+                },
+                "clear-cache": {
+                    "text": "d41d8cd98f00b204e9800998ecf8427e ccd513b9e34cbc7f0edc31afae78c1dc"
+                },
+                "filters": {
+                    "for-extension": "d41d8cd98f00b204e9800998ecf8427e 7f20630a2eaac1b0ec635b0981228f08",
+                    "frontend": "d41d8cd98f00b204e9800998ecf8427e a7862e3f211acc16abe5bbf22961ac44",
+                    "frontend-all-except-admin": "d41d8cd98f00b204e9800998ecf8427e d6f96a33f1a0c1e5c9877d70576af1c2",
+                    "mass-edit": "d41d8cd98f00b204e9800998ecf8427e 5a91e5ab3ba6c7d2d89519c662abc869",
+                    "missing": "d41d8cd98f00b204e9800998ecf8427e 50d9f474f111b321f28446a14e219af3",
+                    "missing-middle-label": "d41d8cd98f00b204e9800998ecf8427e 93fb3ff5a9b4ac85ff145e26bb9f116a",
+                    "negation-options": {
+                        "with": "d41d8cd98f00b204e9800998ecf8427e 90f910a44798e0d68879b43382042a40",
+                        "without": "d41d8cd98f00b204e9800998ecf8427e 0986d137604183312e6d3599578bc6cd"
+                    },
+                    "operation-options": {
+                        "and": "d41d8cd98f00b204e9800998ecf8427e bc97e12414b8ea00107c66aa552029ae",
+                        "or": "d41d8cd98f00b204e9800998ecf8427e b2a80b1737708ae8bc943ba309e3e684"
+                    },
+                    "results": "d41d8cd98f00b204e9800998ecf8427e f547f769d5f12120bd82db4ddfe5dbf4",
+                    "search": "d41d8cd98f00b204e9800998ecf8427e a8e2616f94153617df901fb91b7d55c3",
+                    "type-options": {
+                        "any": "d41d8cd98f00b204e9800998ecf8427e 88c9edb479e07d2a5f7a37ba956cc4aa",
+                        "original": "d41d8cd98f00b204e9800998ecf8427e 0a52da7a03a6de3beefe54f8c03ad80d",
+                        "own": "d41d8cd98f00b204e9800998ecf8427e 64e4fd202fef415e4043c47bdf8750da"
+                    },
+                    "with-own-translations": "d41d8cd98f00b204e9800998ecf8427e c1df296be9a61ed046652b3c1c807b69"
+                },
+                "locales": {
+                    "all": "d41d8cd98f00b204e9800998ecf8427e bc97e12414b8ea00107c66aa552029ae"
+                },
+                "permissions": {
+                    "view_string_keys": "d41d8cd98f00b204e9800998ecf8427e 4402acff2499836b0cd0ac38114d3871"
+                },
+                "placeholder": {
+                    "all-locales": "d41d8cd98f00b204e9800998ecf8427e 5532b948e84c18b83b228ea9da11d445",
+                    "hint": "d41d8cd98f00b204e9800998ecf8427e 163b755c467e34d212f5130bcd42e671",
+                    "not-translated": "d41d8cd98f00b204e9800998ecf8427e 16e7a9934f08c0982afe277e25f6e7d2"
+                },
+                "tabs": {
+                    "coverage": "d41d8cd98f00b204e9800998ecf8427e 380ffe7e1cc850ec9db83e089a8add9a",
+                    "export": "d41d8cd98f00b204e9800998ecf8427e 7531cff475ec622c6f853b863aa68de2",
+                    "import": "d41d8cd98f00b204e9800998ecf8427e 0b7253f352fa390d7d68365ac7dcae5e",
+                    "strings": "d41d8cd98f00b204e9800998ecf8427e cb4d721e59f6880b15d464bca6377638"
+                }
+            }
+        }
+    },
     "fof-links.json": {
         "fof-links": {
             "admin": {
@@ -4404,7 +4464,11 @@
             "multiple_of": "d41d8cd98f00b204e9800998ecf8427e 147c90742b0d54953da2f1f59e2a3da0",
             "not_in": "6f776d1678c27bc1f91a0d11de6b7286 6f776d1678c27bc1f91a0d11de6b7286",
             "present": "c685d58099aecfeda69decdb37bfcc1a c685d58099aecfeda69decdb37bfcc1a",
+            "prohibited": "d41d8cd98f00b204e9800998ecf8427e 5e174907e05bd879b1e1c76252dfa74c",
+            "prohibited_if": "d41d8cd98f00b204e9800998ecf8427e 80a0d7eea206a69223aedc4ff4349e10",
+            "prohibited_unless": "d41d8cd98f00b204e9800998ecf8427e 203580ff00f344042eb11e76df87c52f",
             "required": "f800adaa793d0a1f17f35cb416f98ce1 f800adaa793d0a1f17f35cb416f98ce1",
+            "required_array_keys": "d41d8cd98f00b204e9800998ecf8427e ad317f565f843099efc55f30b0de43d1",
             "required_if": "8f0ba09c8842d7b359f6ca20d417794a 8f0ba09c8842d7b359f6ca20d417794a",
             "required_unless": "8ac0af439a29acc46502340a2814af62 8ac0af439a29acc46502340a2814af62",
             "required_with": "095ad1f7eb6438d7de6454e935779a3d 095ad1f7eb6438d7de6454e935779a3d",
