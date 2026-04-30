@@ -3399,7 +3399,34 @@
                     "reset": "0e293e3dbd01a6e51461dc261acf9b6e 0e293e3dbd01a6e51461dc261acf9b6e"
                 },
                 "clear-cache": {
+                    "button": "128e4755872cdb55d57452e7f6b1d2e9 128e4755872cdb55d57452e7f6b1d2e9",
                     "text": "ccd513b9e34cbc7f0edc31afae78c1dc ccd513b9e34cbc7f0edc31afae78c1dc"
+                },
+                "coverage": {
+                    "all-namespaces": "32630ca913d01c4fee71bbe8ef28edea 32630ca913d01c4fee71bbe8ef28edea",
+                    "apply-missing-filter": "9ba1c6bdc4006b689ba6ced90177286f 9ba1c6bdc4006b689ba6ced90177286f",
+                    "column-options": {
+                        "locale": "4716162e440262cb255ef8dc024e2f87 4716162e440262cb255ef8dc024e2f87",
+                        "namespace": "50f77db3cd6cbdddbc500ac1ad828465 50f77db3cd6cbdddbc500ac1ad828465"
+                    },
+                    "columns": {
+                        "all-except-admin": "a69df0c79a85a657e8911378c5786344 a69df0c79a85a657e8911378c5786344",
+                        "all-frontends": "dbb386101b5c8e5cd0e46b2854fef16a dbb386101b5c8e5cd0e46b2854fef16a",
+                        "namespace": "b3ba0fe968ce39dcfc6fe8cc0f1b02da b3ba0fe968ce39dcfc6fe8cc0f1b02da",
+                        "total": "96b0141273eabab320119c467cdcaf17 96b0141273eabab320119c467cdcaf17"
+                    },
+                    "count": {
+                        "details": "211d975ce22603043fdc7185960585bc 211d975ce22603043fdc7185960585bc",
+                        "percent": "beff12e52040cb074defcc29fe8da3de beff12e52040cb074defcc29fe8da3de",
+                        "total": "fb2a3194826f1ee5d3e6f0f71da222e5 fb2a3194826f1ee5d3e6f0f71da222e5"
+                    },
+                    "total-options": {
+                        "count": "8736fa4e92cbca888cf3dc48efa6d682 8736fa4e92cbca888cf3dc48efa6d682",
+                        "percent": "a167b929463d41754f16cc855b71c13a a167b929463d41754f16cc855b71c13a"
+                    }
+                },
+                "export": {
+                    "title": "7531cff475ec622c6f853b863aa68de2 7531cff475ec622c6f853b863aa68de2"
                 },
                 "filters": {
                     "for-extension": "7f20630a2eaac1b0ec635b0981228f08 7f20630a2eaac1b0ec635b0981228f08",
@@ -3424,6 +3451,20 @@
                         "own": "64e4fd202fef415e4043c47bdf8750da 64e4fd202fef415e4043c47bdf8750da"
                     },
                     "with-own-translations": "c1df296be9a61ed046652b3c1c807b69 c1df296be9a61ed046652b3c1c807b69"
+                },
+                "import": {
+                    "results-with-ignore": "9c6cdb6a606dd81dd5e7e172d6e57361 9c6cdb6a606dd81dd5e7e172d6e57361"
+                },
+                "known-frontend": {
+                    "admin": "e3afed0047b08059d0fada10f400c1e5 e3afed0047b08059d0fada10f400c1e5",
+                    "api": "db974238714ca8de634a7ce1d083a14f db974238714ca8de634a7ce1d083a14f",
+                    "forum": "a5dbdae83d6abd83478d9a2f3f8c0ec1 a5dbdae83d6abd83478d9a2f3f8c0ec1",
+                    "lib": "a814320797764c94f89984cebf4cc352 a814320797764c94f89984cebf4cc352",
+                    "ref": "2f2f4ae2e7582640765cfd5659dad932 2f2f4ae2e7582640765cfd5659dad932"
+                },
+                "known-namespace": {
+                    "core": "f5a5b8270ff3087a967e817a6db87c90 f5a5b8270ff3087a967e817a6db87c90",
+                    "validation": "4afd4889cca3805a29275142482f5470 4afd4889cca3805a29275142482f5470"
                 },
                 "locales": {
                     "all": "bc97e12414b8ea00107c66aa552029ae bc97e12414b8ea00107c66aa552029ae"
