@@ -10,7 +10,7 @@
         "admin": {
             "settings": {
                 "statsToolsBanner": {
-                    "refreshStats": "",
+                    "refreshStats": "Statistik gambar telah berhasil diperbarui",
                     "purgeImagesModal_title": "",
                     "purgeImagesModal_helpText": "",
                     "purgeImagesModal_deleteUnusedLabel": "",
@@ -50,7 +50,7 @@
                     "primaryCardOptions_title": "Opsi Kartu Utama",
                     "primaryCardOptions_info": "Tetapkan apakah dan bagaimana Anda ingin menggunakan kartu utama (kartu yang lebih besar di bagian atas setiap halaman menggunakan kartu diskusi). 0 untuk tidak ada.",
                     "primaryCards_label": "Jumlah kartu utama",
-                    "primaryCards_help": "Jumlah kartu yang lebih besar ditampilkan di bagian atas setiap halaman menggunakan kartu diskusi. (angka positif 0 atau lebih)",
+                    "primaryCards_help": "Jumlah kartu yang lebih besar yang ditampilkan di bagian atas setiap halaman menggunakan kartu diskusi. Angka positif (0 jika tidak ada).",
                     "desktopCardWidth_label": "Lebar kartu utama di desktop",
                     "desktopCardWidth_help": "Mengatur lebar (dalam %) kartu utama di desktop. (antara 10 dan 100)",
                     "tabletCardWidth_label": "Lebar kartu utama pada tablet",
