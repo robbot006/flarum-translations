@@ -2578,7 +2578,34 @@
                     "reset": "d41d8cd98f00b204e9800998ecf8427e 0e293e3dbd01a6e51461dc261acf9b6e"
                 },
                 "clear-cache": {
+                    "button": "d41d8cd98f00b204e9800998ecf8427e 128e4755872cdb55d57452e7f6b1d2e9",
                     "text": "d41d8cd98f00b204e9800998ecf8427e ccd513b9e34cbc7f0edc31afae78c1dc"
+                },
+                "coverage": {
+                    "all-namespaces": "d41d8cd98f00b204e9800998ecf8427e 32630ca913d01c4fee71bbe8ef28edea",
+                    "apply-missing-filter": "d41d8cd98f00b204e9800998ecf8427e 9ba1c6bdc4006b689ba6ced90177286f",
+                    "column-options": {
+                        "locale": "d41d8cd98f00b204e9800998ecf8427e 4716162e440262cb255ef8dc024e2f87",
+                        "namespace": "d41d8cd98f00b204e9800998ecf8427e 50f77db3cd6cbdddbc500ac1ad828465"
+                    },
+                    "columns": {
+                        "all-except-admin": "d41d8cd98f00b204e9800998ecf8427e a69df0c79a85a657e8911378c5786344",
+                        "all-frontends": "d41d8cd98f00b204e9800998ecf8427e dbb386101b5c8e5cd0e46b2854fef16a",
+                        "namespace": "d41d8cd98f00b204e9800998ecf8427e b3ba0fe968ce39dcfc6fe8cc0f1b02da",
+                        "total": "d41d8cd98f00b204e9800998ecf8427e 96b0141273eabab320119c467cdcaf17"
+                    },
+                    "count": {
+                        "details": "d41d8cd98f00b204e9800998ecf8427e 211d975ce22603043fdc7185960585bc",
+                        "percent": "d41d8cd98f00b204e9800998ecf8427e beff12e52040cb074defcc29fe8da3de",
+                        "total": "d41d8cd98f00b204e9800998ecf8427e fb2a3194826f1ee5d3e6f0f71da222e5"
+                    },
+                    "total-options": {
+                        "count": "d41d8cd98f00b204e9800998ecf8427e 8736fa4e92cbca888cf3dc48efa6d682",
+                        "percent": "d41d8cd98f00b204e9800998ecf8427e a167b929463d41754f16cc855b71c13a"
+                    }
+                },
+                "export": {
+                    "title": "d41d8cd98f00b204e9800998ecf8427e 7531cff475ec622c6f853b863aa68de2"
                 },
                 "filters": {
                     "for-extension": "d41d8cd98f00b204e9800998ecf8427e 7f20630a2eaac1b0ec635b0981228f08",
@@ -2603,6 +2630,20 @@
                         "own": "d41d8cd98f00b204e9800998ecf8427e 64e4fd202fef415e4043c47bdf8750da"
                     },
                     "with-own-translations": "d41d8cd98f00b204e9800998ecf8427e c1df296be9a61ed046652b3c1c807b69"
+                },
+                "import": {
+                    "results-with-ignore": "d41d8cd98f00b204e9800998ecf8427e 9c6cdb6a606dd81dd5e7e172d6e57361"
+                },
+                "known-frontend": {
+                    "admin": "d41d8cd98f00b204e9800998ecf8427e e3afed0047b08059d0fada10f400c1e5",
+                    "api": "d41d8cd98f00b204e9800998ecf8427e db974238714ca8de634a7ce1d083a14f",
+                    "forum": "d41d8cd98f00b204e9800998ecf8427e a5dbdae83d6abd83478d9a2f3f8c0ec1",
+                    "lib": "d41d8cd98f00b204e9800998ecf8427e a814320797764c94f89984cebf4cc352",
+                    "ref": "d41d8cd98f00b204e9800998ecf8427e 2f2f4ae2e7582640765cfd5659dad932"
+                },
+                "known-namespace": {
+                    "core": "d41d8cd98f00b204e9800998ecf8427e f5a5b8270ff3087a967e817a6db87c90",
+                    "validation": "d41d8cd98f00b204e9800998ecf8427e 4afd4889cca3805a29275142482f5470"
                 },
                 "locales": {
                     "all": "d41d8cd98f00b204e9800998ecf8427e bc97e12414b8ea00107c66aa552029ae"
