@@ -756,7 +756,7 @@
             "generic_confirmation_message": "",
             "icon": "Εικονίδιο",
             "icon_text": "Εισάγετε το όνομα οποιασδήποτε κλάσης εικονιδίου <a>FontAwesome</a>, <em>εισάγοντας</em> επίσης <code>fas fa-</code> μπροστά. Π.χ. <code>fas fa-envelope</code>",
-            "load_more": "Φώρτωσε περισσότερα",
+            "load_more": "Φόρτωσε περισσότερα",
             "loading": "",
             "log_in": "Σύνδεση",
             "log_out": "Αποσύνδεση",
