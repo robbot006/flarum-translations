@@ -1308,6 +1308,18 @@
             }
         }
     },
+    "datlechin-discussion-overview.json": {
+        "datlechin-discussion-overview": {
+            "forum": {
+                "created": "bd9e1402c7e20beafd3244244a180611 bd9e1402c7e20beafd3244244a180611",
+                "last_reply": "7de65393f7a8c996c761031d38462f0a 7de65393f7a8c996c761031d38462f0a",
+                "likes": "dd4d83ba7ebabcd5eddec6b597b03764 dd4d83ba7ebabcd5eddec6b597b03764",
+                "replies": "5a3ba576a90255e64243685777a44805 5a3ba576a90255e64243685777a44805",
+                "users": "a1c28da1af69ba622c94f7e3bd95814c a1c28da1af69ba622c94f7e3bd95814c",
+                "views": "f61d4ee1abab1726ee4450b43b48aafc f61d4ee1abab1726ee4450b43b48aafc"
+            }
+        }
+    },
     "datlechin-posted-on.json": {
         "datlechin-posted-on": {
             "forum": {
@@ -1327,6 +1339,27 @@
                 "scroll_to_bottom_label": "29c3585aa2ff490d04c0be96232212e6 29c3585aa2ff490d04c0be96232212e6",
                 "scroll_to_top_help": "db15afa9a71d09d710b92eaee8c93f9a db15afa9a71d09d710b92eaee8c93f9a",
                 "scroll_to_top_label": "ebc1ab803240e1acd5b37e318e8b5a1d ebc1ab803240e1acd5b37e318e8b5a1d"
+            }
+        }
+    },
+    "datlechin-signup-button.json": {
+        "datlechin-signup-button": {
+            "forum": {
+                "sign_up": "9faefe7ba52f3c4f11f505109e5c62e4 9faefe7ba52f3c4f11f505109e5c62e4"
+            }
+        }
+    },
+    "datlechin-silent-edit.json": {
+        "datlechin-silent-edit": {
+            "admin": {
+                "permissions": {
+                    "clearLastEdit": "212d8ab098132333242d6994f8e3a253 212d8ab098132333242d6994f8e3a253"
+                }
+            },
+            "forum": {
+                "post_controls": {
+                    "clear_last_edit_button": "4056de7bff29c3b3c4864466ddcde37e 4056de7bff29c3b3c4864466ddcde37e"
+                }
             }
         }
     },
@@ -2879,6 +2912,20 @@
             }
         }
     },
+    "fof-checklist.json": {
+        "fof-checklist": {
+            "admin": {
+                "settings": {
+                    "cross_out_completed_items": "76420c7ab4baf4107d831d075b299e00 76420c7ab4baf4107d831d075b299e00"
+                }
+            },
+            "lib": {
+                "composer": {
+                    "checklist_tooltip": "cc6ecc5628ac2dd8fb393eae708f5719 cc6ecc5628ac2dd8fb393eae708f5719"
+                }
+            }
+        }
+    },
     "fof-clockwork.json": {
         "fof-clockwork": {
             "admin": {
@@ -2919,6 +2966,15 @@
                 "reply_template": {
                     "submit_button": "3a638814dedb89941501d99959942c86 3a638814dedb89941501d99959942c86",
                     "title": "2a1afeaa89920695246161204ee8de19 2a1afeaa89920695246161204ee8de19"
+                }
+            }
+        }
+    },
+    "fof-discussion-thumbnail.json": {
+        "fof-discussion-thumbnail": {
+            "admin": {
+                "settings": {
+                    "link_to_discussion_label": "9e1b1d946f5aabbd561569c49542bc77 9e1b1d946f5aabbd561569c49542bc77"
                 }
             }
         }
@@ -4744,6 +4800,16 @@
             }
         }
     },
+    "fof-usercard-stats.json": {
+        "fof-usercard-stats": {
+            "forum": {
+                "user": {
+                    "discussion-count": "f3d078cfdffb9e1c8f40c0de14c2c0c2 f3d078cfdffb9e1c8f40c0de14c2c0c2",
+                    "post-count": "3b4b4bc94f9d34ce6a330c5019c3d29b 3b4b4bc94f9d34ce6a330c5019c3d29b"
+                }
+            }
+        }
+    },
     "fof-webhooks.json": {
         "fof-webhooks": {
             "actions": {
@@ -5388,6 +5454,18 @@
             "forum": {
                 "composer": {
                     "word_counter": "1491ad676155ae32594423f916c1146d 1491ad676155ae32594423f916c1146d"
+                }
+            }
+        }
+    },
+    "resofire-mobile-search.json": {
+        "resofire-mobile-search": {
+            "admin": {
+                "settings": {
+                    "mobile_search_style_help": "7c21289a6167c761fe17df74ffbe902c 7c21289a6167c761fe17df74ffbe902c",
+                    "mobile_search_style_label": "6508d5822246ed8593937490ea147d1c 6508d5822246ed8593937490ea147d1c",
+                    "mobile_search_style_option_bar": "ff3a395c74ac23ab611017e74401a47d ff3a395c74ac23ab611017e74401a47d",
+                    "mobile_search_style_option_icon": "4bb02d88e0106632fd7151ce1bf6f02e 4bb02d88e0106632fd7151ce1bf6f02e"
                 }
             }
         }
