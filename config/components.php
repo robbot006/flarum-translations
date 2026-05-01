@@ -790,6 +790,9 @@ return [
 	'forumaker-magicslider' => [
 		'tag' => 'https://raw.githubusercontent.com/forumaker/magicslider/1.1.0/resources/locale/en.yml',
 	],
+	'forumtaro-subtags' => [
+		'tag' => 'https://raw.githubusercontent.com/forumtaro/flarum-subtag/0.0.4/locale/en.yml',
+	],
 	'foskym-activity-graph' => [
 		'tag' => 'https://raw.githubusercontent.com/FoskyM/flarum-activity-graph/v1.2.1/locale/en.yml',
 		'__builtInLanguages' => [
