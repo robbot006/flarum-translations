@@ -1,8 +1,20 @@
 {
     "forumaker-profile-cover": {
         "admin": {
+            "sections": {
+                "thumbnails": "",
+                "general": ""
+            },
             "thumbnails": "Miniaturansichten erstellen",
             "thumbnails_help": "Erstellt eine verkleinerte Version des Profiltitelbildes, das in kompakten Ansichten wie Benutzerkarten und Verzeichnislisten verwendet wird",
+            "thumbnail_width": "",
+            "thumbnail_width_help": "",
+            "recreate_thumbnails": "",
+            "delete_thumbnails": "",
+            "recreate_success": "",
+            "delete_success": "",
+            "recreate_error": "",
+            "delete_error": "",
             "max_size": "Maximale Größe des Profiltitelbilds (in KB)",
             "permission": {
                 "set_cover": "Profiltitelbild festlegen"

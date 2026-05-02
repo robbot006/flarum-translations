@@ -1,8 +1,20 @@
 {
     "forumaker-profile-cover": {
         "admin": {
+            "sections": {
+                "thumbnails": "",
+                "general": ""
+            },
             "thumbnails": "Crear miniaturas",
             "thumbnails_help": "Crea una versión reducida de la foto de portada utilizada en vistas compactas como tarjetas de usuario y listados de directorio",
+            "thumbnail_width": "",
+            "thumbnail_width_help": "",
+            "recreate_thumbnails": "",
+            "delete_thumbnails": "",
+            "recreate_success": "",
+            "delete_success": "",
+            "recreate_error": "",
+            "delete_error": "",
             "max_size": "Tamaño máximo de la foto de portada (KB)",
             "permission": {
                 "set_cover": "Establecer Foto de Portada"

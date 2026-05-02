@@ -1,8 +1,20 @@
 {
     "forumaker-profile-cover": {
         "admin": {
+            "sections": {
+                "thumbnails": "",
+                "general": ""
+            },
             "thumbnails": "Créer des miniatures",
             "thumbnails_help": "Crée une version réduite de la couverture utilisée dans les affichages compacts tels que les cartes utilisateur et les listes de répertoires",
+            "thumbnail_width": "",
+            "thumbnail_width_help": "",
+            "recreate_thumbnails": "",
+            "delete_thumbnails": "",
+            "recreate_success": "",
+            "delete_success": "",
+            "recreate_error": "",
+            "delete_error": "",
             "max_size": "Taille maximale de l'image de couverture du profil (en kilo-octets)",
             "permission": {
                 "set_cover": "Définir la couverture du profil"
