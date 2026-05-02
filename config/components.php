@@ -372,7 +372,7 @@ return [
 		],
 	],
 	'forumtaro-subtags' => [
-		'tag' => 'https://raw.githubusercontent.com/forumtaro/flarum-subtag/0.0.4/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/forumtaro/flarum-subtag/0.0.5/locale/en.yml',
 	],
 	'huoxin-relative-url' => [
 		'beta' => 'https://raw.githubusercontent.com/huoxin233/flarum-ext-relative-url/2.0.0-beta.1/locale/en.yml',
