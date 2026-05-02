@@ -3372,6 +3372,57 @@
             "recaptcha-unknown": "f98d857b9798d13f6e5571ce4f6b9c75 f98d857b9798d13f6e5571ce4f6b9c75"
         }
     },
+    "fof-rich-text.json": {
+        "fof-rich-text": {
+            "admin": {
+                "settings": {
+                    "toggle_on_editor": "d41d8cd98f00b204e9800998ecf8427e e6fd6560040fdf108e74be29d41118b6"
+                }
+            },
+            "forum": {
+                "settings": {
+                    "composer_heading": "d41d8cd98f00b204e9800998ecf8427e 9763fd6ae0868ca0b40ef962dfb05f3c",
+                    "rich_text_compact_paragraphs_label": "d41d8cd98f00b204e9800998ecf8427e 4cad9bdffef2e0b55691666772d5ed96",
+                    "use_rich_text_editor_label": "d41d8cd98f00b204e9800998ecf8427e 528bd08d86ca7169e0aec245715e9aa1"
+                }
+            },
+            "lib": {
+                "composer": {
+                    "additional_items_tooltip": "d41d8cd98f00b204e9800998ecf8427e d40288f2e34eb88b372363c3e32798fe",
+                    "bold_tooltip": "d41d8cd98f00b204e9800998ecf8427e e8e940c59062692ba0e44e7a8d41f91b",
+                    "code_block_tooltip": "d41d8cd98f00b204e9800998ecf8427e bfecbac51ec9f0c6b551362c079f6018",
+                    "code_tooltip": "d41d8cd98f00b204e9800998ecf8427e fa71df614d3032b241146eba16c2fb85",
+                    "header_tooltip": "d41d8cd98f00b204e9800998ecf8427e bd61401093c68223cd4f0c7d58bced6a",
+                    "horizontal_rule_tooltip": "d41d8cd98f00b204e9800998ecf8427e 6b52baf8b211b61526b493e9443e20ec",
+                    "image_tooltip": "d41d8cd98f00b204e9800998ecf8427e 8615c82469b08e17aff45f9243f51009",
+                    "insert_button": "d41d8cd98f00b204e9800998ecf8427e e79432fab42bd53908928951d2dadee8",
+                    "insert_image": {
+                        "src_placeholder": "d41d8cd98f00b204e9800998ecf8427e 4f4705d6f8dd8cadee5b8bf9584ccd66",
+                        "title_placeholder": "d41d8cd98f00b204e9800998ecf8427e 09b79d379db0c82b4615d749b22475f0"
+                    },
+                    "insert_link": {
+                        "href_placeholder": "d41d8cd98f00b204e9800998ecf8427e 4f4705d6f8dd8cadee5b8bf9584ccd66",
+                        "remove_button": "d41d8cd98f00b204e9800998ecf8427e a96f30f0a23d371e93131a420a328180",
+                        "text_placeholder": "d41d8cd98f00b204e9800998ecf8427e cc99c671f9ea86938e2c6cda65a65bc3",
+                        "title_placeholder": "d41d8cd98f00b204e9800998ecf8427e 5ea1f7eaa8a950f4945d4b29d7d695f7"
+                    },
+                    "italic_tooltip": "d41d8cd98f00b204e9800998ecf8427e 3f73202ed1895f3edd7392dfd403630d",
+                    "link_tooltip": "d41d8cd98f00b204e9800998ecf8427e f518cf41b1c6591bef4cdc0de985bb5f",
+                    "ordered_list_tooltip": "d41d8cd98f00b204e9800998ecf8427e 38fc074e438acd26df2dc8a13d8e5801",
+                    "paragraph_tooltip": "d41d8cd98f00b204e9800998ecf8427e 6f4f3e4e6b3bce3b4bdbddd5fde2b7e5",
+                    "quote_tooltip": "d41d8cd98f00b204e9800998ecf8427e f5309f5bd929458e9ab0ceac0906addf",
+                    "spoiler_block_tooltip": "d41d8cd98f00b204e9800998ecf8427e 4385bccb47c2a5b26411f4b556170d45",
+                    "spoiler_inline_tooltip": "d41d8cd98f00b204e9800998ecf8427e 72efe069fe4a5fab58df90ac0860f466",
+                    "strike_tooltip": "d41d8cd98f00b204e9800998ecf8427e 53119e76d43c7f9757f90428cc12fcd5",
+                    "sub_tooltip": "d41d8cd98f00b204e9800998ecf8427e 28fb635a94d1edb93883773766ff2600",
+                    "sup_tooltip": "d41d8cd98f00b204e9800998ecf8427e b75be6dd9776136923a993b5df42443d",
+                    "text_type_tooltip": "d41d8cd98f00b204e9800998ecf8427e 54a4623bc9e54a213e4119cd890f99d7",
+                    "toggle_button": "d41d8cd98f00b204e9800998ecf8427e ce2f11d4daa981548079a50d1f7dde5c",
+                    "unordered_list_tooltip": "d41d8cd98f00b204e9800998ecf8427e b022534ce49b2531a7256cb80b98b14e"
+                }
+            }
+        }
+    },
     "fof-share-social.json": {
         "fof-share-social": {
             "admin": {
