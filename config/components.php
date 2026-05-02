@@ -29,6 +29,9 @@ return [
 	'acpl-my-tags' => [
 		'beta' => 'https://raw.githubusercontent.com/android-com-pl/my-tags/2.0.0-beta.3/locale/en.yml',
 	],
+	'anto0102-mailguard' => [
+		'tag' => 'https://raw.githubusercontent.com/anto0102/MailGuard/v2.0.3/locale/en.yml',
+	],
 	'dashzeveg-ads-manager' => [
 		'tag' => 'https://raw.githubusercontent.com/dashzeveg/flarum-ads-manager/v1.0/locale/en.yml',
 	],
