@@ -4217,6 +4217,58 @@
             "recaptcha-unknown": "f98d857b9798d13f6e5571ce4f6b9c75 f98d857b9798d13f6e5571ce4f6b9c75"
         }
     },
+    "fof-rich-text.json": {
+        "fof-rich-text": {
+            "admin": {
+                "settings": {
+                    "force_compact_paragraphs": "fd4163cd55ebe981c794e8a1be75ed6a fd4163cd55ebe981c794e8a1be75ed6a",
+                    "toggle_on_editor": "e6fd6560040fdf108e74be29d41118b6 e6fd6560040fdf108e74be29d41118b6"
+                }
+            },
+            "forum": {
+                "settings": {
+                    "composer_heading": "9763fd6ae0868ca0b40ef962dfb05f3c 9763fd6ae0868ca0b40ef962dfb05f3c",
+                    "rich_text_compact_paragraphs_label": "4cad9bdffef2e0b55691666772d5ed96 4cad9bdffef2e0b55691666772d5ed96",
+                    "use_rich_text_editor_label": "528bd08d86ca7169e0aec245715e9aa1 528bd08d86ca7169e0aec245715e9aa1"
+                }
+            },
+            "lib": {
+                "composer": {
+                    "additional_items_tooltip": "d40288f2e34eb88b372363c3e32798fe d40288f2e34eb88b372363c3e32798fe",
+                    "bold_tooltip": "e8e940c59062692ba0e44e7a8d41f91b e8e940c59062692ba0e44e7a8d41f91b",
+                    "code_block_tooltip": "bfecbac51ec9f0c6b551362c079f6018 bfecbac51ec9f0c6b551362c079f6018",
+                    "code_tooltip": "fa71df614d3032b241146eba16c2fb85 fa71df614d3032b241146eba16c2fb85",
+                    "header_tooltip": "bd61401093c68223cd4f0c7d58bced6a bd61401093c68223cd4f0c7d58bced6a",
+                    "horizontal_rule_tooltip": "6b52baf8b211b61526b493e9443e20ec 6b52baf8b211b61526b493e9443e20ec",
+                    "image_tooltip": "8615c82469b08e17aff45f9243f51009 8615c82469b08e17aff45f9243f51009",
+                    "insert_button": "e79432fab42bd53908928951d2dadee8 e79432fab42bd53908928951d2dadee8",
+                    "insert_image": {
+                        "src_placeholder": "4f4705d6f8dd8cadee5b8bf9584ccd66 4f4705d6f8dd8cadee5b8bf9584ccd66",
+                        "title_placeholder": "09b79d379db0c82b4615d749b22475f0 09b79d379db0c82b4615d749b22475f0"
+                    },
+                    "insert_link": {
+                        "href_placeholder": "4f4705d6f8dd8cadee5b8bf9584ccd66 4f4705d6f8dd8cadee5b8bf9584ccd66",
+                        "remove_button": "a96f30f0a23d371e93131a420a328180 a96f30f0a23d371e93131a420a328180",
+                        "text_placeholder": "cc99c671f9ea86938e2c6cda65a65bc3 cc99c671f9ea86938e2c6cda65a65bc3",
+                        "title_placeholder": "5ea1f7eaa8a950f4945d4b29d7d695f7 5ea1f7eaa8a950f4945d4b29d7d695f7"
+                    },
+                    "italic_tooltip": "3f73202ed1895f3edd7392dfd403630d 3f73202ed1895f3edd7392dfd403630d",
+                    "link_tooltip": "f518cf41b1c6591bef4cdc0de985bb5f f518cf41b1c6591bef4cdc0de985bb5f",
+                    "ordered_list_tooltip": "38fc074e438acd26df2dc8a13d8e5801 38fc074e438acd26df2dc8a13d8e5801",
+                    "paragraph_tooltip": "6f4f3e4e6b3bce3b4bdbddd5fde2b7e5 6f4f3e4e6b3bce3b4bdbddd5fde2b7e5",
+                    "quote_tooltip": "f5309f5bd929458e9ab0ceac0906addf f5309f5bd929458e9ab0ceac0906addf",
+                    "spoiler_block_tooltip": "4385bccb47c2a5b26411f4b556170d45 4385bccb47c2a5b26411f4b556170d45",
+                    "spoiler_inline_tooltip": "72efe069fe4a5fab58df90ac0860f466 72efe069fe4a5fab58df90ac0860f466",
+                    "strike_tooltip": "53119e76d43c7f9757f90428cc12fcd5 53119e76d43c7f9757f90428cc12fcd5",
+                    "sub_tooltip": "28fb635a94d1edb93883773766ff2600 28fb635a94d1edb93883773766ff2600",
+                    "sup_tooltip": "b75be6dd9776136923a993b5df42443d b75be6dd9776136923a993b5df42443d",
+                    "text_type_tooltip": "54a4623bc9e54a213e4119cd890f99d7 54a4623bc9e54a213e4119cd890f99d7",
+                    "toggle_button": "ce2f11d4daa981548079a50d1f7dde5c ce2f11d4daa981548079a50d1f7dde5c",
+                    "unordered_list_tooltip": "b022534ce49b2531a7256cb80b98b14e b022534ce49b2531a7256cb80b98b14e"
+                }
+            }
+        }
+    },
     "fof-share-social.json": {
         "fof-share-social": {
             "admin": {
