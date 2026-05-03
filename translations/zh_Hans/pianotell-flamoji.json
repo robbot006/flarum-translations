@@ -20,93 +20,93 @@
                 "frequent_rows_label": "常用表情栏",
                 "frequent_rows_text": "设置显示在选择顶部的最近常用表情行数（1-10）。",
                 "picker_set_label": "表情风格",
-                "picker_set_text": "选择器中表情的呈现风格。选择「自动」时，为Flarum表情插件的Twemoji风格（当启用时）；否则显示为系统字体风格。选择器与帖子中的呈现风格一致。",
+                "picker_set_text": "选择器中表情的呈现风格。选择「自动」时，为Flarum表情插件的推特表情风格（当启用时）；否则显示为系统字体风格。选择器与帖子中的呈现风格一致。",
                 "picker_set_auto": "自动",
-                "picker_set_twemoji": "Twemoji",
+                "picker_set_twemoji": "推特表情",
                 "picker_set_native": "系统",
                 "specify_categories_label": "选择分类",
                 "specify_categories_text": "选择器只显示勾选的分类。",
                 "emoji_categories": {
-                    "people": "",
+                    "people": "=> pianotell-flamoji.ref.emoji_categories.people",
                     "nature": "=> pianotell-flamoji.ref.emoji_categories.nature",
                     "foods": "=> pianotell-flamoji.ref.emoji_categories.foods",
-                    "activity": "",
-                    "places": "",
-                    "objects": "",
-                    "symbols": "",
-                    "flags": ""
+                    "activity": "=> pianotell-flamoji.ref.emoji_categories.activity",
+                    "places": "=> pianotell-flamoji.ref.emoji_categories.places",
+                    "objects": "=> pianotell-flamoji.ref.emoji_categories.objects",
+                    "symbols": "=> pianotell-flamoji.ref.emoji_categories.symbols",
+                    "flags": "=> pianotell-flamoji.ref.emoji_categories.flags"
                 }
             },
             "custom_emojis_section": {
-                "heading_title": "",
-                "import_json_button": "",
-                "export_json_button": "",
-                "import_emojis_message": "",
+                "heading_title": "自定义表情",
+                "import_json_button": "导入JSON",
+                "export_json_button": "导出JSON",
+                "import_emojis_message": "此操作只导入表情配置。表情包图片需要手动上传。",
                 "edit_emoji": {
-                    "modal_title": "",
-                    "emoji_title_label": "",
-                    "delete_emoji_confirmation": "",
-                    "text_to_replace_label": "",
-                    "path_or_url_label": "",
-                    "submit_button": "",
-                    "delete_emoji_button": "",
-                    "saved_message": ""
+                    "modal_title": "添加表情",
+                    "emoji_title_label": "表情名称",
+                    "delete_emoji_confirmation": "确认删除此表情吗？",
+                    "text_to_replace_label": "替换文本",
+                    "path_or_url_label": "路径或网址",
+                    "submit_button": "=> core.ref.save_changes",
+                    "delete_emoji_button": "删除表情",
+                    "saved_message": "=> core.admin.settings.saved_message"
                 },
                 "emoji_list": {
-                    "edit_button": "",
-                    "add_button": "",
-                    "load_more_button": ""
+                    "edit_button": "编辑表情",
+                    "add_button": "添加表情",
+                    "load_more_button": "=> core.forum.post_stream.load_more_button"
                 }
             }
         },
         "forum": {
             "composer": {
-                "emoji_picker_label": "",
-                "emoji_tooltip": "",
-                "picker_loading": "",
-                "picker_load_error": "",
-                "picker_load_retry": ""
+                "emoji_picker_label": "表情选择器",
+                "emoji_tooltip": "插入表情",
+                "picker_loading": "表情加载中…",
+                "picker_load_error": "无法加载表情选择器。请重试。",
+                "picker_load_retry": "重试"
             },
             "emoji-mart": {
-                "search_placeholder": "",
-                "no_emojis_found_title": "",
-                "no_emojis_found_message": "",
-                "pick": "",
-                "add_custom": "",
-                "category_search": "",
-                "skin_tone_choose": "",
-                "skin_tone_default": "",
-                "skin_tone_light": "",
-                "skin_tone_medium_light": "",
-                "skin_tone_medium": "",
-                "skin_tone_medium_dark": "",
-                "skin_tone_dark": "",
+                "search_placeholder": "搜索",
+                "no_emojis_found_title": "不好了！",
+                "no_emojis_found_message": "没有表情",
+                "pick": "选择一个表情",
+                "add_custom": "添加自定义表情",
+                "category_search": "搜索结果",
+                "skin_tone_choose": "选择默认肤色",
+                "skin_tone_default": "默认",
+                "skin_tone_light": "浅色",
+                "skin_tone_medium_light": "偏浅色",
+                "skin_tone_medium": "普通",
+                "skin_tone_medium_dark": "便深色",
+                "skin_tone_dark": "深色",
                 "categories": {
-                    "frequent": "",
-                    "people": "",
-                    "nature": "",
-                    "foods": "",
-                    "activity": "",
-                    "places": "",
-                    "objects": "",
-                    "symbols": "",
-                    "flags": "",
-                    "custom": ""
+                    "frequent": "=> pianotell-flamoji.ref.emoji_categories.frequent",
+                    "people": "=> pianotell-flamoji.ref.emoji_categories.people",
+                    "nature": "=> pianotell-flamoji.ref.emoji_categories.nature",
+                    "foods": "=> pianotell-flamoji.ref.emoji_categories.foods",
+                    "activity": "=> pianotell-flamoji.ref.emoji_categories.activity",
+                    "places": "=> pianotell-flamoji.ref.emoji_categories.places",
+                    "objects": "=> pianotell-flamoji.ref.emoji_categories.objects",
+                    "symbols": "=> pianotell-flamoji.ref.emoji_categories.symbols",
+                    "flags": "=> pianotell-flamoji.ref.emoji_categories.flags",
+                    "custom": "=> pianotell-flamoji.ref.emoji_categories.custom"
                 }
             }
         },
         "ref": {
             "emoji_categories": {
-                "frequent": "",
-                "people": "",
-                "nature": "",
-                "foods": "",
-                "activity": "",
-                "places": "",
-                "objects": "",
-                "symbols": "",
-                "flags": "",
-                "custom": ""
+                "frequent": "最近使用",
+                "people": "笑脸和人物",
+                "nature": "动物和自然",
+                "foods": "食物和饮品",
+                "activity": "活动",
+                "places": "旅行和地点",
+                "objects": "物体",
+                "symbols": "符号",
+                "flags": "旗帜",
+                "custom": "自定义"
             }
         }
     }

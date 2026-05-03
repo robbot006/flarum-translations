@@ -42,21 +42,21 @@
             },
             "delete_post": {
                 "title": "Eliminar para siempre",
-                "confirmation": "",
-                "delete_button": "",
-                "success": ""
+                "confirmation": "¿Estás seguro de que quieres <u>eliminar para siempre</u> esta publicación? (es irreversible)",
+                "delete_button": "Eliminar esta publicación para siempre",
+                "success": "Se eliminó la publicación correctamente"
             },
-            "delete_tooltip": "",
-            "delete_post_tooltip": "",
-            "bulk_actions": "",
-            "bulk_post_actions": "",
-            "bulk_restore_label": "",
-            "bulk_post_restore_label": "",
+            "delete_tooltip": "Eliminar discusión",
+            "delete_post_tooltip": "Eliminar publicación",
+            "bulk_actions": "Acciones para discusiones seleccionadas: ",
+            "bulk_post_actions": "Acciones para publicaciones seleccionadas: ",
+            "bulk_restore_label": "Restaurar discusiones seleccionadas",
+            "bulk_post_restore_label": "Restaurar publicaciones seleccionadas",
             "mass_restore_modal": {
-                "title": "",
-                "text_start": "",
-                "text_end": "",
-                "submit_button": "",
+                "title": "Restaurar las discusiones seleccionadas",
+                "text_start": "¿Estás seguro de que quieres restaurar estas? ",
+                "text_end": " discusiones seleccionadas?",
+                "submit_button": "Restaurar estas discusiones",
                 "success": ""
             },
             "mass_restore_post_modal": {
@@ -97,7 +97,7 @@
             "post": {
                 "id": "",
                 "title": "",
-                "open_post": ""
+                "open_post": "Abrir publicación"
             }
         }
     }
