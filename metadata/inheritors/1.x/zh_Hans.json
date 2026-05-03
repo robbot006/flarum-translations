@@ -6848,6 +6848,21 @@
             }
         }
     },
+    "pianotell-flamoji.json": {
+        "pianotell-flamoji": {
+            "admin": {
+                "settings": {
+                    "auto_hide_label": "d41d8cd98f00b204e9800998ecf8427e 413598fae56542143c76be12fde4e035",
+                    "auto_hide_text": "d41d8cd98f00b204e9800998ecf8427e 5dbda1aa32b564351c42b99e63d34103",
+                    "category_settings_heading": "d41d8cd98f00b204e9800998ecf8427e a5a3d084aaee996ee14ec1c6237fbddb",
+                    "emoji_settings_heading": "d41d8cd98f00b204e9800998ecf8427e 7dbaa291543f3ec0a7ee3b8c7f35759b",
+                    "general_ui_settings_heading": "d41d8cd98f00b204e9800998ecf8427e 3a5be2512ec6a8f0e09890fcc5eb989c",
+                    "show_variants_label": "d41d8cd98f00b204e9800998ecf8427e fbf760f82a492a61c98f69f3f83fedcb",
+                    "show_variants_text": "d41d8cd98f00b204e9800998ecf8427e 027fbf290c29d0747dfe8b445bb3101b"
+                }
+            }
+        }
+    },
     "quasimo-llms-txt.json": {
         "quasimo-llms-txt": {
             "admin": {
