@@ -164,17 +164,17 @@
                     "help": "Cargue una imagen que se mostrará junto a la encuesta (opcional).",
                     "alt_label": "Texto alternativo de la imagen",
                     "alt_help_text": "Este texto es necesario cuando se establece una imagen, se mostrará si la imagen no se carga.",
-                    "url_deprecated": ""
+                    "url_deprecated": "Esta encuesta utiliza una URL de imagen externa. Las URL externas están obsoletas y se eliminarán en una versión futura. Por favor, vuelva a subir la imagen usando el botón de carga."
                 },
                 "poll_option_image": {
                     "label": "Imagen de respuesta a la encuesta",
                     "help": "Suba una imagen para que aparezca junto a la respuesta de la encuesta (opcional)."
                 },
-                "date_clear": "",
+                "date_clear": "Borrar fecha de finalización",
                 "tooltip": {
                     "options": {
                         "add-button": "Añadir respuesta",
-                        "remove-button": ""
+                        "remove-button": "Eliminar respuesta"
                     }
                 }
             },
@@ -187,7 +187,7 @@
             "page": {
                 "nav": "Encuestas",
                 "nav-all": "Todas las encuestas globales",
-                "nav-groups": ""
+                "nav-groups": "Grupos de encuesta"
             },
             "showcase": {
                 "active-polls": "Encuestas activas",
