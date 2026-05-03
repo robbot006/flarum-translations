@@ -2,13 +2,13 @@
     "pianotell-flamoji": {
         "admin": {
             "settings": {
-                "emoji_settings_heading": "",
-                "category_settings_heading": "",
-                "general_ui_settings_heading": "",
-                "show_variants_label": "",
-                "show_variants_text": "",
-                "auto_hide_label": "",
-                "auto_hide_text": "",
+                "emoji_settings_heading": "表情包设置",
+                "category_settings_heading": "分类设置",
+                "general_ui_settings_heading": "一般UI设置",
+                "show_variants_label": "显示肤色变体",
+                "show_variants_text": "部分表情具有肤色变体。当所选表情有肤色变体时，将会显示肤色弹窗供用户选择。",
+                "auto_hide_label": "自动隐藏",
+                "auto_hide_text": "选择表情后自动隐藏选择器。",
                 "show_preview_label": "",
                 "show_preview_text": "",
                 "show_category_buttons_label": "",
