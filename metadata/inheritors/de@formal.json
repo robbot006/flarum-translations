@@ -2023,6 +2023,15 @@
             }
         }
     },
+    "ekumanov-markdown-tables.json": {
+        "ekumanov-markdown-tables": {
+            "lib": {
+                "composer": {
+                    "table_tooltip": "4dcd29d71d53f4f04f4fb24a0128d945 4dcd29d71d53f4f04f4fb24a0128d945"
+                }
+            }
+        }
+    },
     "ekumanov-new-posts-notice.json": {
         "ekumanov-new-posts-notice": {
             "forum": {
