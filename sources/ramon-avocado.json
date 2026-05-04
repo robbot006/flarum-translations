@@ -249,8 +249,7 @@
                 "discussion_plural": "discussions",
                 "other_tags_label": "Other Tags",
                 "featured": "Featured",
-                "all_discussions": "All discussions",
-                "login_to_view": "Login to view link"
+                "all_discussions": "All discussions"
             },
             "team": {
                 "title": "Our Team",
