@@ -17,6 +17,8 @@
                 "show_search_text": "Zeige das Suchfeld oben im Auswahlfeld an.",
                 "show_recents_label": "Zuletzt verwendete Emojis anzeigen (und speichern)",
                 "show_recents_text": "Zeige die Registerkarte „Häufig verwendet“ oben im Auswahlfeld an. Die Favoriten jedes Benutzers werden ausschließlich in seinem eigenen Browser gespeichert.",
+                "prepopulate_recents_label": "",
+                "prepopulate_recents_text": "",
                 "frequent_rows_label": "Reihen häufiger Emojis",
                 "frequent_rows_text": "Anzahl der Zeilen mit zuletzt/häufig verwendeten Emojis, die oben im Auswahlfeld angezeigt werden sollen (1–10).",
                 "picker_set_label": "Emoji-Stil",

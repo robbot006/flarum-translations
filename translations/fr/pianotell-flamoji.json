@@ -17,6 +17,8 @@
                 "show_search_text": "Afficher le champ de recherche en haut du sélecteur.",
                 "show_recents_label": "Afficher (et enregistrer) les émojis les plus récemment utilisés",
                 "show_recents_text": "Afficher l'onglet « Fréquemment utilisés » en haut du sélecteur. Les émojis fréquemment utilisés de chaque utilisateur sont enregistrés uniquement dans son propre navigateur.",
+                "prepopulate_recents_label": "",
+                "prepopulate_recents_text": "",
                 "frequent_rows_label": "Lignes des émojis fréquemment utilisés",
                 "frequent_rows_text": "Nombre de lignes des émojis récemment ou fréquemment utilisés à afficher en haut du sélecteur (1 à 10).",
                 "picker_set_label": "Style de l'émoji",
