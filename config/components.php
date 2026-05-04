@@ -481,7 +481,6 @@ return [
 	],
 	'ramon-avocado' => [
 		'tag' => 'https://raw.githubusercontent.com/ram0ng1/avocado/v2.0.5/locale/en.yml',
-		'beta' => 'https://raw.githubusercontent.com/ram0ng1/avocado/v2.1.23-beta/locale/en.yml',
 		'__builtInLanguages' => [
 			'pt_BR',
 		],
