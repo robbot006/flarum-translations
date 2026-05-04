@@ -124,16 +124,7 @@
                 "footer_copyright_text": "",
                 "footer_social": "",
                 "footer_show_social": "",
-                "footer_social_help_json": "",
-                "section_team": "",
-                "team_enabled_label": "",
-                "team_enabled_help": "",
-                "team_title_label": "",
-                "team_desc_label": "",
-                "team_desc_placeholder": "",
-                "team_groups_label": "",
-                "team_groups_help": "",
-                "team_groups_empty": ""
+                "footer_social_help_json": ""
             }
         },
         "forum": {
@@ -258,7 +249,8 @@
                 "discussion_plural": "مباحث",
                 "other_tags_label": "",
                 "featured": "",
-                "all_discussions": ""
+                "all_discussions": "",
+                "login_to_view": ""
             },
             "team": {
                 "title": "",

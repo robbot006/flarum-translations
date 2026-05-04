@@ -124,16 +124,7 @@
                 "footer_copyright_text": "Copyright Text",
                 "footer_social": "Social Links",
                 "footer_show_social": "Show Social Media Links",
-                "footer_social_help_json": "Configure social media links in JSON format. Use keys: facebook, twitter, linkedin, instagram, youtube.",
-                "section_team": "Team Page",
-                "team_enabled_label": "Enable Team Page",
-                "team_enabled_help": "Shows the /team page with members from the selected groups.",
-                "team_title_label": "Page Title",
-                "team_desc_label": "Page Description",
-                "team_desc_placeholder": "Meet the people behind the community.",
-                "team_groups_label": "Groups to display",
-                "team_groups_help": "Members of the selected groups will appear on the Team page.",
-                "team_groups_empty": "No groups found."
+                "footer_social_help_json": "Configure social media links in JSON format. Use keys: facebook, twitter, linkedin, instagram, youtube."
             }
         },
         "forum": {
@@ -258,7 +249,8 @@
                 "discussion_plural": "discussions",
                 "other_tags_label": "Other Tags",
                 "featured": "Featured",
-                "all_discussions": "All discussions"
+                "all_discussions": "All discussions",
+                "login_to_view": "Login to view link"
             },
             "team": {
                 "title": "Our Team",
