@@ -59,6 +59,8 @@
                 "last_seen_interval_help": "Wie viele Minuten seit der letzten Aktivität vergangen sein müssen, damit ein Nutzer immer noch als online gilt.",
                 "online_users_cache_ttl": "Cache-Dauer für Online-Benutzer (Sekunden)",
                 "online_users_cache_ttl_help": "Wie lange soll die Liste der Online-Benutzer zwischengespeichert werden? Es werden zwei separate Caches geführt: einer für privilegierte Benutzer (diejenigen mit der Berechtigung „Letzte Sichtungszeit des Benutzers immer anzeigen“, die auch versteckte Benutzer sehen können) und einer für normale Benutzer. Jeder Cache unterliegt seiner eigenen maximalen Anzeigegrenze.",
+                "enable_heartbeat": "",
+                "enable_heartbeat_help": "",
                 "section_statistics": "Forum-Statistiken",
                 "section_statistics_help": "Konfiguriere das Caching für die Anzahl der Diskussionen, die Anzahl der Beiträge, die Gesamtzahl der Benutzer und die Statistiken zu den neuesten Registrierungen.",
                 "show_discussions_count": "Anzahl der Diskussionen anzeigen",

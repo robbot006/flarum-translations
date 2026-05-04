@@ -59,6 +59,8 @@
                 "last_seen_interval_help": "",
                 "online_users_cache_ttl": "",
                 "online_users_cache_ttl_help": "",
+                "enable_heartbeat": "",
+                "enable_heartbeat_help": "",
                 "section_statistics": "",
                 "section_statistics_help": "",
                 "show_discussions_count": "",

@@ -59,6 +59,8 @@
                 "last_seen_interval_help": "Combien de minutes doivent s'être écoulées depuis la dernière activité pour qu'un utilisateur soit considéré comme étant en ligne.",
                 "online_users_cache_ttl": "Durée de mise en cache pour les utilisateurs en ligne (en secondes)",
                 "online_users_cache_ttl_help": "Combien de temps la liste des utilisateurs en ligne doit-elle être mise en cache ? Deux caches distincts sont gérés : l'un pour les utilisateurs privilégiés (ceux disposant de l'autorisation « Toujours afficher la dernière connexion des utilisateurs », qui peuvent également voir les utilisateurs masqués) et l'autre pour les utilisateurs réguliers. Chaque cache respecte sa propre limite maximale d'affichage.",
+                "enable_heartbeat": "",
+                "enable_heartbeat_help": "",
                 "section_statistics": "Statistiques du forum",
                 "section_statistics_help": "Configurer la mise en cache pour le nombre de discussions, le nombre de messages, le nombre total d'utilisateurs et la dernière inscription.",
                 "show_discussions_count": "Afficher le nombre de discussions",

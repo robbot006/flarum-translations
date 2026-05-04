@@ -59,6 +59,8 @@
                 "last_seen_interval_help": "用户最后一次活动在此分钟数内将被视为在线。",
                 "online_users_cache_ttl": "在线用户缓存时长（秒）",
                 "online_users_cache_ttl_help": "在线用户列表的缓存时间。系统会维护两个独立的缓存：一个用于特权用户（可见隐藏用户），一个用于普通用户。每个缓存均遵循其各自的最大显示限制。",
+                "enable_heartbeat": "",
+                "enable_heartbeat_help": "",
                 "section_statistics": "论坛统计",
                 "section_statistics_help": "配置讨论总数、帖子总数、用户总数以及最新注册统计的缓存设置。",
                 "show_discussions_count": "显示讨论总数",
