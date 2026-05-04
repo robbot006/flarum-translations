@@ -1,8 +1,8 @@
 {
     "walsgit_discussion_cards": {
         "forum": {
-            "replies": "",
-            "unreadReplies": "",
+            "replies": "Antworten: {count}",
+            "unreadReplies": "Ungelesene Antworten: {count}",
             "console": {
                 "postUpdateCardImageError": ""
             }
@@ -10,7 +10,7 @@
         "admin": {
             "settings": {
                 "statsToolsBanner": {
-                    "refreshStats": "",
+                    "refreshStats": "Bildstatistiken wurden erfolgreich aktualisiert",
                     "purgeImagesModal_title": "",
                     "purgeImagesModal_helpText": "",
                     "purgeImagesModal_deleteUnusedLabel": "",

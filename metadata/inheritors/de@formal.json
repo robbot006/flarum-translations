@@ -2027,6 +2027,21 @@
         "ekumanov-markdown-tables": {
             "lib": {
                 "composer": {
+                    "table_menu": {
+                        "column": "93d451f4c186720578fd6b087905133f 93d451f4c186720578fd6b087905133f",
+                        "delete_table": "9e1966158428bab1af32ce7851905bc2 9e1966158428bab1af32ce7851905bc2",
+                        "insert_column_after": "c6a7988baa602448134ed9adda869ca8 c6a7988baa602448134ed9adda869ca8",
+                        "insert_column_before": "d455a7ea9ced9282d933fbc77bdb73f5 d455a7ea9ced9282d933fbc77bdb73f5",
+                        "insert_row_after": "8cbd013c6afb74c7694465a7f5c5625e 8cbd013c6afb74c7694465a7f5c5625e",
+                        "insert_row_before": "7cec7735b2e41c0ca6261b37d734ca72 7cec7735b2e41c0ca6261b37d734ca72",
+                        "insert_table": "4dcd29d71d53f4f04f4fb24a0128d945 4dcd29d71d53f4f04f4fb24a0128d945",
+                        "num_cols": "f36614aa67e373d36fd13918e7839f3a f36614aa67e373d36fd13918e7839f3a",
+                        "num_rows": "f47e769fe1b0073219548c59b6c91c5f f47e769fe1b0073219548c59b6c91c5f",
+                        "remove_column": "70693573557641d14a18be12a22af115 70693573557641d14a18be12a22af115",
+                        "remove_row": "88c01af2cd0e5c7d4f4cb21dcc78caeb 88c01af2cd0e5c7d4f4cb21dcc78caeb",
+                        "row": "2c3dee8db8c9a0f7e566eb9d68457e35 2c3dee8db8c9a0f7e566eb9d68457e35",
+                        "toggle_header_row": "dd2e129cd33df2d1228840f5b5976831 dd2e129cd33df2d1228840f5b5976831"
+                    },
                     "table_tooltip": "4dcd29d71d53f4f04f4fb24a0128d945 4dcd29d71d53f4f04f4fb24a0128d945"
                 }
             }
@@ -9080,7 +9095,7 @@
                     "show_category_buttons_text": "c88a8a0f0fea33680879eeeb442cc364 c88a8a0f0fea33680879eeeb442cc364",
                     "show_preview_label": "7dd525b7a3208a6db7c704f6765d6d85 7dd525b7a3208a6db7c704f6765d6d85",
                     "show_preview_text": "af897e43142320334fe2ca088000f346 af897e43142320334fe2ca088000f346",
-                    "show_recents_label": "97bb52ad28d45f843ab956a93c2e2374 97bb52ad28d45f843ab956a93c2e2374",
+                    "show_recents_label": "54d71947770fc10878beacc7767809ec 54d71947770fc10878beacc7767809ec",
                     "show_recents_text": "a0ca5ef0c7ee5b3754e1bd179c8f2f6b a0ca5ef0c7ee5b3754e1bd179c8f2f6b",
                     "show_search_label": "593425520be27409b535204c5dd896b3 593425520be27409b535204c5dd896b3",
                     "show_search_text": "c25bb9f21d2391716c88d6c023205926 c25bb9f21d2391716c88d6c023205926",
@@ -11185,6 +11200,21 @@
                     "use-cravatar": "5990b71477a4313d8f73a06844c1f9b3 5990b71477a4313d8f73a06844c1f9b3",
                     "use-uploaded": "bb0f4222ff90ec6b009a693543918a86 bb0f4222ff90ec6b009a693543918a86"
                 }
+            }
+        }
+    },
+    "walsgit-discussion-cards.json": {
+        "walsgit_discussion_cards": {
+            "admin": {
+                "settings": {
+                    "statsToolsBanner": {
+                        "refreshStats": "1b55e36de76502f91de0070e6a55a388 1b55e36de76502f91de0070e6a55a388"
+                    }
+                }
+            },
+            "forum": {
+                "replies": "b56b87b24bf1caed951539bf0b0555d4 b56b87b24bf1caed951539bf0b0555d4",
+                "unreadReplies": "d492e71d8762024388c0f4dffb54a940 d492e71d8762024388c0f4dffb54a940"
             }
         }
     },
