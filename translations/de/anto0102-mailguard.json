@@ -8,7 +8,7 @@
             "message_label": "Ablehnungsmeldung",
             "message_help": "Meldung, die Nutzern angezeigt wird, die versuchen, sich mit einer gesperrten E-Mail-Domäne zu registrieren.",
             "check_mx_label": "MX-/DNS-Einträge überprüfen",
-            "check_mx_help": ""
+            "check_mx_help": "Wenn aktiviert, werden Domänen blockiert, die nicht existieren oder keine E-Mails empfangen können (unabhängig von Zulassungs- oder Sperrlisten)."
         }
     }
 }
