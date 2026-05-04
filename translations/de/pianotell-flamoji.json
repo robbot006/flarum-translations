@@ -15,7 +15,7 @@
                 "show_category_buttons_text": "Zeige die Reihe mit Kategoriesymbolen oben im Auswahlfeld an. Es ist sinnvoll, diese Option zu deaktivieren, wenn nur eine oder zwei Kategorien aktiviert sind.",
                 "show_search_label": "Sucheingabefeld anzeigen",
                 "show_search_text": "Zeige das Suchfeld oben im Auswahlfeld an.",
-                "show_recents_label": "Zuletzt verwendete Emojis anzeigen (und speichern)",
+                "show_recents_label": "Häufig verwendete Emojis anzeigen (und speichern)",
                 "show_recents_text": "Zeige die Registerkarte „Häufig verwendet“ oben im Auswahlfeld an. Die Favoriten jedes Benutzers werden ausschließlich in seinem eigenen Browser gespeichert.",
                 "prepopulate_recents_label": "",
                 "prepopulate_recents_text": "",
