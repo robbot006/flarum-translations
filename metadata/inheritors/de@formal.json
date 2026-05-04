@@ -7458,12 +7458,24 @@
     "forumaker-profile-cover.json": {
         "forumaker-profile-cover": {
             "admin": {
+                "delete_error": "7007b9475ff6b7a4990d77d5d0faaacb 7007b9475ff6b7a4990d77d5d0faaacb",
+                "delete_success": "de6274d0613a1727b81b6b843c723734 de6274d0613a1727b81b6b843c723734",
+                "delete_thumbnails": "60832bd6d302f75bc704e29c81e4d86c 60832bd6d302f75bc704e29c81e4d86c",
                 "max_size": "a4f9b7df899e23c0b4552eee14cded01 a4f9b7df899e23c0b4552eee14cded01",
                 "permission": {
                     "set_cover": "a4e377689aa0a16c7ceb3c9800f7b747 a4e377689aa0a16c7ceb3c9800f7b747"
                 },
+                "recreate_error": "d6682450731fc5026d1e20524b4663e8 d6682450731fc5026d1e20524b4663e8",
+                "recreate_success": "9f8b7ebffaa0152d19c1396a99d3af81 9f8b7ebffaa0152d19c1396a99d3af81",
+                "recreate_thumbnails": "7da9bf09edb3545375b5b85f58d727a4 7da9bf09edb3545375b5b85f58d727a4",
+                "sections": {
+                    "general": "0a6892b9c620daf64f6cac8931ecef06 0a6892b9c620daf64f6cac8931ecef06",
+                    "thumbnails": "4d72c6337bc158ce0f2c5714abe7a3c0 4d72c6337bc158ce0f2c5714abe7a3c0"
+                },
+                "thumbnail_width": "926d74a87aac7dd8904eac4f6b7052b9 926d74a87aac7dd8904eac4f6b7052b9",
+                "thumbnail_width_help": "c3681b6566ab4892edd07e2daeb7e060 c3681b6566ab4892edd07e2daeb7e060",
                 "thumbnails": "7f854a5ec30d4eeb67b8652d46d700a6 7f854a5ec30d4eeb67b8652d46d700a6",
-                "thumbnails_help": "6443e69188d7903ecd605138e755fb56 6443e69188d7903ecd605138e755fb56"
+                "thumbnails_help": "18e232f9e85dd5ef27b7063eba3b70d5 18e232f9e85dd5ef27b7063eba3b70d5"
             },
             "forum": {
                 "added": {
@@ -7474,7 +7486,7 @@
                 "edit_cover": "a179a9d10a90f0745d25df40b7257073 a179a9d10a90f0745d25df40b7257073",
                 "notice": "7eeda5e0ca20ab4bde6961666bed3210 7eeda5e0ca20ab4bde6961666bed3210",
                 "removed": {
-                    "error": "3bc035b08a11e90ddb7a73c2f05a9c35 3bc035b08a11e90ddb7a73c2f05a9c35",
+                    "error": "e4e9246be4626ad2c438e089bbf2a0cd e4e9246be4626ad2c438e089bbf2a0cd",
                     "success": "73860d96f043df66b9f87f6212c79353 73860d96f043df66b9f87f6212c79353"
                 }
             }
