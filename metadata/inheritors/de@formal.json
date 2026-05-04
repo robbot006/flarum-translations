@@ -95,6 +95,20 @@
             }
         }
     },
+    "anto0102-mailguard.json": {
+        "anto0102-mailguard": {
+            "admin": {
+                "check_mx_help": "2b64df27f8b140a8beb1103faeaa6b86 2b64df27f8b140a8beb1103faeaa6b86",
+                "check_mx_label": "178657ef56782ec2493b83c3eb000685 178657ef56782ec2493b83c3eb000685",
+                "domains_help": "2ae00c72be01a65d8e77bb2746f9aff1 2ae00c72be01a65d8e77bb2746f9aff1",
+                "domains_label": "2f8f50f2a8978560c8c5488f0eb93c5d 2f8f50f2a8978560c8c5488f0eb93c5d",
+                "message_help": "8a7887c4d6d87974b0421a3679590f5c 8a7887c4d6d87974b0421a3679590f5c",
+                "message_label": "bcf827625b6f2902da5f012412a615a1 bcf827625b6f2902da5f012412a615a1",
+                "mode_help": "659a4f02794a1da41e660d98136b9e61 659a4f02794a1da41e660d98136b9e61",
+                "mode_label": "c9a56591c642d758eccead6c7597d0df c9a56591c642d758eccead6c7597d0df"
+            }
+        }
+    },
     "core.json": {
         "core": {
             "admin": {
