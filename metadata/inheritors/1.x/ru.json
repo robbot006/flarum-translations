@@ -6551,6 +6551,34 @@
             }
         }
     },
+    "ianm-oauth-reddit.json": {
+        "fof-oauth": {
+            "admin": {
+                "settings": {
+                    "providers": {
+                        "reddit": {
+                            "client_id_label": "9da4fcce8034d92e474dde403251e434 9da4fcce8034d92e474dde403251e434",
+                            "client_secret_label": "4bf8d1e95568282472c93b3844e5b8b3 4bf8d1e95568282472c93b3844e5b8b3",
+                            "description": "c7bde04365b690228fa7744d70cbe42b c7bde04365b690228fa7744d70cbe42b"
+                        }
+                    }
+                }
+            },
+            "forum": {
+                "log_in": {
+                    "with_reddit_button": "625db5950e116b42b8d60e995c02ab39 625db5950e116b42b8d60e995c02ab39"
+                },
+                "providers": {
+                    "reddit": "bc4daa78912f7062fdde64e6d19d9c2d bc4daa78912f7062fdde64e6d19d9c2d"
+                }
+            },
+            "lib": {
+                "providers": {
+                    "reddit": "b632c55a33530d1433e29ffc09ba1151 b632c55a33530d1433e29ffc09ba1151"
+                }
+            }
+        }
+    },
     "ianm-syndication.json": {
         "ianm-syndication": {
             "admin": {
@@ -7911,16 +7939,84 @@
             "admin": {
                 "settings": {
                     "general": {
-                        "allowedTags_help": "5bd90b001e92ab13b77589efbc900328 5bd90b001e92ab13b77589efbc900328",
+                        "allowedTags_help": "8a801b19ee87c6385e1d2b673ba8f9f0 8a801b19ee87c6385e1d2b673ba8f9f0",
                         "allowedTags_label": "d926cd34b3886c0567bd3e4a8e3a8540 d926cd34b3886c0567bd3e4a8e3a8540",
-                        "onIndexPage_label": "e3ad3a3876db3d59afd5adf0ee3fc362 e3ad3a3876db3d59afd5adf0ee3fc362",
-                        "where_info": "15024227577e0f99f2810492965fc51a 15024227577e0f99f2810492965fc51a",
+                        "cardOptions_info": "9ed1d9f316fdc43a53725b50a5d2825b 9ed1d9f316fdc43a53725b50a5d2825b",
+                        "cardOptions_title": "dea71ba1222bdd6ff5c78888c9a92f0f dea71ba1222bdd6ff5c78888c9a92f0f",
+                        "defaultImage_info": "9e60f7c170b924a1ec0b58e4f70d907d 9e60f7c170b924a1ec0b58e4f70d907d",
+                        "defaultImage_title": "35bd3aeae81468619203ef08a27f7775 35bd3aeae81468619203ef08a27f7775",
+                        "desktopCardWidth_help": "bd9795f1ceaaf46749ccfe793c85f472 bd9795f1ceaaf46749ccfe793c85f472",
+                        "desktopCardWidth_label": "3bce9e459b74ce983383462fe4d61e30 3bce9e459b74ce983383462fe4d61e30",
+                        "listCardOptions_info": "68d08785a308e772978bcdad621ea89d 68d08785a308e772978bcdad621ea89d",
+                        "listCardOptions_title": "1481908c5bdd775313f03fed1c15104c 1481908c5bdd775313f03fed1c15104c",
+                        "listCardsCount_help": "33247f4ea4b81cf278881180b076dbe2 33247f4ea4b81cf278881180b076dbe2",
+                        "listCardsCount_label": "45f1c81d36a66c87fe6cbc4295188a4a 45f1c81d36a66c87fe6cbc4295188a4a",
+                        "listCards_help": "417ca0697ce84177ea5c59a1b106e0c0 417ca0697ce84177ea5c59a1b106e0c0",
+                        "listCards_label": "80698715b1bcd3aba182ddf7aa2cf674 80698715b1bcd3aba182ddf7aa2cf674",
+                        "markReadCards_help": "689d3219b0d867139cff8cbb6eaace21 689d3219b0d867139cff8cbb6eaace21",
+                        "markReadCards_label": "5647ec26d75da3c603f17003f34f6aa3 5647ec26d75da3c603f17003f34f6aa3",
+                        "onIndexPage_help": "5b41c664bb1a900e0e4c021fe2ada8e3 5b41c664bb1a900e0e4c021fe2ada8e3",
+                        "onIndexPage_label": "091b140ee3619b0b1dd65f1f01e930c3 091b140ee3619b0b1dd65f1f01e930c3",
+                        "previewText_help": "0f53e2dbd043108c21bfea41f9e8f04f 0f53e2dbd043108c21bfea41f9e8f04f",
+                        "previewText_label": "ab7e3f68e35ea338579c58e2ae4d7c27 ab7e3f68e35ea338579c58e2ae4d7c27",
+                        "primaryCardOptions_info": "8e8f1efa648ede52c49067025d9db655 8e8f1efa648ede52c49067025d9db655",
+                        "primaryCardOptions_title": "961ca871c2fd6ff68497051fadcef55c 961ca871c2fd6ff68497051fadcef55c",
+                        "primaryCards_help": "f219fe72cc2dc87458b6ac85ba2749b1 f219fe72cc2dc87458b6ac85ba2749b1",
+                        "primaryCards_label": "530448d26747018bb380f1ab6c7da07d 530448d26747018bb380f1ab6c7da07d",
+                        "showAuthor_help": "b7f98717ac823317995262320775d14f b7f98717ac823317995262320775d14f",
+                        "showAuthor_label": "065a8e61bdcdae2e71a719c5d98f2455 065a8e61bdcdae2e71a719c5d98f2455",
+                        "showBadges_help": "0e550b8db1abbc3024cb1fa6fb786c4a 0e550b8db1abbc3024cb1fa6fb786c4a",
+                        "showBadges_label": "db9042b9128435aa572d9d1eb07fe366 db9042b9128435aa572d9d1eb07fe366",
+                        "showLastPostInfo_help": "e6dd00fb16fb95209455be4eddbc46c9 e6dd00fb16fb95209455be4eddbc46c9",
+                        "showLastPostInfo_label": "d7e746887143d4bcef5c75dc41aae396 d7e746887143d4bcef5c75dc41aae396",
+                        "showRepliesOnRight_help": "73075d44dead3798d207bcdc29353aec 73075d44dead3798d207bcdc29353aec",
+                        "showRepliesOnRight_label": "4ece6c3a35b80a2117e2fcc7fa05f960 4ece6c3a35b80a2117e2fcc7fa05f960",
+                        "showReplies_help": "127ac5ef6a728ee638e20c4e9817fca0 127ac5ef6a728ee638e20c4e9817fca0",
+                        "showReplies_label": "2ce92744d1854f166c80b2399ed518f6 2ce92744d1854f166c80b2399ed518f6",
+                        "tabletCardWidth_help": "2d47a37495ad674e5d3a29ebdc7e2a8b 2d47a37495ad674e5d3a29ebdc7e2a8b",
+                        "tabletCardWidth_label": "a20029e1961abc6c6fc3b9de35c4354f a20029e1961abc6c6fc3b9de35c4354f",
+                        "where_info": "883541c62e6e80ba491d209b75e507c9 883541c62e6e80ba491d209b75e507c9",
                         "where_title": "1e890c6985cb8948189edad38c2220ca 1e890c6985cb8948189edad38c2220ca"
+                    },
+                    "statsToolsBanner": {
+                        "purgeImagesModal_deleteAllBtnText": "74c60cff4641ec6ad0b0cb8b04a809d2 74c60cff4641ec6ad0b0cb8b04a809d2",
+                        "purgeImagesModal_deleteAllHelp": "2d65c3856a5555105829d293b73ad128 2d65c3856a5555105829d293b73ad128",
+                        "purgeImagesModal_deleteAllLabel": "dcff0662ce719b16c902a8bf60a6829d dcff0662ce719b16c902a8bf60a6829d",
+                        "purgeImagesModal_deleteUnusedBtnText": "38fbadc25be8c94551e53826f814c6a5 38fbadc25be8c94551e53826f814c6a5",
+                        "purgeImagesModal_deleteUnusedHelp": "53f99dc47bb7782108249fb8087a2ffc 53f99dc47bb7782108249fb8087a2ffc",
+                        "purgeImagesModal_deleteUnusedLabel": "0914c3a1d7dcd89ad0df3f19d928aece 0914c3a1d7dcd89ad0df3f19d928aece",
+                        "purgeImagesModal_error": "392151ccc2a6086fd9b88debd389aa7a 392151ccc2a6086fd9b88debd389aa7a",
+                        "purgeImagesModal_helpText": "650812f4ccc1a027d7a8745eb7299c02 650812f4ccc1a027d7a8745eb7299c02",
+                        "purgeImagesModal_runningCommand": "11d040002b3a390d51bbe2e2a209f5f8 11d040002b3a390d51bbe2e2a209f5f8",
+                        "purgeImagesModal_success": "b5c3570f47d38b2c92ccfdf9102313ce b5c3570f47d38b2c92ccfdf9102313ce",
+                        "purgeImagesModal_title": "947b8b84546794c4c1cff3898c7f3bbe 947b8b84546794c4c1cff3898c7f3bbe",
+                        "purgeImagesModal_unknownError": "ab2630021015478c54c9c5fa3cbb5b18 ab2630021015478c54c9c5fa3cbb5b18",
+                        "refreshStats": "5b2522776238482e5b884b1212adb499 5b2522776238482e5b884b1212adb499",
+                        "regenerateImagesModal_error": "b6cdd340c690e5626387828e260e1489 b6cdd340c690e5626387828e260e1489",
+                        "regenerateImagesModal_helpText": "8b96577ae13ff3e393a175edae5fbbfc 8b96577ae13ff3e393a175edae5fbbfc",
+                        "regenerateImagesModal_helpTextUrlTitle": "e34d47469d67da9eea600de56b69ace4 e34d47469d67da9eea600de56b69ace4",
+                        "regenerateImagesModal_regenerateLTNOBtnText": "b72a433549b072a70ea61e01a34a7e87 b72a433549b072a70ea61e01a34a7e87",
+                        "regenerateImagesModal_regenerateLTNOHelp": "93496850760c17fce8ada3651df54c29 93496850760c17fce8ada3651df54c29",
+                        "regenerateImagesModal_regenerateLTNOLabel": "098591b5b2c4df22657003288d2fbda9 098591b5b2c4df22657003288d2fbda9",
+                        "regenerateImagesModal_regenerateLatestBtnText": "b72a433549b072a70ea61e01a34a7e87 b72a433549b072a70ea61e01a34a7e87",
+                        "regenerateImagesModal_regenerateLatestHelp": "a10bdbce155aa5f649aca1243aaf2087 a10bdbce155aa5f649aca1243aaf2087",
+                        "regenerateImagesModal_regenerateLatestLabel": "5198fb63d416f4ef67c4e0bfb7fb4544 5198fb63d416f4ef67c4e0bfb7fb4544",
+                        "regenerateImagesModal_regenerateWithoutBtnText": "9cccd97ab0bb050aa19b36aec5889aa3 9cccd97ab0bb050aa19b36aec5889aa3",
+                        "regenerateImagesModal_regenerateWithoutHelp": "72771117ae753340b598501bd0648b3c 72771117ae753340b598501bd0648b3c",
+                        "regenerateImagesModal_regenerateWithoutLabel": "e1df05ee094d2a824df66610dbe9abf9 e1df05ee094d2a824df66610dbe9abf9",
+                        "regenerateImagesModal_runningCommand": "11d040002b3a390d51bbe2e2a209f5f8 11d040002b3a390d51bbe2e2a209f5f8",
+                        "regenerateImagesModal_success": "38f10711bbf688cf1fd77ca7f43faf3b 38f10711bbf688cf1fd77ca7f43faf3b",
+                        "regenerateImagesModal_title": "c672bcaf7d299d52c6b931c73f0e6c5d c672bcaf7d299d52c6b931c73f0e6c5d",
+                        "regenerateImagesModal_unknownError": "ab2630021015478c54c9c5fa3cbb5b18 ab2630021015478c54c9c5fa3cbb5b18"
                     }
                 }
             },
             "forum": {
-                "replies": "440b1c24686f5680799b748acca06a09 440b1c24686f5680799b748acca06a09"
+                "console": {
+                    "postUpdateCardImageError": "d7e96993f51dfd2acb348af819296811 d7e96993f51dfd2acb348af819296811"
+                },
+                "replies": "440b1c24686f5680799b748acca06a09 440b1c24686f5680799b748acca06a09",
+                "unreadReplies": "7ca5815af6a4685cdabd28af8d6f1486 7ca5815af6a4685cdabd28af8d6f1486"
             }
         }
     },
