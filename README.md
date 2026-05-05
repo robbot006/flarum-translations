@@ -953,6 +953,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`ianm-twofactor`](https://weblate.rob006.net/projects/flarum2/ianm-twofactor) | [`ianm/twofactor`](https://github.com/imorland/flarum-ext-twofactor) |
 | [`import-ai-webhook-notification`](https://weblate.rob006.net/projects/flarum2/import-ai-webhook-notification) | [`import-ai/flarum-webhook-notification`](https://github.com/import-ai/flarum-webhook-notification) |
 | [`justoverclock-welcomebox`](https://weblate.rob006.net/projects/flarum2/justoverclock-welcomebox) | [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox) |
+| [`linkrobins-referral`](https://weblate.rob006.net/projects/flarum2/linkrobins-referral) | [`linkrobins/referral`](https://github.com/linkrobins/referral) |
 | [`michaelbelgium-ai-autoreply`](https://weblate.rob006.net/projects/flarum2/michaelbelgium-ai-autoreply) | [`michaelbelgium/flarum-ai-autoreply`](https://github.com/MichaelBelgium/flarum-ai-autoreply) |
 | [`migratetoflarum-fake-data`](https://weblate.rob006.net/projects/flarum2/migratetoflarum-fake-data) | [`migratetoflarum/fake-data`](https://github.com/migratetoflarum/fake-data) |
 | [`pianotell-flamoji`](https://weblate.rob006.net/projects/flarum2/pianotell-flamoji) | [`pianotell/flarum-ext-flamoji`](https://github.com/PrimateCoder/flarum-flamoji) |
@@ -971,6 +972,7 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`ramon-avocado`](https://weblate.rob006.net/projects/flarum2/ramon-avocado) | [`ramon/avocado`](https://github.com/ram0ng1/avocado) |
 | [`ramon-classifieds`](https://weblate.rob006.net/projects/flarum2/ramon-classifieds) | [`ramon/classifieds`](https://github.com/ram0ng1/classifieds) |
 | [`ramon-stickers`](https://weblate.rob006.net/projects/flarum2/ramon-stickers) | [`ramon/stickers`](https://github.com/ram0ng1/stickers) |
+| [`ramon-verified`](https://weblate.rob006.net/projects/flarum2/ramon-verified) | [`ramon/verified`](https://github.com/ram0ng1/verified) |
 | [`resofire-blog-cards`](https://weblate.rob006.net/projects/flarum2/resofire-blog-cards) | [`resofire/blog-cards`](https://github.com/ResofireV2/blog-cards) |
 | [`resofire-digest-mail`](https://weblate.rob006.net/projects/flarum2/resofire-digest-mail) | [`resofire/digest-mail`](https://github.com/ResofireV2/digest-mail) |
 | [`resofire-discussion-participants`](https://weblate.rob006.net/projects/flarum2/resofire-discussion-participants) | [`resofire/discussion-participants`](https://github.com/ResofireV2/discussion-participants) |
