@@ -428,6 +428,14 @@ return [
 	'justoverclock-welcomebox' => [
 		'tag' => 'https://raw.githubusercontent.com/justoverclockl/flarum-ext-welcomebox/3.0.0/locale/en.yml',
 	],
+	'linkrobins-referral' => [
+		'tag' => 'https://raw.githubusercontent.com/linkrobins/referral/v1.0.1/locale/en.yml',
+		'__builtInLanguages' => [
+			'es',
+			'ko',
+			'zh_Hans',
+		],
+	],
 	'michaelbelgium-ai-autoreply' => [
 		'tag' => 'https://raw.githubusercontent.com/MichaelBelgium/flarum-ai-autoreply/v2.0.0/locale/en.yml',
 	],
