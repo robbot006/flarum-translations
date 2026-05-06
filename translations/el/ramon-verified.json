@@ -6,7 +6,8 @@
             "popover": {
                 "pill": "",
                 "headline": "",
-                "verified_on": ""
+                "verified_on": "",
+                "verified_no_date": ""
             }
         },
         "forum": {
@@ -95,11 +96,20 @@
                 "badge_color_help": "",
                 "badge_color_reset": "",
                 "custom_svg_label": "",
-                "custom_svg_help": ""
+                "custom_svg_help": "",
+                "section_document_types": "",
+                "section_document_types_help": "",
+                "document_type_id_header": "",
+                "document_type_label_header": "",
+                "document_type_label_placeholder": "",
+                "document_type_add": "",
+                "document_type_remove": "",
+                "document_types_empty": ""
             },
             "permissions": {
                 "request_label": "",
-                "verify_users_label": ""
+                "verify_users_label": "",
+                "auto_verified_label": ""
             },
             "requests": {
                 "title": "",
@@ -113,8 +123,21 @@
                 "empty_pending": "",
                 "empty_approved": "",
                 "empty_rejected": "",
+                "empty_search": "",
+                "search_placeholder": "",
+                "search_clear": "",
+                "status_auto": "",
+                "auto_via_groups": "",
+                "auto_via_group_unknown": "",
+                "auto_actions_hint": "",
+                "pagination_prev": "",
+                "pagination_next": "",
+                "pagination_info": "",
                 "document_label": "",
                 "view_document": "",
+                "document_preview_title": "",
+                "preview_unavailable": "",
+                "preview_failed": "",
                 "admin_note_label": "",
                 "handled_by": "",
                 "approve_button": "",
@@ -139,6 +162,11 @@
                     "body": ""
                 }
             }
+        },
+        "gdpr": {
+            "export_description": "",
+            "anonymize_description": "",
+            "delete_description": ""
         },
         "api": {
             "already_verified": "",
