@@ -224,6 +224,12 @@ return [
 	'ernestdefoe-typesense' => [
 		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/typesense/v0.2.1/locale/en.yml',
 	],
+	'ernestdefoe-wardrobe' => [
+		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/wardrobe/v1.0.0/locale/en.yml',
+		'__builtInLanguages' => [
+			'es',
+		],
+	],
 	'ffans-bbcode-studio' => [
 		'beta' => 'https://raw.githubusercontent.com/FFans/bbcode-studio/v2.0.0-beta.2/locale/en.yml',
 		'__builtInLanguages' => [
