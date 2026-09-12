@@ -209,6 +209,9 @@ return [
 	'ernestdefoe-seo' => [
 		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/seo/2.0.14/locale/en.yml',
 	],
+	'ernestdefoe-since' => [
+		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/since/v1.1.0/locale/en.yml',
+	],
 	'ernestdefoe-social-groups' => [
 		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/social-groups/v2.5.0/locale/en.yml',
 	],
@@ -223,6 +226,9 @@ return [
 	],
 	'ernestdefoe-typesense' => [
 		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/typesense/v0.2.1/locale/en.yml',
+	],
+	'ernestdefoe-verbatim' => [
+		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/verbatim/v1.0.0/locale/en.yml',
 	],
 	'ernestdefoe-wardrobe' => [
 		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/wardrobe/v1.0.0/locale/en.yml',
