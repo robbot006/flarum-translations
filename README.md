@@ -972,10 +972,12 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`ernestdefoe-janitor`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-janitor) | [`ernestdefoe/janitor`](https://github.com/ernestdefoe/janitor) |
 | [`ernestdefoe-logo-manager`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-logo-manager) | [`ernestdefoe/logo-manager`](https://github.com/ernestdefoe/logo-manager) |
 | [`ernestdefoe-maintenance`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-maintenance) | [`ernestdefoe/maintenance`](https://github.com/ernestdefoe/maintenance) |
+| [`ernestdefoe-marginalia`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-marginalia) | [`ernestdefoe/marginalia`](https://github.com/ernestdefoe/marginalia) |
 | [`ernestdefoe-mobile-tab`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-mobile-tab) | [`ernestdefoe/mobile-tab`](https://github.com/ernestdefoe/mobiletab) |
 | [`ernestdefoe-onair`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-onair) | [`ernestdefoe/onair`](https://github.com/ernestdefoe/onair) |
 | [`ernestdefoe-opensearch`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-opensearch) | [`ernestdefoe/opensearch`](https://github.com/ernestdefoe/opensearch) |
 | [`ernestdefoe-respawn`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-respawn) | [`ernestdefoe/respawn`](https://github.com/ernestdefoe/respawn) |
+| [`ernestdefoe-ridge`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-ridge) | [`ernestdefoe/ridge`](https://github.com/ernestdefoe/ridge) |
 | [`ernestdefoe-roleplay`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-roleplay) | [`ernestdefoe/roleplay`](https://github.com/ernestdefoe/roleplay) |
 | [`ernestdefoe-scribe`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-scribe) | [`ernestdefoe/scribe`](https://github.com/ernestdefoe/scribe) |
 | [`ernestdefoe-seo`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-seo) | [`ernestdefoe/seo`](https://github.com/ernestdefoe/seo) |
