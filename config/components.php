@@ -188,6 +188,9 @@ return [
 	'ernestdefoe-maintenance' => [
 		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/maintenance/1.1.5/resources/locale/en.yml',
 	],
+	'ernestdefoe-marginalia' => [
+		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/marginalia/v1.0.0/locale/en.yml',
+	],
 	'ernestdefoe-mobile-tab' => [
 		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/mobiletab/2.0.1/resources/locale/en.yml',
 	],
