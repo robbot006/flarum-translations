@@ -979,11 +979,14 @@ Missing extension? Read [this](https://github.com/rob006-software/flarum-transla
 | [`ernestdefoe-roleplay`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-roleplay) | [`ernestdefoe/roleplay`](https://github.com/ernestdefoe/roleplay) |
 | [`ernestdefoe-scribe`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-scribe) | [`ernestdefoe/scribe`](https://github.com/ernestdefoe/scribe) |
 | [`ernestdefoe-seo`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-seo) | [`ernestdefoe/seo`](https://github.com/ernestdefoe/seo) |
+| [`ernestdefoe-since`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-since) | [`ernestdefoe/since`](https://github.com/ernestdefoe/since) |
 | [`ernestdefoe-social-groups`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-social-groups) | [`ernestdefoe/social-groups`](https://github.com/ernestdefoe/social-groups) |
 | [`ernestdefoe-steward`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-steward) | [`ernestdefoe/steward`](https://github.com/ernestdefoe/steward) |
 | [`ernestdefoe-theme-toggle`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-theme-toggle) | [`ernestdefoe/theme-toggle`](https://github.com/ernestdefoe/theme-toggle) |
 | [`ernestdefoe-topic-map`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-topic-map) | [`ernestdefoe/topic-map`](https://github.com/ernestdefoe/topic-map) |
 | [`ernestdefoe-typesense`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-typesense) | [`ernestdefoe/typesense`](https://github.com/ernestdefoe/typesense) |
+| [`ernestdefoe-verbatim`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-verbatim) | [`ernestdefoe/verbatim`](https://github.com/ernestdefoe/verbatim) |
+| [`ernestdefoe-wardrobe`](https://weblate.rob006.net/projects/flarum2/ernestdefoe-wardrobe) | [`ernestdefoe/wardrobe`](https://github.com/ernestdefoe/wardrobe) |
 | [`ffans-bbcode-studio`](https://weblate.rob006.net/projects/flarum2/ffans-bbcode-studio) | [`ffans/bbcode-studio`](https://github.com/FFans/bbcode-studio) |
 | [`ffans-creator-declarations`](https://weblate.rob006.net/projects/flarum2/ffans-creator-declarations) | [`ffans/creator-declarations`](https://github.com/FFans/creator-declarations) |
 | [`ffans-geetest`](https://weblate.rob006.net/projects/flarum2/ffans-geetest) | [`ffans/geetest`](https://github.com/FFans/geetest) |
