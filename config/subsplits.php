@@ -779,6 +779,7 @@ return [
 			'ignoredVersionsConstraints' => ['^1.10.6'],
 		],
 		'maintainers' => ['rob006'],
+		'discussThreadId' => 18134,
 	],
 	'pt' => [
 		'type' => 'language',
