@@ -25,6 +25,8 @@
                 "column_name": "名称",
                 "column_slug": "固定链接名",
                 "column_type": "类型",
+                "column_assignee": "",
+                "assignee_all_staff": "",
                 "column_tickets": "工单",
                 "general_badge": "普通",
                 "appeal_badge": "申诉",
@@ -48,6 +50,12 @@
                 "field_position_help": "分类按此值升序排列，数值越小越靠前。",
                 "field_is_appeal": "封禁申诉分类",
                 "field_is_appeal_help": "在此分类中提交的工单将作为封禁申诉处理。",
+                "field_default_assignee": "",
+                "field_default_assignee_none": "",
+                "field_default_assignee_help": "",
+                "field_default_assignee_loading": "",
+                "field_default_assignee_unavailable": "",
+                "field_default_assignee_error": "",
                 "submit_create": "创建分类",
                 "submit_update": "保存更改",
                 "error_load": "无法加载此分类。",
@@ -105,11 +113,18 @@
                 "reply_from": "{name} 回复了你的工单",
                 "reply_generic": "支持人员回复了你的工单",
                 "new_ticket": "{name} 提交了新的支持工单",
-                "new_appeal": "{name} 提交了新的申诉"
+                "new_appeal": "{name} 提交了新的申诉",
+                "status_changed": "",
+                "status_changed_generic": "",
+                "reopened_by_owner": "",
+                "assigned": "",
+                "assigned_generic": ""
             },
             "settings": {
                 "notify_new_reply_label": "有人回复我的支持工单",
-                "notify_new_ticket_label": "有新的支持工单提交（工作人员）"
+                "notify_new_ticket_label": "有新的支持工单提交（工作人员）",
+                "notify_status_changed_label": "",
+                "notify_assigned_label": ""
             },
             "status": {
                 "in_progress": "处理中",
@@ -249,10 +264,15 @@
             "ticket_type_appeal": "申诉工单",
             "ticket_type_general": "支持工单",
             "new_ticket_body": "{name} 刚刚提交了新的{type}：",
-            "open_ticket": "查看工单"
+            "open_ticket": "查看工单",
+            "status_changed_subject": "",
+            "status_changed_body": "",
+            "assigned_subject": "",
+            "assigned_body": ""
         },
         "api": {
             "assign_staff_only": "工单只能指派给支持人员。",
+            "default_assignee_staff_only": "",
             "category_required": "必须选择分类。",
             "subject_required": "必须填写主题。",
             "ticket_soft_delete_first": "工单必须先删除，才能永久移除。",

@@ -25,6 +25,8 @@
                 "column_name": "Nom",
                 "column_slug": "Identifiant texte unique",
                 "column_type": "Type",
+                "column_assignee": "",
+                "assignee_all_staff": "",
                 "column_tickets": "Tickets",
                 "general_badge": "Général",
                 "appeal_badge": "Recours",
@@ -48,6 +50,12 @@
                 "field_position_help": "Les catégories sont classées selon cette valeur, par ordre croissant.",
                 "field_is_appeal": "Catégorie de recours",
                 "field_is_appeal_help": "Les tickets ouverts dans cette catégorie sont traités comme des recours contre une suspension.",
+                "field_default_assignee": "",
+                "field_default_assignee_none": "",
+                "field_default_assignee_help": "",
+                "field_default_assignee_loading": "",
+                "field_default_assignee_unavailable": "",
+                "field_default_assignee_error": "",
                 "submit_create": "Créer une catégorie",
                 "submit_update": "Enregistrer les modifications",
                 "error_load": "Impossible de charger cette catégorie.",
@@ -121,11 +129,18 @@
                 "reply_from": "{name} a répondu à votre ticket",
                 "reply_generic": "Le service assistance a répondu à votre ticket",
                 "new_ticket": "{name} a ouvert un nouveau ticket",
-                "new_appeal": "{name} a ouvert un nouveau recours"
+                "new_appeal": "{name} a ouvert un nouveau recours",
+                "status_changed": "",
+                "status_changed_generic": "",
+                "reopened_by_owner": "",
+                "assigned": "",
+                "assigned_generic": ""
             },
             "settings": {
                 "notify_new_reply_label": "Quelqu'un répond à mon ticket",
-                "notify_new_ticket_label": "Un nouveau ticket est créé (par l'équipe)"
+                "notify_new_ticket_label": "Un nouveau ticket est créé (par l'équipe)",
+                "notify_status_changed_label": "",
+                "notify_assigned_label": ""
             },
             "status": {
                 "in_progress": "En cours",
@@ -265,10 +280,15 @@
             "ticket_type_appeal": "ticket de recours",
             "ticket_type_general": "ticket",
             "new_ticket_body": "Un nouveau {type} vient d'être ouvert par {name} :",
-            "open_ticket": "Ouvrir le ticket"
+            "open_ticket": "Ouvrir le ticket",
+            "status_changed_subject": "",
+            "status_changed_body": "",
+            "assigned_subject": "",
+            "assigned_body": ""
         },
         "api": {
             "assign_staff_only": "Les tickets ne peuvent être attribués qu'à l'équipe.",
+            "default_assignee_staff_only": "",
             "category_required": "Une catégorie est requise.",
             "subject_required": "Un sujet est requis.",
             "ticket_soft_delete_first": "Un ticket doit être supprimé temporairement avant de pouvoir être définitivement supprimé.",

@@ -105,6 +105,7 @@
                 "chirp_channel_busy_message": "",
                 "chirp_channels_exhausted_message": "",
                 "chirp_slots_full_message": "",
+                "chirp_site_full_message": "",
                 "chirp_speak_denied_message": ""
             }
         }

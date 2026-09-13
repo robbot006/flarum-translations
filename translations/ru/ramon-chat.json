@@ -30,6 +30,7 @@
             "members_too_many": "{max, plural, one {Можно добавить не более # пользователя за раз.} few {Можно добавить не более # пользователей за раз.} many {Можно добавить не более # пользователей за раз.} other {Можно добавить не более # пользователей за раз.}}",
             "cannot_remove_self": "Используйте «Покинуть канал», чтобы удалить себя из списка участников.",
             "not_a_member": "Этого пользователя нет в этом канале.",
+            "invite_not_found": "",
             "transcript_empty": "Сообщения не выбраны или вы не можете их прочитать.",
             "transcript_too_many": "{max, plural, one {Можно цитировать не более # сообщения за раз.} few {Можно цитировать не более # сообщений за раз.} many {Можно цитировать не более # сообщений за раз.} other {Можно цитировать не более # сообщений за раз.}}",
             "move_empty": "Сообщения не выбраны или они уже находятся в этом канале.",
@@ -55,7 +56,8 @@
         "notifications": {
             "chat_mention": "{username} упомянул(а) вас в {channel}",
             "chat_message": "{username} отправил(а) сообщение в {channel}",
-            "chat_channel_invite": "{username} добавил(а) вас в {channel}"
+            "chat_channel_invite": "{username} добавил(а) вас в {channel}",
+            "chat_channel_invite_declined": ""
         },
         "lib": {
             "gdpr": {
@@ -103,6 +105,7 @@
                 "members": "{count, plural, one {# участник} few {# участника} many {# участников} other {# участника}}",
                 "view_info": "Информация о канале",
                 "search_in_channel": "Поиск по этому каналу",
+                "threads": "",
                 "pinned_messages": "Закреплённые сообщения",
                 "view_all_pinned": "Посмотреть все закреплённые сообщения ({count})",
                 "close_pinned": "Закрыть закреплённые сообщения",
@@ -115,7 +118,15 @@
                 "join_hidden": "Присоединиться незаметно",
                 "joined_hidden": "Вы присоединились, но не появились в списке участников.",
                 "join_failed": "Не удалось присоединиться к каналу.",
-                "muted": "Заглушен"
+                "muted": "Заглушен",
+                "invited_by": "",
+                "invited": "",
+                "accept_invite": "",
+                "decline_invite": "",
+                "decline_invite_confirm": "",
+                "invite_accepted": "",
+                "invite_declined": "",
+                "invite_failed": ""
             },
             "message": {
                 "edited": "отредактировано",
@@ -155,6 +166,7 @@
                 "system": {
                     "user_joined": "Пользователь {username} присоединился к каналу.",
                     "user_added": "Пользователь {username} был добавлен {actor}.",
+                    "user_accepted_invite": "",
                     "user_left": "Пользователь {username} покинул канал.",
                     "channel_closed": "Канал был закрыт.",
                     "channel_reopened": "Канал был вновь открыт.",
@@ -227,6 +239,7 @@
                 "tracking_mentions": "Только упоминания",
                 "tracking_never": "Заглушено",
                 "no_threads": "Вы не следите ни за одной веткой.",
+                "no_threads_in_channel": "",
                 "no_replies": "Пока нет ответов. Будьте первым.",
                 "close": "Закрыть панель ветки"
             },
@@ -329,16 +342,23 @@
             },
             "add_members": {
                 "title": "Добавить участников",
+                "intro": "",
                 "hint": "Введите минимум две буквы, чтобы найти пользователя.",
-                "empty": "Пользователи не найдены, либо все подходящие уже являются участниками.",
+                "suggested": "",
+                "no_results": "",
                 "search_placeholder": "Поиск пользователей",
                 "searching": "Поиск…",
                 "search_failed": "Сейчас не удалось выполнить поиск пользователей.",
                 "deselect": "Убрать {username} из выбранных",
+                "you_badge": "",
+                "member_badge": "",
+                "invited_badge": "",
+                "selected_count": "",
                 "submit": "Добавить",
                 "submit_count": "Добавить {count}",
                 "added": "{count, plural, one {# пользователь добавлен в канал.} few {# пользователя добавлено в канал.} many {# пользователей добавлено в канал.} other {# пользователя добавлено в канал.}}",
-                "failed": "Этих пользователей не удалось добавить."
+                "failed": "Этих пользователей не удалось добавить.",
+                "empty": "Пользователи не найдены, либо все подходящие уже являются участниками."
             },
             "emoji_picker": {
                 "placeholder": "Поиск эмодзи",
@@ -364,6 +384,8 @@
                 "clear_search": "Очистить поиск",
                 "load_failed": "Не удалось загрузить список каналов.",
                 "joined": "Участник",
+                "inspecting": "",
+                "invited": "",
                 "no_description": "Без описания.",
                 "open": "Открыть",
                 "new_channel": "Новый канал",
@@ -407,6 +429,11 @@
                 "member_removed": "Пользователь {username} удалён из канала.",
                 "remove_member": "Удалить {username}",
                 "remove_member_confirm": "Удалить {username} из этого канала?",
+                "invited_heading": "",
+                "invited_badge": "",
+                "cancel_invite": "",
+                "cancel_invite_confirm": "",
+                "invite_cancelled": "",
                 "owner_badge": "",
                 "moderator_badge": "",
                 "moderator_help": "",
@@ -444,6 +471,9 @@
             "notifications": {
                 "message_flagged": "{username} отправил(а) жалобу на сообщение в {channel}",
                 "channel_invite": "{username} добавил(а) вас в {channel}",
+                "channel_invite_declined": "",
+                "invite_accept": "",
+                "invite_decline": "",
                 "someone": "Кто-то"
             },
             "bot": {
@@ -459,7 +489,8 @@
                 "sound": "Звук уведомлений",
                 "sound_none": "Нет",
                 "notify_message_flagged": "Кто-то пожаловался на сообщение в чате",
-                "notify_channel_invite": "Кто-то добавил меня в канал чата"
+                "notify_channel_invite": "Кто-то добавил меня в канал чата",
+                "notify_channel_invite_declined": ""
             }
         },
         "admin": {
@@ -469,23 +500,24 @@
                 "channel_ownership_admin": "",
                 "channel_ownership_members": "",
                 "channel_ownership_help": "",
-                "retention_title": "Хранение сообщений",
-                "retention_help": "Старые сообщения удаляются ночной задачей очистки.",
+                "allow_archiving_channels_help": "",
+                "threading_default_help": "",
                 "retention_warning": "Хранение безвозвратно удаляет сообщения. Отменить это нельзя.",
                 "channel_retention_days": "Хранение сообщений в каналах — в днях",
                 "channel_retention_help": "Сколько дней хранить личные и групповые сообщения. 0 — хранить вечно.",
                 "dm_retention_days": "Хранение личных сообщений — в днях",
                 "dm_retention_help": "Сколько дней хранить личные и групповые сообщения. 0 — хранить вечно.",
-                "limits_title": "Лимиты и безопасность",
                 "max_messages_per_second": "Максимум сообщений в секунду на пользователя",
+                "max_messages_per_second_help": "",
                 "min_message_length": "Минимальная длина сообщения",
                 "max_message_length": "Максимальная длина сообщения",
+                "max_message_length_help": "",
                 "message_edit_window_minutes": "Время редактирования — в минутах",
                 "message_edit_window_help": "Сколько времени у автора есть на редактирование своего сообщения. 0 — без ограничения.",
-                "uploads_title": "Загрузки",
                 "allow_uploads": "Разрешить загрузку файлов в чате",
+                "allow_uploads_help": "",
                 "max_upload_size": "Максимальный размер загрузки — в байтах",
-                "behaviour_title": "Поведение",
+                "max_upload_size_help": "",
                 "title_label": "Название чата",
                 "title_help": "Отображается на кнопке в шапке и в боковой панели. Оставьте пустым, чтобы использовать «Чат».",
                 "icon_label": "Иконка чата",
@@ -505,6 +537,13 @@
                 "sound_none": "Выключен",
                 "sound_chime": "Колокольчик",
                 "sound_alert": "Сигнал",
+                "webhooks_enabled": "",
+                "webhooks_enabled_help": "",
+                "retention_title": "Хранение сообщений",
+                "retention_help": "Старые сообщения удаляются ночной задачей очистки.",
+                "limits_title": "Лимиты и безопасность",
+                "uploads_title": "Загрузки",
+                "behaviour_title": "Поведение",
                 "webhooks_title": "Входящие вебхуки",
                 "webhooks_help": "Совместимые со Slack эндпоинты, которые отправляют сообщения в канал.",
                 "webhook_new": "Новый входящий вебхук",
@@ -521,14 +560,37 @@
                 "send_with_ctrl_enter": "Отправлять сообщения по Ctrl+Enter",
                 "send_with_ctrl_enter_help": "Если включено, Enter добавляет перенос строки, а отправляет сообщение только Ctrl+Enter — Cmd+Enter на macOS. Если выключено, Enter отправляет сообщение, а перенос строки добавляет Shift+Enter."
             },
+            "sections": {
+                "channels_title": "",
+                "channels_help": "",
+                "appearance_title": "",
+                "appearance_help": "",
+                "messages_title": "",
+                "messages_help": "",
+                "uploads_title": "",
+                "uploads_help": "",
+                "retention_title": "",
+                "retention_help": "",
+                "realtime_title": "",
+                "realtime_help": "",
+                "announcer_title": "",
+                "announcer_help": "",
+                "webhooks_title": "",
+                "webhooks_help": "",
+                "other_title": "",
+                "other_help": ""
+            },
             "permissions": {
                 "use": "Пользоваться чатом",
                 "access_private_channels": "Видеть приватные каналы и присоединяться к ним",
                 "start_direct": "Отправлять личные сообщения в чате",
                 "create_channel": "Создавать каналы",
                 "edit_channel": "Редактировать каналы",
+                "inspect_channels": "",
                 "global_heading": "",
+                "global_heading_help": "",
                 "members_heading": "",
+                "members_heading_help": "",
                 "manage_own_channels": "",
                 "edit_own_channels": "",
                 "moderate": "Модерировать чат",
@@ -567,6 +629,7 @@
                 "delete_confirm": "Удалить этот вебхук? Всё, что использует его URL, перестанет работать.",
                 "deliveries": "{count, plural, one {# доставка} few {# доставки} many {# доставок} other {# доставки}}",
                 "url_once": "Скопируйте эту ссылку сейчас — повторно она не отображается.",
+                "disabled": "",
                 "failed": "Не удалось сохранить изменения."
             }
         }

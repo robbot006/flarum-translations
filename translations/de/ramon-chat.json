@@ -30,6 +30,7 @@
             "members_too_many": "{max, plural, one {Du kannst höchstens # Benutzer auf einmal hinzufügen.} other {Du kannst höchstens # Benutzer auf einmal hinzufügen.}}",
             "cannot_remove_self": "Benutze „Kanal verlassen“, um dich selbst zu entfernen.",
             "not_a_member": "Dieser Benutzer ist nicht in diesem Kanal.",
+            "invite_not_found": "",
             "transcript_empty": "Es wurden keine Nachrichten ausgewählt, oder du kannst sie nicht lesen.",
             "transcript_too_many": "{max, plural, one {Du kannst höchstens # Nachrichten gleichzeitig zitieren.} other {Du kannst höchstens # Nachrichten gleichzeitig zitieren.}}",
             "move_empty": "Es wurden keine Nachrichten ausgewählt, oder sie befinden sich bereits in diesem Kanal.",
@@ -55,7 +56,8 @@
         "notifications": {
             "chat_mention": "{username} hat dich in {channel} erwähnt",
             "chat_message": "{username} hat in {channel} eine Nachricht gesendet",
-            "chat_channel_invite": "{username} hat dich zu {channel} hinzugefügt"
+            "chat_channel_invite": "{username} hat dich zu {channel} hinzugefügt",
+            "chat_channel_invite_declined": ""
         },
         "lib": {
             "gdpr": {
@@ -103,6 +105,7 @@
                 "members": "{count, plural, one {# Mitglied} other {# Mitglieder}}",
                 "view_info": "Kanaldetails",
                 "search_in_channel": "In diesem Kanal suchen",
+                "threads": "",
                 "pinned_messages": "Angeheftete Nachrichten",
                 "view_all_pinned": "Alle {count} angehefteten Beiträge anzeigen",
                 "close_pinned": "Angeheftete Nachrichten schließen",
@@ -115,7 +118,15 @@
                 "join_hidden": "Beitreten, ohne gesehen zu werden",
                 "joined_hidden": "Du bist beigetreten, ohne in der Mitgliederliste aufgeführt zu werden.",
                 "join_failed": "Du konntest dem Kanal nicht beitreten.",
-                "muted": "Stummgeschaltet"
+                "muted": "Stummgeschaltet",
+                "invited_by": "",
+                "invited": "",
+                "accept_invite": "",
+                "decline_invite": "",
+                "decline_invite_confirm": "",
+                "invite_accepted": "",
+                "invite_declined": "",
+                "invite_failed": ""
             },
             "message": {
                 "edited": "bearbeitet",
@@ -155,6 +166,7 @@
                 "system": {
                     "user_joined": "{username} ist dem Kanal beigetreten.",
                     "user_added": "{username} wurde von {actor} hinzugefügt.",
+                    "user_accepted_invite": "",
                     "user_left": "{username} hat den Kanal verlassen.",
                     "channel_closed": "Dieser Kanal wurde geschlossen.",
                     "channel_reopened": "Dieser Kanal wurde wieder geöffnet.",
@@ -227,6 +239,7 @@
                 "tracking_mentions": "Nur Erwähnungen",
                 "tracking_never": "Stummgeschaltet",
                 "no_threads": "Du folgst keinen Threads.",
+                "no_threads_in_channel": "",
                 "no_replies": "Noch keine Antworten. Sei der Erste.",
                 "close": "Thread-Panel schließen"
             },
@@ -329,16 +342,23 @@
             },
             "add_members": {
                 "title": "Mitglieder hinzufügen",
+                "intro": "",
                 "hint": "Gib mindestens zwei Buchstaben ein, um jemanden zu finden.",
-                "empty": "Es wurde niemand gefunden, oder alle passenden Benutzer sind bereits hier.",
+                "suggested": "",
+                "no_results": "",
                 "search_placeholder": "Benutzer suchen",
                 "searching": "Suchen…",
                 "search_failed": "Benutzer konnten derzeit nicht durchsucht werden.",
                 "deselect": "{username} aus der Auswahl entfernen",
+                "you_badge": "",
+                "member_badge": "",
+                "invited_badge": "",
+                "selected_count": "",
                 "submit": "Hinzufügen",
                 "submit_count": "{count} hinzufügen",
                 "added": "{count, plural, one {# wurde dem Kanal hinzugefügt.} other {# wurden dem Kanal hinzugefügt.}}",
-                "failed": "Diese Benutzer konnten nicht hinzugefügt werden."
+                "failed": "Diese Benutzer konnten nicht hinzugefügt werden.",
+                "empty": "Es wurde niemand gefunden, oder alle passenden Benutzer sind bereits hier."
             },
             "emoji_picker": {
                 "placeholder": "Emoji suchen",
@@ -364,6 +384,8 @@
                 "clear_search": "Suche löschen",
                 "load_failed": "Die Kanalliste konnte nicht geladen werden.",
                 "joined": "Beigetreten",
+                "inspecting": "",
+                "invited": "",
                 "no_description": "Keine Beschreibung.",
                 "open": "Öffnen",
                 "new_channel": "Neuer Kanal",
@@ -407,6 +429,11 @@
                 "member_removed": "{username} wurde aus dem Kanal entfernt.",
                 "remove_member": "{username} entfernen",
                 "remove_member_confirm": "{username} aus diesem Kanal entfernen?",
+                "invited_heading": "",
+                "invited_badge": "",
+                "cancel_invite": "",
+                "cancel_invite_confirm": "",
+                "invite_cancelled": "",
                 "owner_badge": "",
                 "moderator_badge": "",
                 "moderator_help": "",
@@ -444,6 +471,9 @@
             "notifications": {
                 "message_flagged": "{username} hat eine Nachricht in {channel} gemeldet",
                 "channel_invite": "{username} hat dich zu {channel} hinzugefügt",
+                "channel_invite_declined": "",
+                "invite_accept": "",
+                "invite_decline": "",
                 "someone": "Jemand"
             },
             "bot": {
@@ -459,7 +489,8 @@
                 "sound": "Benachrichtigungston",
                 "sound_none": "Keiner",
                 "notify_message_flagged": "Jemand meldet eine Chat-Nachricht",
-                "notify_channel_invite": "Jemand fügt mich zu einem Chat-Kanal hinzu"
+                "notify_channel_invite": "Jemand fügt mich zu einem Chat-Kanal hinzu",
+                "notify_channel_invite_declined": ""
             }
         },
         "admin": {
@@ -469,23 +500,24 @@
                 "channel_ownership_admin": "",
                 "channel_ownership_members": "",
                 "channel_ownership_help": "",
-                "retention_title": "Aufbewahrungsfrist für Nachrichten",
-                "retention_help": "Ältere Nachrichten werden im Rahmen der nächtlichen Bereinigung entfernt.",
+                "allow_archiving_channels_help": "",
+                "threading_default_help": "",
                 "retention_warning": "Durch die Löschung werden Nachrichten endgültig gelöscht. Eine Wiederherstellung ist nicht möglich.",
                 "channel_retention_days": "Kanalaufbewahrung (Tage)",
                 "channel_retention_help": "Anzahl der Tage, für die Nachrichten in Kategoriekanälen aufbewahrt werden sollen. Bei 0 werden sie dauerhaft gespeichert.",
                 "dm_retention_days": "Aufbewahrung für Direktnachrichten (Tage)",
                 "dm_retention_help": "Anzahl der Tage, für die Direkt- und Gruppen-Nachrichten aufbewahrt werden sollen. Bei 0 werden sie dauerhaft gespeichert.",
-                "limits_title": "Einschränkungen und Sicherheit",
                 "max_messages_per_second": "Maximale Anzahl von Nachrichten pro Sekunde und Benutzer",
+                "max_messages_per_second_help": "",
                 "min_message_length": "Mindestlänge für Nachrichten",
                 "max_message_length": "Maximallänge für Nachrichten",
+                "max_message_length_help": "",
                 "message_edit_window_minutes": "Bearbeitungsfenster (in Minuten)",
                 "message_edit_window_help": "Wie lange ein Autor seine Nachricht bearbeiten darf. 0 bedeutet: keine Begrenzung.",
-                "uploads_title": "Hochladen",
                 "allow_uploads": "Hochladen von Dateien im Chat erlauben",
+                "allow_uploads_help": "",
                 "max_upload_size": "Maximale Dateigröße beim Hochladen (Bytes)",
-                "behaviour_title": "Verhalten",
+                "max_upload_size_help": "",
                 "title_label": "Chatname",
                 "title_help": "Wird auf der Schaltfläche in der Kopfzeile und in der Leiste angezeigt. Lasse das Feld leer, um „Chat“ zu verwenden.",
                 "icon_label": "Chatsymbol",
@@ -505,6 +537,13 @@
                 "sound_none": "Aus",
                 "sound_chime": "Glockenspiel",
                 "sound_alert": "Warnung",
+                "webhooks_enabled": "",
+                "webhooks_enabled_help": "",
+                "retention_title": "Aufbewahrungsfrist für Nachrichten",
+                "retention_help": "Ältere Nachrichten werden im Rahmen der nächtlichen Bereinigung entfernt.",
+                "limits_title": "Einschränkungen und Sicherheit",
+                "uploads_title": "Hochladen",
+                "behaviour_title": "Verhalten",
                 "webhooks_title": "Eingehende Webhooks",
                 "webhooks_help": "Slack-kompatible Endpunkte, die Nachrichten in einen Kanal senden.",
                 "webhook_new": "Neuer eingehender Webhook",
@@ -521,14 +560,37 @@
                 "send_with_ctrl_enter": "Nachrichten mit Strg+Eingabetaste senden",
                 "send_with_ctrl_enter_help": "Wenn aktiviert, fügt die Eingabetaste einen Zeilenumbruch ein, und nur die Tastenkombination Strg+Eingabetaste (Cmd+Eingabetaste unter macOS) sendet die Nachricht. Wenn deaktiviert, sendet die Eingabetaste die Nachricht, und die Tastenkombination Umschalt+Eingabetaste fügt einen Zeilenumbruch ein."
             },
+            "sections": {
+                "channels_title": "",
+                "channels_help": "",
+                "appearance_title": "",
+                "appearance_help": "",
+                "messages_title": "",
+                "messages_help": "",
+                "uploads_title": "",
+                "uploads_help": "",
+                "retention_title": "",
+                "retention_help": "",
+                "realtime_title": "",
+                "realtime_help": "",
+                "announcer_title": "",
+                "announcer_help": "",
+                "webhooks_title": "",
+                "webhooks_help": "",
+                "other_title": "",
+                "other_help": ""
+            },
             "permissions": {
                 "use": "Chat verwenden",
                 "access_private_channels": "Private Kanäle sehen und beitreten",
                 "start_direct": "Direktnachrichten starten",
                 "create_channel": "Kanäle erstellen",
                 "edit_channel": "Kanäle bearbeiten",
+                "inspect_channels": "",
                 "global_heading": "",
+                "global_heading_help": "",
                 "members_heading": "",
+                "members_heading_help": "",
                 "manage_own_channels": "",
                 "edit_own_channels": "",
                 "moderate": "Chat moderieren",
@@ -567,6 +629,7 @@
                 "delete_confirm": "Diesen Webhook löschen? Alle Dienste, die dessen URL verwenden, funktionieren dann nicht mehr.",
                 "deliveries": "{count, plural, one {# Zustellung} other {# Zustellungen}}",
                 "url_once": "Kopiere diese URL jetzt – sie wird nicht noch einmal angezeigt.",
+                "disabled": "",
                 "failed": "Diese Änderung konnte nicht gespeichert werden."
             }
         }
