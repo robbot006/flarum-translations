@@ -1,4 +1,17 @@
 {
+    "datlechin-link-preview": {
+        "datlechin-link-preview.admin.settings.blacklist_help": "2026-09-13",
+        "datlechin-link-preview.admin.settings.blacklist_label": "2026-09-13",
+        "datlechin-link-preview.admin.settings.blacklist_placeholder": "2026-09-13",
+        "datlechin-link-preview.admin.settings.convert_media_urls_help": "2026-09-13",
+        "datlechin-link-preview.admin.settings.convert_media_urls_label": "2026-09-13",
+        "datlechin-link-preview.admin.settings.use_google_favicons_help": "2026-09-13",
+        "datlechin-link-preview.admin.settings.use_google_favicons_label": "2026-09-13",
+        "datlechin-link-preview.admin.settings.whitelist_help": "2026-09-13",
+        "datlechin-link-preview.admin.settings.whitelist_label": "2026-09-13",
+        "datlechin-link-preview.admin.settings.whitelist_placeholder": "2026-09-13",
+        "datlechin-link-preview.forum.site_cannot_be_reached": "2026-09-13"
+    },
     "flarum-audit": {
         "flarum-audit.lib.browser.discussion.create_date_changed": "2026-07-12",
         "flarum-audit.lib.browser.discussion.merged_away": "2026-07-12",
@@ -19,9 +32,6 @@
         "flarum-audit.lib.browser.user.username_request_approved": "2026-07-12",
         "flarum-audit.lib.browser.user.username_request_rejected": "2026-07-12",
         "flarum-audit.lib.browser.user.username_requested": "2026-07-12"
-    },
-    "flectar-turnstile": {
-        "validation.required": "2026-09-06"
     },
     "fof-byobu": {
         "fof-byobu.admin.settings.general.heading": "2026-08-02",
@@ -65,6 +75,9 @@
     "fof-user-directory": {
         "fof-user-directory.lib.sort.least_posts": "2026-08-16",
         "fof-user-directory.lib.sort.most_posts": "2026-08-16"
+    },
+    "forumaker-magicslider": {
+        "forumaker-magicslider.admin.settings.uploading": "2026-09-13"
     },
     "huoxin-filter-rule-manager": {
         "huoxin-filter-rule-manager.admin.ruleset_evaluate_title_label": "2026-07-26",

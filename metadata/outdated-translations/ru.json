@@ -2,6 +2,29 @@
     "acpl-mobile-tab": {
         "acpl-mobile-tab.lib.item.categories": "2026-06-28"
     },
+    "datlechin-link-preview": {
+        "datlechin-link-preview.admin.sections.external_api_description": "2026-09-13",
+        "datlechin-link-preview.admin.sections.external_api_label": "2026-09-13",
+        "datlechin-link-preview.admin.sections.general_description": "2026-09-13",
+        "datlechin-link-preview.admin.sections.general_label": "2026-09-13",
+        "datlechin-link-preview.admin.sections.url_filtering_description": "2026-09-13",
+        "datlechin-link-preview.admin.sections.url_filtering_label": "2026-09-13",
+        "datlechin-link-preview.admin.settings.blacklist_help": "2026-09-13",
+        "datlechin-link-preview.admin.settings.blacklist_label": "2026-09-13",
+        "datlechin-link-preview.admin.settings.blacklist_placeholder": "2026-09-13",
+        "datlechin-link-preview.admin.settings.convert_media_urls_help": "2026-09-13",
+        "datlechin-link-preview.admin.settings.convert_media_urls_label": "2026-09-13",
+        "datlechin-link-preview.admin.settings.external_api_fallback_help": "2026-09-13",
+        "datlechin-link-preview.admin.settings.external_api_fallback_label": "2026-09-13",
+        "datlechin-link-preview.admin.settings.external_api_url_help": "2026-09-13",
+        "datlechin-link-preview.admin.settings.external_api_url_label": "2026-09-13",
+        "datlechin-link-preview.admin.settings.use_google_favicons_help": "2026-09-13",
+        "datlechin-link-preview.admin.settings.use_google_favicons_label": "2026-09-13",
+        "datlechin-link-preview.admin.settings.whitelist_help": "2026-09-13",
+        "datlechin-link-preview.admin.settings.whitelist_label": "2026-09-13",
+        "datlechin-link-preview.admin.settings.whitelist_placeholder": "2026-09-13",
+        "datlechin-link-preview.forum.site_cannot_be_reached": "2026-09-13"
+    },
     "datlechin-mermaid": {
         "datlechin-mermaid.admin.settings.description": "2026-07-19"
     },
@@ -47,9 +70,6 @@
     },
     "flarum-gdpr": {
         "flarum-gdpr.admin.gdpr_page.user_table_data.not_yet_implemented": "2026-03-29"
-    },
-    "flectar-turnstile": {
-        "validation.required": "2026-09-06"
     },
     "fof-byobu": {
         "fof-byobu.admin.settings.general.heading": "2026-08-02",
@@ -163,7 +183,8 @@
         "capy-magic-slider.admin.settings.section_desktop": "2026-05-24",
         "capy-magic-slider.admin.settings.section_display": "2026-05-24",
         "capy-magic-slider.admin.settings.section_mobile": "2026-05-24",
-        "capy-magic-slider.admin.settings.section_slides": "2026-05-24"
+        "capy-magic-slider.admin.settings.section_slides": "2026-05-24",
+        "forumaker-magicslider.admin.settings.uploading": "2026-09-13"
     },
     "huseyinfiliz-stickiest": {
         "huseyinfiliz-stickiest.admin.permissions.super_sticky_discussions_label": "2026-04-19",
@@ -232,8 +253,27 @@
         "ramon-avocado.forum.tags.login_to_view": "2026-04-26"
     },
     "ramon-chat": {
+        "ramon-chat.admin.settings.behaviour_title": "2026-09-13",
+        "ramon-chat.admin.settings.limits_title": "2026-09-13",
+        "ramon-chat.admin.settings.retention_help": "2026-09-13",
+        "ramon-chat.admin.settings.retention_title": "2026-09-13",
         "ramon-chat.admin.settings.send_with_ctrl_enter": "2026-08-09",
         "ramon-chat.admin.settings.send_with_ctrl_enter_help": "2026-08-09",
+        "ramon-chat.admin.settings.uploads_title": "2026-09-13",
+        "ramon-chat.admin.settings.webhook_channel": "2026-09-13",
+        "ramon-chat.admin.settings.webhook_copy": "2026-09-13",
+        "ramon-chat.admin.settings.webhook_delete": "2026-09-13",
+        "ramon-chat.admin.settings.webhook_description": "2026-09-13",
+        "ramon-chat.admin.settings.webhook_emoji": "2026-09-13",
+        "ramon-chat.admin.settings.webhook_empty": "2026-09-13",
+        "ramon-chat.admin.settings.webhook_name": "2026-09-13",
+        "ramon-chat.admin.settings.webhook_new": "2026-09-13",
+        "ramon-chat.admin.settings.webhook_regenerate": "2026-09-13",
+        "ramon-chat.admin.settings.webhook_url": "2026-09-13",
+        "ramon-chat.admin.settings.webhook_username": "2026-09-13",
+        "ramon-chat.admin.settings.webhooks_help": "2026-09-13",
+        "ramon-chat.admin.settings.webhooks_title": "2026-09-13",
+        "ramon-chat.forum.add_members.empty": "2026-09-13",
         "ramon-chat.forum.message.move": "2026-08-30"
     },
     "ramon-point-system": {

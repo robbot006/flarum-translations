@@ -1,4 +1,7 @@
 {
+    "datlechin-link-preview": {
+        "datlechin-link-preview.admin.settings.blacklist_label": "2026-09-13"
+    },
     "fof-oauth": {
         "fof-oauth.admin.settings.providers.twitter.api_key_label": "2026-03-22",
         "fof-oauth.admin.settings.providers.twitter.api_secret_label": "2026-03-22",
