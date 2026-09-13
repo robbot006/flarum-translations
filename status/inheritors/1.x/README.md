@@ -13,7 +13,7 @@ are fully in sync and are not listed here.
 | [Croatian](hr.md) (`hr`) | 249 | 33 | 1 |
 | [Dutch](nl.md) (`nl`) | 0 | 9 | 8 |
 | [Finnish](fi.md) (`fi`) | 5 | 61 | 7 |
-| [French](fr.md) (`fr`) | 133 | 540 | 53 |
+| [French](fr.md) (`fr`) | 139 | 317 | 51 |
 | [German](de.md) (`de`) | 321 | 577 | 93 |
 | [German (formal)](de@formal.md) (`de@formal`) | 366 | 577 | 94 |
 | [Hungarian](hu.md) (`hu`) | 44 | 6 | 22 |
@@ -22,7 +22,7 @@ are fully in sync and are not listed here.
 | [Japanese](ja.md) (`ja`) | 1 | 0 | 1 |
 | [Korean](ko.md) (`ko`) | 0 | 1 | 1 |
 | [Persian](fa.md) (`fa`) | 9 | 175 | 62 |
-| [Polish](pl.md) (`pl`) | 2 | 0 | 2 |
+| [Polish](pl.md) (`pl`) | 5 | 5 | 5 |
 | [Romanian](ro.md) (`ro`) | 0 | 12 | 1 |
 | [Russian](ru.md) (`ru`) | 57 | 61 | 17 |
 | [Serbian (Latin)](sr_Latn.md) (`sr_Latn`) | 0 | 5 | 1 |

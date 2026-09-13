@@ -2,8 +2,8 @@
 
 Translations for French (`fr`) are inherited from Flarum 1.x, but they can be adjusted
 independently after inheritance. This page lists all strings which have the same source string on both
-sides, but do not match between them: **133** are translated differently and **540** are
-translated only in `fr`. Altogether they cover **53** components.
+sides, but do not match between them: **139** are translated differently and **317** are
+translated only in `fr`. Altogether they cover **51** components.
 
 <!-- {% raw %} -->
 
@@ -16,7 +16,6 @@ translated only in `fr`. Altogether they cover **53** components.
 | `core` | [7](#core) | 0 |
 | `datitisev-backup` | [1](#datitisev-backup) | 0 |
 | `datlechin-keyboard-shortcuts` | [1](#datlechin-keyboard-shortcuts) | 0 |
-| `datlechin-passkey` | 0 | [4](#datlechin-passkey-missing) |
 | `ekumanov-inline-audio` | [4](#ekumanov-inline-audio) | 0 |
 | `ekumanov-new-posts-notice` | [2](#ekumanov-new-posts-notice) | 0 |
 | `ffans-geetest` | [1](#ffans-geetest) | 0 |
@@ -36,11 +35,11 @@ translated only in `fr`. Altogether they cover **53** components.
 | `fof-move-posts` | [12](#fof-move-posts) | 0 |
 | `fof-online-users-widget` | [3](#fof-online-users-widget) | 0 |
 | `fof-open-collective` | [6](#fof-open-collective) | 0 |
-| `fof-pwa` | 0 | [40](#fof-pwa-missing) |
+| `fof-pwa` | [1](#fof-pwa) | 0 |
 | `fof-reactions` | [1](#fof-reactions) | 0 |
 | `fof-rich-text` | [6](#fof-rich-text) | 0 |
 | `fof-sentry` | [17](#fof-sentry) | 0 |
-| `fof-seo` | 0 | [195](#fof-seo-missing) |
+| `fof-seo` | [5](#fof-seo) | 0 |
 | `fof-signature` | [2](#fof-signature) | 0 |
 | `fof-sitemap` | [3](#fof-sitemap) | 0 |
 | `fof-upload` | [1](#fof-upload) | 0 |
@@ -48,8 +47,7 @@ translated only in `fr`. Altogether they cover **53** components.
 | `forumaker-magicread` | [3](#forumaker-magicread) | 0 |
 | `huoxin-relative-url` | [1](#huoxin-relative-url) | 0 |
 | `huseyinfiliz-awards` | 0 | [186](#huseyinfiliz-awards-missing) |
-| `huseyinfiliz-diff` | 0 | [17](#huseyinfiliz-diff-missing) |
-| `huseyinfiliz-leaderboard` | 0 | [1](#huseyinfiliz-leaderboard-missing) |
+| `huseyinfiliz-diff` | 0 | [34](#huseyinfiliz-diff-missing) |
 | `huseyinfiliz-notificationhub` | [1](#huseyinfiliz-notificationhub) | 0 |
 | `huseyinfiliz-sticky-title` | 0 | [29](#huseyinfiliz-sticky-title-missing) |
 | `ianm-follow-users` | [1](#ianm-follow-users) | 0 |
@@ -1005,6 +1003,20 @@ Créez un jeton personnel <del>à l'adresse</del><ins>sur</ins> &lt;a&gt;https:/
 Saisissez le slug de votre collectif Open Collective (la partie <del>qui suit «</del><ins>après</ins> opencollective.com/<del> »</del> dans l'URL de votre collectif).
 
 
+### `fof-pwa`
+
+#### [`fof-pwa.admin.pwa.about.heading`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.about.heading%22)
+
+> About
+
+```diff
+-À propos
++A propos
+```
+
+<del>À</del><ins>A</ins> propos
+
+
 ### `fof-reactions`
 
 #### [`fof-reactions.admin.page.reactions.delete_confirmation`](https://weblate.rob006.net/translate/flarum2/fof-reactions/fr/?q=context%3A%3D%22fof-reactions.admin.page.reactions.delete_confirmation%22)
@@ -1276,6 +1288,64 @@ Inclure les adresses <del>de </del>courriel des utilisateurs dans les rapports
 ```
 
 Lorsque cette <del>fonctionnalité</del><ins>option</ins> est activée, les utilisateurs voient <del>s'afficher</del><ins>apparaître</ins> un formulaire de<del> retour</del> <del>d'information</del><ins>commentaires</ins> après avoir rencontré une erreur, ce qui leur permet de décrire ce qui s'est passé. Le formulaire est prérempli avec leur nom d'utilisateur, leur adresse de courriel (si<del> cette option est</del> activée) et leur appartenance à un groupe.<del> Cela permet de</del> <del>créer</del><ins>Crée</ins> un canal de communication direct avec les utilisateurs rencontrant des problèmes. Nécessite un <del>DSN</del><ins>DNS</ins> Sentry direct (et non un<del> DSN</del> <del>de</del><ins>relai</ins> <del>relais).</del><ins>DNS).</ins>
+
+
+### `fof-seo`
+
+#### [`fof-seo.admin.modals.crawl_post.title`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.modals.crawl_post.title%22)
+
+> Post crawl settings
+
+```diff
+-Paramètres d'exploration des messages
++Paramètres d'indexation des messages
+```
+
+Paramètres <del>d'exploration</del><ins>d'indexation</ins> des messages
+
+#### [`fof-seo.admin.pages.health.checks.crawl.button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.crawl.button%22)
+
+> Review post settings
+
+```diff
+-Revoir les paramètres de message
++Vérifier les paramètres de message
+```
+
+<del>Revoir</del><ins>Vérifier</ins> les paramètres de message
+
+#### [`fof-seo.admin.pages.health.checks.crawl.reason`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.crawl.reason%22)
+
+> You will need to review this setting to pass.
+
+```diff
+-Vous devrez revoir ce paramètre pour valider.
++Vous devrez vérifier ce paramètre pour valider.
+```
+
+Vous devrez <del>revoir</del><ins>vérifier</ins> ce paramètre pour valider.
+
+#### [`fof-seo.forum.meta_seo.auto_update.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.auto_update.label%22)
+
+> Auto update meta tags
+
+```diff
+-Mise à jour automatique des balises méta
++Mise à jour automatique des balises meta
+```
+
+Mise à jour automatique des balises <del>méta</del><ins>meta</ins>
+
+#### [`fof-seo.forum.meta_seo.keywords.help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.keywords.help%22)
+
+> Enter one or more keywords that describes this item.
+
+```diff
+-Saisissez un ou plusieurs mots-clés qui décrivent cet élement.
++Saisissez un ou plusieurs mots-clés qui décrivent cet élément.
+```
+
+Saisissez un ou plusieurs mots-clés qui décrivent cet <del>élement.</del><ins>élément.</ins>
 
 
 ### `fof-signature`
@@ -1686,1927 +1756,6 @@ Nom distinctif <del>(DN)</del><ins>(ND)</ins>
 ## Missing translations
 
 These strings are translated only in `fr`, so there is nothing to inherit from Flarum 1.x - they could be used to fill the gaps there. Each entry contains the English source string, followed by the translation available only in `fr`.
-
-
-### `datlechin-passkey` (missing)
-
-#### [`datlechin-passkey.forum.settings.add_modal.cancel_button`](https://weblate.rob006.net/translate/flarum2/datlechin-passkey/fr/?q=context%3A%3D%22datlechin-passkey.forum.settings.add_modal.cancel_button%22)
-
-> Cancel
-
-```diff
-+Annuler
-```
-
-#### [`datlechin-passkey.forum.settings.rename_modal.cancel_button`](https://weblate.rob006.net/translate/flarum2/datlechin-passkey/fr/?q=context%3A%3D%22datlechin-passkey.forum.settings.rename_modal.cancel_button%22)
-
-> Cancel
-
-```diff
-+Annuler
-```
-
-#### [`datlechin-passkey.forum.settings.rename_modal.save_button`](https://weblate.rob006.net/translate/flarum2/datlechin-passkey/fr/?q=context%3A%3D%22datlechin-passkey.forum.settings.rename_modal.save_button%22)
-
-> Save
-
-```diff
-+Enregistrer
-```
-
-#### [`datlechin-passkey.forum.settings.revoke_modal.cancel_button`](https://weblate.rob006.net/translate/flarum2/datlechin-passkey/fr/?q=context%3A%3D%22datlechin-passkey.forum.settings.revoke_modal.cancel_button%22)
-
-> Cancel
-
-```diff
-+Annuler
-```
-
-
-### `fof-pwa` (missing)
-
-#### [`flarum-gdpr.lib.data.pushsubscriptions.delete_description`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22flarum-gdpr.lib.data.pushsubscriptions.delete_description%22)
-
-> Deletes all push notification subscriptions and device tokens associated with the user.
-
-```diff
-+Supprime tous les abonnements aux notifications push et tous les jetons d'appareil associés à l'utilisateur.
-```
-
-#### [`flarum-gdpr.lib.data.pushsubscriptions.export_description`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22flarum-gdpr.lib.data.pushsubscriptions.export_description%22)
-
-> Exports all push notification subscriptions and device tokens associated with the user.
-
-```diff
-+Exporte tous les abonnements aux notifications push et tous les jetons d'appareil associés à l'utilisateur.
-```
-
-#### [`fof-pwa.admin.nav.pwa_button`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.nav.pwa_button%22)
-
-> Progressive Web App
-
-```diff
-+Application web progressive
-```
-
-#### [`fof-pwa.admin.pwa.about.description_label`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.about.description_label%22)
-
-> Description
-
-```diff
-+Description
-```
-
-#### [`fof-pwa.admin.pwa.about.description_text`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.about.description_text%22)
-
-> You can set the description on the 'Basics' page in your admin dashboard.
-
-```diff
-+Vous pouvez définir la description sur la page « Essentiels » de votre tableau de bord d'administration.
-```
-
-#### [`fof-pwa.admin.pwa.about.heading`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.about.heading%22)
-
-> About
-
-```diff
-+A propos
-```
-
-#### [`fof-pwa.admin.pwa.about.long_name_label`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.about.long_name_label%22)
-
-> Long name
-
-```diff
-+Nom long
-```
-
-#### [`fof-pwa.admin.pwa.about.long_name_text`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.about.long_name_text%22)
-
-> The name of the web application displayed to the user.
-
-```diff
-+Le nom de l'application web affichée à l’utilisateur.
-```
-
-#### [`fof-pwa.admin.pwa.about.short_name_label`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.about.short_name_label%22)
-
-> Short name
-
-```diff
-+Nom court
-```
-
-#### [`fof-pwa.admin.pwa.colors.background_color_label`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.colors.background_color_label%22)
-
-> Background color
-
-```diff
-+Couleur de l'arrière-plan
-```
-
-#### [`fof-pwa.admin.pwa.colors.heading`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.colors.heading%22)
-
-> Colors
-
-```diff
-+Couleurs
-```
-
-#### [`fof-pwa.admin.pwa.colors.theme_color_label`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.colors.theme_color_label%22)
-
-> Theme color
-
-```diff
-+Couleur du thème
-```
-
-#### [`fof-pwa.admin.pwa.firebase_config.heading`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.firebase_config.heading%22)
-
-> Firebase
-
-```diff
-+Firebase
-```
-
-#### [`fof-pwa.admin.pwa.firebase_config.upload_file`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.firebase_config.upload_file%22)
-
-> Upload file
-
-```diff
-+Transférer un fichier
-```
-
-#### [`fof-pwa.admin.pwa.heading`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.heading%22)
-
-> Progressive Web App Configuration
-
-```diff
-+Configuration de l'application web progressive
-```
-
-#### [`fof-pwa.admin.pwa.logo_heading`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.logo_heading%22)
-
-> Logos and Icons
-
-```diff
-+Logos et icônes
-```
-
-#### [`fof-pwa.admin.pwa.maintenance.debug_text`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.maintenance.debug_text%22)
-
-> This will log info about notifications to \`storage/logs\`. It should generally be disabled to avoid filling up logs unnecessarily.
-
-```diff
-+Cela enregistrera les informations sur les notifications dans « stockage/journaux ». Il doit généralement être désactivé pour éviter de remplir inutilement les journaux.
-```
-
-#### [`fof-pwa.admin.pwa.maintenance.heading`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.maintenance.heading%22)
-
-> Maintenance
-
-```diff
-+Maintenance
-```
-
-#### [`fof-pwa.admin.pwa.maintenance.reset_vapid_confirm`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.maintenance.reset_vapid_confirm%22)
-
-> Resetting VAPID keys will remove any subscriptions using the existing keys, so users won't receive any notifications until the next time they visit your site. This should only be done when setting up push notifications for the first time, or if push notifications aren't working at all and there's a warning about missing VAPID keys above.
-
-```diff
-+La réinitialisation des clés VAPID supprimera tous les abonnements utilisant les clés existantes, de sorte que les utilisateurs ne recevront aucune notification avant leur prochaine visite sur votre site. Cela ne doit être fait que lors de la configuration des notifications push pour la première fois, ou si les notifications push ne fonctionnent pas du tout et qu'il y a un avertissement concernant les clés VAPID manquantes ci-dessus.
-```
-
-#### [`fof-pwa.admin.pwa.maintenance.reset_vapid_success`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.maintenance.reset_vapid_success%22)
-
-> Successfully reset VAPID keys. {count} subscriptions were reset. Reload the page to see an updated status check report.
-
-```diff
-+Les clés VAPID ont été réinitialisées avec succès. {count} abonnements ont été réinitialisés. Veuillez recharger la page pour voir un rapport de contrôle d'état mis à jour.
-```
-
-#### [`fof-pwa.admin.pwa.other.heading`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.other.heading%22)
-
-> Other
-
-```diff
-+Autre
-```
-
-#### [`fof-pwa.admin.pwa.other.share_buttons_label`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.other.share_buttons_label%22)
-
-> Enable share buttons
-
-```diff
-+Activer les boutons de partage
-```
-
-#### [`fof-pwa.admin.pwa.other.share_buttons_text`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.other.share_buttons_text%22)
-
-> If enabled, a "Share" button will be added to discussions, posts, and users.
-
-```diff
-+Si cette option est activée, un bouton « Partager » sera ajouté aux discussions, aux messages et aux utilisateurs.
-```
-
-#### [`fof-pwa.admin.pwa.refreshed_message`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.refreshed_message%22)
-
-> PWA config refreshed successfully.
-
-```diff
-+La configuration de l'application web progressive a été actualisée.
-```
-
-#### [`fof-pwa.admin.pwa.status_check_heading`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.status_check_heading%22)
-
-> Status Check
-
-```diff
-+Vérification du statut
-```
-
-#### [`fof-pwa.admin.pwa.submit_button`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.pwa.submit_button%22)
-
-> Save Settings
-
-```diff
-+Enregistrer les paramètres
-```
-
-#### [`fof-pwa.admin.status.no_logo`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.status.no_logo%22)
-
-> You must upload at least one logo, with a size of at least 144x144px, for the PWA to be installable.
-
-```diff
-+Vous devez transférer au moins un logo, d'une taille minimale de 144x144 pixels, pour que l'application web progressive puisse être installée.
-```
-
-#### [`fof-pwa.admin.status.no_name`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.admin.status.no_name%22)
-
-> You must provide a full name for your app to work.
-
-```diff
-+Vous devez fournir un nom complet pour que votre application fonctionne.
-```
-
-#### [`fof-pwa.forum.discussion_controls.share_button`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.forum.discussion_controls.share_button%22)
-
-> Share
-
-```diff
-+Partager
-```
-
-#### [`fof-pwa.forum.post_controls.share_button`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.forum.post_controls.share_button%22)
-
-> Share
-
-```diff
-+Partager
-```
-
-#### [`fof-pwa.forum.settings.push_header`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.forum.settings.push_header%22)
-
-> Push
-
-```diff
-+Pousser
-```
-
-#### [`fof-pwa.forum.settings.pwa_notifications.access_default`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.forum.settings.pwa_notifications.access_default%22)
-
-> Due to browser restrictions, you must opt in to receive push notifications on this device.
-
-```diff
-+En raison de restrictions liées au navigateur, vous devez accepter de recevoir les notifications poussées sur cet appareil.
-```
-
-#### [`fof-pwa.forum.settings.pwa_notifications.access_default_button`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.forum.settings.pwa_notifications.access_default_button%22)
-
-> Opt In
-
-```diff
-+Participer
-```
-
-#### [`fof-pwa.forum.settings.pwa_notifications.access_denied`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.forum.settings.pwa_notifications.access_denied%22)
-
-> You must adjust your browser settings to receive push notifications on this device.
-
-```diff
-+Vous devez régler les paramètres de votre navigateur pour recevoir des notifications poussées sur cet appareil.
-```
-
-#### [`fof-pwa.forum.settings.pwa_notifications.access_denied_button`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.forum.settings.pwa_notifications.access_denied_button%22)
-
-> Learn How
-
-```diff
-+Apprendre comment faire
-```
-
-#### [`fof-pwa.forum.settings.pwa_notifications.no_browser_support`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.forum.settings.pwa_notifications.no_browser_support%22)
-
-> This browser does not support push notifications for progressive web apps.
-
-```diff
-+Ce navigateur ne prend pas en charge les notifications poussées pour les applications web progressives.
-```
-
-#### [`fof-pwa.forum.settings.pwa_notifications.no_browser_support_button`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.forum.settings.pwa_notifications.no_browser_support_button%22)
-
-> Learn More
-
-```diff
-+En savoir plus
-```
-
-#### [`fof-pwa.forum.user_controls.share_button`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.forum.user_controls.share_button%22)
-
-> Share
-
-```diff
-+Partager
-```
-
-#### [`fof-pwa.views.offline.header`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.views.offline.header%22)
-
-> Network connection error
-
-```diff
-+Erreur de connexion réseau
-```
-
-#### [`fof-pwa.views.offline.text`](https://weblate.rob006.net/translate/flarum2/fof-pwa/fr/?q=context%3A%3D%22fof-pwa.views.offline.text%22)
-
-> This app requires a network connection; it cannot be used offline. Please check your connection.
-
-```diff
-+Cette application nécessite une connexion réseau ; elle ne peut pas être utilisée hors ligne. Veuillez vérifier votre connexion.
-```
-
-
-### `fof-seo` (missing)
-
-#### [`fof-seo.admin.common.close`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.common.close%22)
-
-> Close
-
-```diff
-+Fermer
-```
-
-#### [`fof-seo.admin.common.learn_more`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.common.learn_more%22)
-
-> Learn more
-
-```diff
-+En savoir plus
-```
-
-#### [`fof-seo.admin.common.save_changes`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.common.save_changes%22)
-
-> Save changes
-
-```diff
-+Enregistrer les modifications
-```
-
-#### [`fof-seo.admin.dashboard.widget.cta`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.dashboard.widget.cta%22)
-
-> Do the health-check!
-
-```diff
-+Faites le bilan de santé !
-```
-
-#### [`fof-seo.admin.dashboard.widget.review_prompt`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.dashboard.widget.review_prompt%22)
-
-> It's time to review your SEO settings!
-
-```diff
-+Il est temps de revoir vos paramètres SEO !
-```
-
-#### [`fof-seo.admin.header.health_check`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.header.health_check%22)
-
-> Health check
-
-```diff
-+Bilan de santé
-```
-
-#### [`fof-seo.admin.header.search_engines_info`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.header.search_engines_info%22)
-
-> Search engine information
-
-```diff
-+Informations sur les moteurs de recherche
-```
-
-#### [`fof-seo.admin.header.seo_settings`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.header.seo_settings%22)
-
-> SEO settings
-
-```diff
-+Paramètres SEO
-```
-
-#### [`fof-seo.admin.header.setup_ssl`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.header.setup_ssl%22)
-
-> Set up SSL
-
-```diff
-+Configurer SSL
-```
-
-#### [`fof-seo.admin.header.sitemap_info`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.header.sitemap_info%22)
-
-> Sitemap information
-
-```diff
-+Informations sur le plan du site
-```
-
-#### [`fof-seo.admin.header.title`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.header.title%22)
-
-> Search Engine Optimization
-
-```diff
-+Optimisation pour les moteurs de recherche (SEO)
-```
-
-#### [`fof-seo.admin.header.tools`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.header.tools%22)
-
-> Tools
-
-```diff
-+Outils
-```
-
-#### [`fof-seo.admin.modals.crawl_post.intro`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.modals.crawl_post.intro%22)
-
-> &lt;b&gt;Read this dialog carefully.&lt;/b&gt; This function will only be executed on a page refresh on a discussion. You can always change this option later.
-
-```diff
-+<b>Lisez attentivement cette boîte de dialogue.</b> Cette fonction ne s'exécutera qu'au moment de l'actualisation de la page d'une discussion. Vous pourrez toujours modifier cette option ultérieurement.
-```
-
-#### [`fof-seo.admin.modals.crawl_post.mode_all_title`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.modals.crawl_post.mode_all_title%22)
-
-> Index all posts in a discussion (setting enabled)
-
-```diff
-+Indexer tous les messages d'une discussion (option activée)
-```
-
-#### [`fof-seo.admin.modals.crawl_post.mode_main_help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.modals.crawl_post.mode_main_help%22)
-
-> Search engine will only show the main post in the search results. It won't affect loading speed when you navigate to it via forum links.
-
-```diff
-+Le moteur de recherche affichera seulement le message principal dans les résultats de recherche. Cela n'aura aucune incidence sur la vitesse de chargement lorsque vous y accéderez via les liens du forum.
-```
-
-#### [`fof-seo.admin.modals.crawl_post.mode_main_title`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.modals.crawl_post.mode_main_title%22)
-
-> Only index the main post (default)
-
-```diff
-+Indexer uniquement le message principal (par défaut)
-```
-
-#### [`fof-seo.admin.modals.crawl_post.question`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.modals.crawl_post.question%22)
-
-> Do you want to enable this feature?
-
-```diff
-+Voulez-vous activer cette fonctionnalité ?
-```
-
-#### [`fof-seo.admin.modals.crawl_post.switch_label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.modals.crawl_post.switch_label%22)
-
-> Crawl all posts (it's slower on page refresh, but search results will be better)
-
-```diff
-+Explorer tous les messages (le rafraîchissement de la page est plus lent, mais les résultats de recherche seront meilleurs)
-```
-
-#### [`fof-seo.admin.modals.crawl_post.title`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.modals.crawl_post.title%22)
-
-> Post crawl settings
-
-```diff
-+Paramètres d'indexation des messages
-```
-
-#### [`fof-seo.admin.modals.dofollow.add_placeholder`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.modals.dofollow.add_placeholder%22)
-
-> Allow a domain
-
-```diff
-+Autoriser un domaine
-```
-
-#### [`fof-seo.admin.modals.dofollow.default_note`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.modals.dofollow.default_note%22)
-
-> The domain you use for your Flarum instance is added to the list by default.
-
-```diff
-+Le domaine que vous utilisez pour votre instance Flarum est ajouté à la liste par défaut.
-```
-
-#### [`fof-seo.admin.modals.dofollow.duplicate_error`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.modals.dofollow.duplicate_error%22)
-
-> This domain is already present in your do-follow list.
-
-```diff
-+Ce domaine figure déjà dans votre liste des liens « do-follow ».
-```
-
-#### [`fof-seo.admin.modals.dofollow.intro`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.modals.dofollow.intro%22)
-
-> Enter the &lt;b&gt;hostnames&lt;/b&gt; of the domains you want to add to the do-follow list.
-
-```diff
-+Saisissez les <b>noms d'hôte</b> des domaines que vous souhaitez ajouter à la liste des liens « do-follow ».
-```
-
-#### [`fof-seo.admin.modals.dofollow.learn_more_line`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.modals.dofollow.learn_more_line%22)
-
-> &lt;a&gt;Learn more&lt;/a&gt; about the do-follow list.
-
-```diff
-+<a>En savoir plus</a> sur la liste des liens « do-follow ».
-```
-
-#### [`fof-seo.admin.modals.dofollow.title`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.modals.dofollow.title%22)
-
-> Do-follow list
-
-```diff
-+Liste des liens « do-follow »
-```
-
-#### [`fof-seo.admin.pages.health.checks.crawl.button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.crawl.button%22)
-
-> Review post settings
-
-```diff
-+Vérifier les paramètres de message
-```
-
-#### [`fof-seo.admin.pages.health.checks.crawl.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.crawl.label%22)
-
-> Review discussion post crawl settings
-
-```diff
-+Vérifier les paramètres d'indexation des messages de discussion
-```
-
-#### [`fof-seo.admin.pages.health.checks.crawl.reason`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.crawl.reason%22)
-
-> You will need to review this setting to pass.
-
-```diff
-+Vous devrez vérifier ce paramètre pour valider.
-```
-
-#### [`fof-seo.admin.pages.health.checks.description.button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.description.button%22)
-
-> Update description
-
-```diff
-+Mettre à jour la description
-```
-
-#### [`fof-seo.admin.pages.health.checks.description.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.description.label%22)
-
-> Checks whether your forum has a description
-
-```diff
-+Vérifie si votre forum comporte une description
-```
-
-#### [`fof-seo.admin.pages.health.checks.description.reason_default`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.description.reason_default%22)
-
-> You did not change the default forum description after installation!
-
-```diff
-+Vous n'avez pas modifié la description du forum par défaut après l'installation !
-```
-
-#### [`fof-seo.admin.pages.health.checks.description.reason_missing`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.description.reason_missing%22)
-
-> You did not set up a forum description yet!
-
-```diff
-+Vous n'avez pas encore rédigé la description du forum !
-```
-
-#### [`fof-seo.admin.pages.health.checks.description.reason_too_short`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.description.reason_too_short%22)
-
-> Your forum description is lower then 20 characters. Please expand it for better search results.
-
-```diff
-+Votre description du forum comporte moins de 20 caractères. Veuillez la développer pour obtenir de meilleurs résultats de recherche.
-```
-
-#### [`fof-seo.admin.pages.health.checks.keywords.button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.keywords.button%22)
-
-> Update keywords
-
-```diff
-+Mettre à jour les mots-clés
-```
-
-#### [`fof-seo.admin.pages.health.checks.keywords.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.keywords.label%22)
-
-> Checks whether your forum has keywords set up
-
-```diff
-+Vérifie si votre forum comporte des mots-clés
-```
-
-#### [`fof-seo.admin.pages.health.checks.keywords.reason`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.keywords.reason%22)
-
-> You did not set up a forum keywords yet!
-
-```diff
-+Vous n'avez pas encore défini de mots-clés pour le forum !
-```
-
-#### [`fof-seo.admin.pages.health.checks.meta_tags.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.meta_tags.label%22)
-
-> Checks whether your forum has meta tags available (generated by this plugin)
-
-```diff
-+Vérifie si votre forum comporte des balises meta (générées par ce plugin)
-```
-
-#### [`fof-seo.admin.pages.health.checks.review.button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.review.button%22)
-
-> Ok! I reviewed them!
-
-```diff
-+OK ! Je les ai passés en revue !
-```
-
-#### [`fof-seo.admin.pages.health.checks.review.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.review.label%22)
-
-> Review your SEO settings every two months. Next review needed on {date}
-
-```diff
-+Vérifiez vos paramètres SEO tous les deux mois. Prochaine vérification prévue le {date}
-```
-
-#### [`fof-seo.admin.pages.health.checks.review.reason`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.review.reason%22)
-
-> It is time to re-review your SEO settings.
-
-```diff
-+Il est temps de revoir vos paramètres SEO.
-```
-
-#### [`fof-seo.admin.pages.health.checks.robots.button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.robots.button%22)
-
-> Read more about adding a robots.txt
-
-```diff
-+En savoir plus sur la création d'un fichier robots.txt
-```
-
-#### [`fof-seo.admin.pages.health.checks.robots.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.robots.label%22)
-
-> Checks whether your forum has a robots.txt available
-
-```diff
-+Vérifie si votre forum dispose d'un fichier robots.txt
-```
-
-#### [`fof-seo.admin.pages.health.checks.robots.reason`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.robots.reason%22)
-
-> Your robots.txt is provided by the FriendsOfFlarum Sitemap extension. Install and enable it to make a robots.txt available to search engines.
-
-```diff
-+Votre fichier robots.txt est généré par l'extension « FriendsOfFlarum Sitemap ». Installez-la et activez-la pour mettre un fichier robots.txt à la disposition des moteurs de recherche.
-```
-
-#### [`fof-seo.admin.pages.health.checks.search_engines.button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.search_engines.button%22)
-
-> More information
-
-```diff
-+Plus d'informations
-```
-
-#### [`fof-seo.admin.pages.health.checks.search_engines.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.search_engines.label%22)
-
-> Register your forum to search engines
-
-```diff
-+Enregistrez votre forum auprès des moteurs de recherche
-```
-
-#### [`fof-seo.admin.pages.health.checks.search_engines.reason`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.search_engines.reason%22)
-
-> You will need to review this to pass.
-
-```diff
-+Vous devrez vérifier ceci pour valider.
-```
-
-#### [`fof-seo.admin.pages.health.checks.sitemap.button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.sitemap.button%22)
-
-> Read more about adding a sitemap
-
-```diff
-+En savoir plus sur la création d'un plan du site
-```
-
-#### [`fof-seo.admin.pages.health.checks.sitemap.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.sitemap.label%22)
-
-> Checks whether your forum has a sitemap available
-
-```diff
-+Vérifie si votre forum dispose d'un plan du site
-```
-
-#### [`fof-seo.admin.pages.health.checks.sitemap.reason`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.sitemap.reason%22)
-
-> It is highly recommended to install the FriendsOfFlarum Sitemap extension!
-
-```diff
-+Il est fortement recommandé d'installer l'extension « FriendsOfFlarum Sitemap » !
-```
-
-#### [`fof-seo.admin.pages.health.checks.social_media.button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.social_media.button%22)
-
-> Update image
-
-```diff
-+Mettre à jour l'image
-```
-
-#### [`fof-seo.admin.pages.health.checks.social_media.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.social_media.label%22)
-
-> Set Up a social media image
-
-```diff
-+Configurer une image pour les réseaux sociaux
-```
-
-#### [`fof-seo.admin.pages.health.checks.social_media.reason`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.social_media.reason%22)
-
-> You did not set a social media image for your forum. It is recommended to set one. Your favicon will now be used as preview on social media.
-
-```diff
-+Vous n'avez pas défini d'image pour votre forum destinée aux réseaux sociaux. Il est recommandé d'en définir une. Votre favicon sera désormais utilisé comme aperçu sur les réseaux sociaux.
-```
-
-#### [`fof-seo.admin.pages.health.checks.ssl.button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.ssl.button%22)
-
-> How to set up SSL
-
-```diff
-+Comment configurer SSL
-```
-
-#### [`fof-seo.admin.pages.health.checks.ssl.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.ssl.label%22)
-
-> Checks whether your site has a secure connection available (SSL/TLS)
-
-```diff
-+Vérifie si votre site dispose d'une connexion sécurisée (SSL/TLS)
-```
-
-#### [`fof-seo.admin.pages.health.checks.ssl.reason`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.checks.ssl.reason%22)
-
-> Your forum does not force a SSL/TLS connection (a secure connection to your website). Most search engines won't index your website or lower your ranking if you have no secure connection available.
-
-```diff
-+Votre forum n'impose pas de connexion SSL/TLS (une connexion sécurisée à votre site web). La plupart des moteurs de recherche n'indexeront pas votre site web ou lui attribueront un classement moins favorable si aucune connexion sécurisée n'est disponible.
-```
-
-#### [`fof-seo.admin.pages.health.default_button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.default_button%22)
-
-> Update setting
-
-```diff
-+Mettre à jour les paramètres
-```
-
-#### [`fof-seo.admin.pages.health.legend`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.legend%22)
-
-> For optimal search engine results, make sure all checks are green.
-
-```diff
-+Pour obtenir des résultats optimaux sur les moteurs de recherche, assurez-vous que toutes les cases soient cochées en vert.
-```
-
-#### [`fof-seo.admin.pages.health.status.passed`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.status.passed%22)
-
-> All set!
-
-```diff
-+Tout est prêt !
-```
-
-#### [`fof-seo.admin.pages.health.status.warning`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.status.warning%22)
-
-> Warning!
-
-```diff
-+Attention !
-```
-
-#### [`fof-seo.admin.pages.health.table.status`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.table.status%22)
-
-> Status
-
-```diff
-+Statut
-```
-
-#### [`fof-seo.admin.pages.health.table.technique`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.health.table.technique%22)
-
-> Technique
-
-```diff
-+Technique
-```
-
-#### [`fof-seo.admin.pages.search_engines.bing_heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.bing_heading%22)
-
-> Add your website to the Bing search results
-
-```diff
-+Ajoutez votre site web aux résultats de recherche Bing
-```
-
-#### [`fof-seo.admin.pages.search_engines.bing_sitemap`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.bing_sitemap%22)
-
-> Don't forget to configure your sitemap URL. After you verified your website you're all set and Bing will now index your website.
-
-```diff
-+N'oubliez pas de configurer l'URL de votre plan du site. Une fois votre site web vérifié, tout est prêt et Bing va maintenant l'indexer.
-```
-
-#### [`fof-seo.admin.pages.search_engines.bing_visit`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.bing_visit%22)
-
-> If you want to add your website to the Bing search results, visit the {link} and complete the given steps. Not all fields are required.
-
-```diff
-+Si vous souhaitez ajouter votre site web aux résultats de recherche Bing, rendez-vous sur {link} et suivez les étapes indiquées. Tous les champs ne sont pas obligatoires.
-```
-
-#### [`fof-seo.admin.pages.search_engines.confirm_button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.confirm_button%22)
-
-> I have read this
-
-```diff
-+J'ai lu
-```
-
-#### [`fof-seo.admin.pages.search_engines.google_heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.google_heading%22)
-
-> Add your website to the Google search results
-
-```diff
-+Ajoutez votre site web aux résultats de recherche Google
-```
-
-#### [`fof-seo.admin.pages.search_engines.google_sitemap`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.google_sitemap%22)
-
-> When you completed the registration in the Google Search Console, visit the &lt;b&gt;Sitemaps&lt;/b&gt; page. Pass your &lt;b&gt;sitemap.xml&lt;/b&gt; to Google. Make sure that Google can crawl your sitemap and will keep doing this.
-
-```diff
-+Lorsque vous aurez terminé votre inscription à Google Search Console, rendez-vous sur la page <b>Plans du site</b>. Transmettez votre <b>sitemap.xml</b> à Google. Assurez-vous que Google peut explorer votre plan du site et qu'il continuera à le faire.
-```
-
-#### [`fof-seo.admin.pages.search_engines.google_visit`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.google_visit%22)
-
-> If you want to add your website to the Google search results, visit the {link}. You'll need to add your website and verify that you're the owner of the associated domain name.
-
-```diff
-+Si vous souhaitez ajouter votre site web aux résultats de recherche Google, rendez-vous sur {link}. Vous devrez ajouter votre site web et confirmer que vous êtes bien le propriétaire du nom de domaine associé.
-```
-
-#### [`fof-seo.admin.pages.search_engines.google_www`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.google_www%22)
-
-> When you enter your domain you need to answer the following question for yourself: Do you want to use the 'www' sub-domain in the search results? You can &lt;strong&gt;not&lt;/strong&gt; change this later. Registering your domain in the Google Search Console multiple times won't result in a better ranking.
-
-```diff
-+Lorsque vous saisissez votre nom de domaine, vous devez vous poser la question suivante : souhaitez-vous utiliser le sous-domaine « www » dans les résultats de recherche ? Vous ne pourrez <strong>pas</strong> modifier ce paramètre ultérieurement. Enregistrer votre nom de domaine plusieurs fois dans Google Search Console n'améliorera pas votre classement.
-```
-
-#### [`fof-seo.admin.pages.search_engines.heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.heading%22)
-
-> Submit your website to Search Engines
-
-```diff
-+Soumettez votre site web aux moteurs de recherche
-```
-
-#### [`fof-seo.admin.pages.search_engines.intro`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.intro%22)
-
-> It is good practice to let Search Engines know your site is exists. This page will guide you in doing this succesfully.
-
-```diff
-+Il est recommandé de signaler l'existence de votre site aux moteurs de recherche. Cette page vous guidera pour y parvenir avec succès.
-```
-
-#### [`fof-seo.admin.pages.search_engines.sitemap_tip`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.sitemap_tip%22)
-
-> It is recommended to have a sitemap ready before completing this guide. If you don't have a sitemap yet, &lt;a&gt;click here to read more about them&lt;/a&gt;.
-
-```diff
-+Il est recommandé de disposer d'un plan du site avant de suivre ce guide. Si vous n'avez pas encore un plan du site, <a>cliquez ici pour en savoir plus à ce sujet</a>.
-```
-
-#### [`fof-seo.admin.pages.search_engines.yahoo_body`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.yahoo_body%22)
-
-> If you want to add your website to the Yahoo search results, finish your Bing search results registration. Yahoo will use that data.
-
-```diff
-+Si vous souhaitez ajouter votre site web aux résultats de recherche Yahoo, veuillez finaliser votre inscription aux résultats de recherche Bing. Yahoo utilisera ces données.
-```
-
-#### [`fof-seo.admin.pages.search_engines.yahoo_heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.yahoo_heading%22)
-
-> Add your website to the Yahoo search results
-
-```diff
-+Ajoutez votre site web aux résultats de recherche Yahoo
-```
-
-#### [`fof-seo.admin.pages.search_engines.yandex_heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.yandex_heading%22)
-
-> Add your website to the Yandex search results
-
-```diff
-+Ajoutez votre site web aux résultats de recherche Yandex
-```
-
-#### [`fof-seo.admin.pages.search_engines.yandex_sitemap`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.yandex_sitemap%22)
-
-> Don't forget to configure the sitemap in the Yandex.Webmaster.
-
-```diff
-+N'oubliez pas de configurer le plan du site dans Yandex.Webmaster.
-```
-
-#### [`fof-seo.admin.pages.search_engines.yandex_visit`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.search_engines.yandex_visit%22)
-
-> If you want to add your website to the Yandex search results, visit the {link} and follow the given steps.
-
-```diff
-+Si vous souhaitez ajouter votre site web aux résultats de recherche Yandex, rendez-vous sur {link} et suivez les étapes indiquées.
-```
-
-#### [`fof-seo.admin.pages.sitemap.generated_note`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.sitemap.generated_note%22)
-
-> The sitemap file is automatically generated and does not need any maintenance.
-
-```diff
-+Le fichier du plan du site est généré automatiquement et ne nécessite aucune maintenance.
-```
-
-#### [`fof-seo.admin.pages.sitemap.just_installed_body`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.sitemap.just_installed_body%22)
-
-> In that case, activate it by clicking the extension in the sidebar at the left . Then this warning will disappear.
-
-```diff
-+Dans ce cas, activez-la en cliquant sur l'extension dans la barre latérale de gauche. Cet avertissement disparaîtra alors.
-```
-
-#### [`fof-seo.admin.pages.sitemap.just_installed_heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.sitemap.just_installed_heading%22)
-
-> I just installed the extension
-
-```diff
-+Je viens d'installer l'extension
-```
-
-#### [`fof-seo.admin.pages.sitemap.robots_body`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.sitemap.robots_body%22)
-
-> The same extension also generates a &lt;b&gt;robots.txt&lt;/b&gt; for your forum. This file tells search engines which areas they may crawl and points them to your sitemap, so installing it takes care of both files at once — there is nothing extra to configure.
-
-```diff
-+Cette même extension génère également un fichier <b>robots.txt</b> pour votre forum. Ce fichier indique aux moteurs de recherche les sections qu'ils sont autorisés à explorer et les redirige vers votre plan du site ; son installation permet donc de gérer ces deux fichiers en même temps — aucune configuration supplémentaire n’est nécessaire.
-```
-
-#### [`fof-seo.admin.pages.sitemap.robots_heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.sitemap.robots_heading%22)
-
-> What about robots.txt?
-
-```diff
-+Qu'en est-il du fichier robots.txt ?
-```
-
-#### [`fof-seo.admin.pages.sitemap.which_extension_body`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.sitemap.which_extension_body%22)
-
-> {link} is the suggested extension to install for Flarum. We strongly recommend you to install and activate this extension.
-
-```diff
-+{link} est l'extension recommandée à installer pour Flarum. Nous vous recommandons vivement de l'installer et de l'activer.
-```
-
-#### [`fof-seo.admin.pages.sitemap.which_extension_details`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.sitemap.which_extension_details%22)
-
-> This extension will make sure crawlers will find your forum &lt;b&gt;discussions&lt;/b&gt;, &lt;b&gt;tags&lt;/b&gt; (when extension is enabled) and &lt;b&gt;Pages&lt;/b&gt; extension (when extension is installed and enabled). It will automatically make an sitemap.xml available.
-
-```diff
-+Cette extension permettra aux robots d'indexation de trouver les <b>discussions</b>, les <b>étiquettes</b> (lorsque l'extension est activée) et les <b>Pages</b> de votre forum (lorsque l'extension est installée et activée). Elle mettra automatiquement à disposition un fichier sitemap.xml.
-```
-
-#### [`fof-seo.admin.pages.sitemap.which_extension_heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.sitemap.which_extension_heading%22)
-
-> What extension should I install?
-
-```diff
-+Quelle extension dois-je installer ?
-```
-
-#### [`fof-seo.admin.pages.sitemap.why_body`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.sitemap.why_body%22)
-
-> A sitemap is a XML file with a list of all the available pages on your website. It will be used by crawlers and search engines to find pages on your website.
-
-```diff
-+Un plan du site est un fichier XML contenant la liste de toutes les pages disponibles sur votre site web. Il sera utilisé par les robots d'indexation et les moteurs de recherche pour trouver les pages de votre site web.
-```
-
-#### [`fof-seo.admin.pages.sitemap.why_heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.sitemap.why_heading%22)
-
-> Why should you use a sitemap?
-
-```diff
-+Pourquoi utiliser un plan du site ?
-```
-
-#### [`fof-seo.admin.pages.ssl.added_heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.ssl.added_heading%22)
-
-> Okay, I added SSL!
-
-```diff
-+OK, j'ai ajouté le certificat SSL !
-```
-
-#### [`fof-seo.admin.pages.ssl.how_body`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.ssl.how_body%22)
-
-> For people who are using a webhosting, the most common way is to enter the webhosting panel, go to the hosting-settings of your website and click SSL. You can follow the steps to add SSL to your website. The most webhosting companies nowadays are supporting the popular certificate issuer {link}.
-
-```diff
-+Pour les utilisateurs d'un hébergement web, la méthode la plus courante consiste à se connecter au panneau d'administration de l'hébergement, à accéder aux paramètres d'hébergement de votre site web, puis à cliquer sur « SSL ». Vous pouvez ensuite suivre les étapes indiquées pour ajouter un certificat SSL à votre site web. La plupart des hébergeurs prennent aujourd'hui en charge l'émetteur de certificats populaire {link}.
-```
-
-#### [`fof-seo.admin.pages.ssl.how_heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.ssl.how_heading%22)
-
-> How to add SSL to your website?
-
-```diff
-+Comment ajouter un certificat SSL à votre site web ?
-```
-
-#### [`fof-seo.admin.pages.ssl.intro_body`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.ssl.intro_body%22)
-
-> Safety and privacy awareness on the web is on the rise. &lt;b&gt;Almost every&lt;/b&gt; developer/website owner want their website safe to use for their visitors so they won't need to be afraid that their data will be compromised by hackers or website-impersonators.
-
-```diff
-+La sensibilisation à la sécurité et à la protection des données sur Internet ne cesse de croître. <b>Presque tous les</b> développeurs et propriétaires de sites web souhaitent que leur site soit sécurisé pour leurs visiteurs, afin que ceux-ci n'aient pas à craindre que leurs données soient compromises par des pirates informatiques ou des usurpateurs d'identité.
-```
-
-#### [`fof-seo.admin.pages.ssl.intro_heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.ssl.intro_heading%22)
-
-> Why do I need an secure connection?
-
-```diff
-+Pourquoi ai-je besoin d'une connexion sécurisée ?
-```
-
-#### [`fof-seo.admin.pages.ssl.no_ssl_body`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.ssl.no_ssl_body%22)
-
-> In that case, you can uninstall this extension as search engines &lt;b&gt;won't index your forum&lt;/b&gt; or rank them far below other sites due safety reasons.
-
-```diff
-+Dans ce cas, vous pouvez désinstaller cette extension, car les moteurs de recherche <b> n'indexeront pas votre forum </b> ou le classeront bien en dessous des autres sites pour des raisons de sécurité.
-```
-
-#### [`fof-seo.admin.pages.ssl.no_ssl_heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.ssl.no_ssl_heading%22)
-
-> What if I do not want to add SSL?
-
-```diff
-+Et si je ne souhaite pas ajouter un certificat SSL ?
-```
-
-#### [`fof-seo.admin.pages.ssl.rankings_body`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.ssl.rankings_body%22)
-
-> When you do not have a secure connection to your website, search engines will rank your site much lower then other sites, or even won't index it.
-
-```diff
-+Lorsque vous ne disposez pas d'une connexion sécurisée vers votre site web, les moteurs de recherche classeront votre site bien plus bas que les autres, voire ne l'indexeront pas.
-```
-
-#### [`fof-seo.admin.pages.ssl.rankings_body_ssl`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.ssl.rankings_body_ssl%22)
-
-> When you have SSL available, your website will get an higher rank and will be indexed.
-
-```diff
-+Lorsque vous disposez d'un certificat SSL, votre site web bénéficiera d'un meilleur classement et sera indexé.
-```
-
-#### [`fof-seo.admin.pages.ssl.rankings_heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.ssl.rankings_heading%22)
-
-> Search engines {icon} secure connections
-
-```diff
-+Moteurs de recherche {icon} connexions sécurisées
-```
-
-#### [`fof-seo.admin.pages.ssl.what_body`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.ssl.what_body%22)
-
-> The most people know &lt;b&gt;https&lt;/b&gt; that's used for secure connections as SSL: &lt;i&gt;Secure Sockets Layer&lt;/i&gt;. Officially it's called TLS: &lt;i&gt;Transport Layer Security&lt;/i&gt;. This method is used to create a secure connection to your webserver what will prevent attackers or other webservers to impersonate your website and keep your visitors safe. The SSL connection will be broken if that happens and the visitors browsers will warning the user that's it's not trusted.
-
-```diff
-+La plupart des gens connaissent <b>https</b>, utilisé pour les connexions sécurisées sous le nom de SSL : <i>Secure Sockets Layer</i>. Officiellement, son nom est TLS : <i>Transport Layer Security</i>. Cette méthode est utilisée pour établir une connexion sécurisée avec votre serveur web, ce qui empêchera les pirates ou d'autres serveurs web de se faire passer pour votre site web et garantira la sécurité de vos visiteurs. Si cela se produit, la connexion SSL sera interrompue et les navigateurs des visiteurs afficheront un message d'avertissement indiquant que le site n'est pas fiable.
-```
-
-#### [`fof-seo.admin.pages.ssl.what_heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.pages.ssl.what_heading%22)
-
-> What is SSL or TLS?
-
-```diff
-+Qu'est-ce que SSL ou TLS ?
-```
-
-#### [`fof-seo.admin.permissions.category_label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.permissions.category_label%22)
-
-> SEO
-
-```diff
-+SEO
-```
-
-#### [`fof-seo.admin.permissions.configure_seo`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.permissions.configure_seo%22)
-
-> Allow configuring SEO
-
-```diff
-+Autoriser la configuration du SEO
-```
-
-#### [`fof-seo.admin.settings.crawl.button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.crawl.button%22)
-
-> Setup post crawl settings
-
-```diff
-+Configurer les paramètres d'indexation des messages
-```
-
-#### [`fof-seo.admin.settings.crawl.heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.crawl.heading%22)
-
-> Discussion post crawl settings
-
-```diff
-+Paramètres d’indexation des messages de discussion
-```
-
-#### [`fof-seo.admin.settings.crawl.help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.crawl.help%22)
-
-> This is an important setting about crawling your discussion posts in search results.
-
-```diff
-+Il s'agit d'un paramètre important concernant l'exploration de vos messages de discussion dans les résultats de recherche.
-```
-
-#### [`fof-seo.admin.settings.indexing.heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.indexing.heading%22)
-
-> Indexing controls
-
-```diff
-+Contrôles de l'indexation
-```
-
-#### [`fof-seo.admin.settings.indexing.profiles_help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.indexing.profiles_help%22)
-
-> When enabled, user profile pages emit a 'noindex' meta tag so they are kept out of search results. Links on the page are still followed, so crawlers can still reach the content they point to.
-
-```diff
-+Lorsque cette option est activée, les pages de profil utilisateur émettent une balise meta « noindex » afin qu'elles n'apparaissent pas dans les résultats de recherche. Les liens présents sur la page sont toutefois suivis, ce qui permet aux robots d'indexation d'accéder au contenu vers lequel ils renvoient.
-```
-
-#### [`fof-seo.admin.settings.indexing.profiles_label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.indexing.profiles_label%22)
-
-> De-index profile pages
-
-```diff
-+Désindexer les pages de profil
-```
-
-#### [`fof-seo.admin.settings.indexing.tags_button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.indexing.tags_button%22)
-
-> Select tags
-
-```diff
-+Sélectionnez les étiquettes
-```
-
-#### [`fof-seo.admin.settings.indexing.tags_help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.indexing.tags_help%22)
-
-> Discussions in the selected tags (and those tags' own listing pages) will be kept out of search results with a 'noindex' meta tag. Links are still followed. Selecting a parent tag also covers its child tags.
-
-```diff
-+Les discussions dans les étiquettes sélectionnées (ainsi que les pages de ces étiquettes) seront exclues des résultats de recherche grâce à la balise meta « noindex ». Les liens continuent toutefois d'être suivis. La sélection d'une étiquette parente couvre également ses étiquettes enfants.
-```
-
-#### [`fof-seo.admin.settings.indexing.tags_none_selected`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.indexing.tags_none_selected%22)
-
-> No tags excluded from indexing.
-
-```diff
-+Aucune étiquette n'est exclue de l'indexation.
-```
-
-#### [`fof-seo.admin.settings.info.maintain`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.info.maintain%22)
-
-> Check all your settings when you first setup this extensions. Maintain them to get the best search results.
-
-```diff
-+Vérifiez tous vos paramètres lors de la première configuration de cette extension. Maintenez-les à jour pour obtenir les meilleurs résultats de recherche.
-```
-
-#### [`fof-seo.admin.settings.info.overview`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.info.overview%22)
-
-> This page contains some other settings from around the admin area. However, it's good to have a good overview about these settings. Do not forget to do the SEO check.
-
-```diff
-+Cette page contient d'autres paramètres issus de l'espace d'administration. Il est toutefois utile d'avoir une bonne vue d'ensemble de ces paramètres. N'oubliez pas d'effectuer la vérification SEO.
-```
-
-#### [`fof-seo.admin.settings.keywords.comma_note`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.keywords.comma_note%22)
-
-> Note: Separate keywords with a comma.
-
-```diff
-+Remarque : les mots-clés doivent être séparés par une virgule.
-```
-
-#### [`fof-seo.admin.settings.keywords.example`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.keywords.example%22)
-
-> Example: flarum, web development, forum, apples, security
-
-```diff
-+Exemple : flarum, développement web, forum, pommes, sécurité
-```
-
-#### [`fof-seo.admin.settings.keywords.heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.keywords.heading%22)
-
-> Forum keywords
-
-```diff
-+Mots-clés du forum
-```
-
-#### [`fof-seo.admin.settings.keywords.help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.keywords.help%22)
-
-> Enter one or more keywords that describes your forum.
-
-```diff
-+Saisissez un ou plusieurs mots-clés qui décrivent votre forum.
-```
-
-#### [`fof-seo.admin.settings.keywords.placeholder`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.keywords.placeholder%22)
-
-> Add a few keywords
-
-```diff
-+Ajouter quelques mots-clés
-```
-
-#### [`fof-seo.admin.settings.new_tab.heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.new_tab.heading%22)
-
-> Open external links in new tab
-
-```diff
-+Ouvrir les liens externes dans un nouvel onglet
-```
-
-#### [`fof-seo.admin.settings.new_tab.help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.new_tab.help%22)
-
-> This extension will also make sure that external links (to other domains) open in a new tab. Currently it is not possible to disable this setting.
-
-```diff
-+Cette extension garantira également que les liens externes (vers d'autres domaines) s'ouvrent dans un nouvel onglet. Pour l'instant, il n'est pas possible de désactiver ce paramètre.
-```
-
-#### [`fof-seo.admin.settings.nofollow.button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.nofollow.button%22)
-
-> Open domain do-follow list
-
-```diff
-+Ouvrir la liste des domaines « do-follow »
-```
-
-#### [`fof-seo.admin.settings.nofollow.heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.nofollow.heading%22)
-
-> No-follow links
-
-```diff
-+Liens « no-follow »
-```
-
-#### [`fof-seo.admin.settings.nofollow.help_dofollow`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.nofollow.help_dofollow%22)
-
-> With this setting you are able to add domains to the 'do-follow' list. For example, you can add &lt;i&gt;flarum.org&lt;/i&gt; to make sure links to this website do not receive a 'nofollow' attribute.
-
-```diff
-+Ce paramètre vous permet d'ajouter des domaines à la liste « do-follow ». Par exemple, vous pouvez ajouter <i>flarum.org</i> pour vous assurer que les liens vers ce site web ne se voient pas attribuer l'attribut « nofollow ».
-```
-
-#### [`fof-seo.admin.settings.social_media_image.heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.social_media_image.heading%22)
-
-> Social media image
-
-```diff
-+Image destinée aux réseaux sociaux
-```
-
-#### [`fof-seo.admin.settings.social_media_image.help_size`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.social_media_image.help_size%22)
-
-> Expecting a square image. Recommended size is 1200x1200 pixels. Otherwise use a landscape image, recommended size is 1200x630.
-
-```diff
-+Une image carrée est attendue. La taille recommandée est de 1200 × 1200 pixels. Sinon, veuillez utiliser une image en format paysage ; la taille recommandée est de 1200 × 630 pixels.
-```
-
-#### [`fof-seo.admin.settings.social_media_image.help_usage`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.social_media_image.help_usage%22)
-
-> This image will be used by Social Media when a user shares a page on your website (Facebook, X (formerly Twitter), Reddit).
-
-```diff
-+Cette image sera utilisée sur les réseaux sociaux lorsqu'un utilisateur partagera une page de votre site web (Facebook, X (anciennement Twitter), Reddit).
-```
-
-#### [`fof-seo.admin.settings.twitter_card.heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.twitter_card.heading%22)
-
-> X (formerly Twitter) card size
-
-```diff
-+Taille de la carte X (anciennement Twitter)
-```
-
-#### [`fof-seo.admin.settings.twitter_card.help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.twitter_card.help%22)
-
-> When your forum is shared on X (formerly Twitter), it will have an image (if a social media image has been set up). This can be a big card with a big image, or a small card (summary) with a smaller image.
-
-```diff
-+Lorsque votre forum est partagé sur X (anciennement Twitter), il affichera une image (si une image a été configurée pour les réseaux sociaux). Il peut s'agir d'une grande carte avec une grande image, ou d'une petite carte (résumé) avec une image plus petite.
-```
-
-#### [`fof-seo.admin.settings.twitter_card.option_large`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.twitter_card.option_large%22)
-
-> Large card (large image)
-
-```diff
-+Carte Résumé (avec une grande image)
-```
-
-#### [`fof-seo.admin.settings.twitter_card.option_summary`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.twitter_card.option_summary%22)
-
-> Summary card (smaller image)
-
-```diff
-+Carte Résumé (avec une petite image)
-```
-
-#### [`fof-seo.admin.settings.updated.button`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.updated.button%22)
-
-> Back to overview and re-check
-
-```diff
-+Revenir à la vue d'ensemble et revérifier
-```
-
-#### [`fof-seo.admin.settings.updated.heading`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.updated.heading%22)
-
-> Updated this setting?
-
-```diff
-+Avez-vous mis à jour ce paramètre ?
-```
-
-#### [`fof-seo.admin.settings.updated.help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.admin.settings.updated.help%22)
-
-> When you think you're ready, click the button below to re-check the status of this setting.
-
-```diff
-+Lorsque vous pensez être prêt, cliquez sur le bouton ci-dessous pour vérifier à nouveau l'état de ce paramètre.
-```
-
-#### [`fof-seo.forum.controls.configure_seo`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.controls.configure_seo%22)
-
-> Configure SEO
-
-```diff
-+Configurer le référencement
-```
-
-#### [`fof-seo.forum.controls.reset_seo`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.controls.reset_seo%22)
-
-> Reset SEO
-
-```diff
-+Réinitialiser le référencement
-```
-
-#### [`fof-seo.forum.controls.update_seo`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.controls.update_seo%22)
-
-> Update SEO
-
-```diff
-+Mettre à jour le référencement
-```
-
-#### [`fof-seo.forum.meta_seo.auto_update.help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.auto_update.help%22)
-
-> When enabled, this items meta tags are automatically updated when the object changes.
-
-```diff
-+Lorsque cette option est activée, les balises meta de cet élément sont automatiquement mises à jour dès que l'objet est modifié.
-```
-
-#### [`fof-seo.forum.meta_seo.auto_update.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.auto_update.label%22)
-
-> Auto update meta tags
-
-```diff
-+Mise à jour automatique des balises meta
-```
-
-#### [`fof-seo.forum.meta_seo.auto_update.switch`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.auto_update.switch%22)
-
-> Update object SEO on change
-
-```diff
-+Mettre à jour l'objet du SEO en cas de modification
-```
-
-#### [`fof-seo.forum.meta_seo.close.autofill_info`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.close.autofill_info%22)
-
-> This change will revert custom changes and fill the meta-tags with item-data.
-
-```diff
-+Cette modification annulera les modifications personnalisées et remplira les balises meta avec les données de l'élément.
-```
-
-#### [`fof-seo.forum.meta_seo.close.close`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.close.close%22)
-
-> Close
-
-```diff
-+Fermer
-```
-
-#### [`fof-seo.forum.meta_seo.close.save`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.close.save%22)
-
-> Save
-
-```diff
-+Enregistrer
-```
-
-#### [`fof-seo.forum.meta_seo.close.save_autofill`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.close.save_autofill%22)
-
-> Save &amp; auto-fill
-
-```diff
-+Enregistrer et remplir automatiquement
-```
-
-#### [`fof-seo.forum.meta_seo.image.help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.image.help%22)
-
-> Displays an image.
-
-```diff
-+Affiche une image.
-```
-
-#### [`fof-seo.forum.meta_seo.image.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.image.label%22)
-
-> Meta image
-
-```diff
-+Image Meta
-```
-
-#### [`fof-seo.forum.meta_seo.image.managed_by`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.image.managed_by%22)
-
-> Image source managed by {source}
-
-```diff
-+Source de l'image gérée par {source}
-```
-
-#### [`fof-seo.forum.meta_seo.image.placeholder`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.image.placeholder%22)
-
-> Enter image URL
-
-```diff
-+Saisissez l'URL de l'image
-```
-
-#### [`fof-seo.forum.meta_seo.image.upload`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.image.upload%22)
-
-> Upload file
-
-```diff
-+Transférer un fichier
-```
-
-#### [`fof-seo.forum.meta_seo.keywords.comma_note`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.keywords.comma_note%22)
-
-> Note: Separate keywords with a comma.
-
-```diff
-+Remarque : les mots-clés doivent être séparés par une virgule.
-```
-
-#### [`fof-seo.forum.meta_seo.keywords.example`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.keywords.example%22)
-
-> Example: flarum, web development, forum, apples, security
-
-```diff
-+Exemple : flarum, développement web, forum, pommes, sécurité
-```
-
-#### [`fof-seo.forum.meta_seo.keywords.help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.keywords.help%22)
-
-> Enter one or more keywords that describes this item.
-
-```diff
-+Saisissez un ou plusieurs mots-clés qui décrivent cet élément.
-```
-
-#### [`fof-seo.forum.meta_seo.keywords.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.keywords.label%22)
-
-> Keywords
-
-```diff
-+Mots-clés
-```
-
-#### [`fof-seo.forum.meta_seo.keywords.placeholder`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.keywords.placeholder%22)
-
-> Add a few keywords
-
-```diff
-+Ajouter quelques mots-clés
-```
-
-#### [`fof-seo.forum.meta_seo.managed`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.managed%22)
-
-> Managed
-
-```diff
-+Géré
-```
-
-#### [`fof-seo.forum.meta_seo.meta_description.help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.meta_description.help%22)
-
-> Describes the item and shown in search engines.
-
-```diff
-+Décrit l’élément et s'affiche dans les moteurs de recherche.
-```
-
-#### [`fof-seo.forum.meta_seo.meta_description.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.meta_description.label%22)
-
-> Meta description
-
-```diff
-+Description Meta
-```
-
-#### [`fof-seo.forum.meta_seo.meta_title.help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.meta_title.help%22)
-
-> Title in search engines.
-
-```diff
-+Titre dans les moteurs de recherche.
-```
-
-#### [`fof-seo.forum.meta_seo.meta_title.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.meta_title.label%22)
-
-> Meta title
-
-```diff
-+Titre Meta
-```
-
-#### [`fof-seo.forum.meta_seo.meta_title.placeholder`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.meta_title.placeholder%22)
-
-> Enter page title
-
-```diff
-+Saisir le titre de la page
-```
-
-#### [`fof-seo.forum.meta_seo.note_prefix`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.note_prefix%22)
-
-> Note:
-
-```diff
-+Note :
-```
-
-#### [`fof-seo.forum.meta_seo.og.auto_switch`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.og.auto_switch%22)
-
-> Auto generate Open Graph tags
-
-```diff
-+Générer automatiquement des balises Open Graph
-```
-
-#### [`fof-seo.forum.meta_seo.og.description.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.og.description.label%22)
-
-> Open Graph description
-
-```diff
-+Description de l'Open Graph
-```
-
-#### [`fof-seo.forum.meta_seo.og.description.placeholder`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.og.description.placeholder%22)
-
-> Custom Open Graph description
-
-```diff
-+Description personnalisée de l'Open Graph
-```
-
-#### [`fof-seo.forum.meta_seo.og.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.og.label%22)
-
-> Open Graph tags
-
-```diff
-+Balises Open Graph
-```
-
-#### [`fof-seo.forum.meta_seo.og.title`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.og.title%22)
-
-> Open Graph title
-
-```diff
-+Titre de l'Open Graph
-```
-
-#### [`fof-seo.forum.meta_seo.reading_time.help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.reading_time.help%22)
-
-> Estimated reading time in seconds.
-
-```diff
-+Temps de lecture estimé en secondes.
-```
-
-#### [`fof-seo.forum.meta_seo.reading_time.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.reading_time.label%22)
-
-> Estimated reading time
-
-```diff
-+Temps de lecture estimé
-```
-
-#### [`fof-seo.forum.meta_seo.reading_time.placeholder`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.reading_time.placeholder%22)
-
-> Reading time in seconds
-
-```diff
-+Temps de lecture en secondes
-```
-
-#### [`fof-seo.forum.meta_seo.robots.help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.robots.help%22)
-
-> Robot-crawling settings for this item.
-
-```diff
-+Paramètres d'indexation par le robot pour cet élément.
-```
-
-#### [`fof-seo.forum.meta_seo.robots.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.robots.label%22)
-
-> Robots
-
-```diff
-+Robots
-```
-
-#### [`fof-seo.forum.meta_seo.robots.switch.follow`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.robots.switch.follow%22)
-
-> Allow following links to different pages
-
-```diff
-+Autoriser le suivi des liens vers différentes pages
-```
-
-#### [`fof-seo.forum.meta_seo.robots.switch.indexing`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.robots.switch.indexing%22)
-
-> Allow indexing page
-
-```diff
-+Autoriser l'indexation de la page
-```
-
-#### [`fof-seo.forum.meta_seo.robots.switch.noarchive`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.robots.switch.noarchive%22)
-
-> Disable archiving page (noarchive)
-
-```diff
-+Désactiver l'archivage de la page (noarchive)
-```
-
-#### [`fof-seo.forum.meta_seo.robots.switch.noimageindex`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.robots.switch.noimageindex%22)
-
-> Disable indexing images on this page (noimageindex)
-
-```diff
-+Désactiver l'indexation des images sur cette page (noimageindex)
-```
-
-#### [`fof-seo.forum.meta_seo.robots.switch.nosnippet`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.robots.switch.nosnippet%22)
-
-> Disable text-snippes on page (nosnippet)
-
-```diff
-+Désactiver les extraits de texte sur la page (nosnippet)
-```
-
-#### [`fof-seo.forum.meta_seo.robots.tags.archive_not_allowed`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.robots.tags.archive_not_allowed%22)
-
-> Archiving pages not allowed
-
-```diff
-+L'archivage des pages n'est pas autorisé
-```
-
-#### [`fof-seo.forum.meta_seo.robots.tags.follow_allowed`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.robots.tags.follow_allowed%22)
-
-> Allow follow links
-
-```diff
-+Autoriser le suivi des liens
-```
-
-#### [`fof-seo.forum.meta_seo.robots.tags.follow_not_allowed`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.robots.tags.follow_not_allowed%22)
-
-> Link following not allowed
-
-```diff
-+Le suivi des liens n'est pas autorisé
-```
-
-#### [`fof-seo.forum.meta_seo.robots.tags.imageindex_not_allowed`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.robots.tags.imageindex_not_allowed%22)
-
-> Image indexing not allowed
-
-```diff
-+L'indexation des images n'est pas autorisée
-```
-
-#### [`fof-seo.forum.meta_seo.robots.tags.indexing_allowed`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.robots.tags.indexing_allowed%22)
-
-> Allow indexing page
-
-```diff
-+Autoriser l'indexation de la page
-```
-
-#### [`fof-seo.forum.meta_seo.robots.tags.indexing_not_allowed`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.robots.tags.indexing_not_allowed%22)
-
-> Page indexing not allowed
-
-```diff
-+L'indexation des pages n'est pas autorisée
-```
-
-#### [`fof-seo.forum.meta_seo.robots.tags.snippet_not_allowed`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.robots.tags.snippet_not_allowed%22)
-
-> Taking text-snippets not allowed
-
-```diff
-+Les extraits de texte ne sont pas autorisés
-```
-
-#### [`fof-seo.forum.meta_seo.saved`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.saved%22)
-
-> Saved!
-
-```diff
-+Enregistré !
-```
-
-#### [`fof-seo.forum.meta_seo.title`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.title%22)
-
-> SEO settings - Meta
-
-```diff
-+Paramètres SEO - Meta
-```
-
-#### [`fof-seo.forum.meta_seo.twitter.auto_switch`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.twitter.auto_switch%22)
-
-> Auto generate X (formerly Twitter) card
-
-```diff
-+Générer automatiquement une carte X (anciennement Twitter)
-```
-
-#### [`fof-seo.forum.meta_seo.twitter.description`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.twitter.description%22)
-
-> X (formerly Twitter) description
-
-```diff
-+Description X (anciennement Twitter)
-```
-
-#### [`fof-seo.forum.meta_seo.twitter.image.help`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.twitter.image.help%22)
-
-> Displays an image on X (formerly Twitter).
-
-```diff
-+Affiche une image sur X (anciennement Twitter).
-```
-
-#### [`fof-seo.forum.meta_seo.twitter.image.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.twitter.image.label%22)
-
-> X (formerly Twitter) image
-
-```diff
-+Image X (anciennement Twitter)
-```
-
-#### [`fof-seo.forum.meta_seo.twitter.image.reset`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.twitter.image.reset%22)
-
-> Reset image
-
-```diff
-+Réinitialiser l'image
-```
-
-#### [`fof-seo.forum.meta_seo.twitter.label`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.twitter.label%22)
-
-> X (formerly Twitter) card
-
-```diff
-+Carte X (anciennement Twitter)
-```
-
-#### [`fof-seo.forum.meta_seo.twitter.title`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.twitter.title%22)
-
-> X (formerly Twitter) title
-
-```diff
-+Titre X (anciennement Twitter)
-```
-
-#### [`fof-seo.forum.meta_seo.unsupported_object.body`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.unsupported_object.body%22)
-
-> Please open this dialog using the objectType and objectId properties or register the object relationship instead.
-
-```diff
-+Veuillez ouvrir cette boîte de dialogue en utilisant les propriétés objectType et objectId ou enregistrez plutôt la relation entre les objets.
-```
-
-#### [`fof-seo.forum.meta_seo.unsupported_object.docs_link`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.unsupported_object.docs_link%22)
-
-> Documentation
-
-```diff
-+Documentation
-```
-
-#### [`fof-seo.forum.meta_seo.unsupported_object.title`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.meta_seo.unsupported_object.title%22)
-
-> This object is not a supported SeoMeta object
-
-```diff
-+Cet objet n'est pas un objet SeoMeta pris en charge
-```
-
-#### [`fof-seo.forum.profile_description`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.profile_description%22)
-
-> Profile of {username} \| {discussion\_count} discussions \| {comment\_count} posts
-
-```diff
-+Profil de {username} | {discussion_count} discussions | {comment_count} messages
-```
-
-#### [`fof-seo.forum.profile_title`](https://weblate.rob006.net/translate/flarum2/fof-seo/fr/?q=context%3A%3D%22fof-seo.forum.profile_title%22)
-
-> Profile of {username}
-
-```diff
-+Profil de {username}
-```
 
 
 ### `forumaker-magicbb` (missing)
@@ -5473,12 +3622,60 @@ These strings are translated only in `fr`, so there is nothing to inherit from F
 
 ### `huseyinfiliz-diff` (missing)
 
+#### [`huseyinfiliz-diff.forum.confirmDelete`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.confirmDelete%22)
+
+> Are you sure you want to delete this edit's contents from the history?
+
+```diff
++Êtes-vous sûr de vouloir supprimer le contenu de cette modification de l'historique ?
+```
+
+#### [`huseyinfiliz-diff.forum.confirmRollback`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.confirmRollback%22)
+
+> Are you sure you want to change your current post?
+
+```diff
++Êtes-vous sûr de vouloir modifier votre message actuel ?
+```
+
+#### [`huseyinfiliz-diff.forum.createdInfo`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.createdInfo%22)
+
+> {username} created {ago}
+
+```diff
++{username} a créé {ago}
+```
+
 #### [`huseyinfiliz-diff.forum.deleteButton`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.deleteButton%22)
 
 > =&gt; core.forum.post\_controls.delete\_button
 
 ```diff
 +=> core.forum.post_controls.delete_button
+```
+
+#### [`huseyinfiliz-diff.forum.deleteErrorMessage`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.deleteErrorMessage%22)
+
+> Deletion of edit's contents failed.
+
+```diff
++La suppression du contenu de la modification a échoué.
+```
+
+#### [`huseyinfiliz-diff.forum.deleteSuccessMessage`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.deleteSuccessMessage%22)
+
+> Edit's contents were deleted.
+
+```diff
++Les contenus de cette modification ont été supprimés.
+```
+
+#### [`huseyinfiliz-diff.forum.deletedInfo`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.deletedInfo%22)
+
+> {username} deleted this content {ago}
+
+```diff
++{username} a supprimé ce contenu {ago}
 ```
 
 #### [`huseyinfiliz-diff.forum.deletedText`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.deletedText%22)
@@ -5534,7 +3731,7 @@ These strings are translated only in `fr`, so there is nothing to inherit from F
 > No Revisions
 
 ```diff
-+Pas de révision
++Aucune révision
 ```
 
 #### [`huseyinfiliz-diff.forum.optionsButton`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.optionsButton%22)
@@ -5585,6 +3782,62 @@ These strings are translated only in `fr`, so there is nothing to inherit from F
 +{revisionCount, plural, one {{revisionCount} révision} other {{revisionCount} révisions}}
 ```
 
+#### [`huseyinfiliz-diff.forum.rollbackButton`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.rollbackButton%22)
+
+> Rollback to Revision {number}
+
+```diff
++Revenir à la révision {number}
+```
+
+#### [`huseyinfiliz-diff.forum.rollbackErrorMessage`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.rollbackErrorMessage%22)
+
+> Reverting of changes failed.
+
+```diff
++L'annulation des modifications a échoué.
+```
+
+#### [`huseyinfiliz-diff.forum.rollbackSuccessMessage`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.rollbackSuccessMessage%22)
+
+> Your changes were reverted.
+
+```diff
++Vos modifications ont été annulées.
+```
+
+#### [`huseyinfiliz-diff.forum.rollbackToOriginalButton`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.rollbackToOriginalButton%22)
+
+> Rollback to Original
+
+```diff
++Revenir à la version d'origine
+```
+
+#### [`huseyinfiliz-diff.forum.tooltips.combined`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.tooltips.combined%22)
+
+> Combined
+
+```diff
++Combiné
+```
+
+#### [`huseyinfiliz-diff.forum.tooltips.inline`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.tooltips.inline%22)
+
+> Line by Line
+
+```diff
++Ligne par ligne
+```
+
+#### [`huseyinfiliz-diff.forum.tooltips.mostRecent`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.tooltips.mostRecent%22)
+
+> most recent
+
+```diff
++le plus récent
+```
+
 #### [`huseyinfiliz-diff.forum.tooltips.originalContent`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.tooltips.originalContent%22)
 
 > =&gt; huseyinfiliz-diff.ref.originalContent
@@ -5609,15 +3862,36 @@ These strings are translated only in `fr`, so there is nothing to inherit from F
 +=> huseyinfiliz-diff.ref.revisionWithNumber
 ```
 
+#### [`huseyinfiliz-diff.forum.tooltips.sideBySide`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.forum.tooltips.sideBySide%22)
 
-### `huseyinfiliz-leaderboard` (missing)
-
-#### [`huseyinfiliz-leaderboard.admin.modals.cancel`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-leaderboard/fr/?q=context%3A%3D%22huseyinfiliz-leaderboard.admin.modals.cancel%22)
-
-> Cancel
+> Side by Side
 
 ```diff
-+Annuler
++Côte à côte
+```
+
+#### [`huseyinfiliz-diff.ref.currentContent`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.ref.currentContent%22)
+
+> current content
+
+```diff
++contenu actuel
+```
+
+#### [`huseyinfiliz-diff.ref.originalContent`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.ref.originalContent%22)
+
+> original content
+
+```diff
++contenu original
+```
+
+#### [`huseyinfiliz-diff.ref.revisionWithNumber`](https://weblate.rob006.net/translate/flarum2/huseyinfiliz-diff/fr/?q=context%3A%3D%22huseyinfiliz-diff.ref.revisionWithNumber%22)
+
+> revision {number}
+
+```diff
++révision {number}
 ```
 
 
