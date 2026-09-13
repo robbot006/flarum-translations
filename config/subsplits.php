@@ -722,6 +722,7 @@ return [
 			'versionTemplate' => 'v1.Minor.Patch',
 		],
 		'maintainers' => ['rob006'],
+		'discussThreadId' => 18134,
 	],
 	'pt' => [
 		'type' => 'language',
