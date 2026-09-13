@@ -204,7 +204,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/respawn/3.0.3/locale/en.yml',
 	],
 	'ernestdefoe-ridge' => [
-		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/ridge/v1.0.0/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/ridge/v1.0.2/locale/en.yml',
 	],
 	'ernestdefoe-roleplay' => [
 		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/roleplay/v1.1.1/resources/locale/en.yml',
