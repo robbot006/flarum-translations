@@ -228,7 +228,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/theme-toggle/3.0.11/locale/en.yml',
 	],
 	'ernestdefoe-topic-map' => [
-		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/topic-map/v0.2.0/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/topic-map/v0.2.1/locale/en.yml',
 	],
 	'ernestdefoe-typesense' => [
 		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/typesense/v0.2.1/locale/en.yml',
