@@ -483,7 +483,7 @@ return [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/formatting/2.0.0-beta.2/resources/locale/en.yml',
 	],
 	'fof-forum-statistics-widget' => [
-		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/forum-statistics-widget/2.0.0-beta.1/resources/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/forum-statistics-widget/2.0.0/resources/locale/en.yml',
 	],
 	'fof-forum-stats-widget' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/forum-stats-widget/2.0.0-beta.2/locale/en.yml',
