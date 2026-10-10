@@ -2,7 +2,7 @@
     "fof-upgrade-advisor": {
         "admin": {
             "latest": {
-                "title": "",
+                "title": "Es gibt keine anstehende Flarum-Version, die überprüft werden muss",
                 "description": "Dein Forum erfüllt die Anforderungen aller Flarum-Versionen, die dem „Upgrade Advisor“ bekannt sind. Wenn eine Version mit neuen Anforderungen angekündigt wird, überprüft ein Update des „Upgrade Advisor“, ob dein Forum dafür bereit ist.\n"
             },
             "overall": {
@@ -86,20 +86,20 @@
                 },
                 "details": {
                     "none": "{version}",
-                    "none_unversioned": "",
+                    "none_unversioned": "Als „Bereit für {target}“ auf Discuss markiert",
                     "remove": "In den Flarum-Kern integriert",
                     "replacement": "→ {replacement}",
-                    "replacement_unverified": "",
+                    "replacement_unverified": "→ {replacement} (Support für {target} prüfen)",
                     "abandoned": "Aufgegeben, kein Ersatz",
-                    "replacement_not_ready": "",
-                    "latest": "",
-                    "no_release": "",
+                    "replacement_not_ready": "Aufgegeben → {replacement} (nicht bereit für {target})",
+                    "latest": "Neueste {version} unterstützt nicht {target}",
+                    "no_release": "Keine Version für {target}",
                     "unknown": "Nicht gefunden"
                 }
             },
             "hints": {
-                "none": "",
-                "none_unversioned": "",
+                "none": "Bereit: {version} unterstützt Flarum {target}.",
+                "none_unversioned": "Bereit: Auf Discuss als {target}-kompatibel markiert.",
                 "remove": "",
                 "swap_after_upgrade": "Vor dem Upgrade entfernen und nach dem Upgrade {replacement} installieren.",
                 "switch_replacement": "",

@@ -11509,6 +11509,7 @@
                     "fullscreen_popup_label": "b21b33641f12947130b9c08d8b6ce39d b21b33641f12947130b9c08d8b6ce39d",
                     "oauth_only_help": "21aa20edf03f874735aa50d25708cd00 21aa20edf03f874735aa50d25708cd00",
                     "oauth_only_label": "b8204a2d71a92297b5d808815042f4ae b8204a2d71a92297b5d808815042f4ae",
+                    "oauth_only_sign_up_closed_warning": "d5aa87769ea60758092b26799dc385ea d5aa87769ea60758092b26799dc385ea",
                     "only_icons_label": "50707b26c250733745ffe5c9e184a4ac 50707b26c250733745ffe5c9e184a4ac",
                     "popup_height_help": "27046cbb57e2dca0345f497ad2ca1320 27046cbb57e2dca0345f497ad2ca1320",
                     "popup_height_label": "18a02479fbea2a457eb115bc5cb42413 18a02479fbea2a457eb115bc5cb42413",
@@ -11580,7 +11581,9 @@
                     "invalid_state": "789a6d59fde1aa61fecaef405e83b999 789a6d59fde1aa61fecaef405e83b999"
                 },
                 "log_in": {
+                    "admin_log_in_link": "62e3c3439108c4ddcec6c36a12e8fa2d 62e3c3439108c4ddcec6c36a12e8fa2d",
                     "unverified_email_in_use": "7e00730c741d0ca4615629b29b29fe65 7e00730c741d0ca4615629b29b29fe65",
+                    "unverified_email_in_use_oauth_only": "41564ea099fb6e55b8cf2a265402e458 41564ea099fb6e55b8cf2a265402e458",
                     "with_button": "cda5096699e318b53d1cd732a3db1271 cda5096699e318b53d1cd732a3db1271",
                     "with_discord_button": "625db5950e116b42b8d60e995c02ab39 625db5950e116b42b8d60e995c02ab39",
                     "with_facebook_button": "625db5950e116b42b8d60e995c02ab39 625db5950e116b42b8d60e995c02ab39",
@@ -13194,11 +13197,14 @@
                 },
                 "hints": {
                     "no_path_abandoned": "5cfc024590046dd59d02ae440b6d93bb 5cfc024590046dd59d02ae440b6d93bb",
+                    "none": "1974b95b0391a797f8fd378683a830d7 1974b95b0391a797f8fd378683a830d7",
+                    "none_unversioned": "611cb2b417597aeb1e1b6f3130553b4f 611cb2b417597aeb1e1b6f3130553b4f",
                     "swap_after_upgrade": "1e825b23b8632088b075eb58c9688ee6 1e825b23b8632088b075eb58c9688ee6",
                     "unknown": "5cda82fbac300fef2c352d2fb5c445b7 5cda82fbac300fef2c352d2fb5c445b7"
                 },
                 "latest": {
-                    "description": "a2535d98c8a5b14a4fd4c837356f47a6 a2535d98c8a5b14a4fd4c837356f47a6"
+                    "description": "a2535d98c8a5b14a4fd4c837356f47a6 a2535d98c8a5b14a4fd4c837356f47a6",
+                    "title": "6b702ecf2199d3b557c487fbb4ba0c87 6b702ecf2199d3b557c487fbb4ba0c87"
                 },
                 "list": {
                     "after": "c333e5268d370b87c896c5e68819238c c333e5268d370b87c896c5e68819238c",
@@ -13208,9 +13214,14 @@
                     "copy": "668b1e13ff6bf731158f233dfb31671a 668b1e13ff6bf731158f233dfb31671a",
                     "details": {
                         "abandoned": "049712d67b106e1257b42408d37c4127 049712d67b106e1257b42408d37c4127",
+                        "latest": "73c1567f23b2da47ff0d3b69fe17b038 73c1567f23b2da47ff0d3b69fe17b038",
+                        "no_release": "0f6efa55c80d4051660d17880938b578 0f6efa55c80d4051660d17880938b578",
                         "none": "e458e665538e1fda08dff7f2bac9961c e458e665538e1fda08dff7f2bac9961c",
+                        "none_unversioned": "0be324333d88ac4ab82d6459f86bd908 0be324333d88ac4ab82d6459f86bd908",
                         "remove": "fedd7b586cbcf1577acd033d7d3062bd fedd7b586cbcf1577acd033d7d3062bd",
                         "replacement": "8aa02e7f48b813ccb4c52f1095f2c73f 8aa02e7f48b813ccb4c52f1095f2c73f",
+                        "replacement_not_ready": "fcf381aaee2b4611cdbb0c0296d71195 fcf381aaee2b4611cdbb0c0296d71195",
+                        "replacement_unverified": "1d201298bc88d3209e4b3d9b4df3794f 1d201298bc88d3209e4b3d9b4df3794f",
                         "unknown": "1eaed357ff889d37e59b7985edab618e 1eaed357ff889d37e59b7985edab618e"
                     },
                     "groups": {
