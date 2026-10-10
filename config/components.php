@@ -1157,6 +1157,12 @@ return [
 			'th',
 		],
 	],
+	'toreador-mail-audit' => [
+		'tag' => 'https://raw.githubusercontent.com/toreador34/flarum-mail-audit/v2.0.0/resources/locale/en.yml',
+		'__builtInLanguages' => [
+			'tr',
+		],
+	],
 	'tryhackx-advanced-pages' => [
 		'tag' => 'https://raw.githubusercontent.com/TryHackX/flarum-advanced-pages/2.3.1/resources/locale/en.yml',
 		'__builtInLanguages' => [
