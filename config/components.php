@@ -465,7 +465,7 @@ return [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/disposable-emails/2.0.0-beta.1/locale/en.yml',
 	],
 	'fof-doorman' => [
-		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/doorman/3.0.0-beta.1/resources/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/doorman/3.0.0/resources/locale/en.yml',
 	],
 	'fof-drafts' => [
 		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/drafts/2.0.0/resources/locale/en.yml',
