@@ -1,11 +1,11 @@
 {
     "linkrobins-warble": {
         "admin": {
-            "health_title": "",
-            "health_recheck": "",
+            "health_title": "Realtime-Status",
+            "health_recheck": "Erneut prüfen",
             "health_failed": "",
             "check": {
-                "realtime": "",
+                "realtime": "Die Realtime-Erweiterung ist aktiviert.",
                 "realtime_missing": "",
                 "endpoint_ok": "",
                 "endpoint_fail": "",
