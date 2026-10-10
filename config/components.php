@@ -456,7 +456,7 @@ return [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/discussion-templates/2.0.0-beta.1/resources/locale/en.yml',
 	],
 	'fof-discussion-thumbnail' => [
-		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/discussion-thumbnail/2.0.0-beta.1/resources/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/discussion-thumbnail/2.0.0/resources/locale/en.yml',
 	],
 	'fof-discussion-views' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/discussion-views/2.0.0-rc.2/resources/locale/en.yml',
