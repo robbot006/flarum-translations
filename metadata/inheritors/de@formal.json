@@ -8760,6 +8760,20 @@
             }
         }
     },
+    "fof-mark-unread.json": {
+        "fof-mark-unread": {
+            "admin": {
+                "permissions": {
+                    "mark_unread_label": "1cec110392cef704eb5e1f1c00d1cc80 1cec110392cef704eb5e1f1c00d1cc80"
+                }
+            },
+            "forum": {
+                "discussion_controls": {
+                    "mark_unread_button": "f3213ddc20ded73ddfd4424f8b3b5149 f3213ddc20ded73ddfd4424f8b3b5149"
+                }
+            }
+        }
+    },
     "fof-mason.json": {
         "fof-mason": {
             "admin": {
