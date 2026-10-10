@@ -13165,6 +13165,7 @@
             "admin": {
                 "checks": {
                     "database-version": {
+                        "fail": "5541d92482cfa6b9d35a9cc3a9554b4f 5541d92482cfa6b9d35a9cc3a9554b4f",
                         "pass": "8bcc86b0201be766c2c304a8fa5e8deb 8bcc86b0201be766c2c304a8fa5e8deb",
                         "title": "89ee548fd8112ee439f05b4e0ad6d7e6 89ee548fd8112ee439f05b4e0ad6d7e6",
                         "warning_below_recommended": "01fb4eb7b8a5ba0f88a8b893603c754c 01fb4eb7b8a5ba0f88a8b893603c754c",
@@ -13196,6 +13197,9 @@
                     "swap_after_upgrade": "1e825b23b8632088b075eb58c9688ee6 1e825b23b8632088b075eb58c9688ee6",
                     "unknown": "5cda82fbac300fef2c352d2fb5c445b7 5cda82fbac300fef2c352d2fb5c445b7"
                 },
+                "latest": {
+                    "description": "a2535d98c8a5b14a4fd4c837356f47a6 a2535d98c8a5b14a4fd4c837356f47a6"
+                },
                 "list": {
                     "after": "c333e5268d370b87c896c5e68819238c c333e5268d370b87c896c5e68819238c",
                     "before": "8886de6d424454f22383ba88d5c719ef 8886de6d424454f22383ba88d5c719ef",
@@ -13218,6 +13222,7 @@
                             "title": "852b4eb940dd2a291a4d3c7730baff7c 852b4eb940dd2a291a4d3c7730baff7c"
                         },
                         "ready": {
+                            "description": "a909bbcd87ab8724234f9a15d1e6cdf5 a909bbcd87ab8724234f9a15d1e6cdf5",
                             "title": "379ee82bcb2d574dc209be01c3f7f165 379ee82bcb2d574dc209be01c3f7f165"
                         },
                         "replace": {
@@ -13232,8 +13237,10 @@
                 },
                 "overall": {
                     "blocked": "b9f4178b790c159adff87cdfd30c1f7a b9f4178b790c159adff87cdfd30c1f7a",
+                    "ready": "0a0462f4ad9fd5309b97229c7e2b9fe3 0a0462f4ad9fd5309b97229c7e2b9fe3",
                     "reasons": {
                         "check": "47fe3955a783318a389913258eb3b3dc 47fe3955a783318a389913258eb3b3dc",
+                        "no_path": "a3ee9025dc87295c5a6a2a3e190a9b10 a3ee9025dc87295c5a6a2a3e190a9b10",
                         "unchecked": "7f62b99ef122c1d9b504cb95c47f118a 7f62b99ef122c1d9b504cb95c47f118a"
                     },
                     "tasks": "4661f289feb22e7c9fcdfa6043ea9d80 4661f289feb22e7c9fcdfa6043ea9d80",

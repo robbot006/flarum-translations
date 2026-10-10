@@ -3,15 +3,15 @@
         "admin": {
             "latest": {
                 "title": "",
-                "description": ""
+                "description": "Dein Forum erfüllt die Anforderungen aller Flarum-Versionen, die dem „Upgrade Advisor“ bekannt sind. Wenn eine Version mit neuen Anforderungen angekündigt wird, überprüft ein Update des „Upgrade Advisor“, ob dein Forum dafür bereit ist.\n"
             },
             "overall": {
-                "ready": "",
+                "ready": "Bereit für Flarum {target}",
                 "blocked": "Blockiert: {reasons}",
                 "tasks": "Bereit, sobald {count, plural, one {# Aufgabe abgeschlossen ist} other {# Aufgaben abgeschlossen sind}}",
                 "unchecked_only": "Fast bereit: {count, plural, one {# Erweiterung} other {# Erweiterungen}} konnten nicht geprüft werden",
                 "reasons": {
-                    "no_path": "",
+                    "no_path": "{count, plural, one {# Erweiterung hat} other {# Erweiterungen haben}} keinen {target} Pfad",
                     "check": "{title} muss korrigiert werden",
                     "unchecked": "{count, plural, one {# Erweiterung konnte} other {# Erweiterung konnten}} nicht geprüft werden"
                 }
@@ -29,7 +29,7 @@
                     "pass": "{current} wird eingesetzt.",
                     "warning_unknown": "Die Version des Datenbankservers konnte nicht ermittelt werden.",
                     "warning_below_recommended": "{current} funktioniert zwar, für ein optimales Erlebnis wird jedoch {recommended} oder eine neuere Version empfohlen.",
-                    "fail": ""
+                    "fail": "{current} ist installiert, aber mindestens {required} ist erforderlich für Flarum {target}."
                 },
                 "extension-compatibility": {
                     "title": "Erweiterungskompatibilität"
@@ -81,7 +81,7 @@
                     },
                     "ready": {
                         "title": "Bereit",
-                        "description": ""
+                        "description": "Es gibt eine {target}-kompatible Version."
                     }
                 },
                 "details": {
