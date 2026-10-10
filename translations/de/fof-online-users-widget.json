@@ -14,7 +14,7 @@
             "widget": {
                 "title": "Benutzer online",
                 "empty": "Derzeit keine Benutzer online.",
-                "more": ""
+                "more": "{count, plural, one {# weiterer Benutzer online} other {# weitere Benutzer online}}"
             }
         }
     }
