@@ -3,24 +3,24 @@
         "admin": {
             "settings": {
                 "codeLang_label": "",
-                "copy_enable_label": "",
+                "copy_enable_label": "Code kopieren aktivieren",
                 "themes_label": "",
                 "themes": {
-                    "cnblog": "",
-                    "csdn": "",
+                    "cnblog": "cnBlogs",
+                    "csdn": "CSDN",
                     "default": "",
-                    "github": "",
-                    "jianshu": "",
-                    "lingcoder": "",
-                    "segmentfault": ""
+                    "github": "GitHub",
+                    "jianshu": "Jian Shu",
+                    "lingcoder": "LingCoder",
+                    "segmentfault": "SegmentFault"
                 }
             }
         },
         "forum": {
-            "action_copy": "",
-            "action_cut": "",
-            "ok_btn": "",
-            "error_btn": "",
+            "action_copy": "Kopieren",
+            "action_cut": "Ausschneiden",
+            "ok_btn": "Kopiert",
+            "error_btn": "Fehler",
             "no_support": "",
             "msg": ""
         }

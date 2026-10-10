@@ -6,7 +6,7 @@
                 "message_users_without_permission_label": "",
                 "delete_own_messages_label": "Eigene Nachrichten löschen",
                 "send_without_throttle_label": "",
-                "view_ips_label": ""
+                "view_ips_label": "IP-Adressen von Nachrichten anzeigen"
             }
         },
         "forum": {
@@ -20,9 +20,9 @@
             "dialog_list": {
                 "load_more_button": "=> core.ref.load_more",
                 "mark_as_read_tooltip": "Als gelesen markieren",
-                "own_last_message_preview": "",
+                "own_last_message_preview": "Du: {content}",
                 "title": "Nachrichten",
-                "unread_count_text": "",
+                "unread_count_text": "{count} ungelesen",
                 "view_all": "Alle Nachrichten ansehen"
             },
             "dialog_section": {
@@ -76,8 +76,8 @@
                 "title": "Wähle die Empfänger für diese Nachricht"
             },
             "search_source": {
-                "conversation_with": "",
-                "heading": ""
+                "conversation_with": "Unterhaltung mit {username}",
+                "heading": "Nachrichten"
             },
             "settings": {
                 "notify_message_received_label": "Jemand schickt mir eine Nachricht"
