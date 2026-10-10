@@ -852,7 +852,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/linkrobins/flarum-link-gate/v2.0.2/locale/en.yml',
 	],
 	'linkrobins-markdown-widget' => [
-		'tag' => 'https://raw.githubusercontent.com/linkrobins/markdown-widget/v1.2.1/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/linkrobins/markdown-widget/v1.2.2/locale/en.yml',
 	],
 	'linkrobins-mobile-logo' => [
 		'tag' => 'https://raw.githubusercontent.com/linkrobins/mobile-logo/v1.0.1/locale/en.yml',
