@@ -74,7 +74,6 @@
                 "export": "CSV exportieren"
             },
             "list": {
-                "final_step": "Letzter Schritt: entferne {title} nach dem Upgrade.",
                 "before": "Vor der Aktualisierung",
                 "after": "Nach der Aktualisierung",
                 "copy": "Kopieren",
@@ -114,7 +113,8 @@
                     "no_release": "Keine 2.0-Version",
                     "unknown": "Nicht gefunden",
                     "remove_last": "Im letzten Schritt entfernen"
-                }
+                },
+                "final_step": "Letzter Schritt: entferne {title} nach dem Upgrade."
             },
             "hints": {
                 "none": "Bereit: {version} unterstützt Flarum 2.0.",

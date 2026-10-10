@@ -74,7 +74,6 @@
                 "export": ""
             },
             "list": {
-                "final_step": "",
                 "before": "",
                 "after": "",
                 "copy": "",
@@ -112,8 +111,7 @@
                     "replacement_not_ready": "",
                     "latest": "",
                     "no_release": "",
-                    "unknown": "",
-                    "remove_last": ""
+                    "unknown": ""
                 }
             },
             "hints": {
@@ -127,8 +125,7 @@
                 "no_path_unversioned": "",
                 "no_path_abandoned": "",
                 "no_path_replacement_not_ready": "",
-                "unknown": "",
-                "remove_last": ""
+                "unknown": ""
             },
             "tabs": {
                 "report": "Hazırlık raporu",
