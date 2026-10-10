@@ -18,28 +18,28 @@
             },
             "checks": {
                 "php-version": {
-                    "title": "",
+                    "title": "Версия PHP",
                     "chip": "",
-                    "pass": "",
-                    "warning": "",
-                    "fail": ""
+                    "pass": "Установлена PHP {current}.",
+                    "warning": "Не удалось определить версию PHP.",
+                    "fail": "Установлена PHP {current}, но требуется {required} или новее."
                 },
                 "database-version": {
-                    "title": "",
-                    "pass": "",
-                    "warning_unknown": "",
-                    "warning_below_recommended": "",
+                    "title": "Версия базы данных",
+                    "pass": "Установлена {current}.",
+                    "warning_unknown": "Не удалось определить версию сервера базы данных.",
+                    "warning_below_recommended": "{current} работает, но для лучшего опыта рекомендуется {recommended} или новее.",
                     "fail": ""
                 },
                 "extension-compatibility": {
-                    "title": ""
+                    "title": "Совместимость расширений"
                 }
             },
             "extensions": {
                 "contact": {
-                    "forum": "",
-                    "issues": "",
-                    "source": ""
+                    "forum": "Тема поддержки",
+                    "issues": "Проблемы",
+                    "source": "Исходный код"
                 }
             },
             "summary": {
@@ -111,28 +111,28 @@
                 "unknown": ""
             },
             "tabs": {
-                "report": "",
-                "repositories": ""
+                "report": "Отчёт о готовности",
+                "repositories": "Репозитории"
             },
             "repositories": {
-                "help": "",
-                "empty": "",
-                "add_floxum": "",
-                "add_composer": "",
-                "type_floxum": "",
-                "type_composer": "",
-                "url": "",
-                "username": "",
-                "token": "",
-                "remove": "",
-                "test": "",
-                "test_ok": "",
-                "test_fail_auth": "",
-                "test_fail_unreachable": "",
-                "test_fail_invalid": ""
+                "help": "Добавьте приватные или премиум-репозитории Composer, чтобы помощник мог проверить расширения, которые отсутствуют в публичном Packagist. Поможет, если расширение не найдено на Packagist.\n",
+                "empty": "Нет дополнительных репозиториев.",
+                "add_floxum": "Добавить Floxum",
+                "add_composer": "Добавить репозиторий",
+                "type_floxum": "Floxum",
+                "type_composer": "Приватный или пользовательский Packagist",
+                "url": "URL репозитория",
+                "username": "Имя пользователя",
+                "token": "Токен",
+                "remove": "Удалить репозиторий",
+                "test": "Проверить подключение",
+                "test_ok": "Подключено",
+                "test_fail_auth": "Ошибка аутентификации — проверьте токен",
+                "test_fail_unreachable": "Не удалось подключиться к репозиторию",
+                "test_fail_invalid": "Неверный ответ — проверьте URL"
             },
             "errors": {
-                "load_failed": ""
+                "load_failed": "Не удалось запустить проверки готовности. Попробуйте ещё раз."
             }
         }
     }

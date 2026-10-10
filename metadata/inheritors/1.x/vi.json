@@ -6842,6 +6842,60 @@
             }
         }
     },
+    "fof-upgrade-advisor.json": {
+        "fof-upgrade-advisor": {
+            "admin": {
+                "checks": {
+                    "database-version": {
+                        "pass": "4273400a5f92e69c41742453cef14174 4273400a5f92e69c41742453cef14174",
+                        "title": "1a4c37fe7c7ca16323a0b59404ce071d 1a4c37fe7c7ca16323a0b59404ce071d",
+                        "warning_below_recommended": "913d8de94d0caa2504bc73ccc927ab91 913d8de94d0caa2504bc73ccc927ab91",
+                        "warning_unknown": "f426081c6bb420f9811c922a24045ff5 f426081c6bb420f9811c922a24045ff5"
+                    },
+                    "extension-compatibility": {
+                        "title": "e7061deaf5e6a5f967b28689e43edc3b e7061deaf5e6a5f967b28689e43edc3b"
+                    },
+                    "php-version": {
+                        "fail": "b109369dbd37904a3d23c38c3a48aa33 b109369dbd37904a3d23c38c3a48aa33",
+                        "pass": "2150f56f604e943104620a926a7fa4f9 2150f56f604e943104620a926a7fa4f9",
+                        "title": "7ec4665cc8e2849d5b5ce6a3a2d38d96 7ec4665cc8e2849d5b5ce6a3a2d38d96",
+                        "warning": "2e8be4acde8db84e343a82d44ce6561d 2e8be4acde8db84e343a82d44ce6561d"
+                    }
+                },
+                "errors": {
+                    "load_failed": "5f9530d157a13a91fdf1f8fe22b920c4 5f9530d157a13a91fdf1f8fe22b920c4"
+                },
+                "extensions": {
+                    "contact": {
+                        "forum": "5b9a1b40aef4fa56c981433c416449b6 5b9a1b40aef4fa56c981433c416449b6",
+                        "issues": "d5b31a6c9b3e2f54dddc138837c590bb d5b31a6c9b3e2f54dddc138837c590bb",
+                        "source": "0fea7a35314ccb5410356f5bd2fdd6ba 0fea7a35314ccb5410356f5bd2fdd6ba"
+                    }
+                },
+                "repositories": {
+                    "add_composer": "88cce0dca06dd6d56f277ff3a04411ec 88cce0dca06dd6d56f277ff3a04411ec",
+                    "add_floxum": "4b348ef5920513bf304b282117d1b6b3 4b348ef5920513bf304b282117d1b6b3",
+                    "empty": "a103749326f23a12afccfcfbcb1f0555 a103749326f23a12afccfcfbcb1f0555",
+                    "help": "3545c9af3cca23e63fd1368c3041212c 3545c9af3cca23e63fd1368c3041212c",
+                    "remove": "731f9ed58d165d6baf46db4118b746d3 731f9ed58d165d6baf46db4118b746d3",
+                    "test": "ad249caee0517e3507a4651102a3fb9d ad249caee0517e3507a4651102a3fb9d",
+                    "test_fail_auth": "88d8117033ad9ff9024a8e826c078c9d 88d8117033ad9ff9024a8e826c078c9d",
+                    "test_fail_invalid": "58ef43e2287e04581e533f0f47513924 58ef43e2287e04581e533f0f47513924",
+                    "test_fail_unreachable": "ac00911489a1b36a0f13ac74edb2ad49 ac00911489a1b36a0f13ac74edb2ad49",
+                    "test_ok": "efd97b3a454997cd1721ca89c559faa2 efd97b3a454997cd1721ca89c559faa2",
+                    "token": "459a6f79ad9b13cbcb5f692d2cc7a94d 459a6f79ad9b13cbcb5f692d2cc7a94d",
+                    "type_composer": "1bbdeb0b3c067b2403fdd500789de3d8 1bbdeb0b3c067b2403fdd500789de3d8",
+                    "type_floxum": "c84d00a8b356207f7ecfa46fa9b89d5e c84d00a8b356207f7ecfa46fa9b89d5e",
+                    "url": "1ef1e79b1247ced79f39ea97732129a3 1ef1e79b1247ced79f39ea97732129a3",
+                    "username": "6d9cda1e1507d09faa455a47091b54fe 6d9cda1e1507d09faa455a47091b54fe"
+                },
+                "tabs": {
+                    "report": "60bcd6abb67b2a720399312a7cdaec5a 60bcd6abb67b2a720399312a7cdaec5a",
+                    "repositories": "46f9ded43d46d7eea412b8f60b9cf3aa 46f9ded43d46d7eea412b8f60b9cf3aa"
+                }
+            }
+        }
+    },
     "fof-upload.json": {
         "flarum-gdpr": {
             "lib": {

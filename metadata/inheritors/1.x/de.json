@@ -7032,6 +7032,123 @@
             }
         }
     },
+    "fof-upgrade-advisor.json": {
+        "fof-upgrade-advisor": {
+            "admin": {
+                "checks": {
+                    "database-version": {
+                        "pass": "8bcc86b0201be766c2c304a8fa5e8deb 8bcc86b0201be766c2c304a8fa5e8deb",
+                        "title": "89ee548fd8112ee439f05b4e0ad6d7e6 89ee548fd8112ee439f05b4e0ad6d7e6",
+                        "warning_below_recommended": "01fb4eb7b8a5ba0f88a8b893603c754c 01fb4eb7b8a5ba0f88a8b893603c754c",
+                        "warning_unknown": "53dcd459641409082023b07f301cee4b 53dcd459641409082023b07f301cee4b"
+                    },
+                    "extension-compatibility": {
+                        "title": "e16e742178cc7bea23af0a261115ad18 e16e742178cc7bea23af0a261115ad18"
+                    },
+                    "php-version": {
+                        "chip": "1f695bdcd7b9116f8d9d7167f270e8a5 1f695bdcd7b9116f8d9d7167f270e8a5",
+                        "fail": "6bd53b3886186252c846fc4217b581cd 6bd53b3886186252c846fc4217b581cd",
+                        "pass": "66c73e453710524088fb059d73949391 66c73e453710524088fb059d73949391",
+                        "title": "7bde750544352fc4862c386de03aafe7 7bde750544352fc4862c386de03aafe7",
+                        "warning": "0e8de2eceb041c244d8247a3e7f8fd94 0e8de2eceb041c244d8247a3e7f8fd94"
+                    }
+                },
+                "errors": {
+                    "load_failed": "822130d50929bf1cb6ff39910f1fc00f 822130d50929bf1cb6ff39910f1fc00f"
+                },
+                "extensions": {
+                    "contact": {
+                        "forum": "781f7f6547991580b69f774a63aabae1 781f7f6547991580b69f774a63aabae1",
+                        "issues": "80b768b15c3693e345a436b9dc0ea36f 80b768b15c3693e345a436b9dc0ea36f",
+                        "source": "3826f4046773b6e1b9808fe8d2cd148e 3826f4046773b6e1b9808fe8d2cd148e"
+                    }
+                },
+                "hints": {
+                    "no_path_abandoned": "5cfc024590046dd59d02ae440b6d93bb 5cfc024590046dd59d02ae440b6d93bb",
+                    "swap_after_upgrade": "1e825b23b8632088b075eb58c9688ee6 1e825b23b8632088b075eb58c9688ee6",
+                    "unknown": "5cda82fbac300fef2c352d2fb5c445b7 5cda82fbac300fef2c352d2fb5c445b7"
+                },
+                "list": {
+                    "after": "c333e5268d370b87c896c5e68819238c c333e5268d370b87c896c5e68819238c",
+                    "before": "8886de6d424454f22383ba88d5c719ef 8886de6d424454f22383ba88d5c719ef",
+                    "configure": "04fdf071fbe39d0012a9796918505e65 04fdf071fbe39d0012a9796918505e65",
+                    "copied": "3a116571039d32884c4f16798ec1254a 3a116571039d32884c4f16798ec1254a",
+                    "copy": "668b1e13ff6bf731158f233dfb31671a 668b1e13ff6bf731158f233dfb31671a",
+                    "details": {
+                        "abandoned": "049712d67b106e1257b42408d37c4127 049712d67b106e1257b42408d37c4127",
+                        "none": "e458e665538e1fda08dff7f2bac9961c e458e665538e1fda08dff7f2bac9961c",
+                        "remove": "fedd7b586cbcf1577acd033d7d3062bd fedd7b586cbcf1577acd033d7d3062bd",
+                        "replacement": "8aa02e7f48b813ccb4c52f1095f2c73f 8aa02e7f48b813ccb4c52f1095f2c73f",
+                        "unknown": "1eaed357ff889d37e59b7985edab618e 1eaed357ff889d37e59b7985edab618e"
+                    },
+                    "groups": {
+                        "decision": {
+                            "title": "ab3bd4b954e00a1a0982f8c60e672804 ab3bd4b954e00a1a0982f8c60e672804"
+                        },
+                        "environment": {
+                            "description": "a875c161efbf9bb10c6192c1cfe9a65f a875c161efbf9bb10c6192c1cfe9a65f",
+                            "title": "852b4eb940dd2a291a4d3c7730baff7c 852b4eb940dd2a291a4d3c7730baff7c"
+                        },
+                        "ready": {
+                            "title": "379ee82bcb2d574dc209be01c3f7f165 379ee82bcb2d574dc209be01c3f7f165"
+                        },
+                        "replace": {
+                            "description": "b06dc01043dde53f887fa762868b302d b06dc01043dde53f887fa762868b302d",
+                            "title": "956cad4051b12692b08d90c735a33e41 956cad4051b12692b08d90c735a33e41"
+                        },
+                        "unknown": {
+                            "description": "0ec61b686cef2e7187cc4694b613e758 0ec61b686cef2e7187cc4694b613e758",
+                            "title": "92740fbf9bf2def561fb0340d015bbeb 92740fbf9bf2def561fb0340d015bbeb"
+                        }
+                    }
+                },
+                "overall": {
+                    "blocked": "b9f4178b790c159adff87cdfd30c1f7a b9f4178b790c159adff87cdfd30c1f7a",
+                    "reasons": {
+                        "check": "47fe3955a783318a389913258eb3b3dc 47fe3955a783318a389913258eb3b3dc",
+                        "unchecked": "7f62b99ef122c1d9b504cb95c47f118a 7f62b99ef122c1d9b504cb95c47f118a"
+                    },
+                    "tasks": "4661f289feb22e7c9fcdfa6043ea9d80 4661f289feb22e7c9fcdfa6043ea9d80",
+                    "unchecked_only": "c0f32871ef0cef9f72fc316c52fef46a c0f32871ef0cef9f72fc316c52fef46a"
+                },
+                "repositories": {
+                    "add_composer": "d44bcf543106116a49836cb82c8335b6 d44bcf543106116a49836cb82c8335b6",
+                    "add_floxum": "f71987bcf310bb107e691059d0557188 f71987bcf310bb107e691059d0557188",
+                    "empty": "737e2e32bc2dc8b466cc47a4523e08c5 737e2e32bc2dc8b466cc47a4523e08c5",
+                    "help": "0098d812186c7dad3092a21817410904 0098d812186c7dad3092a21817410904",
+                    "remove": "8042b2f4969ddf28379ea93676546fda 8042b2f4969ddf28379ea93676546fda",
+                    "test": "6a0795d10226eefef28dfea5a23eb03b 6a0795d10226eefef28dfea5a23eb03b",
+                    "test_fail_auth": "54e8868a75830df4b31ecdd3aadacc95 54e8868a75830df4b31ecdd3aadacc95",
+                    "test_fail_invalid": "037ff5a9890352e07989077d6df30eff 037ff5a9890352e07989077d6df30eff",
+                    "test_fail_unreachable": "522d093d76bee6b2804945a1ea971f45 522d093d76bee6b2804945a1ea971f45",
+                    "test_ok": "25329404789334f2a86f9c9c500a17e4 25329404789334f2a86f9c9c500a17e4",
+                    "token": "459a6f79ad9b13cbcb5f692d2cc7a94d 459a6f79ad9b13cbcb5f692d2cc7a94d",
+                    "type_composer": "b57809cacae402609e7fe5dc34dc2a42 b57809cacae402609e7fe5dc34dc2a42",
+                    "type_floxum": "c84d00a8b356207f7ecfa46fa9b89d5e c84d00a8b356207f7ecfa46fa9b89d5e",
+                    "url": "8ce2755b96cc84aba8918ee7db5639f3 8ce2755b96cc84aba8918ee7db5639f3",
+                    "username": "cca8493f6f1bd794b75879a6d8a7bbc7 cca8493f6f1bd794b75879a6d8a7bbc7"
+                },
+                "summary": {
+                    "blocked": "b2c435cd2cecf4df547257fae086c62d b2c435cd2cecf4df547257fae086c62d",
+                    "checked": "a02c99448a1e6e3d99f32559bff6b051 a02c99448a1e6e3d99f32559bff6b051",
+                    "data_as_of": "d3b2758a30524633f3b47ccc6ad11c20 d3b2758a30524633f3b47ccc6ad11c20",
+                    "data_as_of_help": "88a990ec89506770edff23ec9f49c195 88a990ec89506770edff23ec9f49c195",
+                    "export": "dfa1b7ea5b94594ce4353e71d97d28a5 dfa1b7ea5b94594ce4353e71d97d28a5",
+                    "progress": "a4c79c7a35d2c89dc32d15b93755bc4f a4c79c7a35d2c89dc32d15b93755bc4f",
+                    "ready": "84beb5406dc6194b1660f273f247a9b0 84beb5406dc6194b1660f273f247a9b0",
+                    "recommended": "b67d70fa8aa5f0f1a363d3172aa9d6aa b67d70fa8aa5f0f1a363d3172aa9d6aa",
+                    "refresh": "bf3cfcc67443f35738da254ed9c6ef3f bf3cfcc67443f35738da254ed9c6ef3f",
+                    "refresh_cooldown": "328d21315a2185933927903ba30febf5 328d21315a2185933927903ba30febf5",
+                    "tasks": "fc0723ddb56d492024316d4e1f680a99 fc0723ddb56d492024316d4e1f680a99",
+                    "unknown": "cb8c9aee2dd29e618e5723fad654a1b3 cb8c9aee2dd29e618e5723fad654a1b3"
+                },
+                "tabs": {
+                    "report": "6335751d665360d3446e9eac43060b5a 6335751d665360d3446e9eac43060b5a",
+                    "repositories": "53ec115dafa57727ad3737788e34ccde 53ec115dafa57727ad3737788e34ccde"
+                }
+            }
+        }
+    },
     "fof-upload.json": {
         "flarum-gdpr": {
             "lib": {
