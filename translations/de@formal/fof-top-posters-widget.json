@@ -8,7 +8,7 @@
         "forum": {
             "widget": {
                 "title": "Aktivste Benutzer dieses Monats",
-                "load_error": ""
+                "load_error": "Aktivste Benutzer konnten nicht geladen werden."
             }
         },
         "lib": {

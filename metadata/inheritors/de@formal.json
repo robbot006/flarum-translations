@@ -11507,6 +11507,8 @@
                     "disable_avatars_label": "b49baa0997ef9314db47e85c28e28289 b49baa0997ef9314db47e85c28e28289",
                     "fullscreen_popup_help": "4708640ed980dd0fd578553b049f5f62 4708640ed980dd0fd578553b049f5f62",
                     "fullscreen_popup_label": "b21b33641f12947130b9c08d8b6ce39d b21b33641f12947130b9c08d8b6ce39d",
+                    "oauth_only_help": "21aa20edf03f874735aa50d25708cd00 21aa20edf03f874735aa50d25708cd00",
+                    "oauth_only_label": "b8204a2d71a92297b5d808815042f4ae b8204a2d71a92297b5d808815042f4ae",
                     "only_icons_label": "50707b26c250733745ffe5c9e184a4ac 50707b26c250733745ffe5c9e184a4ac",
                     "popup_height_help": "27046cbb57e2dca0345f497ad2ca1320 27046cbb57e2dca0345f497ad2ca1320",
                     "popup_height_label": "18a02479fbea2a457eb115bc5cb42413 18a02479fbea2a457eb115bc5cb42413",
@@ -13145,6 +13147,7 @@
             },
             "forum": {
                 "widget": {
+                    "load_error": "b35d75f6ddf3b498bbbacf2a14f90247 b35d75f6ddf3b498bbbacf2a14f90247",
                     "title": "ab30b18049568de180872f12ffc5ef77 ab30b18049568de180872f12ffc5ef77"
                 }
             },
