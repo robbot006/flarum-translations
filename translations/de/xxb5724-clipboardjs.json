@@ -2,13 +2,13 @@
     "ffans-clipboardjs": {
         "admin": {
             "settings": {
-                "codeLang_label": "",
+                "codeLang_label": "Code-Sprache anzeigen",
                 "copy_enable_label": "Code kopieren aktivieren",
-                "themes_label": "",
+                "themes_label": "Aussehen der „Kopieren“-Schaltfläche",
                 "themes": {
                     "cnblog": "cnBlogs",
                     "csdn": "CSDN",
-                    "default": "",
+                    "default": "Clipboardjs-Standard",
                     "github": "GitHub",
                     "jianshu": "Jian Shu",
                     "lingcoder": "LingCoder",
@@ -21,8 +21,8 @@
             "action_cut": "Ausschneiden",
             "ok_btn": "Kopiert",
             "error_btn": "Fehler",
-            "no_support": "",
-            "msg": ""
+            "no_support": "Wird nicht unterstützt",
+            "msg": "Drücke {actionKey} für {action}"
         }
     }
 }
