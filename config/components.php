@@ -543,7 +543,7 @@ return [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/move-posts/v2.0.0-beta.6/locale/en.yml',
 	],
 	'fof-news-widget' => [
-		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/news-widget/2.0.0-beta.1/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/FriendsOfFlarum/news-widget/2.0.0/locale/en.yml',
 	],
 	'fof-oauth' => [
 		'beta' => 'https://raw.githubusercontent.com/FriendsOfFlarum/oauth/2.0.0-rc.1/resources/locale/en.yml',
