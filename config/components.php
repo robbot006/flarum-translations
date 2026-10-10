@@ -840,7 +840,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/linkrobins/countdown-widget/v1.2.0/locale/en.yml',
 	],
 	'linkrobins-discussion-banners' => [
-		'tag' => 'https://raw.githubusercontent.com/linkrobins/flarum-discussion-banners/v2.0.3/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/linkrobins/flarum-discussion-banners/v2.0.4/locale/en.yml',
 	],
 	'linkrobins-font-sizer' => [
 		'tag' => 'https://raw.githubusercontent.com/linkrobins/font-sizer/v1.7.0/locale/en.yml',
