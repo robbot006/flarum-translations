@@ -1,6 +1,28 @@
 {
     "linkrobins-warble": {
         "admin": {
+            "health_title": "",
+            "health_recheck": "",
+            "health_failed": "",
+            "check": {
+                "realtime": "",
+                "realtime_missing": "",
+                "endpoint_ok": "",
+                "endpoint_fail": "",
+                "queue_sync": "",
+                "scheduler_not_needed": "",
+                "queue_async": "",
+                "scheduler_never": "",
+                "scheduler_stale": "",
+                "scheduler_active": "",
+                "polling_seen": "",
+                "polling_quiet": "",
+                "interval_auto": "",
+                "interval_waiting": "",
+                "updates_seen": "",
+                "updates_quiet": "",
+                "websocket_leftover": ""
+            },
             "transport_label": "Echtzeit-Transport",
             "transport_help": "Automatic nutzt einen WebSocket-Server, sofern dieser in der Datei „config.php“ konfiguriert ist; andernfalls erfolgt eine Abfrage. Für die Abfrage ist überhaupt kein Server erforderlich und sie funktioniert auf jedem Hosting-Anbieter; dabei entsteht eine Verzögerung von einigen Sekunden. Ein WebSocket funktioniert sofort, muss jedoch selbst betrieben werden (Reverb, soketi oder ein beliebiger Pusher-kompatibler Server).\n",
             "transport_auto": "Automatic",

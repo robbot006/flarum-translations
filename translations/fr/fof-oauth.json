@@ -15,6 +15,9 @@
                 "only_icons_label": "Afficher uniquement les icônes du bouton de connexion (disposition alternative)",
                 "update_email_from_provider_label": "Mettre à jour l'adresse de courriel du fournisseur",
                 "update_email_from_provider_help": "Si cette option est activée, la connexion avec un fournisseur OAuth dont l'adresse de courriel vérifiée diffère de celle associée au compte sur le forum entraîne l'envoi d'un lien de confirmation à la nouvelle adresse et d'une notification à l'adresse actuelle. L'adresse de courriel est modifiée une fois que le lien a été suivi. Les fournisseurs incapables de confirmer que l'adresse est vérifiée — y compris les fournisseurs tiers n'ayant pas été mis à jour pour prendre en charge cette fonctionnalité — ne modifieront pas l'adresse de courriel.",
+                "oauth_only_label": "",
+                "oauth_only_help": "",
+                "oauth_only_sign_up_closed_warning": "",
                 "disable_avatars_label": "Désactiver les avatars du fournisseur",
                 "disable_avatars_help": "Si cette option est activée, l'avatar de l'utilisateur ne sera pas mis à jour pour correspondre à l'avatar du fournisseur lors de l'inscription. Notez que cela n'affecte que les inscriptions futures et ne modifie pas l'avatar des utilisateurs existants.\n",
                 "providers": {
@@ -71,6 +74,8 @@
         "forum": {
             "log_in": {
                 "unverified_email_in_use": "{provider} n'a pas confirmé cette adresse de courriel ; nous ne pouvons donc pas l'utiliser pour vous connecter. Si vous possédez déjà un compte, connectez-vous ci-dessous, puis associez {provider} depuis les paramètres de votre compte.",
+                "unverified_email_in_use_oauth_only": "",
+                "admin_log_in_link": "",
                 "with_button": "Se connecter avec {provider}",
                 "with_discord_button": "=> fof-oauth.forum.log_in.with_button",
                 "with_facebook_button": "=> fof-oauth.forum.log_in.with_button",
