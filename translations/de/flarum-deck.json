@@ -47,7 +47,7 @@
                 "refresh_button": "Aktualisieren",
                 "remove_button": "Spalte entfernen",
                 "reset_width_button": "Breite zurücksetzen",
-                "resize_label": ""
+                "resize_label": "Größe von {title} anpassen"
             },
             "column_types": {
                 "all": "Alle Diskussionen",
@@ -72,33 +72,33 @@
             "typing": {
                 "empty_text": "",
                 "offline_text": "",
-                "replying_text": "",
+                "replying_text": "{name} antwortet in {discussion}",
                 "someone": "Jemand",
-                "starting_in_text": "",
-                "starting_text": "",
+                "starting_in_text": "{name} eröffnet eine Diskussion in {tags}",
+                "starting_text": "{name} eröffnet eine Diskussion",
                 "was_replying_text": "",
                 "was_starting_in_text": "",
                 "was_starting_text": ""
             },
             "page": {
-                "add_column_button": "",
+                "add_column_button": "Spalte hinzufügen",
                 "column_limit_reached_text": "",
                 "drop_row_hint": "",
                 "empty_text": "",
-                "exit_fullscreen_button": "",
-                "fullscreen_button": "",
+                "exit_fullscreen_button": "Vollbild verlassen",
+                "fullscreen_button": "Vollbild",
                 "hero": {
-                    "hide_label": "",
+                    "hide_label": "Diese Einführung ausblenden",
                     "subtitle": ""
                 },
-                "navigator_label": "",
-                "options_label": "",
-                "reset_button": "",
+                "navigator_label": "Spalten",
+                "options_label": "Deck-Optionen",
+                "reset_button": "Spalten zurücksetzen",
                 "resize_rows_label": "",
                 "reset_confirmation": "",
-                "scroll_left_label": "",
-                "scroll_right_label": "",
-                "title": ""
+                "scroll_left_label": "Nach links scrollen",
+                "scroll_right_label": "Nach rechts scrollen",
+                "title": "Deck"
             }
         }
     }
