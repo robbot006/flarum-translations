@@ -7586,10 +7586,20 @@
         }
     },
     "flarum-messages.json": {
+        "flarum-gdpr": {
+            "lib": {
+                "data": {
+                    "messages": {
+                        "export_description": "e4f2d10f77deaf1fe6efd103e971bb62 e4f2d10f77deaf1fe6efd103e971bb62"
+                    }
+                }
+            }
+        },
         "flarum-messages": {
             "admin": {
                 "permissions": {
                     "delete_own_messages_label": "86b089064e4ec1bf706c671495827f15 86b089064e4ec1bf706c671495827f15",
+                    "message_users_without_permission_label": "aca4cdf58290a8df31397e41363ca97f aca4cdf58290a8df31397e41363ca97f",
                     "send_messages_label": "3c4a9c5512aa87fc8b191fc5103c03f3 3c4a9c5512aa87fc8b191fc5103c03f3",
                     "view_ips_label": "0e51f22f24a636c755f5387ef75d3d03 0e51f22f24a636c755f5387ef75d3d03"
                 }
@@ -7597,10 +7607,10 @@
             "email": {
                 "message_received": {
                     "html": {
-                        "body": "fec6fd0dd5f41b9d354c1aecbd910634 fec6fd0dd5f41b9d354c1aecbd910634"
+                        "body": "3391bf0a7231086017fd1471cda30243 3391bf0a7231086017fd1471cda30243"
                     },
                     "plain": {
-                        "body": "5763c8c8b7077fba71d162721e423b20 5763c8c8b7077fba71d162721e423b20"
+                        "body": "43c828cecfdc0a6b1d73b180b4deebb9 43c828cecfdc0a6b1d73b180b4deebb9"
                     },
                     "subject": "6b7250fc222223244f98f07ba427a612 6b7250fc222223244f98f07ba427a612"
                 }
@@ -7671,6 +7681,7 @@
                     "message_received_text": "40c302dff0db85378df7a96e5d60bbb1 40c302dff0db85378df7a96e5d60bbb1"
                 },
                 "recipient_selection_modal": {
+                    "cannot_reply_text": "94c332e2e774aa30057eb4c2210e417f 94c332e2e774aa30057eb4c2210e417f",
                     "title": "50c25885a0cfdea3f5cd50e1779055aa 50c25885a0cfdea3f5cd50e1779055aa"
                 },
                 "search_source": {
@@ -7688,7 +7699,10 @@
             "lib": {
                 "dialog": {
                     "title": "978bfe47ed89b70ea3f1b92f727fea07 978bfe47ed89b70ea3f1b92f727fea07"
-                }
+                },
+                "no_other_members_message": "97cb7606a0db967fe6fad973f7d204a4 97cb7606a0db967fe6fad973f7d204a4",
+                "recipient_cannot_reply_message": "3d3c0ee2772ba70d8758989d0d868431 3d3c0ee2772ba70d8758989d0d868431",
+                "recipient_unavailable_message": "6d22be9f9be099c4fcb7d164583556dc 6d22be9f9be099c4fcb7d164583556dc"
             }
         }
     },
@@ -13196,10 +13210,16 @@
                     }
                 },
                 "hints": {
+                    "no_path": "b6cdbd10c18a922f3b517d11f801e2c5 b6cdbd10c18a922f3b517d11f801e2c5",
                     "no_path_abandoned": "5cfc024590046dd59d02ae440b6d93bb 5cfc024590046dd59d02ae440b6d93bb",
+                    "no_path_replacement_not_ready": "ca218fd12890e260f416890816c3b366 ca218fd12890e260f416890816c3b366",
+                    "no_path_unversioned": "36f083df405608add0e0944a8236581c 36f083df405608add0e0944a8236581c",
                     "none": "1974b95b0391a797f8fd378683a830d7 1974b95b0391a797f8fd378683a830d7",
                     "none_unversioned": "611cb2b417597aeb1e1b6f3130553b4f 611cb2b417597aeb1e1b6f3130553b4f",
+                    "remove": "65d4a67dd40523ec32890999c2bb6f52 65d4a67dd40523ec32890999c2bb6f52",
                     "swap_after_upgrade": "1e825b23b8632088b075eb58c9688ee6 1e825b23b8632088b075eb58c9688ee6",
+                    "switch_replacement": "4568b981596ddfe8141a57b6d4206007 4568b981596ddfe8141a57b6d4206007",
+                    "switch_replacement_unverified": "b010a9e2f36c42453d16a06e9e4c268a b010a9e2f36c42453d16a06e9e4c268a",
                     "unknown": "5cda82fbac300fef2c352d2fb5c445b7 5cda82fbac300fef2c352d2fb5c445b7"
                 },
                 "latest": {
@@ -13226,6 +13246,7 @@
                     },
                     "groups": {
                         "decision": {
+                            "description": "5612b3c8bbe5d5fc5a911ec47a5d4787 5612b3c8bbe5d5fc5a911ec47a5d4787",
                             "title": "ab3bd4b954e00a1a0982f8c60e672804 ab3bd4b954e00a1a0982f8c60e672804"
                         },
                         "environment": {
@@ -17714,6 +17735,7 @@
                     "reassigned": "e1e3d4f3a0016f3349fb5551871ccce9 e1e3d4f3a0016f3349fb5551871ccce9",
                     "reassigned_no_actor": "1ddbf5b9a8457a49abb498b1e294c068 1ddbf5b9a8457a49abb498b1e294c068",
                     "status_changed": "6eccce4d64bcdefa9d617d02a3978741 6eccce4d64bcdefa9d617d02a3978741",
+                    "status_changed_automatically": "cf28e0c5b3e9385ee0688f0a86a0d39f cf28e0c5b3e9385ee0688f0a86a0d39f",
                     "status_changed_no_actor": "99e76bbe76b1e86e6ff0073b81cb2b30 99e76bbe76b1e86e6ff0073b81cb2b30",
                     "unassigned": "4d05d3bbcac95d1995f3fc0e741ab049 4d05d3bbcac95d1995f3fc0e741ab049",
                     "unassigned_no_actor": "f225677c408749034eca138a45f2750e f225677c408749034eca138a45f2750e"

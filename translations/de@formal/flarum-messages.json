@@ -3,7 +3,7 @@
         "admin": {
             "permissions": {
                 "send_messages_label": "Private Nachrichten senden",
-                "message_users_without_permission_label": "",
+                "message_users_without_permission_label": "Nachrichten an Empfänger ohne Nachrichtenberechtigung senden",
                 "delete_own_messages_label": "Eigene Nachrichten löschen",
                 "send_without_throttle_label": "",
                 "view_ips_label": "IP-Adressen von Nachrichten anzeigen"
@@ -72,7 +72,7 @@
                 "title": "Nachrichten"
             },
             "recipient_selection_modal": {
-                "cannot_reply_text": "",
+                "cannot_reply_text": "Kann nicht auf Nachrichten antworten",
                 "title": "Wähle die Empfänger für diese Nachricht"
             },
             "search_source": {
@@ -94,10 +94,10 @@
             "message_received": {
                 "subject": "{user_display_name} hat dir eine Nachricht gesendet",
                 "plain": {
-                    "body": "{user_display_name} hat dir eine Nachricht gesendet.\n\n{url}\n\n---\n\n{content}\n"
+                    "body": "{user_display_name} hat dir eine Nachricht gesendet.\n\n{url}\n\n---\n\n{content}\n\n---\n\nDu erhältst keine weiteren E-Mails zu dieser Unterhaltung, bis du diese gelesen hast.\n"
                 },
                 "html": {
-                    "body": "{user_display_name} hat dir eine [neue Nachricht]({url}) gesendet."
+                    "body": "{user_display_name} hat dir eine [neue Nachricht]({url}) gesendet.\n\nDu erhältst keine weiteren E-Mails zu dieser Unterhaltung, bis du diese gelesen hast.\n"
                 }
             }
         },
@@ -105,16 +105,16 @@
             "dialog": {
                 "title": "Unterhaltung {username}"
             },
-            "no_other_members_message": "",
-            "recipient_cannot_reply_message": "",
-            "recipient_unavailable_message": ""
+            "no_other_members_message": "Sonst ist niemand in dieser Unterhaltung.",
+            "recipient_cannot_reply_message": "{username} kann nicht auf Nachrichten antworten.",
+            "recipient_unavailable_message": "{username} kann keine Nachrichten empfangen."
         }
     },
     "flarum-gdpr": {
         "lib": {
             "data": {
                 "messages": {
-                    "export_description": "",
+                    "export_description": "Deine privaten Nachrichten, wann sie gesendet wurden und von welcher Adresse.",
                     "anonymize_description": "",
                     "delete_description": ""
                 }
