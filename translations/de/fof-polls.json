@@ -96,6 +96,9 @@
                     "edit_title": "Umfrage-Gruppe bearbeiten",
                     "save_changes": "Änderungen speichern",
                     "delete": "Umfrage-Gruppe löschen",
+                    "name_label": "",
+                    "name_required": "",
+                    "error": "",
                     "groups_manager": "Umfrage-Gruppen-Manager",
                     "view_group": "Umfrage-Gruppe anzeigen",
                     "success": "Umfrage-Gruppe erfolgreich gespeichert."
@@ -176,6 +179,7 @@
                 "option_placeholder": "Antwort",
                 "image_option_placeholder": "Bild-URL (optional)",
                 "options_label": "Antworten",
+                "settings_label": "",
                 "public_poll_label": "Alle dürfen sehen, wer abgestimmt hat",
                 "allow_multiple_votes_label": "Benutzern erlauben, für mehrere Optionen abzustimmen",
                 "max_votes_label": "Maximale Stimmen pro Benutzer",
@@ -234,6 +238,25 @@
             "upload_image": {
                 "remove_button": "Bild löschen",
                 "upload_button": "Bild hochladen"
+            }
+        }
+    },
+    "flarum-audit": {
+        "lib": {
+            "browser": {
+                "poll": {
+                    "created": "",
+                    "updated": "",
+                    "deleted": "",
+                    "published": "",
+                    "unpublished": "",
+                    "voted": ""
+                },
+                "poll_group": {
+                    "created": "",
+                    "updated": "",
+                    "deleted": ""
+                }
             }
         }
     }

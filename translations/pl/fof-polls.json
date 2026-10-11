@@ -96,6 +96,9 @@
                     "edit_title": "Edytuj grupę ankiet",
                     "save_changes": "=> core.ref.save_changes",
                     "delete": "Usuń grupę ankiet",
+                    "name_label": "",
+                    "name_required": "",
+                    "error": "",
                     "groups_manager": "Menedżer grup ankiet",
                     "view_group": "Zobacz grupę ankiet",
                     "success": "Grupa ankiet została pomyślnie zapisana."
@@ -176,6 +179,7 @@
                 "option_placeholder": "Odpowiedź",
                 "image_option_placeholder": "URL obrazka (opcjonalne)",
                 "options_label": "Odpowiedzi",
+                "settings_label": "",
                 "public_poll_label": "Pozwól użytkownikom zobaczyć, kto głosował",
                 "allow_multiple_votes_label": "Pozwól użytkownikom głosować na wiele opcji",
                 "max_votes_label": "Maksymalna liczba głosów na użytkownika",
@@ -234,6 +238,25 @@
             "upload_image": {
                 "remove_button": "Usuń obrazek",
                 "upload_button": "Prześlij obrazek"
+            }
+        }
+    },
+    "flarum-audit": {
+        "lib": {
+            "browser": {
+                "poll": {
+                    "created": "",
+                    "updated": "",
+                    "deleted": "",
+                    "published": "",
+                    "unpublished": "",
+                    "voted": ""
+                },
+                "poll_group": {
+                    "created": "",
+                    "updated": "",
+                    "deleted": ""
+                }
             }
         }
     }

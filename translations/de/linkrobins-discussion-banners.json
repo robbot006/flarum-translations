@@ -7,9 +7,11 @@
                 "banners_empty": "Noch keine Banner.",
                 "banners_add": "Banner hinzufügen",
                 "top_heading": "Oberhalb der Diskussion",
+                "first_heading": "",
                 "bottom_heading": "Unterhalb der Diskussion",
                 "stream_heading": "Zwischen Beiträgen",
                 "top_short": "Oben",
+                "first_short": "",
                 "bottom_short": "Unten",
                 "stream_short": "Dazwischen",
                 "placement_label": "Wo es angezeigt wird",
@@ -57,7 +59,9 @@
                 "summary_discussion_many": "{count} Diskussionen",
                 "summary_tag_one": "1 Tag",
                 "summary_tag_many": "{count} Tags",
-                "delete": "Banner löschen"
+                "delete": "Banner löschen",
+                "most_specific_label": "",
+                "most_specific_help": ""
             }
         }
     }
