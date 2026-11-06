@@ -275,9 +275,7 @@ return [
 	],
 	'widayn-avatar-cropper' => [
 		'tag' => 'https://raw.githubusercontent.com/WiDayn/flarum-avatar-cropper/v0.1.2/resources/locale/en.yml',
-		'__builtInLanguages' => [
-			'zh_Hans',
-		],
+		'__builtInLanguages' => ['zh_Hans'],
 	],
 	'yippy-auth-ldap' => [
 		'tag' => 'https://raw.githubusercontent.com/Yippy/flarum-ext-auth-ldap/v2.0.2/locale/en.yml',
