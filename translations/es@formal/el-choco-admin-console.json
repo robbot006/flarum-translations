@@ -24,6 +24,7 @@
             "admin_check_unavailable": "El comando de caché ha terminado, pero no se ha podido comprobar después el panel de administración.",
             "composer_show": "Mostrar paquetes instalados",
             "composer_require": "Instalar una extensión: sustituye el nombre del paquete",
+            "composer_update": "",
             "composer_remove": "Eliminar una extensión: sustituye el nombre del paquete",
             "picker": "Seleccionar comando · {count} entradas",
             "search_label": "Buscar comandos",

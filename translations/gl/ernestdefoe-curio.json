@@ -13,7 +13,12 @@
                 "pending": "",
                 "in_progress": "",
                 "completed": "",
+                "on_hold": "",
                 "abandoned": ""
+            },
+            "hours": {
+                "label": "",
+                "short": ""
             },
             "condition": {
                 "sealed": "",
@@ -494,6 +499,8 @@
                 "off": "",
                 "progress": "",
                 "progress_help": "",
+                "hours": "",
+                "hours_help": "",
                 "conditions": "",
                 "conditions_general": "",
                 "conditions_cards": "",

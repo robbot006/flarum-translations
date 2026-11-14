@@ -24,6 +24,7 @@
             "admin_check_unavailable": "",
             "composer_show": "",
             "composer_require": "",
+            "composer_update": "",
             "composer_remove": "",
             "picker": "",
             "search_label": "",
