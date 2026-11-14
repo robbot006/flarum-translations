@@ -315,7 +315,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/hashtags/2.1.0/locale/en.yml',
 	],
 	'ernestdefoe-header-nav' => [
-		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/header-nav/1.8.2/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/header-nav/1.8.3/locale/en.yml',
 	],
 	'ernestdefoe-hearth' => [
 		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/hearth/1.0.1/locale/en.yml',
