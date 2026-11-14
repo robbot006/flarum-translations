@@ -384,7 +384,7 @@ return [
 		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/marquee/v1.20.2/locale/en.yml',
 	],
 	'ernestdefoe-masthead' => [
-		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/masthead/1.9.1/locale/en.yml',
+		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/masthead/1.9.2/locale/en.yml',
 	],
 	'ernestdefoe-member-desk' => [
 		'tag' => 'https://raw.githubusercontent.com/ernestdefoe/member-desk/1.1.0/locale/en.yml',
