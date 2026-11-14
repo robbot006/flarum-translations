@@ -24,6 +24,7 @@
             "admin_check_unavailable": "Der Cache-Befehl ist beendet; die Adminseite konnte danach nicht geprüft werden.",
             "composer_show": "Installierte Pakete anzeigen",
             "composer_require": "Erweiterung installieren – Paketnamen ersetzen",
+            "composer_update": "",
             "composer_remove": "Erweiterung entfernen – Paketnamen ersetzen",
             "picker": "Befehl auswählen · {count} Einträge",
             "search_label": "Befehle durchsuchen",
